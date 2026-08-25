@@ -1,0 +1,39 @@
+{
+  "generatorVersion": 2,
+  "contentVersion": "5dff4952a23099dc",
+  "correctionManifestChecksum": "7c1051f6e2bc3943b7c1dbe4da229694455681b8875a346c99279e555edb733f",
+  "readingCount": 366,
+  "translationCount": 732,
+  "files": [
+    {
+      "name": "readings.json",
+      "bytes": 8130317,
+      "sha256": "7a7ae043b8384b609dc0f7adba8b788383c1c33b3341f5a3a6a70c67b0c38664"
+    },
+    {
+      "name": "catalog.en.json",
+      "bytes": 35733,
+      "sha256": "8ebc334a327e6afcfff7abea92d557d8de55072b05c831596b964ba148498bd4"
+    },
+    {
+      "name": "catalog.ro.json",
+      "bytes": 38593,
+      "sha256": "bd3d9af4ec2c7b58b2c19b1216b276165f3323f9cb5e9bf136f32973468ebfbc"
+    },
+    {
+      "name": "search.en.json",
+      "bytes": 757818,
+      "sha256": "40351c8df05e6080f3fafa814e972082aef8ca008c59e445e5dabd64aebdf45b"
+    },
+    {
+      "name": "search.ro.json",
+      "bytes": 978556,
+      "sha256": "8145b9e1508dd26f222deae5810dec0dbdcad352ebf976b242343548e1528ccb"
+    },
+    {
+      "name": "report.json",
+      "bytes": 254500,
+      "sha256": "268971865164596d48f61fb48af1d321e45b221cd85f25e3d94616b22ee73dee"
+    }
+  ]
+}

@@ -1,0 +1,1836 @@
+{
+  "contentVersion": "5dff4952a23099dc",
+  "locale": "en",
+  "readings": [
+    {
+      "id": 1,
+      "monthDay": "01-01",
+      "title": "Keep challenging yourself!"
+    },
+    {
+      "id": 2,
+      "monthDay": "01-02",
+      "title": "A year of prayer"
+    },
+    {
+      "id": 3,
+      "monthDay": "01-03",
+      "title": "Faithfulness in small things"
+    },
+    {
+      "id": 4,
+      "monthDay": "01-04",
+      "title": "Make men see"
+    },
+    {
+      "id": 5,
+      "monthDay": "01-05",
+      "title": "What is your load?"
+    },
+    {
+      "id": 6,
+      "monthDay": "01-06",
+      "title": "Make God’s promises yours"
+    },
+    {
+      "id": 7,
+      "monthDay": "01-07",
+      "title": "Fulfilling God’s plan"
+    },
+    {
+      "id": 8,
+      "monthDay": "01-08",
+      "title": "Does the heavenly Guest abide?"
+    },
+    {
+      "id": 9,
+      "monthDay": "01-09",
+      "title": "Sacrificial message bearing"
+    },
+    {
+      "id": 10,
+      "monthDay": "01-10",
+      "title": "Joyful Christians"
+    },
+    {
+      "id": 11,
+      "monthDay": "01-11",
+      "title": "Prevailing prayer"
+    },
+    {
+      "id": 12,
+      "monthDay": "01-12",
+      "title": "Too big for God to use"
+    },
+    {
+      "id": 13,
+      "monthDay": "01-13",
+      "title": "The world notes inconsistencies"
+    },
+    {
+      "id": 14,
+      "monthDay": "01-14",
+      "title": "The men God wants"
+    },
+    {
+      "id": 15,
+      "monthDay": "01-15",
+      "title": "Proving our love"
+    },
+    {
+      "id": 16,
+      "monthDay": "01-16",
+      "title": "Courageous in our witness"
+    },
+    {
+      "id": 17,
+      "monthDay": "01-17",
+      "title": "The divine likeness"
+    },
+    {
+      "id": 18,
+      "monthDay": "01-18",
+      "title": "The Bible stored in the heart"
+    },
+    {
+      "id": 19,
+      "monthDay": "01-19",
+      "title": "God’s gold mines"
+    },
+    {
+      "id": 20,
+      "monthDay": "01-20",
+      "title": "Prayer solves life’s problems"
+    },
+    {
+      "id": 21,
+      "monthDay": "01-21",
+      "title": "Sermons in shoes"
+    },
+    {
+      "id": 22,
+      "monthDay": "01-22",
+      "title": "Blameless but not unblamed"
+    },
+    {
+      "id": 23,
+      "monthDay": "01-23",
+      "title": "The God of the impossible"
+    },
+    {
+      "id": 24,
+      "monthDay": "01-24",
+      "title": "Be listening"
+    },
+    {
+      "id": 25,
+      "monthDay": "01-25",
+      "title": "Guidance through hindrance"
+    },
+    {
+      "id": 26,
+      "monthDay": "01-26",
+      "title": "Cross-bearing—our calling"
+    },
+    {
+      "id": 27,
+      "monthDay": "01-27",
+      "title": "Missionary to my neighbors"
+    },
+    {
+      "id": 28,
+      "monthDay": "01-28",
+      "title": "Right use of time"
+    },
+    {
+      "id": 29,
+      "monthDay": "01-29",
+      "title": "Prayer in the morning"
+    },
+    {
+      "id": 30,
+      "monthDay": "01-30",
+      "title": "Unclasped possessions"
+    },
+    {
+      "id": 31,
+      "monthDay": "01-31",
+      "title": "The fruitfulness of affliction"
+    },
+    {
+      "id": 32,
+      "monthDay": "02-01",
+      "title": "Hearts aflame"
+    },
+    {
+      "id": 33,
+      "monthDay": "02-02",
+      "title": "Our only care, to please God"
+    },
+    {
+      "id": 34,
+      "monthDay": "02-03",
+      "title": "Heaven’s bank"
+    },
+    {
+      "id": 35,
+      "monthDay": "02-04",
+      "title": "Excelling the world in zeal"
+    },
+    {
+      "id": 36,
+      "monthDay": "02-05",
+      "title": "The father heart of God"
+    },
+    {
+      "id": 37,
+      "monthDay": "02-06",
+      "title": "The power of association"
+    },
+    {
+      "id": 38,
+      "monthDay": "02-07",
+      "title": "Secret prayer"
+    },
+    {
+      "id": 39,
+      "monthDay": "02-08",
+      "title": "Salvation and joy"
+    },
+    {
+      "id": 40,
+      "monthDay": "02-09",
+      "title": "God takes our hand"
+    },
+    {
+      "id": 41,
+      "monthDay": "02-10",
+      "title": "Life and life abundant"
+    },
+    {
+      "id": 42,
+      "monthDay": "02-11",
+      "title": "Christianity on the “go”"
+    },
+    {
+      "id": 43,
+      "monthDay": "02-12",
+      "title": "Growing or standing still"
+    },
+    {
+      "id": 44,
+      "monthDay": "02-13",
+      "title": "The peace of God our barometer"
+    },
+    {
+      "id": 45,
+      "monthDay": "02-14",
+      "title": "The price of precious things"
+    },
+    {
+      "id": 46,
+      "monthDay": "02-15",
+      "title": "Practical Christian living"
+    },
+    {
+      "id": 47,
+      "monthDay": "02-16",
+      "title": "The privilege of prayer"
+    },
+    {
+      "id": 48,
+      "monthDay": "02-17",
+      "title": "The happiness of being nothing"
+    },
+    {
+      "id": 49,
+      "monthDay": "02-18",
+      "title": "The greatest day in our lives"
+    },
+    {
+      "id": 50,
+      "monthDay": "02-19",
+      "title": "When love must wound love"
+    },
+    {
+      "id": 51,
+      "monthDay": "02-20",
+      "title": "Meditation on the word"
+    },
+    {
+      "id": 52,
+      "monthDay": "02-21",
+      "title": "Holy courage"
+    },
+    {
+      "id": 53,
+      "monthDay": "02-22",
+      "title": "One influencing a community"
+    },
+    {
+      "id": 54,
+      "monthDay": "02-23",
+      "title": "Rations for the day’s march"
+    },
+    {
+      "id": 55,
+      "monthDay": "02-24",
+      "title": "Action"
+    },
+    {
+      "id": 56,
+      "monthDay": "02-25",
+      "title": "Depend on Christ’s presence"
+    },
+    {
+      "id": 57,
+      "monthDay": "02-26",
+      "title": "Industrious waiting"
+    },
+    {
+      "id": 58,
+      "monthDay": "02-27",
+      "title": "The price of truth"
+    },
+    {
+      "id": 59,
+      "monthDay": "02-28",
+      "title": "Wounded to be fruitful"
+    },
+    {
+      "id": 60,
+      "monthDay": "02-29",
+      "title": "Overcoming the world"
+    },
+    {
+      "id": 61,
+      "monthDay": "03-01",
+      "title": "Ministering circumstances"
+    },
+    {
+      "id": 62,
+      "monthDay": "03-02",
+      "title": "Faith’s bright outlook"
+    },
+    {
+      "id": 63,
+      "monthDay": "03-03",
+      "title": "Bible study necessary to prayer"
+    },
+    {
+      "id": 64,
+      "monthDay": "03-04",
+      "title": "Losing ourselves to save others"
+    },
+    {
+      "id": 65,
+      "monthDay": "03-05",
+      "title": "Unanswered prayers"
+    },
+    {
+      "id": 66,
+      "monthDay": "03-06",
+      "title": "True service lives for ever"
+    },
+    {
+      "id": 67,
+      "monthDay": "03-07",
+      "title": "My all under God’s control"
+    },
+    {
+      "id": 68,
+      "monthDay": "03-08",
+      "title": "Clear up misunderstandings now"
+    },
+    {
+      "id": 69,
+      "monthDay": "03-09",
+      "title": "Praise brings victory"
+    },
+    {
+      "id": 70,
+      "monthDay": "03-10",
+      "title": "Do something about it"
+    },
+    {
+      "id": 71,
+      "monthDay": "03-11",
+      "title": "How to read the Bible"
+    },
+    {
+      "id": 72,
+      "monthDay": "03-12",
+      "title": "Christ’s letter to the world"
+    },
+    {
+      "id": 73,
+      "monthDay": "03-13",
+      "title": "The meek assured of God’s guidance"
+    },
+    {
+      "id": 74,
+      "monthDay": "03-14",
+      "title": "Choice gifts in plain coverings"
+    },
+    {
+      "id": 75,
+      "monthDay": "03-15",
+      "title": "Radiance through prayer"
+    },
+    {
+      "id": 76,
+      "monthDay": "03-16",
+      "title": "Independent of circumstances"
+    },
+    {
+      "id": 77,
+      "monthDay": "03-17",
+      "title": "Choose the best"
+    },
+    {
+      "id": 78,
+      "monthDay": "03-18",
+      "title": "Watch against temptation"
+    },
+    {
+      "id": 79,
+      "monthDay": "03-19",
+      "title": "Life blood for lasting results"
+    },
+    {
+      "id": 80,
+      "monthDay": "03-20",
+      "title": "Christ our environment"
+    },
+    {
+      "id": 81,
+      "monthDay": "03-21",
+      "title": "Christ’s love expels evil"
+    },
+    {
+      "id": 82,
+      "monthDay": "03-22",
+      "title": "All for Christ"
+    },
+    {
+      "id": 83,
+      "monthDay": "03-23",
+      "title": "To action in life’s eventide"
+    },
+    {
+      "id": 84,
+      "monthDay": "03-24",
+      "title": "Ministry of meditation"
+    },
+    {
+      "id": 85,
+      "monthDay": "03-25",
+      "title": "The duty of plain speaking"
+    },
+    {
+      "id": 86,
+      "monthDay": "03-26",
+      "title": "Christ is able"
+    },
+    {
+      "id": 87,
+      "monthDay": "03-27",
+      "title": "One day at a time"
+    },
+    {
+      "id": 88,
+      "monthDay": "03-28",
+      "title": "Pain reveals our nothingness"
+    },
+    {
+      "id": 89,
+      "monthDay": "03-29",
+      "title": "Consult your guide book"
+    },
+    {
+      "id": 90,
+      "monthDay": "03-30",
+      "title": "Living above men’s opinions"
+    },
+    {
+      "id": 91,
+      "monthDay": "03-31",
+      "title": "Blessing others"
+    },
+    {
+      "id": 92,
+      "monthDay": "04-01",
+      "title": "Through weakness to strength"
+    },
+    {
+      "id": 93,
+      "monthDay": "04-02",
+      "title": "Joy in prayer"
+    },
+    {
+      "id": 94,
+      "monthDay": "04-03",
+      "title": "Every Christian a soul-winner"
+    },
+    {
+      "id": 95,
+      "monthDay": "04-04",
+      "title": "Walking with God"
+    },
+    {
+      "id": 96,
+      "monthDay": "04-05",
+      "title": "Contentment in any sphere"
+    },
+    {
+      "id": 97,
+      "monthDay": "04-06",
+      "title": "Use or lose"
+    },
+    {
+      "id": 98,
+      "monthDay": "04-07",
+      "title": "The Bible our inheritance"
+    },
+    {
+      "id": 99,
+      "monthDay": "04-08",
+      "title": "Strength for God-given burdens"
+    },
+    {
+      "id": 100,
+      "monthDay": "04-09",
+      "title": "God’s servants are joyful"
+    },
+    {
+      "id": 101,
+      "monthDay": "04-10",
+      "title": "Look up"
+    },
+    {
+      "id": 102,
+      "monthDay": "04-11",
+      "title": "Intercession for others"
+    },
+    {
+      "id": 103,
+      "monthDay": "04-12",
+      "title": "The might of little things"
+    },
+    {
+      "id": 104,
+      "monthDay": "04-13",
+      "title": "Share your blessings"
+    },
+    {
+      "id": 105,
+      "monthDay": "04-14",
+      "title": "Keeping time with God"
+    },
+    {
+      "id": 106,
+      "monthDay": "04-15",
+      "title": "The Lord will provide"
+    },
+    {
+      "id": 107,
+      "monthDay": "04-16",
+      "title": "Influencing our neighbors"
+    },
+    {
+      "id": 108,
+      "monthDay": "04-17",
+      "title": "Consider Him"
+    },
+    {
+      "id": 109,
+      "monthDay": "04-18",
+      "title": "True faith produces results"
+    },
+    {
+      "id": 110,
+      "monthDay": "04-19",
+      "title": "Godlikeness through prayer"
+    },
+    {
+      "id": 111,
+      "monthDay": "04-20",
+      "title": "Time, the stuff of life"
+    },
+    {
+      "id": 112,
+      "monthDay": "04-21",
+      "title": "The way to life narrow"
+    },
+    {
+      "id": 113,
+      "monthDay": "04-22",
+      "title": "He chooses wisely"
+    },
+    {
+      "id": 114,
+      "monthDay": "04-23",
+      "title": "Work—a blessing"
+    },
+    {
+      "id": 115,
+      "monthDay": "04-24",
+      "title": "Floods on dry ground"
+    },
+    {
+      "id": 116,
+      "monthDay": "04-25",
+      "title": "Love much"
+    },
+    {
+      "id": 117,
+      "monthDay": "04-26",
+      "title": "The Bible-the light of the home"
+    },
+    {
+      "id": 118,
+      "monthDay": "04-27",
+      "title": "God prepares His instruments"
+    },
+    {
+      "id": 119,
+      "monthDay": "04-28",
+      "title": "Harmony in the will of God"
+    },
+    {
+      "id": 120,
+      "monthDay": "04-29",
+      "title": "Take time to be holy"
+    },
+    {
+      "id": 121,
+      "monthDay": "04-30",
+      "title": "An exalted calling"
+    },
+    {
+      "id": 122,
+      "monthDay": "05-01",
+      "title": "Man molds man"
+    },
+    {
+      "id": 123,
+      "monthDay": "05-02",
+      "title": "Stay near the Shepherd"
+    },
+    {
+      "id": 124,
+      "monthDay": "05-03",
+      "title": "Time for tasks God assigns"
+    },
+    {
+      "id": 125,
+      "monthDay": "05-04",
+      "title": "Two kinds of peace"
+    },
+    {
+      "id": 126,
+      "monthDay": "05-05",
+      "title": "Champions for truth"
+    },
+    {
+      "id": 127,
+      "monthDay": "05-06",
+      "title": "Filled when emptied"
+    },
+    {
+      "id": 128,
+      "monthDay": "05-07",
+      "title": "A test of true greatness"
+    },
+    {
+      "id": 129,
+      "monthDay": "05-08",
+      "title": "Peace through prayer"
+    },
+    {
+      "id": 130,
+      "monthDay": "05-09",
+      "title": "Joy where Christ reigns"
+    },
+    {
+      "id": 131,
+      "monthDay": "05-10",
+      "title": "God’s fearless messengers"
+    },
+    {
+      "id": 132,
+      "monthDay": "05-11",
+      "title": "God polishes His own"
+    },
+    {
+      "id": 133,
+      "monthDay": "05-12",
+      "title": "God’s Word a never-failing well"
+    },
+    {
+      "id": 134,
+      "monthDay": "05-13",
+      "title": "Faith rises above difficulties"
+    },
+    {
+      "id": 135,
+      "monthDay": "05-14",
+      "title": "Be Spirit-filled"
+    },
+    {
+      "id": 136,
+      "monthDay": "05-15",
+      "title": "Keep in touch with God"
+    },
+    {
+      "id": 137,
+      "monthDay": "05-16",
+      "title": "Never deny God anything"
+    },
+    {
+      "id": 138,
+      "monthDay": "05-17",
+      "title": "Prayer a mighty influence"
+    },
+    {
+      "id": 139,
+      "monthDay": "05-18",
+      "title": "A ministry for all"
+    },
+    {
+      "id": 140,
+      "monthDay": "05-19",
+      "title": "Influencing our loved ones"
+    },
+    {
+      "id": 141,
+      "monthDay": "05-20",
+      "title": "Conquests in daily life"
+    },
+    {
+      "id": 142,
+      "monthDay": "05-21",
+      "title": "Joy in suffering"
+    },
+    {
+      "id": 143,
+      "monthDay": "05-22",
+      "title": "The life-changing Word"
+    },
+    {
+      "id": 144,
+      "monthDay": "05-23",
+      "title": "The glory of sacrifice"
+    },
+    {
+      "id": 145,
+      "monthDay": "05-24",
+      "title": "Seek first the Kingdom"
+    },
+    {
+      "id": 146,
+      "monthDay": "05-25",
+      "title": "God recompenses wisely"
+    },
+    {
+      "id": 147,
+      "monthDay": "05-26",
+      "title": "Prayer for others"
+    },
+    {
+      "id": 148,
+      "monthDay": "05-27",
+      "title": "Christians need backbone"
+    },
+    {
+      "id": 149,
+      "monthDay": "05-28",
+      "title": "Christ’s bondage brings freedom"
+    },
+    {
+      "id": 150,
+      "monthDay": "05-29",
+      "title": "God does not overload His own"
+    },
+    {
+      "id": 151,
+      "monthDay": "05-30",
+      "title": "Christ is all that matters"
+    },
+    {
+      "id": 152,
+      "monthDay": "05-31",
+      "title": "When little is much"
+    },
+    {
+      "id": 153,
+      "monthDay": "06-01",
+      "title": "Only one life"
+    },
+    {
+      "id": 154,
+      "monthDay": "06-02",
+      "title": "Rests in the divine symphony"
+    },
+    {
+      "id": 155,
+      "monthDay": "06-03",
+      "title": "In partnership with hindrances"
+    },
+    {
+      "id": 156,
+      "monthDay": "06-04",
+      "title": "Conditions for effective prayer"
+    },
+    {
+      "id": 157,
+      "monthDay": "06-05",
+      "title": "Live so as to be missed"
+    },
+    {
+      "id": 158,
+      "monthDay": "06-06",
+      "title": "God’s choice brings rest"
+    },
+    {
+      "id": 159,
+      "monthDay": "06-07",
+      "title": "Fragrant giving of one’s self"
+    },
+    {
+      "id": 160,
+      "monthDay": "06-08",
+      "title": "Nourishment through the Word"
+    },
+    {
+      "id": 161,
+      "monthDay": "06-09",
+      "title": "Know your own size"
+    },
+    {
+      "id": 162,
+      "monthDay": "06-10",
+      "title": "Enriched by pain"
+    },
+    {
+      "id": 163,
+      "monthDay": "06-11",
+      "title": "Happy believers"
+    },
+    {
+      "id": 164,
+      "monthDay": "06-12",
+      "title": "Self-denying love"
+    },
+    {
+      "id": 165,
+      "monthDay": "06-13",
+      "title": "Prayer vital to the Christian"
+    },
+    {
+      "id": 166,
+      "monthDay": "06-14",
+      "title": "Leave no duty undone"
+    },
+    {
+      "id": 167,
+      "monthDay": "06-15",
+      "title": "Keep a good conscience"
+    },
+    {
+      "id": 168,
+      "monthDay": "06-16",
+      "title": "The Master’s blueprint for me"
+    },
+    {
+      "id": 169,
+      "monthDay": "06-17",
+      "title": "The seriousness of wrong advice"
+    },
+    {
+      "id": 170,
+      "monthDay": "06-18",
+      "title": "Christ’s witnesses"
+    },
+    {
+      "id": 171,
+      "monthDay": "06-19",
+      "title": "A Bible Christian"
+    },
+    {
+      "id": 172,
+      "monthDay": "06-20",
+      "title": "Don’t avoid being unpopular"
+    },
+    {
+      "id": 173,
+      "monthDay": "06-21",
+      "title": "Add your light"
+    },
+    {
+      "id": 174,
+      "monthDay": "06-22",
+      "title": "Moving God and men"
+    },
+    {
+      "id": 175,
+      "monthDay": "06-23",
+      "title": "Love-the cure for fear"
+    },
+    {
+      "id": 176,
+      "monthDay": "06-24",
+      "title": "Temptation or sin"
+    },
+    {
+      "id": 177,
+      "monthDay": "06-25",
+      "title": "God not overtaxed in filling us"
+    },
+    {
+      "id": 178,
+      "monthDay": "06-26",
+      "title": "Not to progress is to regress"
+    },
+    {
+      "id": 179,
+      "monthDay": "06-27",
+      "title": "Scarred for Christ’s sake"
+    },
+    {
+      "id": 180,
+      "monthDay": "06-28",
+      "title": "Faithfulness in small things"
+    },
+    {
+      "id": 181,
+      "monthDay": "06-29",
+      "title": "Saved to serve"
+    },
+    {
+      "id": 182,
+      "monthDay": "06-30",
+      "title": "God’s love in us for others"
+    },
+    {
+      "id": 183,
+      "monthDay": "07-01",
+      "title": "Restrained favors"
+    },
+    {
+      "id": 184,
+      "monthDay": "07-02",
+      "title": "Ready for every good work"
+    },
+    {
+      "id": 185,
+      "monthDay": "07-03",
+      "title": "Sprinkle the salt discreetly"
+    },
+    {
+      "id": 186,
+      "monthDay": "07-04",
+      "title": "The cure for worldly anxiety"
+    },
+    {
+      "id": 187,
+      "monthDay": "07-05",
+      "title": "Give the Bible its place"
+    },
+    {
+      "id": 188,
+      "monthDay": "07-06",
+      "title": "Watered gardens"
+    },
+    {
+      "id": 189,
+      "monthDay": "07-07",
+      "title": "Be an example"
+    },
+    {
+      "id": 190,
+      "monthDay": "07-08",
+      "title": "Strengthened through testings"
+    },
+    {
+      "id": 191,
+      "monthDay": "07-09",
+      "title": "Bible standard of Christian joy"
+    },
+    {
+      "id": 192,
+      "monthDay": "07-10",
+      "title": "Let the Christ-mind be in you"
+    },
+    {
+      "id": 193,
+      "monthDay": "07-11",
+      "title": "The zest of uncertainty"
+    },
+    {
+      "id": 194,
+      "monthDay": "07-12",
+      "title": "Deliver God’s messages"
+    },
+    {
+      "id": 195,
+      "monthDay": "07-13",
+      "title": "Absolute surrender"
+    },
+    {
+      "id": 196,
+      "monthDay": "07-14",
+      "title": "The absurdity of pride"
+    },
+    {
+      "id": 197,
+      "monthDay": "07-15",
+      "title": "The Word necessary to prayer"
+    },
+    {
+      "id": 198,
+      "monthDay": "07-16",
+      "title": "Faithful witnessing rewarded"
+    },
+    {
+      "id": 199,
+      "monthDay": "07-17",
+      "title": "Beautify your corner"
+    },
+    {
+      "id": 200,
+      "monthDay": "07-18",
+      "title": "Blessings of adverse criticism"
+    },
+    {
+      "id": 201,
+      "monthDay": "07-19",
+      "title": "Create silence for God’s voice"
+    },
+    {
+      "id": 202,
+      "monthDay": "07-20",
+      "title": "God guides and protects"
+    },
+    {
+      "id": 203,
+      "monthDay": "07-21",
+      "title": "Concealed treasures"
+    },
+    {
+      "id": 204,
+      "monthDay": "07-22",
+      "title": "Find God’s purpose in trial"
+    },
+    {
+      "id": 205,
+      "monthDay": "07-23",
+      "title": "Unconscious influence"
+    },
+    {
+      "id": 206,
+      "monthDay": "07-24",
+      "title": "Greater achievement"
+    },
+    {
+      "id": 207,
+      "monthDay": "07-25",
+      "title": "Christian, awake"
+    },
+    {
+      "id": 208,
+      "monthDay": "07-26",
+      "title": "Life eased by a yoke"
+    },
+    {
+      "id": 209,
+      "monthDay": "07-27",
+      "title": "Prayer in time of need"
+    },
+    {
+      "id": 210,
+      "monthDay": "07-28",
+      "title": "Do they see Jesus?"
+    },
+    {
+      "id": 211,
+      "monthDay": "07-29",
+      "title": "Results through suffering"
+    },
+    {
+      "id": 212,
+      "monthDay": "07-30",
+      "title": "Commit thy way and trust"
+    },
+    {
+      "id": 213,
+      "monthDay": "07-31",
+      "title": "The Bible-a treasure"
+    },
+    {
+      "id": 214,
+      "monthDay": "08-01",
+      "title": "God knows our possibilities"
+    },
+    {
+      "id": 215,
+      "monthDay": "08-02",
+      "title": "The microscope of love"
+    },
+    {
+      "id": 216,
+      "monthDay": "08-03",
+      "title": "Changed into the same image"
+    },
+    {
+      "id": 217,
+      "monthDay": "08-04",
+      "title": "Faith and action"
+    },
+    {
+      "id": 218,
+      "monthDay": "08-05",
+      "title": "The noblest course in sorrow"
+    },
+    {
+      "id": 219,
+      "monthDay": "08-06",
+      "title": "Alone with God"
+    },
+    {
+      "id": 220,
+      "monthDay": "08-07",
+      "title": "Don’t neglect the small duties"
+    },
+    {
+      "id": 221,
+      "monthDay": "08-08",
+      "title": "Responsibility for others"
+    },
+    {
+      "id": 222,
+      "monthDay": "08-09",
+      "title": "The right measurement of time"
+    },
+    {
+      "id": 223,
+      "monthDay": "08-10",
+      "title": "Joy is of God"
+    },
+    {
+      "id": 224,
+      "monthDay": "08-11",
+      "title": "Opposition before victory"
+    },
+    {
+      "id": 225,
+      "monthDay": "08-12",
+      "title": "Filled"
+    },
+    {
+      "id": 226,
+      "monthDay": "08-13",
+      "title": "With a few on the right road"
+    },
+    {
+      "id": 227,
+      "monthDay": "08-14",
+      "title": "God asks for our best"
+    },
+    {
+      "id": 228,
+      "monthDay": "08-15",
+      "title": "Sincere prayer"
+    },
+    {
+      "id": 229,
+      "monthDay": "08-16",
+      "title": "Poor yet rich"
+    },
+    {
+      "id": 230,
+      "monthDay": "08-17",
+      "title": "Guard the tongue"
+    },
+    {
+      "id": 231,
+      "monthDay": "08-18",
+      "title": "Helps to better health"
+    },
+    {
+      "id": 232,
+      "monthDay": "08-19",
+      "title": "The test of true humility"
+    },
+    {
+      "id": 233,
+      "monthDay": "08-20",
+      "title": "Glad acceptance of suffering"
+    },
+    {
+      "id": 234,
+      "monthDay": "08-21",
+      "title": "Our stops ordered by God"
+    },
+    {
+      "id": 235,
+      "monthDay": "08-22",
+      "title": "What is your influence?"
+    },
+    {
+      "id": 236,
+      "monthDay": "08-23",
+      "title": "Redeeming the time"
+    },
+    {
+      "id": 237,
+      "monthDay": "08-24",
+      "title": "Expecting answers to prayer"
+    },
+    {
+      "id": 238,
+      "monthDay": "08-25",
+      "title": "The power of faith"
+    },
+    {
+      "id": 239,
+      "monthDay": "08-26",
+      "title": "The heavenly lodestone"
+    },
+    {
+      "id": 240,
+      "monthDay": "08-27",
+      "title": "Undeveloped or mature-which?"
+    },
+    {
+      "id": 241,
+      "monthDay": "08-28",
+      "title": "When courage is needed"
+    },
+    {
+      "id": 242,
+      "monthDay": "08-29",
+      "title": "Live today"
+    },
+    {
+      "id": 243,
+      "monthDay": "08-30",
+      "title": "The Word, a powerful weapon"
+    },
+    {
+      "id": 244,
+      "monthDay": "08-31",
+      "title": "Soul-savers or self-savers"
+    },
+    {
+      "id": 245,
+      "monthDay": "09-01",
+      "title": "God’s badge of honor"
+    },
+    {
+      "id": 246,
+      "monthDay": "09-02",
+      "title": "The soul’s need of quiet"
+    },
+    {
+      "id": 247,
+      "monthDay": "09-03",
+      "title": "Music under pressure"
+    },
+    {
+      "id": 248,
+      "monthDay": "09-04",
+      "title": "Let love expel self"
+    },
+    {
+      "id": 249,
+      "monthDay": "09-05",
+      "title": "Christ where we live and work"
+    },
+    {
+      "id": 250,
+      "monthDay": "09-06",
+      "title": "Deeds live forever"
+    },
+    {
+      "id": 251,
+      "monthDay": "09-07",
+      "title": "Every man his brother’s keeper"
+    },
+    {
+      "id": 252,
+      "monthDay": "09-08",
+      "title": "The joy supreme"
+    },
+    {
+      "id": 253,
+      "monthDay": "09-09",
+      "title": "The sacrifice of our will"
+    },
+    {
+      "id": 254,
+      "monthDay": "09-10",
+      "title": "Anxious care forbidden"
+    },
+    {
+      "id": 255,
+      "monthDay": "09-11",
+      "title": "Unrecorded battles"
+    },
+    {
+      "id": 256,
+      "monthDay": "09-12",
+      "title": "Bring self to God’s crucible"
+    },
+    {
+      "id": 257,
+      "monthDay": "09-13",
+      "title": "Peace amid turmoil"
+    },
+    {
+      "id": 258,
+      "monthDay": "09-14",
+      "title": "Religion-doleful or delightful?"
+    },
+    {
+      "id": 259,
+      "monthDay": "09-15",
+      "title": "God’s will for my career"
+    },
+    {
+      "id": 260,
+      "monthDay": "09-16",
+      "title": "The Scripture gold mine"
+    },
+    {
+      "id": 261,
+      "monthDay": "09-17",
+      "title": "God in routine"
+    },
+    {
+      "id": 262,
+      "monthDay": "09-18",
+      "title": "God’s purposes of affliction"
+    },
+    {
+      "id": 263,
+      "monthDay": "09-19",
+      "title": "Christ enthroned in the heart"
+    },
+    {
+      "id": 264,
+      "monthDay": "09-20",
+      "title": "Shut in with God"
+    },
+    {
+      "id": 265,
+      "monthDay": "09-21",
+      "title": "Every day a fresh opportunity"
+    },
+    {
+      "id": 266,
+      "monthDay": "09-22",
+      "title": "Cheerful service"
+    },
+    {
+      "id": 267,
+      "monthDay": "09-23",
+      "title": "Courage necessary to nobility"
+    },
+    {
+      "id": 268,
+      "monthDay": "09-24",
+      "title": "Greatness in lowliness"
+    },
+    {
+      "id": 269,
+      "monthDay": "09-25",
+      "title": "Unafraid because of trust"
+    },
+    {
+      "id": 270,
+      "monthDay": "09-26",
+      "title": "Read the Bible and grow"
+    },
+    {
+      "id": 271,
+      "monthDay": "09-27",
+      "title": "Reminding men of Christ"
+    },
+    {
+      "id": 272,
+      "monthDay": "09-28",
+      "title": "God prepares our work"
+    },
+    {
+      "id": 273,
+      "monthDay": "09-29",
+      "title": "Daily strength through prayer"
+    },
+    {
+      "id": 274,
+      "monthDay": "09-30",
+      "title": "Daring to act alone"
+    },
+    {
+      "id": 275,
+      "monthDay": "10-01",
+      "title": "The joy of sacrifice"
+    },
+    {
+      "id": 276,
+      "monthDay": "10-02",
+      "title": "We must fight to conquer"
+    },
+    {
+      "id": 277,
+      "monthDay": "10-03",
+      "title": "Let the North wind blow"
+    },
+    {
+      "id": 278,
+      "monthDay": "10-04",
+      "title": "The Christian is singular"
+    },
+    {
+      "id": 279,
+      "monthDay": "10-05",
+      "title": "Precious fragments of time"
+    },
+    {
+      "id": 280,
+      "monthDay": "10-06",
+      "title": "Deliverance from self"
+    },
+    {
+      "id": 281,
+      "monthDay": "10-07",
+      "title": "Love with God’s love"
+    },
+    {
+      "id": 282,
+      "monthDay": "10-08",
+      "title": "Be definite in prayer"
+    },
+    {
+      "id": 283,
+      "monthDay": "10-09",
+      "title": "We are the world’s Bible"
+    },
+    {
+      "id": 284,
+      "monthDay": "10-10",
+      "title": "Fountains of joy"
+    },
+    {
+      "id": 285,
+      "monthDay": "10-11",
+      "title": "Live by the Bible"
+    },
+    {
+      "id": 286,
+      "monthDay": "10-12",
+      "title": "The Master’s touch"
+    },
+    {
+      "id": 287,
+      "monthDay": "10-13",
+      "title": "Speak out"
+    },
+    {
+      "id": 288,
+      "monthDay": "10-14",
+      "title": "Christians make life tasty"
+    },
+    {
+      "id": 289,
+      "monthDay": "10-15",
+      "title": "Everything found in Christ"
+    },
+    {
+      "id": 290,
+      "monthDay": "10-16",
+      "title": "Riches through impoverishment"
+    },
+    {
+      "id": 291,
+      "monthDay": "10-17",
+      "title": "Importance of prayer"
+    },
+    {
+      "id": 292,
+      "monthDay": "10-18",
+      "title": "God’s oaks"
+    },
+    {
+      "id": 293,
+      "monthDay": "10-19",
+      "title": "Right use of time"
+    },
+    {
+      "id": 294,
+      "monthDay": "10-20",
+      "title": "Am I usable?"
+    },
+    {
+      "id": 295,
+      "monthDay": "10-21",
+      "title": "Don’t go overloaded"
+    },
+    {
+      "id": 296,
+      "monthDay": "10-22",
+      "title": "Rest from self"
+    },
+    {
+      "id": 297,
+      "monthDay": "10-23",
+      "title": "The Bible our soul’s food"
+    },
+    {
+      "id": 298,
+      "monthDay": "10-24",
+      "title": "The godly shall suffer"
+    },
+    {
+      "id": 299,
+      "monthDay": "10-25",
+      "title": "Making or marring other lives"
+    },
+    {
+      "id": 300,
+      "monthDay": "10-26",
+      "title": "Find a place alone with God"
+    },
+    {
+      "id": 301,
+      "monthDay": "10-27",
+      "title": "Increase through giving"
+    },
+    {
+      "id": 302,
+      "monthDay": "10-28",
+      "title": "God expects fruit"
+    },
+    {
+      "id": 303,
+      "monthDay": "10-29",
+      "title": "Charmed by Christ"
+    },
+    {
+      "id": 304,
+      "monthDay": "10-30",
+      "title": "The mightiness of meekness"
+    },
+    {
+      "id": 305,
+      "monthDay": "10-31",
+      "title": "God’s way of guidance"
+    },
+    {
+      "id": 306,
+      "monthDay": "11-01",
+      "title": "Increase through trial"
+    },
+    {
+      "id": 307,
+      "monthDay": "11-02",
+      "title": "Accomplish something"
+    },
+    {
+      "id": 308,
+      "monthDay": "11-03",
+      "title": "Abiding in Christ"
+    },
+    {
+      "id": 309,
+      "monthDay": "11-04",
+      "title": "Possibility of prayer"
+    },
+    {
+      "id": 310,
+      "monthDay": "11-05",
+      "title": "The day of small things"
+    },
+    {
+      "id": 311,
+      "monthDay": "11-06",
+      "title": "Treasure in Heaven’s bank"
+    },
+    {
+      "id": 312,
+      "monthDay": "11-07",
+      "title": "Rejoicing or resigned?"
+    },
+    {
+      "id": 313,
+      "monthDay": "11-08",
+      "title": "Life-giving channels"
+    },
+    {
+      "id": 314,
+      "monthDay": "11-09",
+      "title": "God’s love to us immeasurable"
+    },
+    {
+      "id": 315,
+      "monthDay": "11-10",
+      "title": "Influenced and influencing"
+    },
+    {
+      "id": 316,
+      "monthDay": "11-11",
+      "title": "Possess your possessions"
+    },
+    {
+      "id": 317,
+      "monthDay": "11-12",
+      "title": "Our best is our all"
+    },
+    {
+      "id": 318,
+      "monthDay": "11-13",
+      "title": "Bear misunderstandings"
+    },
+    {
+      "id": 319,
+      "monthDay": "11-14",
+      "title": "Quiet times with God"
+    },
+    {
+      "id": 320,
+      "monthDay": "11-15",
+      "title": "Through God’s threshing mill"
+    },
+    {
+      "id": 321,
+      "monthDay": "11-16",
+      "title": "There goes a Christian"
+    },
+    {
+      "id": 322,
+      "monthDay": "11-17",
+      "title": "No place for self-pity"
+    },
+    {
+      "id": 323,
+      "monthDay": "11-18",
+      "title": "Our words echo down the years"
+    },
+    {
+      "id": 324,
+      "monthDay": "11-19",
+      "title": "Build on the enduring Word"
+    },
+    {
+      "id": 325,
+      "monthDay": "11-20",
+      "title": "Danger of ungodly alliances"
+    },
+    {
+      "id": 326,
+      "monthDay": "11-21",
+      "title": "Willing to do His will"
+    },
+    {
+      "id": 327,
+      "monthDay": "11-22",
+      "title": "Effective praying"
+    },
+    {
+      "id": 328,
+      "monthDay": "11-23",
+      "title": "Tell God all the truth"
+    },
+    {
+      "id": 329,
+      "monthDay": "11-24",
+      "title": "Salvation from worry"
+    },
+    {
+      "id": 330,
+      "monthDay": "11-25",
+      "title": "God’s shaping process"
+    },
+    {
+      "id": 331,
+      "monthDay": "11-26",
+      "title": "Let your light shine"
+    },
+    {
+      "id": 332,
+      "monthDay": "11-27",
+      "title": "A cause of dissatisfaction"
+    },
+    {
+      "id": 333,
+      "monthDay": "11-28",
+      "title": "How Christian soldiers are made"
+    },
+    {
+      "id": 334,
+      "monthDay": "11-29",
+      "title": "God allures through affliction"
+    },
+    {
+      "id": 335,
+      "monthDay": "11-30",
+      "title": "Call for laborers"
+    },
+    {
+      "id": 336,
+      "monthDay": "12-01",
+      "title": "God’s power ours through prayer"
+    },
+    {
+      "id": 337,
+      "monthDay": "12-02",
+      "title": "Am I a temple of God?"
+    },
+    {
+      "id": 338,
+      "monthDay": "12-03",
+      "title": "Joy preserves spiritual life"
+    },
+    {
+      "id": 339,
+      "monthDay": "12-04",
+      "title": "Tiring zigzagging"
+    },
+    {
+      "id": 340,
+      "monthDay": "12-05",
+      "title": "Indifference to man’s opinions"
+    },
+    {
+      "id": 341,
+      "monthDay": "12-06",
+      "title": "Seeking daily counsel"
+    },
+    {
+      "id": 342,
+      "monthDay": "12-07",
+      "title": "Strengthened hands"
+    },
+    {
+      "id": 343,
+      "monthDay": "12-08",
+      "title": "How much should we love?"
+    },
+    {
+      "id": 344,
+      "monthDay": "12-09",
+      "title": "Service that costs but triumphs"
+    },
+    {
+      "id": 345,
+      "monthDay": "12-10",
+      "title": "Lean on God’s Word"
+    },
+    {
+      "id": 346,
+      "monthDay": "12-11",
+      "title": "Cross-bearing proves the disciple"
+    },
+    {
+      "id": 347,
+      "monthDay": "12-12",
+      "title": "The power I possess"
+    },
+    {
+      "id": 348,
+      "monthDay": "12-13",
+      "title": "Connection with the vine"
+    },
+    {
+      "id": 349,
+      "monthDay": "12-14",
+      "title": "Wanted—deeds, not words"
+    },
+    {
+      "id": 350,
+      "monthDay": "12-15",
+      "title": "Every man’s life a plan of God"
+    },
+    {
+      "id": 351,
+      "monthDay": "12-16",
+      "title": "Glory in reproach"
+    },
+    {
+      "id": 352,
+      "monthDay": "12-17",
+      "title": "Salute to the handicapped"
+    },
+    {
+      "id": 353,
+      "monthDay": "12-18",
+      "title": "Known by our fruits"
+    },
+    {
+      "id": 354,
+      "monthDay": "12-19",
+      "title": "Strength in joy"
+    },
+    {
+      "id": 355,
+      "monthDay": "12-20",
+      "title": "Unselfish prayers"
+    },
+    {
+      "id": 356,
+      "monthDay": "12-21",
+      "title": "Doing that counts"
+    },
+    {
+      "id": 357,
+      "monthDay": "12-22",
+      "title": "Kindly reproof"
+    },
+    {
+      "id": 358,
+      "monthDay": "12-23",
+      "title": "The Bible my guide"
+    },
+    {
+      "id": 359,
+      "monthDay": "12-24",
+      "title": "Life’s inn still full"
+    },
+    {
+      "id": 360,
+      "monthDay": "12-25",
+      "title": "The loveliness of Christ"
+    },
+    {
+      "id": 361,
+      "monthDay": "12-26",
+      "title": "God’s hidden purpose"
+    },
+    {
+      "id": 362,
+      "monthDay": "12-27",
+      "title": "God gives us grace, but we build character"
+    },
+    {
+      "id": 363,
+      "monthDay": "12-28",
+      "title": "Prayer before work"
+    },
+    {
+      "id": 364,
+      "monthDay": "12-29",
+      "title": "The price of enlargement"
+    },
+    {
+      "id": 365,
+      "monthDay": "12-30",
+      "title": "The quickening Word"
+    },
+    {
+      "id": 366,
+      "monthDay": "12-31",
+      "title": "Taking inventory"
+    }
+  ]
+}

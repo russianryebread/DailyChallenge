@@ -1,0 +1,1836 @@
+{
+  "contentVersion": "5dff4952a23099dc",
+  "locale": "ro",
+  "readings": [
+    {
+      "id": 1,
+      "monthDay": "01-01",
+      "title": "NU ÎNCETA SĂ TE PROVOCI SINGUR!"
+    },
+    {
+      "id": 2,
+      "monthDay": "01-02",
+      "title": "UN AN DE RUGĂCIUNE"
+    },
+    {
+      "id": 3,
+      "monthDay": "01-03",
+      "title": "CREDINCIOȘIE ÎN LUCRURILE MICI"
+    },
+    {
+      "id": 4,
+      "monthDay": "01-04",
+      "title": "DESCHIDE‐LE OCHII!"
+    },
+    {
+      "id": 5,
+      "monthDay": "01-05",
+      "title": "CARE E SARCINA TA?"
+    },
+    {
+      "id": 6,
+      "monthDay": "01-06",
+      "title": "REVENDICĂ PROMISIUNILE LUI DUMNEZEU"
+    },
+    {
+      "id": 7,
+      "monthDay": "01-07",
+      "title": "ÎMPLINEȘTE PLANUL LUI DUMNEZEU"
+    },
+    {
+      "id": 8,
+      "monthDay": "01-08",
+      "title": "OASPETELE CERESC RĂMÂNE?"
+    },
+    {
+      "id": 9,
+      "monthDay": "01-09",
+      "title": "MESAGERUL GATA DE JERTFĂ"
+    },
+    {
+      "id": 10,
+      "monthDay": "01-10",
+      "title": "CREȘTINI PLINI DE BUCURIE"
+    },
+    {
+      "id": 11,
+      "monthDay": "01-11",
+      "title": "RUGĂCIUNEA CARE ÎȘI ATINGE ŢINTA"
+    },
+    {
+      "id": 12,
+      "monthDay": "01-12",
+      "title": "PREA MARE PENTRU A PUTEA FI FOLOSIT DE DUMNEZEU"
+    },
+    {
+      "id": 13,
+      "monthDay": "01-13",
+      "title": "LUMEA OBSERVĂ INCONSECVENŢA"
+    },
+    {
+      "id": 14,
+      "monthDay": "01-14",
+      "title": "OAMENII PE CARE ÎI DOREȘTE DUMNEZEU"
+    },
+    {
+      "id": 15,
+      "monthDay": "01-15",
+      "title": "SĂ NE DOVEDIM DRAGOSTEA"
+    },
+    {
+      "id": 16,
+      "monthDay": "01-16",
+      "title": "PLINI DE CURAJ ÎN MĂRTURIE"
+    },
+    {
+      "id": 17,
+      "monthDay": "01-17",
+      "title": "DUPĂ CHIPUL ȘI ASEMĂNAREA DOMNULUI"
+    },
+    {
+      "id": 18,
+      "monthDay": "01-18",
+      "title": "BIBLIA DIN INIMĂ"
+    },
+    {
+      "id": 19,
+      "monthDay": "01-19",
+      "title": "MINELE DE AUR ALE LUI DUMNEZEU"
+    },
+    {
+      "id": 20,
+      "monthDay": "01-20",
+      "title": "RUGĂCIUNEA REZOLVĂ PROBLEMELE VIEȚII"
+    },
+    {
+      "id": 21,
+      "monthDay": "01-21",
+      "title": "PREDICI TRĂITE"
+    },
+    {
+      "id": 22,
+      "monthDay": "01-22",
+      "title": "FĂRĂ VINĂ, DAR NU NEÎNVINOVĂȚIT"
+    },
+    {
+      "id": 23,
+      "monthDay": "01-23",
+      "title": "DUMNEZEUL IMPOSIBILULUI"
+    },
+    {
+      "id": 24,
+      "monthDay": "01-24",
+      "title": "ASCULTĂ"
+    },
+    {
+      "id": 25,
+      "monthDay": "01-25",
+      "title": "CĂLĂUZIRE PRIN PIEDICI"
+    },
+    {
+      "id": 26,
+      "monthDay": "01-26",
+      "title": "CHEMAREA NOASTRĂ: SĂ PURTĂM CRUCEA"
+    },
+    {
+      "id": 27,
+      "monthDay": "01-27",
+      "title": "MISIONAR ÎNTRE VECINI"
+    },
+    {
+      "id": 28,
+      "monthDay": "01-28",
+      "title": "SĂ FOLOSIM BINE TIMPUL"
+    },
+    {
+      "id": 29,
+      "monthDay": "01-29",
+      "title": "RUGĂCIUNEA DE DIMINEAȚĂ"
+    },
+    {
+      "id": 30,
+      "monthDay": "01-30",
+      "title": "NU ȚINE CU DINȚII DE POSESIUNI"
+    },
+    {
+      "id": 31,
+      "monthDay": "01-31",
+      "title": "RODNICIE ÎN SUFERINȚĂ"
+    },
+    {
+      "id": 32,
+      "monthDay": "02-01",
+      "title": "INIMI ÎNFLĂCĂRATE"
+    },
+    {
+      "id": 33,
+      "monthDay": "02-02",
+      "title": "SINGURA NOASTRĂ PREOCUPARE: SĂ FIM PE PLACUL LUI DUMNEZEU"
+    },
+    {
+      "id": 34,
+      "monthDay": "02-03",
+      "title": "BANCA CERULUI"
+    },
+    {
+      "id": 35,
+      "monthDay": "02-04",
+      "title": "FII MAI PLIN DE RÂVNĂ DECÂT CEI DIN LUME"
+    },
+    {
+      "id": 36,
+      "monthDay": "02-05",
+      "title": "INIMA DE TATĂ A LUI DUMNEZEU"
+    },
+    {
+      "id": 37,
+      "monthDay": "02-06",
+      "title": "PUTEREA ASOCIERII"
+    },
+    {
+      "id": 38,
+      "monthDay": "02-07",
+      "title": "RUGĂCIUNEA TAINICĂ"
+    },
+    {
+      "id": 39,
+      "monthDay": "02-08",
+      "title": "MÂNTUIRE ȘI BUCURIE"
+    },
+    {
+      "id": 40,
+      "monthDay": "02-09",
+      "title": "DUMNEZEU NE IA DE MÂNĂ"
+    },
+    {
+      "id": 41,
+      "monthDay": "02-10",
+      "title": "VIAȚĂ, ȘI VIAȚĂ DIN BELȘUG"
+    },
+    {
+      "id": 42,
+      "monthDay": "02-11",
+      "title": "CREȘTINISM ÎN MIȘCARE"
+    },
+    {
+      "id": 43,
+      "monthDay": "02-12",
+      "title": "SĂ CREȘTI SAU SĂ STAI PE LOC"
+    },
+    {
+      "id": 44,
+      "monthDay": "02-13",
+      "title": "PACEA LUI DUMNEZEU – BAROMETRUL NOSTRU"
+    },
+    {
+      "id": 45,
+      "monthDay": "02-14",
+      "title": "PREȚUL LUCRURILOR VALOROASE"
+    },
+    {
+      "id": 46,
+      "monthDay": "02-15",
+      "title": "TRĂIREA CREȘTINĂ PRACTICĂ"
+    },
+    {
+      "id": 47,
+      "monthDay": "02-16",
+      "title": "PRIVILEGIUL RUGĂCIUNII"
+    },
+    {
+      "id": 48,
+      "monthDay": "02-17",
+      "title": "FERICIREA DE A FI NIMIC"
+    },
+    {
+      "id": 49,
+      "monthDay": "02-18",
+      "title": "CEA MAI MĂREAȚĂ ZI DIN VIAȚA NOASTRĂ"
+    },
+    {
+      "id": 50,
+      "monthDay": "02-19",
+      "title": "CÂND DRAGOSTEA TREBUIE SĂ RĂNEASCĂ DRAGOSTEA"
+    },
+    {
+      "id": 51,
+      "monthDay": "02-20",
+      "title": "MEDITAȚIE ASUPRA CUVÂNTULUI"
+    },
+    {
+      "id": 52,
+      "monthDay": "02-21",
+      "title": "CURAJ SFÂNT"
+    },
+    {
+      "id": 53,
+      "monthDay": "02-22",
+      "title": "UN OM CARE INFLUENȚEAZĂ O ÎNTREAGĂ COMUNITATE"
+    },
+    {
+      "id": 54,
+      "monthDay": "02-23",
+      "title": "RAȚII PENTRU MARȘUL ZILNIC"
+    },
+    {
+      "id": 55,
+      "monthDay": "02-24",
+      "title": "ACȚIUNE"
+    },
+    {
+      "id": 56,
+      "monthDay": "02-25",
+      "title": "BAZEAZĂ‐TE PE PREZENȚA LUI CRISTOS"
+    },
+    {
+      "id": 57,
+      "monthDay": "02-26",
+      "title": "AȘTEPTARE ACTIVĂ"
+    },
+    {
+      "id": 58,
+      "monthDay": "02-27",
+      "title": "PREȚUL ADEVĂRULUI"
+    },
+    {
+      "id": 59,
+      "monthDay": "02-28",
+      "title": "RĂNIT PENTRU A FI MAI RODNIC"
+    },
+    {
+      "id": 60,
+      "monthDay": "02-29",
+      "title": "BIRUINȚA ASUPRA LUMII"
+    },
+    {
+      "id": 61,
+      "monthDay": "03-01",
+      "title": "CIRCUMSTANȚE DE SLUJIRE"
+    },
+    {
+      "id": 62,
+      "monthDay": "03-02",
+      "title": "PERSPECTIVA LUMINOASĂ A CREDINȚEI"
+    },
+    {
+      "id": 63,
+      "monthDay": "03-03",
+      "title": "STUDIUL BIBLIC NECESAR RUGĂCIUNII"
+    },
+    {
+      "id": 64,
+      "monthDay": "03-04",
+      "title": "SĂ TE PIERZI PE TINE PENTRU A‐I MÂNTUI PE ALȚII"
+    },
+    {
+      "id": 65,
+      "monthDay": "03-05",
+      "title": "RUGĂCIUNI FĂRĂ RĂSPUNS"
+    },
+    {
+      "id": 66,
+      "monthDay": "03-06",
+      "title": "ADEVĂRATA SLUJIRE DĂINUIE VEȘNIC"
+    },
+    {
+      "id": 67,
+      "monthDay": "03-07",
+      "title": "TOT CE AM SE AFLĂ SUB CONTROLUL LUI DUMNEZEU"
+    },
+    {
+      "id": 68,
+      "monthDay": "03-08",
+      "title": "CLARIFICĂ ACUM NEÎNȚELEGERILE!"
+    },
+    {
+      "id": 69,
+      "monthDay": "03-09",
+      "title": "LAUDA ADUCE BIRUINȚĂ"
+    },
+    {
+      "id": 70,
+      "monthDay": "03-10",
+      "title": "FĂ CEVA CA SĂ REZOLVI PROBLEMA!"
+    },
+    {
+      "id": 71,
+      "monthDay": "03-11",
+      "title": "CUM SĂ CITIM BIBLIA"
+    },
+    {
+      "id": 72,
+      "monthDay": "03-12",
+      "title": "SCRISOAREA LUI CRISTOS CĂTRE OMENIRE"
+    },
+    {
+      "id": 73,
+      "monthDay": "03-13",
+      "title": "CEI SMERIȚI SUNT ASIGURAȚI DE CĂLĂUZIREA LUI DUMNEZEU"
+    },
+    {
+      "id": 74,
+      "monthDay": "03-14",
+      "title": "DARURI ALESE SUB ÎNFĂȚIȘĂRI SIMPLE"
+    },
+    {
+      "id": 75,
+      "monthDay": "03-15",
+      "title": "STRĂLUCIRE PRIN RUGĂCIUNE"
+    },
+    {
+      "id": 76,
+      "monthDay": "03-16",
+      "title": "INDEPENDENT FAŢĂ DE CIRCUMSTANȚE"
+    },
+    {
+      "id": 77,
+      "monthDay": "03-17",
+      "title": "ALEGE CE ESTE MAI BUN"
+    },
+    {
+      "id": 78,
+      "monthDay": "03-18",
+      "title": "PĂZEȘTE‐TE DE ISPITĂ"
+    },
+    {
+      "id": 79,
+      "monthDay": "03-19",
+      "title": "SÂNGE PENTRU REZULTATE CARE DUREAZĂ"
+    },
+    {
+      "id": 80,
+      "monthDay": "03-20",
+      "title": "CRISTOS – MEDIUL NOSTRU"
+    },
+    {
+      "id": 81,
+      "monthDay": "03-21",
+      "title": "DRAGOSTEA LUI CRISTOS ALUNGĂ RĂUL"
+    },
+    {
+      "id": 82,
+      "monthDay": "03-22",
+      "title": "TOTUL PENTRU CRISTOS"
+    },
+    {
+      "id": 83,
+      "monthDay": "03-23",
+      "title": "LA ACȚIUNE SPRE ASFINȚITUL VIEȚII"
+    },
+    {
+      "id": 84,
+      "monthDay": "03-24",
+      "title": "LUCRAREA DE MEDITAȚIE"
+    },
+    {
+      "id": 85,
+      "monthDay": "03-25",
+      "title": "DATORIA DE A SPUNE LUCRURILOR PE NUME"
+    },
+    {
+      "id": 86,
+      "monthDay": "03-26",
+      "title": "CRISTOS POATE!"
+    },
+    {
+      "id": 87,
+      "monthDay": "03-27",
+      "title": "FIECARE ZI PE RÂND"
+    },
+    {
+      "id": 88,
+      "monthDay": "03-28",
+      "title": "DUREREA NE REVELEAZĂ NIMICNICIA"
+    },
+    {
+      "id": 89,
+      "monthDay": "03-29",
+      "title": "CONSULTĂ‐ȚI GHIDUL"
+    },
+    {
+      "id": 90,
+      "monthDay": "03-30",
+      "title": "TRĂIEȘTE MAI PRESUS DE OPINIILE OAMENILOR"
+    },
+    {
+      "id": 91,
+      "monthDay": "03-31",
+      "title": "BINECUVÂNTEAZĂ‐I PE ALȚII"
+    },
+    {
+      "id": 92,
+      "monthDay": "04-01",
+      "title": "PRIN SLĂBICIUNE SPRE PUTERE"
+    },
+    {
+      "id": 93,
+      "monthDay": "04-02",
+      "title": "BUCURIE ÎN RUGĂCIUNE"
+    },
+    {
+      "id": 94,
+      "monthDay": "04-03",
+      "title": "FIECARE CREȘTIN ESTE UN CÂȘTIGĂTOR DE SUFLETE"
+    },
+    {
+      "id": 95,
+      "monthDay": "04-04",
+      "title": "UMBLAREA CU DUMNEZEU"
+    },
+    {
+      "id": 96,
+      "monthDay": "04-05",
+      "title": "MULȚUMIRE ÎN ORICE SFERĂ"
+    },
+    {
+      "id": 97,
+      "monthDay": "04-06",
+      "title": "FOLOSEȘTI SAU PIERZI?"
+    },
+    {
+      "id": 98,
+      "monthDay": "04-07",
+      "title": "BIBLIA – MOȘTENIREA NOASTRĂ"
+    },
+    {
+      "id": 99,
+      "monthDay": "04-08",
+      "title": "PUTERE PENTRU POVERI DATE DE DUMNEZEU"
+    },
+    {
+      "id": 100,
+      "monthDay": "04-09",
+      "title": "SLUJITORII DOMNULUI SUNT PLINI DE BUCURIE"
+    },
+    {
+      "id": 101,
+      "monthDay": "04-10",
+      "title": "PRIVEȘTE ÎN SUS"
+    },
+    {
+      "id": 102,
+      "monthDay": "04-11",
+      "title": "MIJLOCIRE PENTRU ALȚII"
+    },
+    {
+      "id": 103,
+      "monthDay": "04-12",
+      "title": "PUTEREA LUCRURILOR MICI"
+    },
+    {
+      "id": 104,
+      "monthDay": "04-13",
+      "title": "ÎMPĂRTĂȘEȘTE‐ȚI BINECUVÂNTĂRILE"
+    },
+    {
+      "id": 105,
+      "monthDay": "04-14",
+      "title": "POTRIVEȘTE‐ȚI CEASUL DUPĂ OROLOGIUL LUI DUMNEZEU"
+    },
+    {
+      "id": 106,
+      "monthDay": "04-15",
+      "title": "DOMNUL VA PURTA DE GRIJĂ"
+    },
+    {
+      "id": 107,
+      "monthDay": "04-16",
+      "title": "CUM SĂ‐ȚI INFLUENȚEZI APROAPELE"
+    },
+    {
+      "id": 108,
+      "monthDay": "04-17",
+      "title": "GÂNDEȘTE‐TE LA DOMNUL"
+    },
+    {
+      "id": 109,
+      "monthDay": "04-18",
+      "title": "CREDINȚA ADEVĂRATĂ PRODUCE REZULTATE"
+    },
+    {
+      "id": 110,
+      "monthDay": "04-19",
+      "title": "ASEMĂNARE CU DUMNEZEU PRIN RUGĂCIUNE"
+    },
+    {
+      "id": 111,
+      "monthDay": "04-20",
+      "title": "TIMPUL – MATERIA PRIMĂ A V IEȚII"
+    },
+    {
+      "id": 112,
+      "monthDay": "04-21",
+      "title": "CALEA ÎNGUSTĂ CARE DUCE LA VIAȚĂ"
+    },
+    {
+      "id": 113,
+      "monthDay": "04-22",
+      "title": "EL ALEGE CU ÎNȚELEPCIUNE"
+    },
+    {
+      "id": 114,
+      "monthDay": "04-23",
+      "title": "MUNCA – O BINECUVÂNTARE"
+    },
+    {
+      "id": 115,
+      "monthDay": "04-24",
+      "title": "RÂURI PE PĂMÂNTUL USCAT"
+    },
+    {
+      "id": 116,
+      "monthDay": "04-25",
+      "title": "IUBEȘTE MULT"
+    },
+    {
+      "id": 117,
+      "monthDay": "04-26",
+      "title": "BIBLIA – LUMINA CĂMINULUI"
+    },
+    {
+      "id": 118,
+      "monthDay": "04-27",
+      "title": "DUMNEZEU ÎȘI PREGĂTEȘTE INSTRUMENTELE"
+    },
+    {
+      "id": 119,
+      "monthDay": "04-28",
+      "title": "ARMONIE ÎN VOIA LUI DUMNEZEU"
+    },
+    {
+      "id": 120,
+      "monthDay": "04-29",
+      "title": "FĂ‐ȚI TIMP SĂ FII SFÂNT"
+    },
+    {
+      "id": 121,
+      "monthDay": "04-30",
+      "title": "O CHEMARE ÎNALTĂ"
+    },
+    {
+      "id": 122,
+      "monthDay": "05-01",
+      "title": "OMUL MODELEAZĂ OMUL"
+    },
+    {
+      "id": 123,
+      "monthDay": "05-02",
+      "title": "RĂMÂI LÂNGĂ PĂSTOR"
+    },
+    {
+      "id": 124,
+      "monthDay": "05-03",
+      "title": "TIMP PENTRU ÎNDEPLINIREA<br>SARCINILOR ÎNCREDINȚATE DE DUMNEZEU"
+    },
+    {
+      "id": 125,
+      "monthDay": "05-04",
+      "title": "DOUĂ FELURI DE PACE"
+    },
+    {
+      "id": 126,
+      "monthDay": "05-05",
+      "title": "CAMPIONI AI ADEVĂRULUI"
+    },
+    {
+      "id": 127,
+      "monthDay": "05-06",
+      "title": "GOLIT, APOI UMPLUT"
+    },
+    {
+      "id": 128,
+      "monthDay": "05-07",
+      "title": "TESTUL MĂREȚIEI AUTENTICE"
+    },
+    {
+      "id": 129,
+      "monthDay": "05-08",
+      "title": "PACE PRIN RUGĂCIUNE"
+    },
+    {
+      "id": 130,
+      "monthDay": "05-09",
+      "title": "UNDE DOMNEȘTE CRISTOS ESTE BUCURIE"
+    },
+    {
+      "id": 131,
+      "monthDay": "05-10",
+      "title": "MESAGERII NEÎNFRICAŢI AI LUI DUMNEZEU"
+    },
+    {
+      "id": 132,
+      "monthDay": "05-11",
+      "title": "DUMNEZEU ÎI MODELEAZĂ PE AI SĂI"
+    },
+    {
+      "id": 133,
+      "monthDay": "05-12",
+      "title": "CUVÂNTUL DOMNULUI – O FÂNTÂNĂ NESECATĂ"
+    },
+    {
+      "id": 134,
+      "monthDay": "05-13",
+      "title": "CREDINȚA SE RIDICĂ DEASUPRA DIFICULTĂȚILOR"
+    },
+    {
+      "id": 135,
+      "monthDay": "05-14",
+      "title": "FIȚI PLINI DE DUH"
+    },
+    {
+      "id": 136,
+      "monthDay": "05-15",
+      "title": "PĂSTREAZĂ LEGĂTURA CU DUMNEZEU"
+    },
+    {
+      "id": 137,
+      "monthDay": "05-16",
+      "title": "NU‐I REFUZA NIMIC LUI DUMNEZEU"
+    },
+    {
+      "id": 138,
+      "monthDay": "05-17",
+      "title": "RUGĂCIUNEA – O INFLUENȚĂ EXTRAORDINARĂ"
+    },
+    {
+      "id": 139,
+      "monthDay": "05-18",
+      "title": "O LUCRARE PENTRU TOȚI"
+    },
+    {
+      "id": 140,
+      "monthDay": "05-19",
+      "title": "INFLUENȚA EXERCITATĂ ASUPRA CELOR DRAGI"
+    },
+    {
+      "id": 141,
+      "monthDay": "05-20",
+      "title": "BIRUINȚE DE FIECARE ZI"
+    },
+    {
+      "id": 142,
+      "monthDay": "05-21",
+      "title": "BUCURIE ÎN SUFERINȚĂ"
+    },
+    {
+      "id": 143,
+      "monthDay": "05-22",
+      "title": "CUVÂNTUL CARE SCHIMBĂ VIAŢA"
+    },
+    {
+      "id": 144,
+      "monthDay": "05-23",
+      "title": "SLAVA SACRIFICIULUI sau BUCURIA JERTFEI"
+    },
+    {
+      "id": 145,
+      "monthDay": "05-24",
+      "title": "CĂUTAȚI MAI ÎNTÂI ÎMPĂRĂȚIA LUI DUMNEZEU"
+    },
+    {
+      "id": 146,
+      "monthDay": "05-25",
+      "title": "DUMNEZEU RĂSPLĂTEȘTE CU ÎNȚELEPCIUNE"
+    },
+    {
+      "id": 147,
+      "monthDay": "05-26",
+      "title": "RUGĂCIUNEA PENTRU ALŢII"
+    },
+    {
+      "id": 148,
+      "monthDay": "05-27",
+      "title": "CREȘTINUL TREBUIE SĂ AIBĂ COLOANĂ VERTEBRALĂ"
+    },
+    {
+      "id": 149,
+      "monthDay": "05-28",
+      "title": "ROBIA LUI CRISTOS ÎNSEAMNĂ LIBERTATE"
+    },
+    {
+      "id": 150,
+      "monthDay": "05-29",
+      "title": "DUMNEZEU NU PUNE POVERI PREA MARI PE UMERII ALOR SĂI"
+    },
+    {
+      "id": 151,
+      "monthDay": "05-30",
+      "title": "CRISTOS ESTE TOT CE CONTEAZĂ"
+    },
+    {
+      "id": 152,
+      "monthDay": "05-31",
+      "title": "CÂND PUȚINUL DEVINE MULT"
+    },
+    {
+      "id": 153,
+      "monthDay": "06-01",
+      "title": "O SINGURĂ VIAȚĂ"
+    },
+    {
+      "id": 154,
+      "monthDay": "06-02",
+      "title": "PAUZE ÎN SIMFONIA DIVINĂ"
+    },
+    {
+      "id": 155,
+      "monthDay": "06-03",
+      "title": "ÎN PARTENERIAT CU PIEDICILE"
+    },
+    {
+      "id": 156,
+      "monthDay": "06-04",
+      "title": "CONDIȚII PENTRU O RUGĂCIUNE EFICIENTĂ"
+    },
+    {
+      "id": 157,
+      "monthDay": "06-05",
+      "title": "TRĂIEȘTE ASTFEL ÎNCÂT SĂ ȚI SE SIMTĂ LIPSA"
+    },
+    {
+      "id": 158,
+      "monthDay": "06-06",
+      "title": "ALEGEREA LUI DUMNEZEU ADUCE ODIHNĂ"
+    },
+    {
+      "id": 159,
+      "monthDay": "06-07",
+      "title": "PARFUMUL CONSACRĂRII"
+    },
+    {
+      "id": 160,
+      "monthDay": "06-08",
+      "title": "HRANĂ DIN CUVÂNTUL DOMNULUI"
+    },
+    {
+      "id": 161,
+      "monthDay": "06-09",
+      "title": "SĂ NE CUNOAȘTEM MĂSURA"
+    },
+    {
+      "id": 162,
+      "monthDay": "06-10",
+      "title": "ÎMBOGĂȚIT PRIN SUFERINȚĂ"
+    },
+    {
+      "id": 163,
+      "monthDay": "06-11",
+      "title": "CREDINCIOȘI PLINI DE BUCURIE"
+    },
+    {
+      "id": 164,
+      "monthDay": "06-12",
+      "title": "DRAGOSTEA CARE SE JERTFEȘTE"
+    },
+    {
+      "id": 165,
+      "monthDay": "06-13",
+      "title": "RUGĂCIUNEA ESTE VITALĂ PENTRU CREDINCIOS"
+    },
+    {
+      "id": 166,
+      "monthDay": "06-14",
+      "title": "NU LĂSA NICI O ÎNDATORIRE NEÎNDEPLINITĂ"
+    },
+    {
+      "id": 167,
+      "monthDay": "06-15",
+      "title": "PĂSTREAZĂ‐ȚI CONȘTIINȚA CURATĂ"
+    },
+    {
+      "id": 168,
+      "monthDay": "06-16",
+      "title": "PLANUL STĂPÂNULUI PENTRU VIAȚA SUPUSULUI"
+    },
+    {
+      "id": 169,
+      "monthDay": "06-17",
+      "title": "GRAVITATEA SFATURILOR GREȘITE"
+    },
+    {
+      "id": 170,
+      "monthDay": "06-18",
+      "title": "MARTORII LUI CRISTOS"
+    },
+    {
+      "id": 171,
+      "monthDay": "06-19",
+      "title": "UN CREȘTIN CONFORM SCRIPTURILOR"
+    },
+    {
+      "id": 172,
+      "monthDay": "06-20",
+      "title": "ACCEPTĂ SĂ DEVII IMPOPULAR"
+    },
+    {
+      "id": 173,
+      "monthDay": "06-21",
+      "title": "ADU ȘI TU LUMINA TA"
+    },
+    {
+      "id": 174,
+      "monthDay": "06-22",
+      "title": "MIȘCĂ‐L PE DUMNEZEU ȘI PE OAMENI"
+    },
+    {
+      "id": 175,
+      "monthDay": "06-23",
+      "title": "DRAGOSTEA – REMEDIUL PENTRU FRICĂ"
+    },
+    {
+      "id": 176,
+      "monthDay": "06-24",
+      "title": "ISPITĂ SAU PĂCAT"
+    },
+    {
+      "id": 177,
+      "monthDay": "06-25",
+      "title": "DUMNEZEU NU OBOSEȘTE SĂ NE UMPLE"
+    },
+    {
+      "id": 178,
+      "monthDay": "06-26",
+      "title": "LIPSA PROGRESULUI ESTE REGRES"
+    },
+    {
+      "id": 179,
+      "monthDay": "06-27",
+      "title": "ÎNSEMNAT DE DRAGUL LUI CRISTOS"
+    },
+    {
+      "id": 180,
+      "monthDay": "06-28",
+      "title": "CREDINCIOȘIE ÎN LUCRURILE MICI"
+    },
+    {
+      "id": 181,
+      "monthDay": "06-29",
+      "title": "MÂNTUIT PENTRU A SLUJI"
+    },
+    {
+      "id": 182,
+      "monthDay": "06-30",
+      "title": "DRAGOSTEA LUI DUMNEZEU ÎN NOI PENTRU ALȚII"
+    },
+    {
+      "id": 183,
+      "monthDay": "07-01",
+      "title": "ÎNDURĂRI REȚINUTE"
+    },
+    {
+      "id": 184,
+      "monthDay": "07-02",
+      "title": "DESTOINIC PENTRU ORICE LUCRARE BUNĂ"
+    },
+    {
+      "id": 185,
+      "monthDay": "07-03",
+      "title": "FOLOSEȘTE SAREA CU ÎNȚELEPCIUNE"
+    },
+    {
+      "id": 186,
+      "monthDay": "07-04",
+      "title": "REMEDIUL PENTRU NELINIȘTEA LUMEASCĂ"
+    },
+    {
+      "id": 187,
+      "monthDay": "07-05",
+      "title": "DAȚI BIBLIEI LOCUL CARE I SE CUVINE"
+    },
+    {
+      "id": 188,
+      "monthDay": "07-06",
+      "title": "GRĂDINI UDATE"
+    },
+    {
+      "id": 189,
+      "monthDay": "07-07",
+      "title": "FII UN EXEMPLU POZITIV!"
+    },
+    {
+      "id": 190,
+      "monthDay": "07-08",
+      "title": "ÎNTĂRIȚI PRIN ÎNCERCĂRI"
+    },
+    {
+      "id": 191,
+      "monthDay": "07-09",
+      "title": "STANDARDUL BIBLIC AL BUCURIEI CREȘTINE"
+    },
+    {
+      "id": 192,
+      "monthDay": "07-10",
+      "title": "SĂ AVEŢI ÎN VOI GÂNDUL LUI CRISTOS"
+    },
+    {
+      "id": 193,
+      "monthDay": "07-11",
+      "title": "FARMECUL INCERTITUDINII"
+    },
+    {
+      "id": 194,
+      "monthDay": "07-12",
+      "title": "TRANSMITE MESAJUL LUI DUMNEZEU"
+    },
+    {
+      "id": 195,
+      "monthDay": "07-13",
+      "title": "CAPITULARE ABSOLUTĂ"
+    },
+    {
+      "id": 196,
+      "monthDay": "07-14",
+      "title": "CARACTERUL ABSURD AL MÂNDRIEI"
+    },
+    {
+      "id": 197,
+      "monthDay": "07-15",
+      "title": "CUNOAȘTEREA SCRIPTURII ESTE NECESARĂ RUGĂCIUNII"
+    },
+    {
+      "id": 198,
+      "monthDay": "07-16",
+      "title": "MĂRTURIA CREDINCIOȘIEI ESTE RĂSPLĂTITĂ"
+    },
+    {
+      "id": 199,
+      "monthDay": "07-17",
+      "title": "ÎNFRUMUSEȚEAZĂ-ȚI COLȚUL TĂU DE LUME"
+    },
+    {
+      "id": 200,
+      "monthDay": "07-18",
+      "title": "BINECUVÂNTAŢI PRIN SUPORTAREA CRITICILOR"
+    },
+    {
+      "id": 201,
+      "monthDay": "07-19",
+      "title": "FĂ LINIȘTE CA SĂ AUZI GLASUL LUI DUMNEZEU"
+    },
+    {
+      "id": 202,
+      "monthDay": "07-20",
+      "title": "DUMNEZEU CĂLĂUZEȘTE ȘI OCROTEȘTE"
+    },
+    {
+      "id": 203,
+      "monthDay": "07-21",
+      "title": "COMORI ASCUNSE"
+    },
+    {
+      "id": 204,
+      "monthDay": "07-22",
+      "title": "CAUTĂ ÎN ÎNCERCĂRI SCOPUL LUI DUMNEZEU"
+    },
+    {
+      "id": 205,
+      "monthDay": "07-23",
+      "title": "INFLUENȚA INVOLUNTARĂ"
+    },
+    {
+      "id": 206,
+      "monthDay": "07-24",
+      "title": "REALIZĂRI MAI MARI"
+    },
+    {
+      "id": 207,
+      "monthDay": "07-25",
+      "title": "CREȘTINI, TREZIȚI-VĂ!"
+    },
+    {
+      "id": 208,
+      "monthDay": "07-26",
+      "title": "JUGUL CARE FACE VIAȚA MAI UȘOARĂ"
+    },
+    {
+      "id": 209,
+      "monthDay": "07-27",
+      "title": "RUGĂCIUNEA LA VREME DE NEVOIE"
+    },
+    {
+      "id": 210,
+      "monthDay": "07-28",
+      "title": "ÎL VĂD EI PE ISUS?"
+    },
+    {
+      "id": 211,
+      "monthDay": "07-29",
+      "title": "REZULTATE OBȚINUTE PRIN SUFERINȚĂ"
+    },
+    {
+      "id": 212,
+      "monthDay": "07-30",
+      "title": "ÎNCREDINȚEAZĂ-ȚI SOARTA ÎN MÂNA DOMNULUI ȘI ÎNCREDE-TE ÎN EL"
+    },
+    {
+      "id": 213,
+      "monthDay": "07-31",
+      "title": "BIBLIA – O COMOARĂ"
+    },
+    {
+      "id": 214,
+      "monthDay": "08-01",
+      "title": "DUMNEZEU NE CUNOAȘTE POSIBILITĂȚILE"
+    },
+    {
+      "id": 215,
+      "monthDay": "08-02",
+      "title": "MICROSCOPUL DRAGOSTEI"
+    },
+    {
+      "id": 216,
+      "monthDay": "08-03",
+      "title": "SCHIMBAT ÎN ACELAȘI CHIP"
+    },
+    {
+      "id": 217,
+      "monthDay": "08-04",
+      "title": "CREDINȚĂ ȘI ACȚIUNE"
+    },
+    {
+      "id": 218,
+      "monthDay": "08-05",
+      "title": "CALEA CEA MAI NOBILĂ ÎN SUFERINȚĂ"
+    },
+    {
+      "id": 219,
+      "monthDay": "08-06",
+      "title": "SINGUR CU DUMNEZEU"
+    },
+    {
+      "id": 220,
+      "monthDay": "08-07",
+      "title": "NU-ȚI NEGLIJA ÎNDATORIRILE MĂRUNTE"
+    },
+    {
+      "id": 221,
+      "monthDay": "08-08",
+      "title": "RESPONSABILITATEA FAȚĂ DE ALȚII"
+    },
+    {
+      "id": 222,
+      "monthDay": "08-09",
+      "title": "CUM SĂ-ȚI MĂSORI CORECT TIMPUL"
+    },
+    {
+      "id": 223,
+      "monthDay": "08-10",
+      "title": "BUCURIA VINE DE LA DUMNEZEU"
+    },
+    {
+      "id": 224,
+      "monthDay": "08-11",
+      "title": "OPOZIȚIE ÎNAINTE DE VICTORIE"
+    },
+    {
+      "id": 225,
+      "monthDay": "08-12",
+      "title": "UMPLUT"
+    },
+    {
+      "id": 226,
+      "monthDay": "08-13",
+      "title": "CU CEI PUȚINI, PE DRUMUL CEL BUN"
+    },
+    {
+      "id": 227,
+      "monthDay": "08-14",
+      "title": "DUMNEZEU NE CERE SĂ DĂM CE AVEM MAI BUN"
+    },
+    {
+      "id": 228,
+      "monthDay": "08-15",
+      "title": "RUGĂCIUNEA SINCERĂ"
+    },
+    {
+      "id": 229,
+      "monthDay": "08-16",
+      "title": "SĂRAC, DAR TOTUȘI BOGAT"
+    },
+    {
+      "id": 230,
+      "monthDay": "08-17",
+      "title": "PĂZEȘTE-ȚI LIMBA"
+    },
+    {
+      "id": 231,
+      "monthDay": "08-18",
+      "title": "AJUTOR PENTRU O SĂNĂTATE MAI BUNĂ"
+    },
+    {
+      "id": 232,
+      "monthDay": "08-19",
+      "title": "TESTUL SMERENIEI AUTENTICE"
+    },
+    {
+      "id": 233,
+      "monthDay": "08-20",
+      "title": "ACCEPTAREA SUFERINȚEI CU BUCURIE"
+    },
+    {
+      "id": 234,
+      "monthDay": "08-21",
+      "title": "OPRIRILE NOASTRE SUNT PORUNCITE DE DUMNEZEU"
+    },
+    {
+      "id": 235,
+      "monthDay": "08-22",
+      "title": "CE INFLUENȚĂ AI TU?"
+    },
+    {
+      "id": 236,
+      "monthDay": "08-23",
+      "title": "RĂSCUMPĂRAȚI VREMEA"
+    },
+    {
+      "id": 237,
+      "monthDay": "08-24",
+      "title": "ÎN AȘTEPTAREA RĂSPUNSULUI LA RUGĂCIUNE"
+    },
+    {
+      "id": 238,
+      "monthDay": "08-25",
+      "title": "PUTEREA CREDINȚEI"
+    },
+    {
+      "id": 239,
+      "monthDay": "08-26",
+      "title": "MAGNETUL CERESC"
+    },
+    {
+      "id": 240,
+      "monthDay": "08-27",
+      "title": "NEDEZVOLTAT SAU MATUR – CUM EȘTI?"
+    },
+    {
+      "id": 241,
+      "monthDay": "08-28",
+      "title": "CÂND ESTE NEVOIE DE CURAJ"
+    },
+    {
+      "id": 242,
+      "monthDay": "08-29",
+      "title": "TRĂIEȘTE AZI"
+    },
+    {
+      "id": 243,
+      "monthDay": "08-30",
+      "title": "<p class=\"p8\"><b>CUVÂNTUL DOMNULUI<br />"
+    },
+    {
+      "id": 244,
+      "monthDay": "08-31",
+      "title": "SALVATORI DE SUFLETE SAU SALVATORI DE SINE"
+    },
+    {
+      "id": 245,
+      "monthDay": "09-01",
+      "title": "ÎNSEMNELE ONORIFICE ACORDATE DE DUMNEZEU"
+    },
+    {
+      "id": 246,
+      "monthDay": "09-02",
+      "title": "SUFLETUL ARE NEVOIE DE LINIȘTE"
+    },
+    {
+      "id": 247,
+      "monthDay": "09-03",
+      "title": "MUZICĂ SUB PRESIUNE"
+    },
+    {
+      "id": 248,
+      "monthDay": "09-04",
+      "title": "LASĂ DRAGOSTEA SĂ ALUNGE FIREA PĂMÂNTEASCĂ"
+    },
+    {
+      "id": 249,
+      "monthDay": "09-05",
+      "title": "CU CRISTOS ÎN CASĂ ȘI LA MUNCĂ"
+    },
+    {
+      "id": 250,
+      "monthDay": "09-06",
+      "title": "FAPTELE RĂMÂN PENTRU TOTDEAUNA"
+    },
+    {
+      "id": 251,
+      "monthDay": "09-07",
+      "title": "FIECARE OM ESTE PĂZITORUL FRATELUI SĂU"
+    },
+    {
+      "id": 252,
+      "monthDay": "09-08",
+      "title": "BUCURIA SUPREMĂ"
+    },
+    {
+      "id": 253,
+      "monthDay": "09-09",
+      "title": "SACRIFICIUL VOINȚEI NOASTRE"
+    },
+    {
+      "id": 254,
+      "monthDay": "09-10",
+      "title": "ÎNGRIJORAREA INTERZISĂ"
+    },
+    {
+      "id": 255,
+      "monthDay": "09-11",
+      "title": "BĂTĂLII NECONSEMNATE"
+    },
+    {
+      "id": 256,
+      "monthDay": "09-12",
+      "title": "PUNE-ȚI VIAȚA ÎN CREUZETUL LUI DUMNEZEU"
+    },
+    {
+      "id": 257,
+      "monthDay": "09-13",
+      "title": "PACE ÎN MIJLOCUL TORNADELOR"
+    },
+    {
+      "id": 258,
+      "monthDay": "09-14",
+      "title": "CREȘTINISMUL – ÎNTRISTARE SAU ÎNCÂNTARE?"
+    },
+    {
+      "id": 259,
+      "monthDay": "09-15",
+      "title": "VOIA LUI DUMNEZEU PENTRU CARIERA MEA"
+    },
+    {
+      "id": 260,
+      "monthDay": "09-16",
+      "title": "MINA DE AUR A SCRIPTURII"
+    },
+    {
+      "id": 261,
+      "monthDay": "09-17",
+      "title": "DUMNEZEU PREZENT ÎN RUTINA NOASTRĂ ZILNICĂ"
+    },
+    {
+      "id": 262,
+      "monthDay": "09-18",
+      "title": "SCOPUL LUI DUMNEZEU CÂND NE TRECE PRIN SUFERINȚĂ"
+    },
+    {
+      "id": 263,
+      "monthDay": "09-19",
+      "title": "<p class=\"p8\"><b>CRISTOS ÎNCORONAT<br />"
+    },
+    {
+      "id": 264,
+      "monthDay": "09-20",
+      "title": "SINGUR CU DUMNEZEU ÎN ODĂIȚĂ"
+    },
+    {
+      "id": 265,
+      "monthDay": "09-21",
+      "title": "FIECARE ZI – O NOUĂ OPORTUNITATE"
+    },
+    {
+      "id": 266,
+      "monthDay": "09-22",
+      "title": "SLUJIREA PLINĂ DE BUCURIE"
+    },
+    {
+      "id": 267,
+      "monthDay": "09-23",
+      "title": "CURAJUL NECESAR NOBLEȚEI"
+    },
+    {
+      "id": 268,
+      "monthDay": "09-24",
+      "title": "MĂREȚIE ÎN SMERENIE"
+    },
+    {
+      "id": 269,
+      "monthDay": "09-25",
+      "title": "NU MĂ TEM FIINDCĂ MĂ ÎNCRED"
+    },
+    {
+      "id": 270,
+      "monthDay": "09-26",
+      "title": "CITEȘTE BIBLIA CA SĂ CREȘTI"
+    },
+    {
+      "id": 271,
+      "monthDay": "09-27",
+      "title": "SĂ LE AMINTIM OAMENILOR DE CRISTOS"
+    },
+    {
+      "id": 272,
+      "monthDay": "09-28",
+      "title": "DUMNEZEU NE PREGĂTEȘTE LUCRAREA"
+    },
+    {
+      "id": 273,
+      "monthDay": "09-29",
+      "title": "PUTERE ZILNICĂ PRIN RUGĂCIUNE"
+    },
+    {
+      "id": 274,
+      "monthDay": "09-30",
+      "title": "ÎNDRĂZNEȘTE SĂ ACȚIONEZI SINGUR"
+    },
+    {
+      "id": 275,
+      "monthDay": "10-01",
+      "title": "BUCURIA SACRIFICIULUI"
+    },
+    {
+      "id": 276,
+      "monthDay": "10-02",
+      "title": "TREBUIE SĂ LUPTĂM PENTRU A BIRUI"
+    },
+    {
+      "id": 277,
+      "monthDay": "10-03",
+      "title": "SĂ BATĂ VÂNTUL DIN NORD"
+    },
+    {
+      "id": 278,
+      "monthDay": "10-04",
+      "title": "CREȘTINUL ESTE SINGULAR"
+    },
+    {
+      "id": 279,
+      "monthDay": "10-05",
+      "title": "FĂRÂME NEPREȚUITE DE TIMP"
+    },
+    {
+      "id": 280,
+      "monthDay": "10-06",
+      "title": "IZBĂVIREA DE SINE"
+    },
+    {
+      "id": 281,
+      "monthDay": "10-07",
+      "title": "IUBEȘTE CU DRAGOSTEA LUI DUMNEZEU"
+    },
+    {
+      "id": 282,
+      "monthDay": "10-08",
+      "title": "RUGAȚI-VĂ DESLUȘIT"
+    },
+    {
+      "id": 283,
+      "monthDay": "10-09",
+      "title": "BISERICA ESTE BIBLIA ACESTEI LUMI"
+    },
+    {
+      "id": 284,
+      "monthDay": "10-10",
+      "title": "IZVOARE DE BUCURIE"
+    },
+    {
+      "id": 285,
+      "monthDay": "10-11",
+      "title": "TRĂIȚI DUPĂ SCRIPTURI"
+    },
+    {
+      "id": 286,
+      "monthDay": "10-12",
+      "title": "ATINGEREA MAESTRULUI"
+    },
+    {
+      "id": 287,
+      "monthDay": "10-13",
+      "title": "VORBEȘTE CU ÎNDRĂZNEALĂ"
+    },
+    {
+      "id": 288,
+      "monthDay": "10-14",
+      "title": "CREȘTINII DAU GUST VIEȚII SEMENILOR"
+    },
+    {
+      "id": 289,
+      "monthDay": "10-15",
+      "title": "AVEM TOTUL DEPLIN ÎN CRISTOS"
+    },
+    {
+      "id": 290,
+      "monthDay": "10-16",
+      "title": "BOGĂȚII DIN SĂRĂCIE"
+    },
+    {
+      "id": 291,
+      "monthDay": "10-17",
+      "title": "IMPORTANȚA RUGĂCIUNII"
+    },
+    {
+      "id": 292,
+      "monthDay": "10-18",
+      "title": "STEJARII LUI DUMNEZEU"
+    },
+    {
+      "id": 293,
+      "monthDay": "10-19",
+      "title": "CUM SĂ-ȚI FOLOSEȘTI BINE TIMPUL"
+    },
+    {
+      "id": 294,
+      "monthDay": "10-20",
+      "title": "POT FI FOLOSIT?"
+    },
+    {
+      "id": 295,
+      "monthDay": "10-21",
+      "title": "NU TE ÎMPOVĂRA PREA TARE"
+    },
+    {
+      "id": 296,
+      "monthDay": "10-22",
+      "title": "ODIHNĂ FAȚĂ DE SINE"
+    },
+    {
+      "id": 297,
+      "monthDay": "10-23",
+      "title": "BIBLIA – HRANĂ PENTRU SUFLETELE NOASTRE"
+    },
+    {
+      "id": 298,
+      "monthDay": "10-24",
+      "title": "OAMENII EVLAVIOȘI VOR AVEA DE SUFERIT"
+    },
+    {
+      "id": 299,
+      "monthDay": "10-25",
+      "title": "PUTEM ÎNFRUMUSEȚA SAU PUTEM URÂȚI VIAȚA CELOR DIN JUR"
+    },
+    {
+      "id": 300,
+      "monthDay": "10-26",
+      "title": "GĂSEȘTE-ȚI UN LOC UNDE SĂ FII SINGUR CU DUMNEZEU"
+    },
+    {
+      "id": 301,
+      "monthDay": "10-27",
+      "title": "CUM SĂ TE ÎMBOGĂȚEȘTI DĂRUIND"
+    },
+    {
+      "id": 302,
+      "monthDay": "10-28",
+      "title": "DUMNEZEU AȘTEAPTĂ ROADE"
+    },
+    {
+      "id": 303,
+      "monthDay": "10-29",
+      "title": "FERMECAT DE CRISTOS"
+    },
+    {
+      "id": 304,
+      "monthDay": "10-30",
+      "title": "PUTEREA BLÂNDEȚII"
+    },
+    {
+      "id": 305,
+      "monthDay": "10-31",
+      "title": "<p class=\"p8\"><b>MODUL ÎN CARE<br />"
+    },
+    {
+      "id": 306,
+      "monthDay": "11-01",
+      "title": "CUM SĂ CREȘTI PRIN ÎNCERCĂRI"
+    },
+    {
+      "id": 307,
+      "monthDay": "11-02",
+      "title": "REALIZEAZĂ CEVA"
+    },
+    {
+      "id": 308,
+      "monthDay": "11-03",
+      "title": "SĂ RĂMÂI ÎN CRISTOS"
+    },
+    {
+      "id": 309,
+      "monthDay": "11-04",
+      "title": "POSIBILITĂȚILE RUGĂCIUNII"
+    },
+    {
+      "id": 310,
+      "monthDay": "11-05",
+      "title": "ZIUA LUCRURILOR MĂRUNTE"
+    },
+    {
+      "id": 311,
+      "monthDay": "11-06",
+      "title": "COMORI ÎN BANCA CERULUI"
+    },
+    {
+      "id": 312,
+      "monthDay": "11-07",
+      "title": "BUCURIE SAU RESEMNARE?"
+    },
+    {
+      "id": 313,
+      "monthDay": "11-08",
+      "title": "CANALE DĂTĂTOARE DE VIAȚĂ"
+    },
+    {
+      "id": 314,
+      "monthDay": "11-09",
+      "title": "DRAGOSTEA NEMĂSURATĂ A LUI DUMNEZEU FAȚĂ DE NOI"
+    },
+    {
+      "id": 315,
+      "monthDay": "11-10",
+      "title": "EȘTI INFLUENȚAT ȘI EXERCIȚI O INFLUENȚĂ"
+    },
+    {
+      "id": 316,
+      "monthDay": "11-11",
+      "title": "STĂPÂNEȘTE-ȚI BUNURILE"
+    },
+    {
+      "id": 317,
+      "monthDay": "11-12",
+      "title": "CE AVEM MAI BUN ÎNSEAMNĂ TOTUL"
+    },
+    {
+      "id": 318,
+      "monthDay": "11-13",
+      "title": "CÂND SUNTEȚI JUDECAȚI GREȘIT, RĂBDAȚI"
+    },
+    {
+      "id": 319,
+      "monthDay": "11-14",
+      "title": "UN TIMP LINIȘTIT ÎN PĂRTĂȘIE CU DUMNEZEU"
+    },
+    {
+      "id": 320,
+      "monthDay": "11-15",
+      "title": "PRIN TREIERĂTOAREA LUI DUMNEZEU"
+    },
+    {
+      "id": 321,
+      "monthDay": "11-16",
+      "title": "IATĂ UN CREȘTIN"
+    },
+    {
+      "id": 322,
+      "monthDay": "11-17",
+      "title": "NU-I LOC PENTRU AUTOCOMPĂTIMIRE"
+    },
+    {
+      "id": 323,
+      "monthDay": "11-18",
+      "title": "CUVINTELE NOASTRE AU ECOU PESTE ANI"
+    },
+    {
+      "id": 324,
+      "monthDay": "11-19",
+      "title": "ZIDEȘTE PE CUVÂNTUL CARE DĂINUIE"
+    },
+    {
+      "id": 325,
+      "monthDay": "11-20",
+      "title": "PERICOLUL LEGĂTURILOR NEPOTRIVITE"
+    },
+    {
+      "id": 326,
+      "monthDay": "11-21",
+      "title": "DISPUS A FACE VOIA DOMNULUI"
+    },
+    {
+      "id": 327,
+      "monthDay": "11-22",
+      "title": "RUGĂCIUNEA EFICIENTĂ"
+    },
+    {
+      "id": 328,
+      "monthDay": "11-23",
+      "title": "SPUNE-I LUI DUMNEZEU TOT ADEVĂRUL"
+    },
+    {
+      "id": 329,
+      "monthDay": "11-24",
+      "title": "ELIBERARE DE ÎNGRIJORARE"
+    },
+    {
+      "id": 330,
+      "monthDay": "11-25",
+      "title": "PROCESUL DE MODELARE AL LUI DUMNEZEU"
+    },
+    {
+      "id": 331,
+      "monthDay": "11-26",
+      "title": "LASĂ LUMINA TA SĂ STRĂLUCEASCĂ"
+    },
+    {
+      "id": 332,
+      "monthDay": "11-27",
+      "title": "MOTIVE DE NEMULȚUMIRE"
+    },
+    {
+      "id": 333,
+      "monthDay": "11-28",
+      "title": "CUM SUNT INSTRUIȚI OSTAȘII LUI CRISTOS"
+    },
+    {
+      "id": 334,
+      "monthDay": "11-29",
+      "title": "DUMNEZEU NE ATRAGE PRIN ÎNCERCĂRI"
+    },
+    {
+      "id": 335,
+      "monthDay": "11-30",
+      "title": "CHEMARE PENTRU LUCRĂTORI"
+    },
+    {
+      "id": 336,
+      "monthDay": "12-01",
+      "title": "PUTEREA LUI DUMNEZEU ESTE A NOASTRĂ PRIN RUGĂCIUNE"
+    },
+    {
+      "id": 337,
+      "monthDay": "12-02",
+      "title": "SUNT EU UN TEMPLU AL LUI DUMNEZEU?"
+    },
+    {
+      "id": 338,
+      "monthDay": "12-03",
+      "title": "BUCURIA ÎNTREȚINE VIAȚA DUHOVNICEASCĂ"
+    },
+    {
+      "id": 339,
+      "monthDay": "12-04",
+      "title": "ZIG-ZAG OBOSITOR"
+    },
+    {
+      "id": 340,
+      "monthDay": "12-05",
+      "title": "INDIFERENȚA FAȚĂ DE OPINIA OAMENILOR"
+    },
+    {
+      "id": 341,
+      "monthDay": "12-06",
+      "title": "CEREȚI ZILNIC CĂLĂUZIRE DE SUS"
+    },
+    {
+      "id": 342,
+      "monthDay": "12-07",
+      "title": "MÂINI CARE AU FOST ÎNTĂRITE"
+    },
+    {
+      "id": 343,
+      "monthDay": "12-08",
+      "title": "CÂT DE MULT AR TREBUI SĂ IUBIM?"
+    },
+    {
+      "id": 344,
+      "monthDay": "12-09",
+      "title": "O SLUJIRE CARE COSTĂ, DAR TRIUMFĂ"
+    },
+    {
+      "id": 345,
+      "monthDay": "12-10",
+      "title": "SPRIJINIȚI-VĂ PE CUVÂNTUL LUI DUMNEZEU"
+    },
+    {
+      "id": 346,
+      "monthDay": "12-11",
+      "title": "POZIȚIA DE UCENIC SE DOVEDEȘTE PRIN PURTAREA CRUCII"
+    },
+    {
+      "id": 347,
+      "monthDay": "12-12",
+      "title": "PUTEREA PE CARE O DEȚIN"
+    },
+    {
+      "id": 348,
+      "monthDay": "12-13",
+      "title": "LEGĂTURA CU VIȚA"
+    },
+    {
+      "id": 349,
+      "monthDay": "12-14",
+      "title": "SE CAUTĂ FAPTE, NU VORBE"
+    },
+    {
+      "id": 350,
+      "monthDay": "12-15",
+      "title": "VIAȚA FIECĂRUI OM ESTE PLANIFICATĂ DE DUMNEZEU"
+    },
+    {
+      "id": 351,
+      "monthDay": "12-16",
+      "title": "GLORIE ÎN REPROȘURI"
+    },
+    {
+      "id": 352,
+      "monthDay": "12-17",
+      "title": "UN SALUT ADRESAT PERSOANELOR CU DIZABILITĂȚI"
+    },
+    {
+      "id": 353,
+      "monthDay": "12-18",
+      "title": "CUNOSCUȚI DUPĂ ROADE"
+    },
+    {
+      "id": 354,
+      "monthDay": "12-19",
+      "title": "PUTERE ÎN BUCURIE"
+    },
+    {
+      "id": 355,
+      "monthDay": "12-20",
+      "title": "RUGĂCIUNI ALTRUISTE"
+    },
+    {
+      "id": 356,
+      "monthDay": "12-21",
+      "title": "SĂ FACI CEEA CE CONTEAZĂ"
+    },
+    {
+      "id": 357,
+      "monthDay": "12-22",
+      "title": "MUSTRĂ CU BLÂNDEȚE"
+    },
+    {
+      "id": 358,
+      "monthDay": "12-23",
+      "title": "BIBLIA – CĂLĂUZA MEA"
+    },
+    {
+      "id": 359,
+      "monthDay": "12-24",
+      "title": "HANUL VIEȚII ESTE PLIN ȘI ACUM"
+    },
+    {
+      "id": 360,
+      "monthDay": "12-25",
+      "title": "FRUMUSEȚEA LUI CRISTOS"
+    },
+    {
+      "id": 361,
+      "monthDay": "12-26",
+      "title": "SCOPUL ASCUNS AL LUI DUMNEZEU"
+    },
+    {
+      "id": 362,
+      "monthDay": "12-27",
+      "title": "DUMNEZEU NE DĂ HAR,<br>ÎNSĂ NOI NE ZIDIM CARACTERUL"
+    },
+    {
+      "id": 363,
+      "monthDay": "12-28",
+      "title": "RUGĂCIUNE ÎNAINTE DE MUNCĂ"
+    },
+    {
+      "id": 364,
+      "monthDay": "12-29",
+      "title": "PREȚUL CREȘTERII SPIRITUALE"
+    },
+    {
+      "id": 365,
+      "monthDay": "12-30",
+      "title": "CUVÂNTUL DĂTĂTOR DE VIAȚĂ"
+    },
+    {
+      "id": 366,
+      "monthDay": "12-31",
+      "title": "SĂ FACEM INVENTARUL"
+    }
+  ]
+}
