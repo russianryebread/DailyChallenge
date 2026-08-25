@@ -1,5 +1,5 @@
 {
-  "contentVersion": "c743c726cc11395e",
+  "contentVersion": "f191b68534abd199",
   "readings": [
     {
       "id": 1,
@@ -75,9 +75,10 @@
             "sourceId": 1,
             "sourceDate": "2012-01-01",
             "rawChecksum": "c5cec396c558407af88878f47c0d752f7e101e0db26fc20931884024d2c44fb7",
-            "transformedChecksum": "e88f3d9893ba52708763206a61b31a8de5be3d76dfca809421ce382b0cf61e6d"
+            "correctionKeys": [],
+            "transformedChecksum": "e3d7287d39ae61e1c2516fdc93d3d29e6fe486eda646100bbe88dc1360418631"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         },
         "ro": {
           "title": "NU ÎNCETA SĂ TE PROVOCI SINGUR!",
@@ -168,9 +169,10 @@
             "sourceId": 1,
             "sourceDate": "2012-01-01",
             "rawChecksum": "bb043dcb00c102e51a2106487d99cb7188120d2321d6146fbf897b01457dead4",
-            "transformedChecksum": "616f3efb515098b77cfde5b4b52b5d59fa8bea3b2639168f43e6a7b646a8fa23"
+            "correctionKeys": [],
+            "transformedChecksum": "055ab6e7f276d56b47128592d67f0ad785c3c0278dace3c6a9029b97fb014427"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         }
       }
     },
@@ -242,9 +244,10 @@
             "sourceId": 19,
             "sourceDate": "2012-01-19",
             "rawChecksum": "be110148232215575de1607a345a83d1d78754e2e65bff20f8065ec970f5cbc5",
-            "transformedChecksum": "49a0ece5cfe1ddeeaaeb7b730e5d42c643000dcf3ed7a99e654d39cd7853b3fd"
+            "correctionKeys": [],
+            "transformedChecksum": "9ad632f026eae4a64bd98769be869229abbc2188c3b574a94540f52a35301f86"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         },
         "ro": {
           "title": "MINELE DE AUR ALE LUI DUMNEZEU",
@@ -346,9 +349,10 @@
             "sourceId": 19,
             "sourceDate": "2012-01-19",
             "rawChecksum": "4e312394388bb4ef202490cbaeb388ed31a05358daeffa3b524ccfd49ccf3244",
-            "transformedChecksum": "68966abaa945c10320b66020abab1d0d6d43d2d20dfd742a0341fecf010dc8a2"
+            "correctionKeys": [],
+            "transformedChecksum": "d56e554fa13b7c9ed4f0f860f5368a3f3d503e3d9bcc9f2f16826046c0635c46"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         }
       }
     },
@@ -406,9 +410,10 @@
             "sourceId": 58,
             "sourceDate": "2012-02-27",
             "rawChecksum": "fd0b2c87631f9039345b146bdc0664af8dcd39e8b044a066780df139139154a4",
-            "transformedChecksum": "794510826ef93864ae5b72a8b639d20a3c94d96128ec3e1d3b5bf2d41bdc9632"
+            "correctionKeys": [],
+            "transformedChecksum": "daae02fc381232277b73e92354110487ef56cb7c38242c5fee7302b976a673cc"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         },
         "ro": {
           "title": "PREȚUL ADEVĂRULUI",
@@ -463,9 +468,10 @@
             "sourceId": 58,
             "sourceDate": "2012-02-27",
             "rawChecksum": "1968d8a8f295f004873563c443b0b5b90b6f0d4da68989d21c81c19a35e7ae2f",
-            "transformedChecksum": "527ce4692d8af109a18753c00f5e89144e8aced6388e640cb660e6910ba1b86d"
+            "correctionKeys": [],
+            "transformedChecksum": "20663c0134d3b1602f0a86041f77d858d28fcf5edb7dbf9c2681f328b3d4e132"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         }
       }
     },
@@ -531,9 +537,10 @@
             "sourceId": 59,
             "sourceDate": "2012-02-28",
             "rawChecksum": "57ae66c43665ad10d0ea77f122bd6cf2a795fdb128e1fa1d8c15f903e49120dd",
-            "transformedChecksum": "b09e4c622b65f7cb1403f22a74075174fb83d50738c0320d9d79c92c58492707"
+            "correctionKeys": [],
+            "transformedChecksum": "1e242a61217d662a00b79b44896cf47aeab82ab8741257bdae65458a4fb4ef1e"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         },
         "ro": {
           "title": "RĂNIT PENTRU A FI MAI RODNIC",
@@ -589,9 +596,10 @@
             "sourceId": 59,
             "sourceDate": "2012-02-28",
             "rawChecksum": "60c9717f5b7e4ea49965a64e5810ab85d7eeb73c04bfd09d8a10a6d721ab6869",
-            "transformedChecksum": "d6bd2cebd417c3bb705cc19def9d09d5a48bd1a417641f9da5d40154fa1454e3"
+            "correctionKeys": [],
+            "transformedChecksum": "0d038b24ac776fe645bd7be9f692271ef0997e12be5722ab95edc74fac4883e3"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         }
       }
     },
@@ -670,9 +678,10 @@
             "sourceId": 60,
             "sourceDate": "2012-02-29",
             "rawChecksum": "538fed00ad8752800654700455818e19267da811e46e28d72bc55b5b4332318f",
-            "transformedChecksum": "e0d674426d285020882030f469c0e55a3fd3fa9beb7b1be38fed4b6e93c6d4ea"
+            "correctionKeys": [],
+            "transformedChecksum": "1f5f679bc11541c6748a63eb4e02107963597b53e01fee48627a9327625156bc"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         },
         "ro": {
           "title": "BIRUINȚA ASUPRA LUMII",
@@ -747,9 +756,10 @@
             "sourceId": 60,
             "sourceDate": "2012-02-29",
             "rawChecksum": "4d82678ab4c72fb3c8c6a0ba69c202d491c73da8b789b78539147773bb83fdf4",
-            "transformedChecksum": "fe402b23c756cb31119bb0e4a2c63f2e7969c2bbd70f19e037c5229180c0bbd9"
+            "correctionKeys": [],
+            "transformedChecksum": "d733d5717ce2a53576dd9bceb70c7dde08397e8cc53681876ffc34cff54aa995"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         }
       }
     },
@@ -827,9 +837,10 @@
             "sourceId": 97,
             "sourceDate": "2012-04-06",
             "rawChecksum": "8cb80c11156ad0f12b9cc4091a71425d1d58ca2057f0deb0c69603e18910f709",
-            "transformedChecksum": "3929417add5e46e685ea6c401e766a6f393829c43c3b5e58cedc4c372e5ae621"
+            "correctionKeys": [],
+            "transformedChecksum": "a1f6effee55c8871482cc1d93d72426970ef82333c211e9e6eaf0eda5b81d63d"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         },
         "ro": {
           "title": "FOLOSEȘTI SAU PIERZI?",
@@ -910,9 +921,10 @@
             "sourceId": 97,
             "sourceDate": "2012-04-06",
             "rawChecksum": "04c9b81ac698a1a20fe89e61c34f26148d3ac119fa482f20cb27ef3b73cdbf1c",
-            "transformedChecksum": "d6c25e2fddbbd65533fac6fa7b24b80c633a111c014fa6adf61c83d6b8a754a4"
+            "correctionKeys": [],
+            "transformedChecksum": "cb96ed1afcd2649462f9f6838eb861850f40766ee3675a9e552a1cb62d3e8d0c"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         }
       }
     },
@@ -980,9 +992,10 @@
             "sourceId": 100,
             "sourceDate": "2012-04-09",
             "rawChecksum": "aa0ce11198ae71cd8e1f360ce5a99b0a310e38ac09e3e26bc232fc493f77f362",
-            "transformedChecksum": "81a186f0e4dd2eadaecafc8be66754c86638ae812b023a72d1d81edb2ae0cdf7"
+            "correctionKeys": [],
+            "transformedChecksum": "651e0b6ec9dcc24f82954a94e62fb3cbfa0a516d6452d39e3684555ce7109656"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         },
         "ro": {
           "title": "SLUJITORII DOMNULUI SUNT PLINI DE BUCURIE",
@@ -1048,9 +1061,10 @@
             "sourceId": 100,
             "sourceDate": "2012-04-09",
             "rawChecksum": "de7b7d0120cbb2faebffba8f9770bfd9896796941e51acfb55cbf3cd48f1c21b",
-            "transformedChecksum": "55d9707ec9f2f8f0cac25922838f154fc4b1d2968a303f18345eb8ddf8754a78"
+            "correctionKeys": [],
+            "transformedChecksum": "66cccc6f77ffa87e2c1c6b8b9fcff993b51f1c8cf7fbc8f3371313697231ba3d"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         }
       }
     },
@@ -1106,9 +1120,10 @@
             "sourceId": 180,
             "sourceDate": "2012-06-28",
             "rawChecksum": "a3116a1f3f14831e04deb5fb173e460ba526b18154eac22b2ad5671861b54a41",
-            "transformedChecksum": "6eb8786a25b06189f80262feda0088cd98c321e9f45f30ac26f354ad1ee9d2cf"
+            "correctionKeys": [],
+            "transformedChecksum": "8026d0018cb78e08c61444cd2ab3676bbf93679987ea70cc47a5eece5412e8e3"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         },
         "ro": {
           "title": "CREDINCIOȘIE ÎN LUCRURILE MICI",
@@ -1174,9 +1189,10 @@
             "sourceId": 180,
             "sourceDate": "2012-06-28",
             "rawChecksum": "5cfaabf176e3a6f391ad877f6b4a0ced6a0923376fd738d84a19b50b5ba71c33",
-            "transformedChecksum": "fbab519c5c48d7f043150004d22570e571ba5c187b8577d414f98cea70c9c04c"
+            "correctionKeys": [],
+            "transformedChecksum": "4bd1b69024eb2ea1334b8d29c08cbd04174317703e32d96327278865d83ed07e"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         }
       }
     },
@@ -1235,9 +1251,10 @@
             "sourceId": 237,
             "sourceDate": "2012-08-24",
             "rawChecksum": "59f5e1a15d7ac514ff87e4a73345853bf016b65bb25b2fdffb8b0882d17baa0d",
-            "transformedChecksum": "29aa64ea39d78e4dcf7280314d9edfb23e3c539f465317c0530dd04ce9572aa0"
+            "correctionKeys": [],
+            "transformedChecksum": "511ace467fda761803071dba51130020d3f5d202b1ba59b678e7e9706f267060"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         },
         "ro": {
           "title": "ÎN AȘTEPTAREA RĂSPUNSULUI LA RUGĂCIUNE",
@@ -1293,9 +1310,10 @@
             "sourceId": 237,
             "sourceDate": "2012-08-24",
             "rawChecksum": "45ac72fc0d95dd2e8b06004da65b34c4b204d314937d8d6dcb715028afcc96a3",
-            "transformedChecksum": "041ba0bf2c0bf3c26c7a5ccb5a03620e9712abdffacfd6ca83fc9274ad553365"
+            "correctionKeys": [],
+            "transformedChecksum": "33787aa2f5673cbb4e86dbbbc54a5e80f60be5c61cf0694e97871edfd387de77"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         }
       }
     },
@@ -1362,9 +1380,10 @@
             "sourceId": 293,
             "sourceDate": "2012-10-19",
             "rawChecksum": "38b8b791299708706c5215d27f73dc0eccf2e8ca1058b6b13c02e89d8975366c",
-            "transformedChecksum": "554be716608aceef9715a3a9f6572527debfc94a1ea6bddbecd6258b0704f400"
+            "correctionKeys": [],
+            "transformedChecksum": "397c32266d14a0133d7a66f3f88b68e553cc9673b6b8d10ad8a215fda45e1733"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         },
         "ro": {
           "title": "CUM SĂ-ȚI FOLOSEȘTI BINE TIMPUL",
@@ -1430,9 +1449,10 @@
             "sourceId": 293,
             "sourceDate": "2012-10-19",
             "rawChecksum": "2f6b49735233627e6c33e73d822adba047f882255ef4bfec376e1a9e63559863",
-            "transformedChecksum": "a10808af6aed470cd69ba04a14a75e5686d0558aac4f97b7c2bebff3386a7531"
+            "correctionKeys": [],
+            "transformedChecksum": "4bc41ecb3d4659b7600b4d4035544e6687b7061e11a98c86fba848b4a84bdd26"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         }
       }
     },
@@ -1500,9 +1520,10 @@
             "sourceId": 366,
             "sourceDate": "2012-12-31",
             "rawChecksum": "7a5c4e3ca1abaa1d47a2228f6a620a298441a94aa7e5c8c6b0b397d0ea9d87d5",
-            "transformedChecksum": "f02c0e829ff63edc251ff3f96c5f61da38d5b55fe4b18bc80d6131b7b97289d5"
+            "correctionKeys": [],
+            "transformedChecksum": "8923f8a110c067f02638a8cd13eac258da90133eef65201e03967334bee52a5e"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         },
         "ro": {
           "title": "SĂ FACEM INVENTARUL",
@@ -1628,9 +1649,10 @@
             "sourceId": 366,
             "sourceDate": "2012-12-31",
             "rawChecksum": "33b89b51011b20935b58ff2dc940b56302db01c3da3834955bcf9992015fb432",
-            "transformedChecksum": "aa493d3fa329f8e901bc810ad7365a524d0fb244b1fb8b7b16c49036513bdf9b"
+            "correctionKeys": [],
+            "transformedChecksum": "bc00f2ccd500644b0a103e92ef6b531f13ed78d3e21ac75aaafc034f89c6b46a"
           },
-          "contentVersion": "c743c726cc11395e"
+          "contentVersion": "f191b68534abd199"
         }
       }
     }

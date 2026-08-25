@@ -1,0 +1,61 @@
+{
+  "contentVersion": "f191b68534abd199",
+  "locale": "en",
+  "readings": [
+    {
+      "id": 1,
+      "monthDay": "01-01",
+      "title": "Keep challenging yourself!"
+    },
+    {
+      "id": 19,
+      "monthDay": "01-19",
+      "title": "God’s gold mines"
+    },
+    {
+      "id": 58,
+      "monthDay": "02-27",
+      "title": "The price of truth"
+    },
+    {
+      "id": 59,
+      "monthDay": "02-28",
+      "title": "Wounded to be fruitful"
+    },
+    {
+      "id": 60,
+      "monthDay": "02-29",
+      "title": "Overcoming the world"
+    },
+    {
+      "id": 97,
+      "monthDay": "04-06",
+      "title": "Use or lose"
+    },
+    {
+      "id": 100,
+      "monthDay": "04-09",
+      "title": "God’s servants are joyful"
+    },
+    {
+      "id": 180,
+      "monthDay": "06-28",
+      "title": "Faithfulness in small things"
+    },
+    {
+      "id": 237,
+      "monthDay": "08-24",
+      "title": "Expecting answers to prayer"
+    },
+    {
+      "id": 293,
+      "monthDay": "10-19",
+      "title": "Right use of time"
+    },
+    {
+      "id": 366,
+      "monthDay": "12-31",
+      "title": "Taking inventory"
+    }
+  ]
+}

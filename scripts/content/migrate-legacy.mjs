@@ -82,11 +82,32 @@ function parseArgs(argv) {
     throw new Error('At least one reading ID is required.');
   }
 
+  if (new Set(result.ids).size !== result.ids.length) {
+    throw new Error('Reading IDs must be unique.');
+  }
+
+  if (result.ids.some((id) => id < 1 || id > 366)) {
+    throw new Error('Reading IDs must be between 1 and 366.');
+  }
+
   return result;
 }
 
 function sha256(value) {
   return createHash('sha256').update(value).digest('hex');
+}
+
+function formatJson(value) {
+  return `${JSON.stringify(value, null, 2)}\n`;
+}
+
+function countBy(values) {
+  return Object.fromEntries(
+    [...values.reduce((counts, value) => {
+      counts.set(value, (counts.get(value) ?? 0) + 1);
+      return counts;
+    }, new Map())].sort(([left], [right]) => left.localeCompare(right)),
+  );
 }
 
 function getTagName(node) {
@@ -262,7 +283,7 @@ function toBlocks(fragment) {
     const tagName = getTagName(node);
     const classNames = getClassNames(node);
 
-    if (tagName === 'div' && classNames.includes('c3')) {
+    if (tagName === 'div' && classNames.some((name) => ['c3', 'c6'].includes(name))) {
       poemLines.push(text);
       continue;
     }
@@ -313,7 +334,62 @@ function readRows(databasePath, ids) {
   }
 }
 
-function convertRow(row, database) {
+function loadCorrections(path) {
+  const manifest = JSON.parse(readFileSync(path, 'utf8'));
+  if (!Number.isInteger(manifest.version) || !Array.isArray(manifest.entries)) {
+    throw new Error('Corrections manifest must contain an integer version and entries array.');
+  }
+  return manifest;
+}
+
+function applyCorrections(row, locale, manifest) {
+  const corrected = { ...row };
+  const applied = [];
+  const entries = manifest.entries.filter(
+    (entry) => entry.locale === locale && entry.id === row.id,
+  );
+
+  for (const [index, entry] of entries.entries()) {
+    const correctionId = entry.key ?? `${locale}-${row.id}-${index + 1}`;
+    if (!['title', 'lesson', 'tags'].includes(entry.field)) {
+      throw new Error(`Correction ${correctionId} has an unsupported field.`);
+    }
+    if (
+      typeof entry.find !== 'string' ||
+      entry.find.length === 0 ||
+      typeof entry.replace !== 'string' ||
+      typeof entry.reason !== 'string' ||
+      entry.reason.length === 0
+    ) {
+      throw new Error(`Correction ${correctionId} is missing find, replace, or reason.`);
+    }
+
+    const value = corrected[entry.field] ?? '';
+    const occurrences = value.split(entry.find).length - 1;
+    if (occurrences !== 1) {
+      throw new Error(
+        `Correction ${correctionId} expected one source match, found ${occurrences}.`,
+      );
+    }
+    corrected[entry.field] = value.replace(entry.find, entry.replace);
+    applied.push({
+      key: correctionId,
+      locale,
+      id: row.id,
+      field: entry.field,
+      reason: entry.reason,
+    });
+  }
+
+  return { corrected, applied };
+}
+
+function convertRow(sourceRow, database, locale, correctionManifest) {
+  const { corrected: row, applied } = applyCorrections(
+    sourceRow,
+    locale,
+    correctionManifest,
+  );
   const rawFragment = parseFragment(row.lesson);
   const sanitized = sanitizeHtml(row.lesson);
   const sourceVisibleText = comparisonText(rawFragment);
@@ -330,7 +406,8 @@ function convertRow(row, database) {
       database,
       sourceId: row.id,
       sourceDate: row.date,
-      rawChecksum: sha256(JSON.stringify(row)),
+      rawChecksum: sha256(JSON.stringify(sourceRow)),
+      correctionKeys: applied.map((correction) => correction.key),
     },
   };
   translation.source.transformedChecksum = sha256(JSON.stringify(translation));
@@ -342,6 +419,7 @@ function convertRow(row, database) {
       sourceLength: sourceVisibleText.length,
       transformedLength: transformedVisibleText.length,
       replacementCharacterCount: (sourceVisibleText.match(/\uFFFD/g) ?? []).length,
+      appliedCorrections: applied,
       ...sanitized.anomaly,
     },
   };
@@ -351,8 +429,31 @@ function unique(values) {
   return [...new Set(values)].sort();
 }
 
+function duplicateTitles(readings, locale) {
+  const idsByTitle = new Map();
+  for (const reading of readings) {
+    const title = reading.translations[locale].title;
+    idsByTitle.set(title, [...(idsByTitle.get(title) ?? []), reading.id]);
+  }
+  return [...idsByTitle.entries()]
+    .filter(([, ids]) => ids.length > 1)
+    .map(([title, ids]) => ({ title, ids }))
+    .sort((left, right) => left.ids[0] - right.ids[0]);
+}
+
+function fileRecord(name, contents) {
+  return {
+    name,
+    bytes: Buffer.byteLength(contents),
+    sha256: sha256(contents),
+  };
+}
+
 function main() {
   const options = parseArgs(process.argv.slice(2));
+  const correctionPath = resolve(process.cwd(), 'scripts/content/corrections.json');
+  const correctionManifest = loadCorrections(correctionPath);
+  const correctionManifestChecksum = sha256(formatJson(correctionManifest));
   const sources = {
     en: { file: 'cdc.db', database: 'cdc.db' },
     ro: { file: 'cdc-ro.db', database: 'cdc-ro.db' },
@@ -370,11 +471,24 @@ function main() {
         `${locale} returned ${rows.length} rows for ${options.ids.length} requested IDs.`,
       );
     }
+    for (const row of rows) {
+      if (!row.title?.trim() || !row.lesson?.trim()) {
+        throw new Error(`${locale} reading ${row.id} has a blank title or lesson.`);
+      }
+    }
+  }
+
+  const requestedIds = [...options.ids].sort((left, right) => left - right);
+  if (options.ids.length === 366) {
+    const expectedIds = Array.from({ length: 366 }, (_, id) => id + 1);
+    if (JSON.stringify(requestedIds) !== JSON.stringify(expectedIds)) {
+      throw new Error('Full migration requires the contiguous ID set 1–366.');
+    }
   }
 
   const readings = [];
   const validations = [];
-  for (const id of options.ids) {
+  for (const id of requestedIds) {
     const englishRow = rowsByLocale.en.find((row) => row.id === id);
     const romanianRow = rowsByLocale.ro.find((row) => row.id === id);
     if (englishRow.date !== romanianRow.date) {
@@ -386,7 +500,12 @@ function main() {
       ['en', englishRow],
       ['ro', romanianRow],
     ]) {
-      const converted = convertRow(row, sources[locale].database);
+      const converted = convertRow(
+        row,
+        sources[locale].database,
+        locale,
+        correctionManifest,
+      );
       translations[locale] = converted.translation;
       validations.push({ id, locale, ...converted.validation });
     }
@@ -401,16 +520,19 @@ function main() {
 
   const contentVersion = sha256(
     JSON.stringify(
-      readings.map((reading) => ({
-        id: reading.id,
-        monthDay: reading.monthDay,
-        hashes: Object.fromEntries(
-          Object.entries(reading.translations).map(([locale, translation]) => [
-            locale,
-            translation.source.transformedChecksum,
-          ]),
-        ),
-      })),
+      {
+        correctionManifestChecksum,
+        readings: readings.map((reading) => ({
+          id: reading.id,
+          monthDay: reading.monthDay,
+          hashes: Object.fromEntries(
+            Object.entries(reading.translations).map(([locale, translation]) => [
+              locale,
+              translation.source.transformedChecksum,
+            ]),
+          ),
+        })),
+      },
     ),
   ).slice(0, 16);
 
@@ -421,13 +543,37 @@ function main() {
   }
 
   const failedTextParity = validations.filter((validation) => !validation.textMatches);
+  const mode = requestedIds.length === 366 ? 'full' : 'proof';
+  const unknownBlocks = Object.fromEntries(
+    Object.keys(sources).map((locale) => [
+      locale,
+      readings
+        .map((reading) => ({
+          id: reading.id,
+          count: reading.translations[locale].blocks.filter(
+            (block) => block.type === 'unknown',
+          ).length,
+        }))
+        .filter((entry) => entry.count > 0),
+    ]),
+  );
   const report = {
-    generatorVersion: 1,
-    mode: options.ids.length === 366 ? 'full' : 'proof',
+    generatorVersion: 2,
+    mode,
     contentVersion,
-    requestedIds: options.ids,
+    correctionManifest: {
+      version: correctionManifest.version,
+      checksum: correctionManifestChecksum,
+      entryCount: correctionManifest.entries.length,
+      applied: validations.flatMap((validation) => validation.appliedCorrections),
+    },
+    requestedIds,
     readingCount: readings.length,
     translationCount: readings.length * 2,
+    dateCoverage: {
+      uniqueMonthDays: new Set(readings.map((reading) => reading.monthDay)).size,
+      includesLeapDay: readings.some((reading) => reading.monthDay === '02-29'),
+    },
     textParity: {
       passed: validations.length - failedTextParity.length,
       failed: failedTextParity.length,
@@ -449,7 +595,14 @@ function main() {
       removedAttributes: unique(
         validations.flatMap((validation) => validation.removedAttributes),
       ),
+      removedAttributeCounts: countBy(
+        validations.flatMap((validation) => validation.removedAttributes),
+      ),
+      unknownBlocks,
     },
+    duplicateTitles: Object.fromEntries(
+      Object.keys(sources).map((locale) => [locale, duplicateTitles(readings, locale)]),
+    ),
     validations,
   };
 
@@ -457,17 +610,74 @@ function main() {
     throw new Error(`Visible-text parity failed for ${failedTextParity.length} translations.`);
   }
 
-  mkdirSync(options.out, { recursive: true });
-  writeFileSync(
-    resolve(options.out, 'readings.json'),
-    `${JSON.stringify({ contentVersion, readings }, null, 2)}\n`,
-  );
-  writeFileSync(resolve(options.out, 'report.json'), `${JSON.stringify(report, null, 2)}\n`);
+  if (mode === 'full' && report.dateCoverage.uniqueMonthDays !== 366) {
+    throw new Error('Full migration did not produce 366 unique month/day keys.');
+  }
 
-  const correctionPath = resolve(process.cwd(), 'scripts/content/corrections.json');
-  readFileSync(correctionPath, 'utf8');
+  const appliedCorrectionCount = report.correctionManifest.applied.length;
+  if (appliedCorrectionCount !== correctionManifest.entries.length) {
+    throw new Error(
+      `Applied ${appliedCorrectionCount} of ${correctionManifest.entries.length} corrections.`,
+    );
+  }
+
+  const readingsDocument = formatJson({ contentVersion, readings });
+  const catalogs = Object.fromEntries(
+    Object.keys(sources).map((locale) => [
+      locale,
+      formatJson({
+        contentVersion,
+        locale,
+        readings: readings.map((reading) => ({
+          id: reading.id,
+          monthDay: reading.monthDay,
+          title: reading.translations[locale].title,
+        })),
+      }),
+    ]),
+  );
+  const searchIndexes = Object.fromEntries(
+    Object.keys(sources).map((locale) => [
+      locale,
+      formatJson({
+        contentVersion,
+        locale,
+        readings: readings.map((reading) => ({
+          id: reading.id,
+          monthDay: reading.monthDay,
+          title: reading.translations[locale].title,
+          text: reading.translations[locale].plainText,
+        })),
+      }),
+    ]),
+  );
+  const reportDocument = formatJson(report);
+  const documents = {
+    'readings.json': readingsDocument,
+    'catalog.en.json': catalogs.en,
+    'catalog.ro.json': catalogs.ro,
+    'search.en.json': searchIndexes.en,
+    'search.ro.json': searchIndexes.ro,
+    'report.json': reportDocument,
+  };
+  const artifactManifest = formatJson({
+    generatorVersion: 2,
+    contentVersion,
+    correctionManifestChecksum,
+    readingCount: readings.length,
+    translationCount: readings.length * 2,
+    files: Object.entries(documents).map(([name, contents]) =>
+      fileRecord(name, contents),
+    ),
+  });
+
+  mkdirSync(options.out, { recursive: true });
+  for (const [name, contents] of Object.entries(documents)) {
+    writeFileSync(resolve(options.out, name), contents);
+  }
+  writeFileSync(resolve(options.out, 'manifest.json'), artifactManifest);
   process.stdout.write(
-    `Generated ${readings.length} bilingual proof readings at ${options.out}\n`,
+    `Generated ${readings.length} bilingual ${mode} readings at ${options.out}\n`,
   );
 }
 

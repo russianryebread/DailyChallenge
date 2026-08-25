@@ -1,0 +1,61 @@
+{
+  "contentVersion": "f191b68534abd199",
+  "locale": "ro",
+  "readings": [
+    {
+      "id": 1,
+      "monthDay": "01-01",
+      "title": "NU ÎNCETA SĂ TE PROVOCI SINGUR!"
+    },
+    {
+      "id": 19,
+      "monthDay": "01-19",
+      "title": "MINELE DE AUR ALE LUI DUMNEZEU"
+    },
+    {
+      "id": 58,
+      "monthDay": "02-27",
+      "title": "PREȚUL ADEVĂRULUI"
+    },
+    {
+      "id": 59,
+      "monthDay": "02-28",
+      "title": "RĂNIT PENTRU A FI MAI RODNIC"
+    },
+    {
+      "id": 60,
+      "monthDay": "02-29",
+      "title": "BIRUINȚA ASUPRA LUMII"
+    },
+    {
+      "id": 97,
+      "monthDay": "04-06",
+      "title": "FOLOSEȘTI SAU PIERZI?"
+    },
+    {
+      "id": 100,
+      "monthDay": "04-09",
+      "title": "SLUJITORII DOMNULUI SUNT PLINI DE BUCURIE"
+    },
+    {
+      "id": 180,
+      "monthDay": "06-28",
+      "title": "CREDINCIOȘIE ÎN LUCRURILE MICI"
+    },
+    {
+      "id": 237,
+      "monthDay": "08-24",
+      "title": "ÎN AȘTEPTAREA RĂSPUNSULUI LA RUGĂCIUNE"
+    },
+    {
+      "id": 293,
+      "monthDay": "10-19",
+      "title": "CUM SĂ-ȚI FOLOSEȘTI BINE TIMPUL"
+    },
+    {
+      "id": 366,
+      "monthDay": "12-31",
+      "title": "SĂ FACEM INVENTARUL"
+    }
+  ]
+}
