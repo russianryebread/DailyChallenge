@@ -1,14 +1,12 @@
-import { PlaceholderScreen } from '@/src/features/shell/PlaceholderScreen';
+import type { Metadata } from 'next';
+
+import { ArchiveCurrentView } from '@/src/features/archive/pages';
 import { messages } from '@/src/i18n/messages';
 
-export const metadata = { title: messages('en').tabs.archive };
+export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = { title: messages('en').tabs.archive };
 
 export default function ArchivePage() {
-  return (
-    <PlaceholderScreen
-      locale="en"
-      active="archive"
-      title={messages('en').tabs.archive}
-    />
-  );
+  return <ArchiveCurrentView locale="en" />;
 }

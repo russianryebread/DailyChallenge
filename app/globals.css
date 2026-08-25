@@ -325,6 +325,120 @@ a:focus-visible {
   text-decoration: none;
 }
 
+/* Archive / list screens */
+.list-screen {
+  position: relative;
+  min-height: 100svh;
+  background: var(--paper-0);
+}
+
+.list-header {
+  padding: calc(28px + var(--safe-top)) 24px 8px;
+  background: var(--paper-1);
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.list-eyebrow {
+  color: var(--apricot-500);
+}
+
+.list-header h1 {
+  margin: 6px 0 0;
+  color: var(--ink-900);
+  font: 300 clamp(2rem, 7vw, 2.6rem) / 1.08 var(--font-reading);
+  letter-spacing: -0.02em;
+}
+
+.month-picker {
+  display: flex;
+  gap: 8px;
+  margin: 18px -24px 0;
+  padding: 0 24px 16px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.month-picker::-webkit-scrollbar {
+  display: none;
+}
+
+.month-chip {
+  flex: 0 0 auto;
+  border: 1px solid var(--border-subtle);
+  border-radius: 999px;
+  padding: 8px 14px;
+  background: var(--paper-0);
+  color: var(--ink-500);
+  font: 600 0.8rem/1 var(--font-ui);
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.month-chip.active {
+  border-color: transparent;
+  background: var(--apricot-500);
+  color: var(--paper-0);
+}
+
+.reading-index {
+  width: min(100%, 40rem);
+  margin: 0 auto;
+  padding: 8px 12px calc(112px + var(--safe-bottom));
+  list-style: none;
+}
+
+.reading-index li {
+  margin: 0;
+}
+
+.index-row {
+  display: flex;
+  gap: 16px;
+  align-items: baseline;
+  padding: 16px 12px;
+  border-bottom: 1px solid var(--border-subtle);
+  color: var(--ink-900);
+  text-decoration: none;
+}
+
+.index-day {
+  flex: 0 0 auto;
+  width: 1.8em;
+  color: var(--apricot-500);
+  font: 600 1.05rem/1 var(--font-ui);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.index-body {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.index-title {
+  color: var(--ink-900);
+  font: 400 1.15rem/1.3 var(--font-reading);
+}
+
+.index-meta {
+  color: var(--ink-500);
+  font: 600 0.7rem/1 var(--font-ui);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+@media (min-width: 760px) {
+  .list-screen {
+    width: min(100%, 800px);
+    min-height: calc(100svh - 64px);
+    margin: 0 auto;
+    border-radius: 28px;
+    overflow: hidden;
+    box-shadow: 0 24px 60px -28px rgba(58, 42, 34, 0.3);
+  }
+}
+
 .publisher-credit {
   margin-top: 36px;
   border-top: 1px solid var(--border-subtle);

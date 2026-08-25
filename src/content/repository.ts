@@ -94,3 +94,23 @@ export function localizedForDate(
 ): LocalizedReading | undefined {
   return localizedByMonthDay(toMonthDay(date), locale);
 }
+
+export interface MonthEntry {
+  id: number;
+  monthDay: string;
+  day: number;
+  title: string;
+}
+
+/** Catalog entries for one zero-padded month ("01"–"12"), in calendar order. */
+export function readingsInMonth(month: string, locale: Locale): MonthEntry[] {
+  return [...library.readings]
+    .filter((reading) => reading.monthDay.startsWith(`${month}-`))
+    .sort((left, right) => left.monthDay.localeCompare(right.monthDay))
+    .map((reading) => ({
+      id: reading.id,
+      monthDay: reading.monthDay,
+      day: Number.parseInt(reading.monthDay.slice(3), 10),
+      title: reading.translations[locale].title,
+    }));
+}

@@ -98,6 +98,19 @@ export function formatFullDate(
   }).format(date);
 }
 
+/** Localized month name for a 1-based month number. */
+export function monthName(
+  month: number,
+  locale: Locale,
+  style: 'long' | 'short' = 'long',
+): string {
+  const date = new Date(Date.UTC(2012, month - 1, 1));
+  return new Intl.DateTimeFormat(INTL_LOCALE[locale], {
+    month: style,
+    timeZone: 'UTC',
+  }).format(date);
+}
+
 /** Estimated reading time in whole minutes (>= 1) at ~200 words per minute. */
 export function readingMinutes(plainText: string): number {
   const words = plainText.trim().split(/\s+/).filter(Boolean).length;
