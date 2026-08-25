@@ -1,14 +1,11 @@
-import { PlaceholderScreen } from '@/src/features/shell/PlaceholderScreen';
+import type { Metadata } from 'next';
+
+import { catalog } from '@/src/content/repository';
+import { SavedScreen } from '@/src/features/saved/SavedScreen';
 import { messages } from '@/src/i18n/messages';
 
-export const metadata = { title: messages('ro').tabs.saved };
+export const metadata: Metadata = { title: messages('ro').tabs.saved };
 
 export default function SavedPageRo() {
-  return (
-    <PlaceholderScreen
-      locale="ro"
-      active="saved"
-      title={messages('ro').tabs.saved}
-    />
-  );
+  return <SavedScreen locale="ro" catalog={catalog('ro')} />;
 }

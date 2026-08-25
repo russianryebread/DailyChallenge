@@ -6,6 +6,7 @@ import Link from 'next/link';
 import type { Locale } from '@/src/core/types';
 import { messages } from '@/src/i18n/messages';
 import { TabBar } from '@/src/features/shell/TabBar';
+import { AppMenu } from '@/src/features/shell/AppMenu';
 import { fold, queryTerms } from './normalize';
 
 interface IndexEntry {
@@ -122,7 +123,10 @@ export function SearchScreen({
     <main className="app-shell">
       <section className="list-screen search-screen" aria-label={copy.search.label}>
         <header className="list-header">
-          <p className="eyebrow list-eyebrow">{copy.tabs.archive}</p>
+          <div className="list-header-top">
+            <p className="eyebrow list-eyebrow">{copy.tabs.archive}</p>
+            <AppMenu locale={locale} active="archive" />
+          </div>
           <form className="search-field" role="search" onSubmit={(event) => event.preventDefault()}>
             <input
               type="search"

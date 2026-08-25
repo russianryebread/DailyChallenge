@@ -276,13 +276,18 @@ a:focus-visible {
   text-align: right;
 }
 
+/* Previous/next is opt-in via Settings (data-prevnext="on" on <html>). */
 .reading-nav {
-  display: flex;
+  display: none;
   align-items: center;
   gap: 12px;
   margin-top: 40px;
   border-top: 1px solid var(--border-subtle);
   padding-top: 12px;
+}
+
+:root[data-prevnext='on'] .reading-nav {
+  display: flex;
 }
 
 .reading-nav-link {
@@ -636,12 +641,20 @@ a:focus-visible {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  gap: 0;
+  gap: 3px;
   border-radius: 12px;
   color: var(--ink-500);
-  font-size: 0.75rem;
+  font-size: 0.68rem;
   font-weight: 600;
   text-decoration: none;
+}
+
+.tab-icon {
+  display: block;
+}
+
+.tab-label {
+  letter-spacing: 0.01em;
 }
 
 .tab.active {
@@ -678,6 +691,166 @@ a:focus-visible {
     border: 1px solid var(--border-subtle);
     border-radius: 0 0 28px 28px;
     padding-bottom: 5px;
+  }
+}
+
+/* Save button pressed state */
+.save-button.is-saved {
+  color: var(--apricot-200);
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Desktop navigation menu (hidden on mobile; replaces the bottom tab bar) */
+.app-menu {
+  display: none;
+  position: relative;
+}
+
+.app-menu-button {
+  display: inline-grid;
+  width: 40px;
+  height: 40px;
+  place-items: center;
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+  background: var(--paper-0);
+  color: var(--ink-700);
+  cursor: pointer;
+}
+
+.reading-hero .app-menu-button {
+  border-color: rgba(255, 253, 251, 0.28);
+  background: rgba(255, 253, 251, 0.14);
+  color: var(--paper-0);
+}
+
+.app-menu-popover {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 8px);
+  z-index: 20;
+  min-width: 208px;
+  padding: 8px;
+  border: 1px solid var(--border-subtle);
+  border-radius: 16px;
+  background: var(--paper-0);
+  box-shadow: 0 20px 44px -20px rgba(42, 35, 32, 0.45);
+}
+
+.app-menu-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 44px;
+  padding: 8px 12px;
+  border-radius: 10px;
+  color: var(--ink-700);
+  font: 600 0.95rem/1 var(--font-ui);
+  text-decoration: none;
+}
+
+.app-menu-item:hover {
+  background: var(--paper-1);
+}
+
+.app-menu-item.active {
+  color: var(--apricot-500);
+}
+
+/* Saved */
+.saved-empty {
+  width: min(100%, 40rem);
+  margin: 0 auto;
+  padding: 32px 24px;
+  color: var(--ink-500);
+  font: 400 1.1rem/1.6 var(--font-reading);
+  text-align: center;
+}
+
+.reading-index .saved-row {
+  display: flex;
+  align-items: center;
+}
+
+.saved-row .index-row {
+  flex: 1;
+}
+
+.saved-remove {
+  display: grid;
+  width: 44px;
+  height: 44px;
+  place-items: center;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--apricot-500);
+  cursor: pointer;
+}
+
+/* Settings switch */
+.setting-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.setting-row-label {
+  margin: 0;
+}
+
+.switch {
+  flex: 0 0 auto;
+  width: 52px;
+  height: 32px;
+  padding: 3px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--border-subtle);
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.switch.on {
+  background: var(--apricot-500);
+}
+
+.switch-thumb {
+  display: block;
+  width: 26px;
+  height: 26px;
+  border-radius: 999px;
+  background: var(--paper-0);
+  box-shadow: 0 1px 3px rgba(42, 35, 32, 0.3);
+  transition: transform 0.15s ease;
+}
+
+.switch.on .switch-thumb {
+  transform: translateX(20px);
+}
+
+/* Desktop: replace the bottom tab bar with the dropdown menu */
+@media (min-width: 760px) {
+  .tab-bar {
+    display: none;
+  }
+
+  .app-menu {
+    display: block;
+  }
+
+  .reading-content,
+  .reading-index,
+  .search-results,
+  .settings-body,
+  .saved-empty {
+    padding-bottom: 56px;
   }
 }
 

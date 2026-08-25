@@ -2,6 +2,7 @@ import Link from 'next/link';
 
 import type { Locale } from '@/src/core/types';
 import { messages } from '@/src/i18n/messages';
+import { Icon, type IconName } from './icons';
 
 export type TabKey = 'today' | 'archive' | 'saved' | 'settings';
 
@@ -14,11 +15,11 @@ export function TabBar({
 }) {
   const prefix = locale === 'ro' ? '/ro' : '';
   const copy = messages(locale);
-  const tabs: { key: TabKey; label: string; href: string }[] = [
-    { key: 'today', label: copy.tabs.today, href: `${prefix}/today` },
-    { key: 'archive', label: copy.tabs.archive, href: `${prefix}/archive` },
-    { key: 'saved', label: copy.tabs.saved, href: `${prefix}/saved` },
-    { key: 'settings', label: copy.tabs.settings, href: `${prefix}/settings` },
+  const tabs: { key: TabKey; label: string; href: string; icon: IconName }[] = [
+    { key: 'today', label: copy.tabs.today, href: `${prefix}/today`, icon: 'today' },
+    { key: 'archive', label: copy.tabs.archive, href: `${prefix}/archive`, icon: 'archive' },
+    { key: 'saved', label: copy.tabs.saved, href: `${prefix}/saved`, icon: 'saved' },
+    { key: 'settings', label: copy.tabs.settings, href: `${prefix}/settings`, icon: 'settings' },
   ];
 
   return (
@@ -32,7 +33,8 @@ export function TabBar({
             key={tab.key}
             aria-current={isActive ? 'page' : undefined}
           >
-            {tab.label}
+            <Icon name={isActive && tab.key === 'saved' ? 'saved-fill' : tab.icon} size={24} className="tab-icon" />
+            <span className="tab-label">{tab.label}</span>
           </Link>
         );
       })}

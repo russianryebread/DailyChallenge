@@ -1,16 +1,21 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 
 import type { Locale } from '@/src/core/types';
 import { messages } from '@/src/i18n/messages';
 import { TabBar } from '@/src/features/shell/TabBar';
+import { AppMenu } from '@/src/features/shell/AppMenu';
 import {
+  applyPrevNext,
   applyTextSize,
   applyTheme,
+  readPrevNext,
   readTextSize,
   readTheme,
+  savePrevNext,
+  saveLocale,
   saveTextSize,
   saveTheme,
   type TextSize,
@@ -54,18 +59,30 @@ function SegmentedControl<T extends string>({
 
 export function SettingsScreen({ locale }: { locale: Locale }) {
   const copy = messages(locale);
+  const router = useRouter();
   const [theme, setTheme] = useState<ThemeChoice>('system');
   const [textSize, setTextSize] = useState<TextSize>('medium');
+  const [prevNext, setPrevNext] = useState(false);
 
   // Read persisted values after mount to avoid a hydration mismatch; the
-  // no-flash script has already applied them to the document, so this only
-  // syncs the control UI. Post-mount setState is intentional here.
+  // no-flash script has already applied them to the document.
   /* eslint-disable react-hooks/set-state-in-effect */
   useEffect(() => {
     setTheme(readTheme());
     setTextSize(readTextSize());
+    setPrevNext(readPrevNext());
   }, []);
   /* eslint-enable react-hooks/set-state-in-effect */
+
+  useEffect(() => {
+    applyTheme(theme);
+  }, [theme]);
+  useEffect(() => {
+    applyTextSize(textSize);
+  }, [textSize]);
+  useEffect(() => {
+    applyPrevNext(prevNext);
+  }, [prevNext]);
 
   function changeTheme(next: ThemeChoice) {
     setTheme(next);
@@ -77,19 +94,28 @@ export function SettingsScreen({ locale }: { locale: Locale }) {
     saveTextSize(next);
   }
 
-  // Keep the document in sync if state is set programmatically.
-  useEffect(() => {
-    applyTheme(theme);
-  }, [theme]);
-  useEffect(() => {
-    applyTextSize(textSize);
-  }, [textSize]);
+  function togglePrevNext() {
+    const next = !prevNext;
+    setPrevNext(next);
+    savePrevNext(next);
+  }
+
+  function changeLocale(next: Locale) {
+    if (next === locale) {
+      return;
+    }
+    saveLocale(next);
+    router.push(next === 'ro' ? '/ro/settings' : '/settings');
+  }
 
   return (
     <main className="app-shell">
       <section className="list-screen settings-screen" aria-label={copy.tabs.settings}>
         <header className="list-header">
-          <p className="eyebrow list-eyebrow">{copy.tabs.settings}</p>
+          <div className="list-header-top">
+            <p className="eyebrow list-eyebrow">{copy.tabs.settings}</p>
+            <AppMenu locale={locale} active="settings" />
+          </div>
           <h1>{copy.tabs.settings}</h1>
         </header>
 
@@ -118,27 +144,48 @@ export function SettingsScreen({ locale }: { locale: Locale }) {
 
           <fieldset className="setting-group">
             <legend className="setting-legend">{copy.settings.language}</legend>
-            <div className="segmented" role="group" aria-label={copy.settings.language}>
-              <Link
+            <div className="segmented" role="radiogroup" aria-label={copy.settings.language}>
+              <button
+                type="button"
                 className={locale === 'en' ? 'segment active' : 'segment'}
-                href="/settings"
-                aria-current={locale === 'en' ? 'true' : undefined}
-                hrefLang="en"
+                role="radio"
+                aria-checked={locale === 'en'}
+                onClick={() => changeLocale('en')}
               >
                 English
-              </Link>
-              <Link
+              </button>
+              <button
+                type="button"
                 className={locale === 'ro' ? 'segment active' : 'segment'}
-                href="/ro/settings"
-                aria-current={locale === 'ro' ? 'true' : undefined}
-                hrefLang="ro"
+                role="radio"
+                aria-checked={locale === 'ro'}
+                onClick={() => changeLocale('ro')}
               >
                 Română
-              </Link>
+              </button>
             </div>
           </fieldset>
 
-          <p className="settings-sample" aria-hidden="true" style={{ fontSize: 'var(--reading-size)' }}>
+          <div className="setting-row">
+            <span className="setting-legend setting-row-label">
+              {copy.settings.prevNext}
+            </span>
+            <button
+              type="button"
+              role="switch"
+              aria-checked={prevNext}
+              className={prevNext ? 'switch on' : 'switch'}
+              onClick={togglePrevNext}
+            >
+              <span className="switch-thumb" />
+            </button>
+          </div>
+
+          <p
+            className="settings-sample"
+            aria-hidden="true"
+            style={{ fontSize: 'var(--reading-size)' }}
+          >
             {locale === 'ro'
               ? 'Credința este substanța lucrurilor nădăjduite.'
               : 'Faith is the substance of things hoped for.'}

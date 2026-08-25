@@ -4,9 +4,12 @@
 
 export type ThemeChoice = 'system' | 'light' | 'dark';
 export type TextSize = 'small' | 'medium' | 'large';
+export type Locale = 'en' | 'ro';
 
 export const THEME_KEY = 'dc-theme';
 export const TEXT_KEY = 'dc-text';
+export const LOCALE_KEY = 'dc-locale';
+export const PREVNEXT_KEY = 'dc-prevnext';
 
 export const READING_SIZES: Record<TextSize, string> = {
   small: '17px',
@@ -72,7 +75,72 @@ export function saveTextSize(size: TextSize): void {
 }
 
 /**
+ * The reader locale. A stored choice always wins; otherwise the browser's
+ * preferred languages are auto-detected (Romanian when any starts with "ro").
+ */
+export function detectLocale(): Locale {
+  try {
+    const languages =
+      navigator.languages && navigator.languages.length > 0
+        ? navigator.languages
+        : [navigator.language];
+    return languages.some((tag) => tag.toLowerCase().startsWith('ro'))
+      ? 'ro'
+      : 'en';
+  } catch {
+    return 'en';
+  }
+}
+
+export function readLocale(): Locale {
+  try {
+    const stored = localStorage.getItem(LOCALE_KEY);
+    if (stored === 'en' || stored === 'ro') {
+      return stored;
+    }
+  } catch {
+    /* fall through to detection */
+  }
+  return detectLocale();
+}
+
+export function saveLocale(locale: Locale): void {
+  try {
+    localStorage.setItem(LOCALE_KEY, locale);
+  } catch {
+    /* storage unavailable — honoured for this session via navigation only */
+  }
+}
+
+/** Whether the reader shows previous/next controls (off by default). */
+export function readPrevNext(): boolean {
+  try {
+    return localStorage.getItem(PREVNEXT_KEY) === 'on';
+  } catch {
+    return false;
+  }
+}
+
+export function applyPrevNext(enabled: boolean): void {
+  const root = document.documentElement;
+  if (enabled) {
+    root.setAttribute('data-prevnext', 'on');
+  } else {
+    root.removeAttribute('data-prevnext');
+  }
+}
+
+export function savePrevNext(enabled: boolean): void {
+  try {
+    localStorage.setItem(PREVNEXT_KEY, enabled ? 'on' : 'off');
+  } catch {
+    /* storage unavailable — apply for this session only */
+  }
+  applyPrevNext(enabled);
+}
+
+/**
  * Inline script that runs before first paint to prevent a theme/size flash.
  * Kept as a literal string so it can be injected without hydration.
  */
-export const NO_FLASH_SCRIPT = `(function(){try{var d=document.documentElement;var t=localStorage.getItem('${THEME_KEY}');if(t==='light'||t==='dark'){d.setAttribute('data-theme',t);}var s=localStorage.getItem('${TEXT_KEY}');var m={small:'17px',medium:'19px',large:'20px'};if(s&&m[s]){d.style.setProperty('--reading-size',m[s]);}}catch(e){}})();`;
+export const NO_FLASH_SCRIPT = `(function(){try{var d=document.documentElement;var t=localStorage.getItem('${THEME_KEY}');if(t==='light'||t==='dark'){d.setAttribute('data-theme',t);}var s=localStorage.getItem('${TEXT_KEY}');var m={small:'17px',medium:'19px',large:'20px'};if(s&&m[s]){d.style.setProperty('--reading-size',m[s]);}if(localStorage.getItem('${PREVNEXT_KEY}')==='on'){d.setAttribute('data-prevnext','on');}}catch(e){}})();`;

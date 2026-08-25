@@ -20,6 +20,8 @@ export interface Messages {
   languageName: string;
   otherLanguage: string;
   comingSoon: string;
+  menu: string;
+  savedEmpty: string;
   search: {
     label: string;
     placeholder: string;
@@ -38,6 +40,7 @@ export interface Messages {
     textMedium: string;
     textLarge: string;
     language: string;
+    prevNext: string;
   };
 }
 
@@ -65,6 +68,8 @@ const CATALOG: Record<Locale, Messages> = {
     languageName: 'English',
     otherLanguage: 'Română',
     comingSoon: 'Coming soon',
+    menu: 'Menu',
+    savedEmpty: 'Readings you save appear here. Tap the bookmark on any reading.',
     search: {
       label: 'Search readings',
       placeholder: 'Search readings',
@@ -83,6 +88,7 @@ const CATALOG: Record<Locale, Messages> = {
       textMedium: 'Medium',
       textLarge: 'Large',
       language: 'Language',
+      prevNext: 'Show previous / next buttons',
     },
   },
   ro: {
@@ -108,6 +114,8 @@ const CATALOG: Record<Locale, Messages> = {
     languageName: 'Română',
     otherLanguage: 'English',
     comingSoon: 'În curând',
+    menu: 'Meniu',
+    savedEmpty: 'Lecturile salvate apar aici. Atinge semnul de carte de pe orice lectură.',
     search: {
       label: 'Caută în lecturi',
       placeholder: 'Caută în lecturi',
@@ -127,6 +135,7 @@ const CATALOG: Record<Locale, Messages> = {
       textMedium: 'Mediu',
       textLarge: 'Mare',
       language: 'Limbă',
+      prevNext: 'Arată butoanele anterior / următor',
     },
   },
 };

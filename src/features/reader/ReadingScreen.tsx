@@ -8,7 +8,10 @@ import {
   readingMinutes,
 } from '@/src/i18n/messages';
 import { TabBar } from '@/src/features/shell/TabBar';
+import { AppMenu } from '@/src/features/shell/AppMenu';
 import { Blocks } from './Blocks';
+import { SaveButton } from './SaveButton';
+import { ReadingTracker } from './ReadingTracker';
 
 function localePrefix(locale: Locale): string {
   return locale === 'ro' ? '/ro' : '';
@@ -62,28 +65,27 @@ export function ReadingScreen({
 }) {
   const { locale } = reading;
   const copy = messages(locale);
-  const otherLocale: Locale = locale === 'en' ? 'ro' : 'en';
+  const prefix = localePrefix(locale);
   const dateLabel = formatFullDate(reading.monthDay, year, locale).toUpperCase();
   const minutes = readingMinutes(reading.plainText);
 
   return (
     <main className="app-shell">
+      <ReadingTracker monthDay={reading.monthDay} />
       <section className="reading-screen" aria-label={reading.title}>
         <header className="reading-hero">
           <nav className="app-bar" aria-label={copy.wordmark}>
             <span className="wordmark">{copy.wordmark}</span>
             <div className="app-actions">
+              <SaveButton monthDay={reading.monthDay} locale={locale} />
               <Link
-                className="icon-button lang-toggle"
-                href={`${otherLocale === 'ro' ? '/ro' : ''}/devotional/${reading.id}`}
-                aria-label={copy.otherLanguage}
-                hrefLang={otherLocale}
+                className="icon-button"
+                href={`${prefix}/settings`}
+                aria-label={copy.readerSettings}
               >
-                {otherLocale === 'ro' ? 'RO' : 'EN'}
-              </Link>
-              <button className="icon-button" type="button" aria-label={copy.readerSettings}>
                 Aa
-              </button>
+              </Link>
+              <AppMenu locale={locale} active="today" />
             </div>
           </nav>
 

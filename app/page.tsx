@@ -1,7 +1,26 @@
-import { redirect } from 'next/navigation';
+'use client';
 
-// First release opens directly on Today for returning web users. A dedicated
-// first-use Welcome screen is a later delivery stage.
-export default function RootPage() {
-  redirect('/today');
+import { useEffect } from 'react';
+import { useRouter } from 'next/navigation';
+
+import { readLocale } from '@/src/features/settings/preferences';
+
+// Entry gateway: respect a saved language choice, otherwise auto-detect from the
+// browser, then open that locale's Today. A no-JS fallback links to English.
+export default function RootGateway() {
+  const router = useRouter();
+
+  useEffect(() => {
+    const locale = readLocale();
+    router.replace(locale === 'ro' ? '/ro/today' : '/today');
+  }, [router]);
+
+  return (
+    <main className="app-shell">
+      <section className="reading-screen" aria-busy="true" />
+      <noscript>
+        <a href="/today">Open today’s reading</a>
+      </noscript>
+    </main>
+  );
 }
