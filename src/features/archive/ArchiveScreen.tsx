@@ -27,7 +27,12 @@ export function ArchiveScreen({
     <main className="app-shell">
       <section className="list-screen" aria-label={copy.tabs.archive}>
         <header className="list-header">
-          <p className="eyebrow list-eyebrow">{copy.tabs.archive}</p>
+          <div className="list-header-top">
+            <p className="eyebrow list-eyebrow">{copy.tabs.archive}</p>
+            <Link className="header-search-link" href={`${prefix}/search`}>
+              {copy.search.label}
+            </Link>
+          </div>
           <h1>{monthName(month, locale)}</h1>
           <nav className="month-picker" aria-label={copy.tabs.archive}>
             {MONTHS.map((candidate) => {

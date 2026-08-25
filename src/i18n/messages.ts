@@ -20,6 +20,14 @@ export interface Messages {
   languageName: string;
   otherLanguage: string;
   comingSoon: string;
+  search: {
+    label: string;
+    placeholder: string;
+    hint: string;
+    loading: string;
+    noResults: string;
+    resultCount: (count: number) => string;
+  };
 }
 
 const CATALOG: Record<Locale, Messages> = {
@@ -46,6 +54,14 @@ const CATALOG: Record<Locale, Messages> = {
     languageName: 'English',
     otherLanguage: 'Română',
     comingSoon: 'Coming soon',
+    search: {
+      label: 'Search readings',
+      placeholder: 'Search readings',
+      hint: 'Search by title or words in the reading.',
+      loading: 'Loading search…',
+      noResults: 'No readings match your search.',
+      resultCount: (count) => `${count} ${count === 1 ? 'result' : 'results'}`,
+    },
   },
   ro: {
     wordmark: 'Provocarea Zilnică a Creștinului',
@@ -70,6 +86,15 @@ const CATALOG: Record<Locale, Messages> = {
     languageName: 'Română',
     otherLanguage: 'English',
     comingSoon: 'În curând',
+    search: {
+      label: 'Caută în lecturi',
+      placeholder: 'Caută în lecturi',
+      hint: 'Caută după titlu sau cuvinte din lectură.',
+      loading: 'Se încarcă căutarea…',
+      noResults: 'Nicio lectură nu corespunde căutării.',
+      resultCount: (count) =>
+        `${count} ${count === 1 ? 'rezultat' : 'rezultate'}`,
+    },
   },
 };
 
