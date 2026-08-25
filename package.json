@@ -9,6 +9,7 @@
     "dev": "vinext dev",
     "build": "vinext build && node scripts/gen-sw-manifest.mjs",
     "start": "vinext start",
+    "deploy": "npm run build && node scripts/patch-wrangler.mjs && wrangler deploy --config dist/server/wrangler.json",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "content:proof": "node scripts/content/migrate-legacy.mjs",
     "content:migrate": "node scripts/content/migrate-legacy.mjs --all --out src/content/generated/full --runtime-out public/content",
