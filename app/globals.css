@@ -16,8 +16,39 @@
   --surface-glass: rgba(255, 253, 251, 0.78);
   --font-reading: 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
   --font-ui: 'Avenir Next', Avenir, 'Helvetica Neue', system-ui, sans-serif;
+  --reading-size: 1.1875rem;
   --safe-top: env(safe-area-inset-top, 0px);
   --safe-bottom: env(safe-area-inset-bottom, 0px);
+  color-scheme: light;
+}
+
+/* Dark theme: warm charcoal/brown surfaces, never cool blue-grey or pure black.
+   System dark applies unless the reader has explicitly chosen Light; an explicit
+   Dark choice wins in either direction. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --paper-0: #211b18;
+    --paper-1: #1a1512;
+    --paper-2: #2b231f;
+    --ink-900: #f4ece4;
+    --ink-700: #dccec3;
+    --ink-500: #a2938a;
+    --border-subtle: #362d27;
+    --surface-glass: rgba(26, 21, 18, 0.82);
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme='dark'] {
+  --paper-0: #211b18;
+  --paper-1: #1a1512;
+  --paper-2: #2b231f;
+  --ink-900: #f4ece4;
+  --ink-700: #dccec3;
+  --ink-500: #a2938a;
+  --border-subtle: #362d27;
+  --surface-glass: rgba(26, 21, 18, 0.82);
+  color-scheme: dark;
 }
 
 * {
@@ -156,7 +187,7 @@ a:focus-visible {
   width: min(100%, 40rem);
   margin: 0 auto;
   padding: 38px 24px calc(112px + var(--safe-bottom));
-  font: 400 1.1875rem/1.68 var(--font-reading);
+  font: 400 var(--reading-size, 1.1875rem) / 1.68 var(--font-reading);
 }
 
 .reading-content > p {
@@ -492,6 +523,73 @@ a:focus-visible {
 .index-excerpt {
   color: var(--ink-500);
   font: 400 0.95rem/1.45 var(--font-reading);
+}
+
+/* Settings */
+.settings-body {
+  width: min(100%, 40rem);
+  margin: 0 auto;
+  padding: 24px 24px calc(112px + var(--safe-bottom));
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.setting-group {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.setting-legend {
+  padding: 0;
+  margin-bottom: 10px;
+  color: var(--ink-500);
+  font: 600 0.72rem/1 var(--font-ui);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.segmented {
+  display: flex;
+  gap: 4px;
+  padding: 4px;
+  border: 1px solid var(--border-subtle);
+  border-radius: 14px;
+  background: var(--paper-1);
+}
+
+.segment {
+  flex: 1;
+  min-height: 44px;
+  border: 0;
+  border-radius: 10px;
+  background: transparent;
+  color: var(--ink-700);
+  font: 600 0.9rem/1 var(--font-ui);
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.segment.active {
+  background: var(--paper-0);
+  color: var(--apricot-500);
+  box-shadow: 0 1px 3px rgba(42, 35, 32, 0.12);
+}
+
+.settings-sample {
+  margin: 4px 0 0;
+  padding: 20px;
+  border: 1px solid var(--border-subtle);
+  border-radius: 16px;
+  background: var(--paper-0);
+  color: var(--ink-700);
+  font-family: var(--font-reading);
+  line-height: 1.68;
 }
 
 @media (min-width: 760px) {

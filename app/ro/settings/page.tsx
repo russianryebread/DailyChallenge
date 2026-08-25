@@ -1,14 +1,10 @@
-import { PlaceholderScreen } from '@/src/features/shell/PlaceholderScreen';
+import type { Metadata } from 'next';
+
+import { SettingsScreen } from '@/src/features/settings/SettingsScreen';
 import { messages } from '@/src/i18n/messages';
 
-export const metadata = { title: messages('ro').tabs.settings };
+export const metadata: Metadata = { title: messages('ro').tabs.settings };
 
 export default function SettingsPageRo() {
-  return (
-    <PlaceholderScreen
-      locale="ro"
-      active="settings"
-      title={messages('ro').tabs.settings}
-    />
-  );
+  return <SettingsScreen locale="ro" />;
 }

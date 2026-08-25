@@ -28,6 +28,17 @@ export interface Messages {
     noResults: string;
     resultCount: (count: number) => string;
   };
+  settings: {
+    theme: string;
+    themeSystem: string;
+    themeLight: string;
+    themeDark: string;
+    textSize: string;
+    textSmall: string;
+    textMedium: string;
+    textLarge: string;
+    language: string;
+  };
 }
 
 const CATALOG: Record<Locale, Messages> = {
@@ -62,6 +73,17 @@ const CATALOG: Record<Locale, Messages> = {
       noResults: 'No readings match your search.',
       resultCount: (count) => `${count} ${count === 1 ? 'result' : 'results'}`,
     },
+    settings: {
+      theme: 'Theme',
+      themeSystem: 'System',
+      themeLight: 'Light',
+      themeDark: 'Dark',
+      textSize: 'Reading text size',
+      textSmall: 'Small',
+      textMedium: 'Medium',
+      textLarge: 'Large',
+      language: 'Language',
+    },
   },
   ro: {
     wordmark: 'Provocarea Zilnică a Creștinului',
@@ -94,6 +116,17 @@ const CATALOG: Record<Locale, Messages> = {
       noResults: 'Nicio lectură nu corespunde căutării.',
       resultCount: (count) =>
         `${count} ${count === 1 ? 'rezultat' : 'rezultate'}`,
+    },
+    settings: {
+      theme: 'Temă',
+      themeSystem: 'Sistem',
+      themeLight: 'Luminos',
+      themeDark: 'Întunecat',
+      textSize: 'Mărimea textului',
+      textSmall: 'Mic',
+      textMedium: 'Mediu',
+      textLarge: 'Mare',
+      language: 'Limbă',
     },
   },
 };
