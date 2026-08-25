@@ -13,7 +13,9 @@
     "content:proof": "node scripts/content/migrate-legacy.mjs",
     "content:migrate": "node scripts/content/migrate-legacy.mjs --all --out src/content/generated/full --runtime-out public/content",
     "test:content": "node --test tests/content-proof.test.mjs",
-    "test:content:full": "node --test tests/content-full.test.mjs tests/content-runtime.test.mjs"
+    "test:content:full": "node --test tests/content-full.test.mjs tests/content-runtime.test.mjs",
+    "test:unit": "node --test tests/core-calendar.test.mjs",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "next": "16.3.3",

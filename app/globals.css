@@ -187,10 +187,142 @@ a:focus-visible {
   text-transform: uppercase;
 }
 
+.prose-block {
+  margin: 1.35em 0 0;
+}
+
+.prose-block p,
+.quotation-block p {
+  margin: 0;
+  text-align: left;
+}
+
+.quotation-block {
+  margin: 1.5em 0 0;
+  border-left: 2px solid var(--lilac-100);
+  padding-left: 20px;
+  color: var(--ink-700);
+  font-style: italic;
+}
+
+.poem {
+  margin: 1.6em 0 0;
+  color: var(--ink-700);
+  font-style: italic;
+}
+
+.poem-line {
+  margin: 0;
+  line-height: 1.5;
+  text-indent: 0;
+}
+
+.poem-line-indent {
+  padding-left: 1.75em;
+}
+
+.reading-list {
+  margin: 1.35em 0 0;
+  padding-left: 1.4em;
+}
+
+.reading-list li {
+  margin: 0.3em 0 0;
+}
+
+.reading-divider {
+  width: 42%;
+  margin: 2em auto;
+  border: 0;
+  border-top: 1px solid var(--border-subtle);
+}
+
 .reading-content .attribution {
+  margin: 0.45em 0 0;
   color: var(--ink-500);
   font-size: 1.05rem;
   font-style: italic;
+  text-align: right;
+}
+
+.reading-nav {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 40px;
+  border-top: 1px solid var(--border-subtle);
+  padding-top: 12px;
+}
+
+.reading-nav-link {
+  display: inline-flex;
+  min-height: 44px;
+  align-items: center;
+  padding: 10px 4px;
+  color: var(--apricot-500);
+  font: 600 0.78rem/1 var(--font-ui);
+  letter-spacing: 0.07em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.reading-nav-link.next {
+  margin-left: auto;
+}
+
+.reading-nav-link.is-disabled {
+  color: var(--ink-500);
+  opacity: 0.38;
+  pointer-events: none;
+}
+
+.lang-toggle {
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+}
+
+.placeholder-screen {
+  display: flex;
+  flex-direction: column;
+}
+
+.placeholder-bar {
+  min-height: calc(52px + var(--safe-top));
+  align-items: center;
+  border-bottom: 1px solid var(--border-subtle);
+  background: var(--paper-1);
+}
+
+.placeholder-bar .wordmark {
+  color: var(--ink-500);
+}
+
+.placeholder-body {
+  display: grid;
+  flex: 1;
+  place-content: center;
+  gap: 8px;
+  padding: 40px 24px calc(112px + var(--safe-bottom));
+  text-align: center;
+}
+
+.placeholder-body h1 {
+  margin: 0;
+  color: var(--ink-900);
+  font: 300 2rem/1.1 var(--font-reading);
+}
+
+.placeholder-body p {
+  margin: 0;
+  color: var(--ink-500);
+}
+
+.text-link {
+  margin-top: 6px;
+  color: var(--apricot-500);
+  font-weight: 600;
+  text-decoration: none;
 }
 
 .publisher-credit {
