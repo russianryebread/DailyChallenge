@@ -12,6 +12,8 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    env:
+      HAS_CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN != '' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -27,11 +29,17 @@ jobs:
         run: npm run build
 
       - name: Add production custom domain
+        if: env.HAS_CF_TOKEN == 'true'
         run: node scripts/patch-wrangler.mjs
 
       - name: Deploy to Cloudflare Workers
+        if: env.HAS_CF_TOKEN == 'true'
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: deploy --config dist/server/wrangler.json
+
+      - name: Deploy skipped (no Cloudflare credentials)
+        if: env.HAS_CF_TOKEN != 'true'
+        run: echo "::notice::Set CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID secrets to enable deployment."
