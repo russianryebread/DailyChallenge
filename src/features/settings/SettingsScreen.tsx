@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
+import Link from 'next/link';
 
 import type { Locale } from '@/src/core/types';
 import { messages } from '@/src/i18n/messages';
@@ -190,6 +191,15 @@ export function SettingsScreen({ locale }: { locale: Locale }) {
               ? 'Credința este substanța lucrurilor nădăjduite.'
               : 'Faith is the substance of things hoped for.'}
           </p>
+
+          <nav className="settings-links" aria-label={copy.settings.support}>
+            <Link
+              className="settings-link"
+              href={locale === 'ro' ? '/ro/support' : '/support'}
+            >
+              {copy.settings.support}
+            </Link>
+          </nav>
         </div>
 
         <TabBar locale={locale} active="settings" />

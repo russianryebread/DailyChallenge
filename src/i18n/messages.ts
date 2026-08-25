@@ -41,6 +41,19 @@ export interface Messages {
     textLarge: string;
     language: string;
     prevNext: string;
+    support: string;
+  };
+  support: {
+    title: string;
+    intro: string;
+    name: string;
+    email: string;
+    message: string;
+    submit: string;
+    sending: string;
+    thanks: string;
+    error: string;
+    offline: string;
   };
 }
 
@@ -89,6 +102,19 @@ const CATALOG: Record<Locale, Messages> = {
       textLarge: 'Large',
       language: 'Language',
       prevNext: 'Show previous / next buttons',
+      support: 'Support',
+    },
+    support: {
+      title: 'Support',
+      intro: 'Questions or trouble with the app? Send us a note and we’ll help.',
+      name: 'Name',
+      email: 'Your email address',
+      message: 'How can we help?',
+      submit: 'Send message',
+      sending: 'Sending…',
+      thanks: 'Thank you — your message has been sent.',
+      error: 'Sorry, something went wrong. Please try again later.',
+      offline: 'You’re offline. Reconnect to send your message.',
     },
   },
   ro: {
@@ -136,6 +162,19 @@ const CATALOG: Record<Locale, Messages> = {
       textLarge: 'Mare',
       language: 'Limbă',
       prevNext: 'Arată butoanele anterior / următor',
+      support: 'Asistență',
+    },
+    support: {
+      title: 'Asistență',
+      intro: 'Ai întrebări sau probleme cu aplicația? Scrie-ne și te ajutăm.',
+      name: 'Nume',
+      email: 'Adresa ta de e-mail',
+      message: 'Cu ce te putem ajuta?',
+      submit: 'Trimite mesajul',
+      sending: 'Se trimite…',
+      thanks: 'Mulțumim — mesajul tău a fost trimis.',
+      error: 'Ne pare rău, ceva nu a funcționat. Încearcă din nou mai târziu.',
+      offline: 'Ești offline. Reconectează-te pentru a trimite mesajul.',
     },
   },
 };
