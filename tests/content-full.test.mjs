@@ -50,6 +50,20 @@ test('full migration preserves source text and reports unresolved encoding', () 
     report.anomalies.unknownBlocks.ro.map(({ id }) => id),
     [263, 305],
   );
+  assert.deepEqual(
+    report.titleMarkup.map(({ id, locale }) => ({ id, locale })),
+    [124, 243, 263, 305, 362].map((id) => ({ id, locale: 'ro' })),
+  );
+  assert.deepEqual(report.unicodeNormalization.lessons, { en: 0, ro: 366 });
+  for (const reading of artifact.readings) {
+    for (const locale of ['en', 'ro']) {
+      assert.equal(reading.translations[locale].title.includes('<'), false);
+      assert.equal(
+        reading.translations[locale].sanitizedHtml,
+        reading.translations[locale].sanitizedHtml.normalize('NFC'),
+      );
+    }
+  }
 });
 
 test('catalogs and search indexes cover the content version', () => {

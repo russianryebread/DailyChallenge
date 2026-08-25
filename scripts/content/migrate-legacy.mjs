@@ -39,6 +39,15 @@ const ALLOWED_CLASSES = new Set([
   'c7',
   'c8',
   'c10',
+  'author',
+  'p4',
+  'p5',
+  'p6',
+  'p9',
+  'p11',
+  'ul1',
+  'li4',
+  'li9',
 ]);
 const BLOCK_TAGS = new Set([
   'p',
@@ -54,6 +63,7 @@ function parseArgs(argv) {
   const result = {
     sourceRoot: resolve(process.cwd(), '../christians-daily-challenge/DailyChallenge'),
     out: resolve(process.cwd(), 'src/content/generated/proof'),
+    runtimeOut: null,
     ids: DEFAULT_IDS,
   };
 
@@ -64,6 +74,9 @@ function parseArgs(argv) {
       index += 1;
     } else if (argument === '--out') {
       result.out = resolve(argv[index + 1]);
+      index += 1;
+    } else if (argument === '--runtime-out') {
+      result.runtimeOut = resolve(argv[index + 1]);
       index += 1;
     } else if (argument === '--ids') {
       result.ids = argv[index + 1]
@@ -196,7 +209,7 @@ function sanitizeHtml(rawHtml) {
   fragment.childNodes = sanitizeNodes(fragment.childNodes, fragment, anomaly);
   return {
     fragment,
-    html: serialize(fragment),
+    html: serialize(fragment).normalize('NFC'),
     anomaly,
   };
 }
@@ -242,7 +255,7 @@ function serializeNode(node) {
   return serialize({
     nodeName: '#document-fragment',
     childNodes: [node],
-  });
+  }).normalize('NFC');
 }
 
 function scriptureParts(text) {
@@ -276,11 +289,16 @@ function toBlocks(fragment) {
 
   for (const node of fragment.childNodes ?? []) {
     const text = plainText(node);
+    const tagName = getTagName(node);
+    if (tagName === 'hr') {
+      flushPoem();
+      blocks.push({ type: 'divider' });
+      continue;
+    }
     if (!text) {
       continue;
     }
 
-    const tagName = getTagName(node);
     const classNames = getClassNames(node);
 
     if (tagName === 'div' && classNames.some((name) => ['c3', 'c6'].includes(name))) {
@@ -290,10 +308,11 @@ function toBlocks(fragment) {
 
     flushPoem();
 
-    if (tagName === 'p' && isItalicLead(node) && /^[“\"]/.test(text)) {
+    if (tagName === 'p' && isItalicLead(node) && /^[“\"„]/.test(text)) {
       blocks.push({ type: 'scripture', ...scriptureParts(text), sourceText: text });
     } else if (
-      (tagName === 'p' && classNames.some((name) => ['c4', 'c8', 'c10'].includes(name))) ||
+      (tagName === 'p' &&
+        classNames.some((name) => ['author', 'c4', 'c8', 'c10'].includes(name))) ||
       /^[—–-]/.test(text)
     ) {
       blocks.push({ type: 'attribution', text });
@@ -309,8 +328,6 @@ function toBlocks(fragment) {
           .filter((child) => getTagName(child) === 'li')
           .map((child) => plainText(child)),
       });
-    } else if (tagName === 'hr') {
-      blocks.push({ type: 'divider' });
     } else {
       blocks.push({ type: 'unknown', html: serializeNode(node), text });
     }
@@ -390,14 +407,21 @@ function convertRow(sourceRow, database, locale, correctionManifest) {
     locale,
     correctionManifest,
   );
-  const rawFragment = parseFragment(row.lesson);
-  const sanitized = sanitizeHtml(row.lesson);
+  const normalizedLesson = row.lesson.normalize('NFC');
+  const normalizedTitleSource = row.title.normalize('NFC');
+  const titleFragment = parseFragment(normalizedTitleSource);
+  const titleHadMarkup = (titleFragment.childNodes ?? []).some(
+    (node) => node.nodeName !== '#text',
+  );
+  const normalizedTitle = plainText(titleFragment);
+  const rawFragment = parseFragment(normalizedLesson);
+  const sanitized = sanitizeHtml(normalizedLesson);
   const sourceVisibleText = comparisonText(rawFragment);
   const transformedVisibleText = comparisonText(sanitized.fragment);
   const textMatches = sourceVisibleText === transformedVisibleText;
 
   const translation = {
-    title: row.title.normalize('NFC'),
+    title: normalizedTitle,
     blocks: toBlocks(sanitized.fragment),
     sanitizedHtml: sanitized.html,
     plainText: plainText(sanitized.fragment),
@@ -419,6 +443,9 @@ function convertRow(sourceRow, database, locale, correctionManifest) {
       sourceLength: sourceVisibleText.length,
       transformedLength: transformedVisibleText.length,
       replacementCharacterCount: (sourceVisibleText.match(/\uFFFD/g) ?? []).length,
+      titleHadMarkup,
+      titleRequiredNormalization: row.title !== normalizedTitleSource,
+      lessonRequiredNormalization: row.lesson !== normalizedLesson,
       appliedCorrections: applied,
       ...sanitized.anomaly,
     },
@@ -447,6 +474,104 @@ function fileRecord(name, contents) {
     bytes: Buffer.byteLength(contents),
     sha256: sha256(contents),
   };
+}
+
+function runtimeBlock(block) {
+  switch (block.type) {
+    case 'scripture':
+      return {
+        type: block.type,
+        text: block.text,
+        ...(block.reference ? { reference: block.reference } : {}),
+      };
+    case 'prose':
+    case 'quotation':
+    case 'unknown':
+      return { type: block.type, html: block.html };
+    case 'poem':
+      return { type: block.type, lines: block.lines };
+    case 'attribution':
+      return { type: block.type, text: block.text };
+    case 'list':
+      return { type: block.type, ordered: block.ordered, items: block.items };
+    case 'divider':
+      return { type: block.type };
+    default:
+      throw new Error(`Unsupported runtime block type: ${block.type}`);
+  }
+}
+
+function writeRuntimeLibrary(root, readings, contentVersion) {
+  const versionRoot = resolve(root, contentVersion);
+  const documents = {};
+
+  for (const locale of ['en', 'ro']) {
+    for (let monthNumber = 1; monthNumber <= 12; monthNumber += 1) {
+      const month = String(monthNumber).padStart(2, '0');
+      const monthReadings = readings
+        .filter((reading) => reading.monthDay.startsWith(`${month}-`))
+        .map((reading) => ({
+          id: reading.id,
+          monthDay: reading.monthDay,
+          title: reading.translations[locale].title,
+          blocks: reading.translations[locale].blocks.map(runtimeBlock),
+        }));
+      documents[`${locale}/${month}.json`] = formatJson({
+        contentVersion,
+        locale,
+        month,
+        readings: monthReadings,
+      });
+    }
+
+    documents[`search-${locale}.json`] = formatJson({
+      contentVersion,
+      locale,
+      readings: readings.map((reading) => ({
+        id: reading.id,
+        monthDay: reading.monthDay,
+        title: reading.translations[locale].title,
+        text: reading.translations[locale].plainText,
+      })),
+    });
+  }
+
+  const files = Object.entries(documents).map(([name, contents]) => ({
+    ...fileRecord(name, contents),
+    url: `/content/${contentVersion}/${name}`,
+  }));
+  const maxFileBytes = Math.max(...files.map((file) => file.bytes));
+  const totalBytes = files.reduce((total, file) => total + file.bytes, 0);
+  const oneMebibyte = 1024 * 1024;
+  const twelveMebibytes = 12 * oneMebibyte;
+  if (maxFileBytes > oneMebibyte) {
+    throw new Error(`Runtime content file exceeds 1 MiB (${maxFileBytes} bytes).`);
+  }
+  if (totalBytes > twelveMebibytes) {
+    throw new Error(`Runtime content exceeds 12 MiB (${totalBytes} bytes).`);
+  }
+
+  const manifestDocument = formatJson({
+    generatorVersion: 2,
+    contentVersion,
+    readingCount: readings.length,
+    translationCount: readings.length * 2,
+    maxFileBytes,
+    totalBytes,
+    files,
+  });
+
+  for (const [name, contents] of Object.entries(documents)) {
+    const destination = resolve(versionRoot, name);
+    mkdirSync(resolve(destination, '..'), { recursive: true });
+    writeFileSync(destination, contents);
+  }
+  mkdirSync(versionRoot, { recursive: true });
+  writeFileSync(resolve(versionRoot, 'manifest.json'), manifestDocument);
+  mkdirSync(root, { recursive: true });
+  writeFileSync(resolve(root, 'manifest.json'), manifestDocument);
+
+  return { maxFileBytes, totalBytes, fileCount: files.length };
 }
 
 function main() {
@@ -585,6 +710,29 @@ function main() {
         locale,
         count: replacementCharacterCount,
       })),
+    titleMarkup: validations
+      .filter((validation) => validation.titleHadMarkup)
+      .map(({ id, locale }) => ({ id, locale })),
+    unicodeNormalization: {
+      titles: Object.fromEntries(
+        Object.keys(sources).map((locale) => [
+          locale,
+          validations.filter(
+            (validation) =>
+              validation.locale === locale && validation.titleRequiredNormalization,
+          ).length,
+        ]),
+      ),
+      lessons: Object.fromEntries(
+        Object.keys(sources).map((locale) => [
+          locale,
+          validations.filter(
+            (validation) =>
+              validation.locale === locale && validation.lessonRequiredNormalization,
+          ).length,
+        ]),
+      ),
+    },
     anomalies: {
       removedDangerousElements: unique(
         validations.flatMap((validation) => validation.removedDangerousElements),
@@ -676,8 +824,16 @@ function main() {
     writeFileSync(resolve(options.out, name), contents);
   }
   writeFileSync(resolve(options.out, 'manifest.json'), artifactManifest);
+  const runtime =
+    mode === 'full' && options.runtimeOut
+      ? writeRuntimeLibrary(options.runtimeOut, readings, contentVersion)
+      : null;
   process.stdout.write(
-    `Generated ${readings.length} bilingual ${mode} readings at ${options.out}\n`,
+    `Generated ${readings.length} bilingual ${mode} readings at ${options.out}${
+      runtime
+        ? ` and ${runtime.fileCount} offline files (${runtime.totalBytes} bytes)`
+        : ''
+    }\n`,
   );
 }
 

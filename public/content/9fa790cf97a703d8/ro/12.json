@@ -1,0 +1,1826 @@
+{
+  "contentVersion": "9fa790cf97a703d8",
+  "locale": "ro",
+  "month": "12",
+  "readings": [
+    {
+      "id": 336,
+      "monthDay": "12-01",
+      "title": "PUTEREA LUI DUMNEZEU ESTE A NOASTRĂ PRIN RUGĂCIUNE",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Despărțiți de Mine, nu puteți face nimic.“ (Ioan 15.5)\n\n„Dacă rămâneți în Mine, și dacă rămân în voi cuvintele Mele,"
+        },
+        {
+          "type": "prose",
+          "html": "<p><i>cereți orice veți vrea, și vi se va da.“ </i>(Ioan 15.7)</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Rugăciunea este cupa în care aducem apă din stâncă. Este sca- ra pe care urcăm pentru a culege strugurii care atârnă peste gardul Cerului. Este focul care încălzeşte sufletul înghețat. Este corabia care duce spre Cer dorințele noastre şi la întoarcere aduce o încăr- cătură de ajutor divin. Arhimede spunea că dacă ar găsi un punct de sprijin pentru pârghia sa, ar putea mişca pământul. Noi am găsit acest punct! Rugăciunea este pârghia. Promisiunile divine repre- zintă punctul de sprijin. Apăsând această pârghie, noi punem în mişcare nu doar pământul, ci şi Cerul. <i>—De Witt Talmage</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Rugăciunea este atingerea unui copil – însă pe brațul Celui Atotputernic. <i>—Thomas Scott</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Să-mi spui ce este rugăciunea, sau şi ce-ar trebui să fie?<br>\nUn strigăt viu şi cu putere, venit dintr-o nevoie vie!</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cel ce se roagă, ah, se-mpinge,<br>\ndă brânci, presează-n jur puternic,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Lumina Domnului s-o soarbă,<br>\nscos brusc din propriul întuneric.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Pus în cuptor fierbinte, fierul prin albe flăcări se înmoaie;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Când este scos devine iarăşi solid şi rece, nu văpaie.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Când floarea-i ruptă de tulpină, se-apleacă şi se ofileşte<br>\nȘi nu mai are vreo valoare<br>\nîn ochii celui ce-o priveşte.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>La fel şi frunza cea mai verde când este de pe creangă ruptă,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Să se usuce-i condamnată, fiindu-i clorofila suptă;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Rămâne-o albie uscată<br>\ndin fir de apă curgătoare,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Când i se deturnează cursul, fiind întors de la izvoare.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Desigur, tot ce are viață<br>\nsub cer, de Dumnezeu depinde;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Și-un om să supraviețuiască spre Domnul mâna îşi întinde;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Stăm toți cu palmele deschise spre-al universului Tron sfânt,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Când îngerii revarsă aur,<br>\ncu prisosință, spre pământ.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Richard Chenevix Trench"
+        }
+      ]
+    },
+    {
+      "id": 337,
+      "monthDay": "12-02",
+      "title": "SUNT EU UN TEMPLU AL LUI DUMNEZEU?",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Nu știți că voi sunteți Templul lui Dumnezeu, și că Duhul lui Dumnezeu locuiește în voi?“",
+          "reference": "1 Corinteni 3.16"
+        },
+        {
+          "type": "scripture",
+          "text": "„Cum se împacă Templul lui Dumnezeu cu idolii? Căci noi sun‐ tem Templul Dumnezeului celui viu, cum a zis Dumnezeu: «Eu voi locui și voi umbla în mijlocul lor; Eu voi fi Dumnezeul lor, și ei vor fi poporul Meu.»“",
+          "reference": "2 Corinteni 6.16"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cum Ți-am întreținut eu templul, scump Oaspete ceresc,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>O casă-n mod corect numită altar duhovnicesc</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Și pentru care-ai dat pe cruce preț supraomenesc!</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cum am stat eu la porți de strajă, în complicate vremi,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ca să-Ți păzesc altar şi templu de-atâți vrăjmaşi vicleni,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Fără să-mi scadă vigilența ca altor pământeni! [...]</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ți-am curățit cu biciul templul de tot ce-i anarhist,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Înlăturând mânia, ura şi traiul egoist,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Precum şi gând, cuvânt sau faptă de care Tu-ai fi trist!</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dar, ia Tu mătura să cureți mai bine templul Tău,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Să-mpingă slava Feței Tale al beznei văl în hău,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Prin har s-arunci cât mai departe tot ce-i stricat şi rău.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Locaşul slavei Tale, Doamne, voioasă Ți-l deschid,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Căci duhul, sufletul şi trupul n-au către Tine zid;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Stai Tu pe tronul vieții mele, prin legământ solid.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Annie Johnson Flint"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Prezența lui Dumnezeu locuia în Templul lui Solomon în vre- mea Vechiului Testament. Cel care rostea o rugăciune cu fața spre Templu avea siguranța că aceasta va fi auzită. Copiii lui Israel pu- teau să-şi mărturisească fărădelegile şi greşelile, să se roage pentru ploaie, pentru vindecarea trupului, pentru izbăvire de năpaste şi războaie, stând cu mâinile întinse spre Templu şi convinşi că Dum- nezeu avea să le asculte rugăciunile.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cât timp s-a aflat în robie la Babilon, Daniel se ruga cu fața îndreptată spre Ierusalim şi spre Templu, atât de sigur era de pre- zența lui Dumnezeu acolo.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Însă, după Ziua Cincizecimii, Ștefan, plin de Duhul Sfânt, a rostit un adevăr nou: „Cel Preaînalt nu locuieşte în temple zidi- te de mâini omeneşti.“ Iar Pavel îşi începe de multe ori epistolele enunțând acest mare adevăr: fiecare din noi suntem „un templu al Duhului Sfânt“.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Va face Domnul cel măreț<br>\nPe care Cerul nu-L cuprinde, Din mine templul Său de preț, Și-aici Ca Rege va descinde?</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Rawson"
+        }
+      ]
+    },
+    {
+      "id": 338,
+      "monthDay": "12-03",
+      "title": "BUCURIA ÎNTREȚINE VIAȚA DUHOVNICEASCĂ",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Veți scoate apă cu bucurie din izvoarele mântuirii.“"
+        },
+        {
+          "type": "prose",
+          "html": "<p>(Isaia 12.3)</p>"
+        },
+        {
+          "type": "scripture",
+          "text": "„Nu ne vei înviora iarăși, ca să se bucure poporul Tău în Tine?“",
+          "reference": "Psalmul 85.6"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Bucuria este pentru mântuirea noastră ceea ce reprezintă sarea în bucate. Ea o întreține. Bucuria este, de cele mai multe ori, prima binecuvântare care vine odată cu naşterea din nou. S-ar putea ca uneori să fie precedată de eliberarea de teamă şi nelinişte; s-ar pu- tea ca pacea să vină înaintea ei; însă, din clipa în care un suflet este capabil s-o experimenteze, bucuria plină de har a lui Dumnezeu este revărsată asupra acelei persoane. Bucuria în Numele Domnu- lui! Este mai mult decât dreptul de întâi-născut pe care îl conferă mântuirea, dar este parte integrantă din acesta. Aşa că, atunci când bucuria în Dumnezeu oscilează sau dispare, trebuie să ne facem griji pentru sănătatea sufletului nostru.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Indiferent ce ne-ar lua dragostea Lui, întotdeauna ne va lăsa persoana Lui; şi întrucât El este Dumnezeul oricărei mângâieri, al speranței, al consolării şi al păcii, El ne poate umple întotdeauna de bucurie atâta vreme cât avem credință. — Elizabeth S. Brengle</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Să ne gândim puțin ce este bucuria. Este cascada din izvo- rul vieții. Pacea este curgerea lină a râului. Bucuria este locul în care apele încep să bolborosească şi să spumege, adâncind pentru totdeauna de aici înainte albia prin care va curge râul lin al păcii. Pavel şi-a trecut regulile de conduită care previn îngrijorarea prin creuzetul experienței, urmând – şi în acest domeniu – exemplul Stăpânului divin. Aceste trei reguli însumează ce înseamnă să tră- ieşti mereu în prezența acestui Stăpân. Când ne dăm seama că El este mereu lângă noi, ne va fi uşor să avem o astfel de atitudine:</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nimic să nu vă tulbure,<br>\nFiți mulțumitori pentru orice Și rugați-vă pentru tot.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—S.D. Gordon"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Într-o zi, un creştin declarat dar lipsit de viață a întâlnit un tânăr care striga: „Aleluia Mielului care a murit pe Calvar!“ de ră- sunau dealurile din jur. „Eşti beat dis-de-dimineață,“ l-a întrebat cu gheață în glas creştinul declarat, „de faci asemenea zarvă?“ „Oh, şi dumneata ai fi beat dacă ai fi fost unde am fost eu şi ai fi primit ce am primit eu în această dimineață.“ „Unde ai fost?“ „Am fost la Calvar şi L-am văzut pe Isus purtându-mi păcatele pe cruce; dacă ai fi fost şi dumneata acolo, ai fi la fel de beat de bucurie ca şi mine.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>De azi eu lumea vreau s-o-nfrunt Cu viața mea cea nouă,<br>\nCu-a mea cunună nouă;<br>\nSe schimbă iute-al lumii chin, Când vede zâmbetul divin. Precum aripa-i pentru zbor,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>La fel şi fericirea<br>\nE pentru orice muritor Ce şi-a aflat menirea.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—R. Browning"
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "monthDay": "12-04",
+      "title": "ZIG-ZAG OBOSITOR",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„...dar fac un singur lucru: uitând ce este în urma mea, și arun‐ cându‐mă spre ce este înainte.“",
+          "reference": "Filipeni 3.13"
+        },
+        {
+          "type": "scripture",
+          "text": "„Să nu vă abateți de la cele ce a poruncit El nici la dreapta, nici la stânga. Să urmați în totul calea pe care v‐a poruncit Domnul Dumnezeul vostru să umblați, ca să trăiți și să fiți fericiți, și să aveți zile multe în țara pe care o veți lua în stăpânire.“",
+          "reference": "Deu- teronom 5.32-33"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Un fermier bătrân ne-a învățat – fără să ştie – un mare adevăr, atunci când a povestit cum s-a întors un câine al său total epui- zat după ce şi-a însoțit stăpânul într-o scurtă deplasare cu căruța. Ajuns acasă, câinele respectiv s-a trântit pe iarbă, încercând să-şi recapete suflarea.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>„Nu drumul l-a obosit“, a spus țăranul, „ci alergatul în zig-zag. Drumul nu a fost mai lung de 10 mile, dar el a alergat de 5 ori mai mult. Cum vedea o poartă deschisă, el intra să inspecteze curtea. Cum ne apărea o pisică în cale, o lua îndată la goană după ea. Cum auzea lătrând un câine, imediat începea şi el să latre şi să se arunce asupra lui. Aşa că, în timp ce eu am mers cu căruța pe drum, el a străbătut tot ținutul alergând încoace şi încolo. ,,Nu,“ a spus fermi- erul concluzionând, „nu drumul drept, ci alergatul în zig-zag l-a obosit pe câinele meu.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cât de adevărate sunt cuvintele bătrânului țăran şi cât de bine se aplică la umblarea noastră spirituală! Adevăratele sarcini şi în- cercări ale vieții nu sunt chiar atât de dificil de purtat, dar dru- murile ocolitoare pe care o apucăm, grijile imaginare pe care ni le facem, timpul şi energia pe care le pierdem fără rost în lucruri pe care nu ar trebui să le spunem sau să le facem – iată de unde vin oboseala şi îngrijorările.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cei mai mulți dintre noi ne asemănăm cu bătrâna aceea care a spus că a avut o mulțime de încercări în viață – în special din categoria celor la care doar se aştepta, dar care nu s-au concre- tizat niciodată.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dragul meu, Dumnezeu poate să te țină în picioare, astfel în- cât să nu te împiedici; El poate să te călăuzească pe cărări drepte şi să te izbăvească de alergarea în zig-zag.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Arunc în urma mea Tot-tot ce n-aş mai vrea: Pe omul meu cel vechi Și obiceiuri vechi.<br>\nÎn față mâna-ntind<br>\nCa altceva să prind; Privesc în viitor,<br>\nDeplin încrezător.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Voi merge, negreşit,<br>\nSă duc la bun sfârşit, Prin lumea de acum Dreptul credinței drum. Pe Domnul meu Isus,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Îl văd acolo sus.<br>\nLa cea din urmă treaptă, Cu drag El mă aşteaptă. Ah, ostenit picior, Grăbeşte-te, dă-i zor!</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—A.N. Groves"
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "monthDay": "12-05",
+      "title": "INDIFERENȚA FAȚĂ DE OPINIA OAMENILOR",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Prea puțin îmi pasă dacă sunt judecat de voi sau de un scaun omenesc de judecată.“",
+          "reference": "1 Corinteni 4.3"
+        },
+        {
+          "type": "scripture",
+          "text": "„Slujiți‐le nu numai când sunteți sub ochii lor, ca și cum ați vrea să plăceți oamenilor, ci ca niște robi ai lui Cristos, care fac din inimă voia lui Dumnezeu. Slujiți‐le cu bucurie, ca Domnului, iar nu oamenilor.“",
+          "reference": "Efeseni 6.6-7"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cei care au biruit lumea nu mai sunt preocupați nici să-i ob- țină favorurile, şi nici să-i evite dezaprobarea. Părerea bună sau proastă pe care o are lumea despre ei nu-i interesează absolut de- loc. „Pe mine,“ spune Pavel, „prea puțin mă interesează dacă sunt judecat de o instanță omenească.“ Aceeaşi atitudine trebuie s-o ad- opte orice creştin autentic; preocuparea lui trebuie să fie aceea de a obține aprobarea lui Dumnezeu. Aceasta trebuie să fie principala lui grijă: să-I fie plăcut lui Dumnezeu şi propriei sale conştiințe. Nimeni nu a biruit lumea fără să fi adoptat mai întâi această atitu- dine. Aproape că nici o trăsătură a caracterului creştin nu este mai izbitoare şi mai decisivă decât aceasta: indiferența față de opiniile oamenilor din jur. <i>—Charles G. Finney</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu există pericol mai frecvent ca acela de a socoti standardele societății în care trăim drept literă de lege. <i>—Episcopul Temple</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Străduieşte-te toată viața să eliberezi oamenii din robia obice- iurilor şi a Eului – cele două mari elemente ale lumii căzute pradă răutății. <i>—Charles Kingsley</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Viața noastră se simplifică foarte mult atunci când singura noastră țintă este să-I fim plăcuți lui Dumnezeu. Prietenii şi vecinii noştri au idei şi opinii atât de variate, încât viața ar fi o adevărată povară dacă am încerca să fim plăcuți oamenilor. Unii oameni îşi</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>petrec viața într-o alergătură continuă, încercând să aplaneze şi să corecteze zvonuri neadevărate.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Henry Ward Beecher spunea: „Viața ar fi o permanentă goa- nă după vânt dacă omul ar trebui să vâneze toate aluziile, nea- devărurile, insinuările şi interpretările greşite rostite cu privire la sine însuşi.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>De ce minunată odihnă avem parte când ne lăsăm reputația în mâinile lui Dumnezeu! „Ceea ce trebuie să fac,“ spune Emerson, „este ceea ce mă priveşte pe mine, nu ceea ce cred oamenii. Regula aceasta [...] este mai greu de respectat, pentru că întotdeauna se vor găsi oameni care cred că ştiu care îți sunt îndatoririle mai bine decât ştii tu însuți.“</p>"
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "monthDay": "12-06",
+      "title": "CEREȚI ZILNIC CĂLĂUZIRE DE SUS",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Dacă vreunuia dintre voi îi lipsește înțelepciunea, s‐o ceară de la Dumnezeu, care dă tuturor cu mână largă și fără mustrare, și ea îi va fi dată. Dar s‐o ceară cu credință, fără să se îndoiască deloc.“",
+          "reference": "Iacov 1.5-6"
+        },
+        {
+          "type": "scripture",
+          "text": "„Candela Lui strălucea deasupra capului meu, și Lumina lui mă călăuzea în întuneric!“",
+          "reference": "Iov 29.3"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu am suficientă înțelepciune ca să înfrunt aceste dificultăți ştiind mai dinainte ce paşi trebuie să fac; însă, El poate să mă că- lăuzească. Aşadar, ceea ce trebuie să fac este să-mi expun cât mai simplu problema înaintea Tatălui meu ceresc şi a lui Isus, Domnul meu. Apoi trebuie să cred că Dumnezeu va face ceea ce L-am rugat, şi eu voi căuta să-mi continui drumul plin de îndrăzneală, aştep- tând ajutorul Lui în următoarea problemă pe care o voi întâmpina. Trebuie să caut călăuzire, trebuie să aştept sfatul Domnului, şi pot fi sigur că le voi primi. Voi descoperi că mă aflu într-un parteneriat real, nu nominal, cu Tatăl şi cu Fiul. <i>—George Müller</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Perplex cum eu eram, I-am spus: „Fă, Doamne, Tu să fie bine,<br>\nCăci noaptea e ca ziua pentru Tine, Și-Ți este întunericul supus.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Sunt lucruri ce mă depăşesc, Mi-i teamă chiar să le privesc. Căci mâna-mi poate tremura, Le poate chiar denatura;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Eu pot da greş, şi mi-i ruşine: Te rog, fă Tu să fie bine!“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Plin de-ndoială, eu Îi spun Părintelui meu scump şi bun: „Fă-mi, Doamne, clară şi curată Azi calea cea adevărată; Arată-mi şi pe cea greşită,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Să am o viață reuşită.<br>\nEu nu-s destul de înțelept,<br>\nNu pot să merg pe drumul drept, De mână dacă nu mă ții, De-aceea ghid Te rog să-mi fii! Cum pentru Tine totu-i clar,<br>\nȘi mie fă-mi la fel prin har!“</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Anna Warner"
+        }
+      ]
+    },
+    {
+      "id": 342,
+      "monthDay": "12-07",
+      "title": "MÂINI CARE AU FOST ÎNTĂRITE",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Dumnezeule, întărește‐mi mâinile!“",
+          "reference": "Neemia 6.9 – tradu- cerea King James"
+        },
+        {
+          "type": "scripture",
+          "text": "„S‐a atins de mâna ei, și au lăsat‐o frigurile; apoi ea s‐a sculat, și a început să‐I slujească.“",
+          "reference": "Matei 8.15"
+        },
+        {
+          "type": "prose",
+          "html": "<p>A fost odată o femeie care, cum s-a trezit într-o dimineață, a început să se gândească la îndatoririle obişnuite ale zilei care îi stătea înainte. Și în timp ce se gândea la ele, obligațiile ei parcă de- veneau din ce în ce mai multe şi mai grele. Trebuia să-i pregătească fetiței celei mici pachețelul pentru prânz şi s-o trimită la şcoală. Câteva dintre surorile din biserică urmau să vină în dimineața re- spectivă la ea pentru o întâlnire a grupului de femei, şi se gândise să le pregătească un meniu deosebit. Servitoarea care lucra în bu- cătărie încă nu era persoana ideală pentru o asemenea treabă. Și în timp ce se gândea la tot ce o aştepta în ziua respectivă, a început s-o doară capul.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>După micul dejun, când soțul ei a plecat să-şi vadă de treburi, a luat-o de mână şi a sărutat-o de rămas bun. „O“, a zis el, „draga mea, mâna îți este atât de caldă! Mă tem că ai făcut prea multe lu- cruri în ultima vreme. Mai bine ți-ai lua o zi liberă.“ După care a plecat. Iar ea a rămas bombănind: „O zi liberă! Ce idee! Numai un bărbat putea să-şi imagineze că pot să-mi iau tocmai azi o zi liberă.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Însă, ea îşi formase obiceiul de a citi puțin din Biblie şi de a se ruga după micul dejun. [...]</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>S-a strecurat în camera ei şi, aşezându-se pe un fotoliu, a des- chis la capitolul pe care îl avea de citit în dimineața respectivă. Era capitolul 8 din Evanghelia după Matei. Citind, a ajuns la cuvintele: „S-a atins de mâna ei, şi au lăsat-o frigurile; apoi ea s-a sculat, şi a început să-I slujească.“ A îngenuncheat şi a şoptit o rugăciune, ce- rându-I Stăpânului să-i atingă şi mâna ei. A rămas câteva momente pe genunchi şi atingerea cerută a venit. S-a ridicat apoi şi şi-a văzut de treburi cu un duh mult mai liniştit.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Prânzul împreună cu surorile de la biserică nu a fost chiar atât de elaborat cum planificase. La un moment dat a simțit îndemnul să le vorbească despre experiența ei din dimineața aceea, dar inițial a avut o anumită reținere. I se părea că era vorba despre ceva sacru şi se temea că poate celelalte femei nu ar fi înțeles-o. Însă, gândul nu i-a dat pace; aşa că în cele din urmă s-a supus şi le-a povestit cazul în cuvinte simple. Și în timp ce o ascultau, prezența Duhului Sfânt s-a pogorât peste adunarea lor. Și astfel ziua aceea a fost una binecuvântată. Seara, soțul ei s-a întors acasă şi, când ea i-a ieşit în întâmpinare, a întrebat-o blând: „Draga mea, mi-ai ascultat sfatul, nu-i aşa? Nu mai ai febră.“ <i>—S.D. Gordon</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Aveam la mâini o febră musculară, Și-n piept purtam a grijilor povară; Nu mâini împreunate-n rugăciune, Ci copleşite clar de-o slăbiciune.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cu mâna Lui ce-aduce vindecare, Stăpânul m-a atins plin de-ndurare, Și mâinile de trudă istovite<br>\nAu fost în scurtă vreme liniştite.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Aveam în suflet o profundă pace, Fiind convins că voia Lui pot face.<br>\nIar El mi-a zis: „Să pot lucra prin tine, Îți trebuie mâini tari, de forță pline.“</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Poem anonim"
+        }
+      ]
+    },
+    {
+      "id": 343,
+      "monthDay": "12-08",
+      "title": "CÂT DE MULT AR TREBUI SĂ IUBIM?",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Să iubești pe Domnul, Dumnezeul tău, cu toată inima ta...“"
+        },
+        {
+          "type": "prose",
+          "html": "<p>(Matei 22.37)</p>"
+        },
+        {
+          "type": "scripture",
+          "text": "„Dragostea [...] este împlinirea Legii.“",
+          "reference": "Romani 13.10"
+        },
+        {
+          "type": "prose",
+          "html": "<p>„Cu toată inima ta“, aşa sună porunca. Chiar dacă puterea noastră de a iubi ar fi foarte limitată, atâta vreme cât o folosim în întregime pentru a-L iubi pe Dumnezeu, împlinim cerința divină la fel ca cei care sunt mai capabili din acest punct de vedere. Un pahar poate să fie la fel de plin ca o găleată. A-L iubi pe Dumnezeu mai mult decât cu toată inima – dincolo de puterea sau capacitatea noastră – ar fi imposibil, iar a-L iubi mai puțin decât cu măsura deplină a puterii noastre de a iubi ar însemna să nu împlinim po- runca. „Cel care face cum poate mai bine face bine: nici îngerii nu pot face mai bine şi nici Dumnezeu nu cere mai mult.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"p6\">(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Viața noastră de credință astfel este măsurată: După cât putem cuprinde din iubirea Ta de Tată. Cine-i primul în iubire, Ți-este rudă de aproape, Căci se-aseamănă cu Tine, Fluviu cu bogate ape!</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cel ce-atent priveşte lumea care-n jurul său palpită<br>\nȘi de tot ce vede-şi simte inima tot mai lărgită<br>\nSă cuprindă mai mulți oameni, copărtaş la chin şi jale, Pare că-şi trăieşte viața după standardele Tale.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Chiar de-ar fi să locuiască de Biserică departe, Zi de post sau sărbătoare neputând a le desparte, Neştiind pe dinafară nici pasaje din Scriptură... Totuşi, în a Ta balanță, are-o straşnică măsură,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Pentru că Tu, Doamne Sfinte, vrei acea mărinimie Debordantă, ce ignoră clar orice meschinărie,<br>\nCare ține doar de forme, ritualuri şi hotare:<br>\nEl cuprinde lumea-ntreagă într-o caldă-mbrățişare.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Ella Wheeler Wilcox"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dragostea lui Cristos este esența învățăturii mele; însă de mul- te ori nu reuşesc să înțeleg cum este posibil ca dragostea mea pen- tru El să fie atât de mică. [...]</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Doamne, oare aş putea să mor pentru Tine? Aş putea să sufăr multă vreme şi totuşi să Te iubesc pe Tine şi pe semenii mei cu o pasiune ca a Ta?</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Mereu strig către Dumnezeu – în fiecare zi, în fiecare ceas – dorind să primesc de o mie de ori mai multă dragoste.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—William Bramwell"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Capacitatea mea actuală de a fi umplut de dragostea lui Dum- nezeu şi-a atins limita superioară, dar atât de prețioasă este comoa- ra aceasta, încât tânjesc după un vas de o mie de ori mai mare. De aceea exclam şi eu în fiecare zi împreună cu Charles Wesley:</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>„Cu mare sete mă avânt<br>\nspre-al Tău izvor, slăvite Tată;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Întruna beau şi beau din el, dar nu mă satur niciodată.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Oh! Cine poate rezista,<br>\natras de dragostea-Ți cerească,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Și cine va putea de-ajuns vreodată, ah, să Te iubească?“</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Daniel Steele"
+        }
+      ]
+    },
+    {
+      "id": 344,
+      "monthDay": "12-09",
+      "title": "O SLUJIRE CARE COSTĂ, DAR TRIUMFĂ",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Ei [...] nu și‐au iubit viața chiar până la moarte.“"
+        },
+        {
+          "type": "prose",
+          "html": "<p>(Apocalipsa 12.11)</p>"
+        },
+        {
+          "type": "scripture",
+          "text": "„[...] apoi voi intra la împărat, în ciuda legii; și, dacă va fi să pier, voi pieri.“",
+          "reference": "Estera 4.16"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Viața Bisericii devine roditoare din clipa în care începe să cul- tive pe scară largă sacrificiile. Când Biserica se lasă pe tânjală, îşi pierde puterea de răscumpărare. Îmi amintesc istorioara despre Papa Inocențiu al IV-lea şi Toma d’Aquino, care priveau împreună cum saci întregi de comori erau aduşi pe porțile Palatului Lateran.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>„Vezi tu,“ a spus Papa zâmbind, „au trecut zilele în care Biseri- ca putea spune: «Aur şi argint nu am.»“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>„Da, Sfinte Părinte,“ a venit răspunsul sfântului, „dar au tre- cut şi zilele în care Biserica îi putea spune slăbănogului: «Ridi- că-te şi umblă.»“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Când Biserica îşi duce traiul pe planul tihnei, al confortului şi al slujirii care nu costă nici un strop de sânge, ea nu mai are puterea să fertilizeze pământul uscat şi sterp. Când Biserica se află pe tere- nul sacrificiilor, ea devine şi impresionantă. Momentele de sacrifi- ciu din istoria creştinismului sunt tocmai momentele care ne in- fluențează astăzi. Bărbații şi femeile care şi-au jertfit propria ființă, cei care şi-au vărsat sângele – ei sunt moştenirea noastră actuală.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>„Ei nu şi-au iubit viața chiar până la moarte.“ „Ei au biruit prin sângele Mielului.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Femeia care a dăruit doi bănuți în vistieria Templului încă este un factor de influență în istoria umanității. Sir John Kelynge – ați auzit vreodată de el? – judecătorul acela brutal şi cinic care l-a aruncat pe John Bunyan în temnița Bedford pentru 12 ani – până şi numele lui este astăzi o enigmă! John Bunyan, martirul care a fost gata să se jertfească pentru Domnul, fertilizează şi acum ogorul vieții omeneşti cu energia unei inspirații bogate. Cârcotaşii au pierdut. Cei care păreau să piardă sunt acum la linia de final! Cei care se jertfesc sunt cei care se bucură de biruință. <i>—J.H. Jowett</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Spiritul jertfei de sine nu calculează vreodată Prețul suprem al slujirii, jertfa ce trebuie dată; Când i-a umplut vistieria omului Domnul Cristos, Totul a dat, chiar şi viața, sângele Lui prețios.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Anna E. Hamilton"
+        }
+      ]
+    },
+    {
+      "id": 345,
+      "monthDay": "12-10",
+      "title": "SPRIJINIȚI-VĂ PE CUVÂNTUL LUI DUMNEZEU",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Astfel, credința vine în urma auzirii; iar auzirea vine prin Cuvântul lui Cristos.“",
+          "reference": "Romani 10.17"
+        },
+        {
+          "type": "scripture",
+          "text": "„Tot ce nu vine din încredințare, este păcat.“",
+          "reference": "Romani 14.23"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ce este credința? Dacă ar trebui s-o definesc în termeni foarte simpli, aş spune: credința este siguranța că ceea ce Dumnezeu a spus în Cuvântul Său este adevărat, şi că El va acționa potrivit cu ceea ce a spus în Cuvântul Său. Această siguranță, această ancorare în Cuvântul lui Dumnezeu, această încredere este credința. Să nu amestecăm impresiile cu credința. Impresiile nu au nici o legătu- ră cu credința. Credința are de-a face cu Cuvântul lui Dumnezeu. Nu impresiile – fie ele puternice sau slabe – vor schimba lucrurile. Trebuie să ne bazăm pe Cuvântul scris, nu pe noi înşine sau pe impresiile noastre.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu trebuie să ținem seama de probabilități. Mulți oameni sunt dispuşi să creadă ceea ce li se pare probabil. Credința nu are nici o legătură cu probabilitatea. Sfera credinței începe acolo unde cea a probabilităților se sfârşeşte şi acolo unde vederea şi simțurile nu mai pot face nimic. Mulți copii ai lui Dumnezeu sunt descurajați şi se plâng de lipsa lor de credință. Ei spun că nu au nici o impresie, nici un sentiment, nu văd nici o probabilitate că ceea ce îşi doresc se va împlini. Nu de aparențe trebuie să ținem noi seama. Întreba- rea este dacă Dumnezeu a spus sau nu acel lucru în Cuvântul Său.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Iar acum, iubiți prieteni creştini, trebuie să vă întrebați dacă v-ați format obiceiul acesta de a vă încrede – în adâncul sufletu- lui vostru – în ceea ce a spus Dumnezeu în Cuvântul Său şi dacă sunteți sinceri când căutați să aflați dacă ceea ce vă doriți este în conformitate cu ceea ce a spus El în Cuvântul Său. <i>—George Müller</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Când marele misionar John G. Paton a tradus Scripturile pen- tru băştinaşii din Polinezia, în limba lor nu exista un cuvânt pentru verbul „a crede“. Multă vreme nu a găsit nici o soluție. Într-o zi un</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>băştinaş a intrat în biroul lui şi, fiind tare obosit, s-a lăsat pe un scaun, şi-a sprijinit picioarele pe un alt scaun şi s-a întins cât era de lung, iar la un moment dat i-a spus cât de bine se simte să-şi lase toată greutatea pe scaunele respective. Imediat Dr. Paton a notat cuvântul pe care îl folosise băştinaşul pentru a exprima ideea de „a se lăsa cu toată greutatea pe“. Aşa a găsit misionarul cuvântul potrivit, pe care l-a folosit apoi în traducerea Scripturilor. Verificați numai şi veți vedea ce se întâmplă dacă în fiecare verset în care apare verbul „a crede“ îl înlocuiți cu expresia de mai sus.</p>"
+        }
+      ]
+    },
+    {
+      "id": 346,
+      "monthDay": "12-11",
+      "title": "POZIȚIA DE UCENIC SE DOVEDEȘTE PRIN PURTAREA CRUCII",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Cine nu‐și ia crucea lui, și nu vine după Mine, nu este vrednic de Mine.“",
+          "reference": "Matei 10.38"
+        },
+        {
+          "type": "scripture",
+          "text": "„Vino, ia‐ți crucea, și urmează‐Mă.“",
+          "reference": "Marcu 10.21"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Una dintre cele mai eficiente cauze ale eşecurilor în viața spirituală s-ar putea numi „micşorarea crucii“. Folosim cuvântul „cruce“ aici într-un sens general. Mulți oameni buni şi-au dat cu părerea cu privire la ce ar însemna crucea în ziua de azi. Fără a-i atribui o semnificație specifică, am putea-o defini ca un exercițiu – mai mult sau mai puțin supărător şi neplăcut pentru omul firesc – care, dacă este înfăptuit cu consecvență şi din toată inima, aduce o seamă de beneficii spirituale. Privind lucrurile din perspectiva aceasta, este limpede că oameni diferiți au cruci diferite. Un lucru care reprezintă o cruce pentru o persoană ar putea fi ceva cât se poate de uşor şi de comod pentru o alta.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Este evident că slujirea lui Dumnezeu într-un mod comod, care nu presupune nici un efort, nu este un test potrivit al spiri- tualității omului respectiv; aşadar, acesta este rolul crucilor – să întindă şi să încordeze muşchii morali, să dovedească puterea afecțiunii inimii pentru Cristos. Pur şi simplu explicația este ur- mătoarea: un creştin autentic trece de bunăvoie prin „greutăți“ de dragul lui Cristos şi, asemenea Căpeteniei sale, este „desăvârşit“ prin suferință. <i>—Howard B. Bitzer</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Toți aceia care îi provoacă la luptă pe vrăjmaşii omenirii şi scot sabia împotriva răului trebuie să se aştepte la lovituri, să fie răniți. Dar nu trebuie să se gândească la moarte. Aşadar, când vin dificul- tățile şi persecuțiile, în loc să renunțe, creştinul trebuie să spună: „Mă aşteptam la acest lucru; asta dovedeşte că sunt în locul în care trebuie să fiu. I-am promis lui Dumnezeu că îmi voi purta crucea, şi acum iată crucea mea; o voi pune pe umeri şi o voi purta. Acum</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>am şansa să dovedesc din ce material sunt făcut.“ Credinciosul tre- buie să nu uite niciodată – şi să se simtă încurajat gândindu-se la acest lucru – că răsplata lui va fi potrivită nu cu măsura succesului său vizibil, ci cu caracterul luptei lui. <i>—Generalul William Booth</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>A noastră cruce s-o purtăm Pentru-a primi cununa;<br>\nCa pierderi să considerăm, Dând una câte una, Comorile ce sunt de jos, Să-L câştigăm toți pe Cristos.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles Wesley"
+        },
+        {
+          "type": "prose",
+          "html": "<p>A lua crucea lui Cristos nu este un act măreț şi singular, făcut o dată pentru totdeauna; ci constă în practicarea continuă a îndatori- rilor mărunte pe care le considerăm atât de neplăcute.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.H. Newman"
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "monthDay": "12-12",
+      "title": "PUTEREA PE CARE O DEȚIN",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Puțin aluat dospește toată plămădeala.“ (1 Corinteni 5.6) „Căci ce știi tu, nevastă, dacă îți vei mântui bărba‐ tul? Sau ce știi tu, bărbate, dacă îți vei mântui nevasta?“",
+          "reference": "1 Corinteni 7.16"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Piatra aruncată în lac de mâna mea neglijentă s-a scufundat în apele adânci, şi gata. Nu, n-a fost gata. Uită-te numai la cercu- rile acelea mici, concentrice, care se propagă în unde prin stufăriş, mişcând crengile arcuite ale sălciilor care se apleacă peste ape şi producând un efect – superficial, dar evident – până şi asupra ma- lurilor lacului. Cuvântul acela necugetat, născut dintr-o atitudiune de mândrie sau dispreț, care mi-a plecat de pe buze în compania prietenilor produce o reacție de moment şi atât. Nu, nu-i doar atât. Cuvântul acela a aprofundat sentimentul de dezgust al unui prie- ten față de tot ce înseamnă evlavie, a ascuțit sarcasmul altui prieten şi l-a făcut pe cel pe jumătate convertit să renunțe, de ruşine, la gândurile lui de pocăință, producând astfel un efect mărunt – dar etern – asupra destinului veşnic al unei persoane umane.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>O, ce putere straşnică am – puterea de a produce efecte asupra altora – şi cum se ține ea scai de mine! Nu pot scăpa nicidecum de ea. M-am născut cu ea. A crescut odată cu mine şi a devenit din ce în ce mai puternică odată cu mine. Vorbeşte, umblă, se mişcă; se manifestă cu vigoare în fiecare privire a mea, în fiecare cuvânt care îmi iese de pe buze, în fiecare acțiune pe care o săvârşesc. Nu pot trăi izolat, numai pentru mine însumi. Trebuie să fiu fie o lumină care luminează, fie o furtună care distruge; fie un Abel, care, datorită ne- prihănirii sale veşnice, vorbeşte şi acum, deşi a murit de mult, fie un Acan, al cărui nume – de altfel uitat – este legat de concluzia tristă că omul nu este singurul care moare din pricina nelegiuirii lui.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>O, fraților, acest element necesar al puterii vă aparține fiecăru- ia dintre voi. S-ar putea ca sfera ta să fie redusă, ca influența ta să fie măruntă, însă ai o sferă şi o influență proprie.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—W. Morley Punshon"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Un cânt subtil a răsunat<br>\nîn lume, într-o zi de vară;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ecoul doar l-a preluat<br>\nşi-apoi l-a răspândit prin țară.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cu timpul, cântărețul meu muri, şi dus a fost ca fumul,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dar cântul supraviețuind<br>\nîşi tot continuase drumul.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>La început, ca o chemare<br>\na unei păsări adormite, Purtată de Ecou în ritmuri</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>din când în când abia şoptite; Urcând apoi din piatră-n piatră,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>s-a înălțat în spațiul cosmic, Acolo unde Libertatea</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>nu ştie ce-i un cadru dosnic.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>De-acolo dulcea melodie<br>\ns-a-ntors şi mai plăcută-n lume,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dar nimeni nu putea să-i ştie<br>\nnici sursa ei, nici vechiul nume.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nici chiar Ecoul ce-o-ntâlnise în chip de notă călătoare</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>N-a încercat s-o bage-n seamă, nu cunoştea a ei valoare.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Însă, cu timpul mii de glasuri, unindu-se în armonie,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>S-au împletit cu-acele imnuri<br>\nce curg spre Tron de-o veşnicie.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Mary A. Mason"
+        }
+      ]
+    },
+    {
+      "id": 348,
+      "monthDay": "12-13",
+      "title": "LEGĂTURA CU VIȚA",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Nimic nu v‐ar fi cu neputință.“",
+          "reference": "Matei 17.20"
+        },
+        {
+          "type": "scripture",
+          "text": "„Pot totul în Cristos, care mă întărește.“",
+          "reference": "Filipeni 4.13"
+        },
+        {
+          "type": "prose",
+          "html": "<p>La o anumită şcoală cu profil agricol din vestul Statelor Unite, un profesor a realizat nişte experimente foarte interesante cu un bostan (legumă asemănătoare cu dovleacul) aflat în plin proces de creştere. A fixat un ham metalic pe bostan, în aşa fel încât pe măsu- ră ce bostanul creştea, hamul respectiv să înregistreze forța pe care o exercita bostanul asupra sa. Cu ajutorul acestui ham s-au putut face anumite calcule, stabilindu-se faptul că în diferite etape ale creşterii sale, bostanul a ridicat greutăți de 25, 225, 500 şi 1360 de kilograme. Iar dezvoltarea acestei forțe incredibile a fost posibilă datorită unui singur lucru – legătura dintre bostan şi viță.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Unul dintre cele mai uimitoare lucruri din viața omenească este puterea de a duce poveri de care dau dovadă adesea oameni aparent slabi şi aproape neajutorați. [...]</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ne mirăm că unii credincioşi nu se prăbuşesc sub greutatea poverilor pe care le duc. Dimpotrivă, se observă că ei le acceptă cu răbdare şi bucurie şi merg curajoşi înainte, zi de zi.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Există totuşi o explicație. Dacă secretul vieții lăuntrice a acestor oameni ar putea fi cunoscut, explicația puterii lor s-ar găsi într-un singur fapt: legătura lor cu Vița. Ei se află într-o legă- tură constantă cu Cel care a spus: „Eu sunt adevărata viță“.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>„Pot totul în Cristos, care mă întăreşte“, a scris marele apos- tol al Neamurilor.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu ne-ar vorbi Stăpânul şi mai clar De-am fi dispuşi a-L asculta mai mult, Și-am aştepta la Tronul Său de har, Departe de-al acestei lumi tumult?</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu ne-ar părea mai certă cârmuirea Pe drumul vieții care duce-n sus,<br>\nDe ne-am păstra mereu cu El unirea Și ochii nu ne-am lua de la Isus?</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Eu cred că noi greşim ades cărarea<br>\nȘi secerăm frustrare şi ruşine,<br>\nCăci neveghind, ne biruie uitarea<br>\nCă El ne-a spus: „Să rămâneți în Mine!“</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Edith Hickman Divall"
+        }
+      ]
+    },
+    {
+      "id": 349,
+      "monthDay": "12-14",
+      "title": "SE CAUTĂ FAPTE, NU VORBE",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Fiule, du‐te astăzi de lucrează în via mea!“ (Matei 21.28) „Mă voi scula și mă voi duce.“ (Luca 15.18)\n\n„Du‐te de fă și tu la fel.“",
+          "reference": "Luca 10.37"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Trebuie să insistăm pentru o activitate imediată. Avem nevoie de mai puțină paradă, de mai puține analize şi de mai multe rezul- tate. Rugina ucide cu zecile de mii. Via suferă din lipsa lucrătorilor. Secerişul are nevoie de secerători. Avem o mie de persoane dori- toare de bine la douăzeci de inşi care lucrează efectiv la mântuirea semenilor. <i>—Reader Harris</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Am văzut vreo 20 de inşi eliberați. Cred că ar fi trebuit să văd mult mai mulți, dar încă nu am găsit un singur om care să ceară îndurare.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Sunt mulți oameni buni, dar nu am găsit nici unul care să lupte cu Dumnezeu. <i>—William Bramwell</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Se caută fapte, doar fapte, Nu vorbe rostite în vânt, Nu visuri ce nu-s realitate, Nu ceea ce pare-a fi sfânt.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu rugi fără foc, fără vlagă, Nu şir de mesaje necoapte, Nu țel cu direcție vagă;<br>\nSe caută fapte, doar fapte.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Duncan Macgregor"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Sunt sătul de opinii. [...] Caut un om care Îl iubeşte pe Dum- nezeu şi pe oameni cu blândețe şi smerenie; un om cu o inimă plină de îndurare şi de roade bune, lipsit de părtinire şi ipocrizie;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>un om care se dăruieşte pe sine în fapte de credință, în răbdarea speranței şi în lucrarea dragostei. <i>—John Wesley</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ce procentaj din populația lumii credeți că au încercat de-a lungul secolelor să ia în serios învățăturile lui Cristos? Eu bănuiesc că foarte puțini. Majoritatea celor care s-au străduit să cunoască ce a spus şi a făcut Isus nu fac mai nimic cu ceea ce au aflat. Atunci de ce ne-ar surprinde rezultatele atât de slabe? Creştinismul – cel au- tentic – nu a eşuat niciodată. Însă, cei mai mulți oameni nu-i acor- dă şansa să funcționeze. Nu dați vina pe creştinism pentru starea deplorabilă în care este lumea. Dați vina pe oameni – poate chiar pe voi înşivă. <i>—J.B. Phillips</i></p>"
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "monthDay": "12-15",
+      "title": "VIAȚA FIECĂRUI OM ESTE PLANIFICATĂ DE DUMNEZEU",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Domnul S‐a uitat la el și a zis: «Du‐te [...] oare nu te trimit Eu?»“",
+          "reference": "Judecători 6.14"
+        },
+        {
+          "type": "scripture",
+          "text": "„El ne‐a mântuit și ne‐a dat o chemare sfântă, nu pentru faptele noastre, ci după hotărârea Lui și după harul care ne‐a fost dat în Cristos Isus.“",
+          "reference": "2 Timotei 1.9"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dumnezeu are un plan bine pus la punct pentru viața fiecărui om şi îl pregăteşte în mod vizibil sau invizibil pentru un anumit lu- cru, a cărui realizare va reprezenta adevărata semnificație şi glorie a vieții sale. Dar mulți oameni nici măcar nu se gândesc la aseme- nea lucruri. Ei presupun că viața celor mai mulți dintre semenii lor n-ar fi decât o chestiune banală şi răsuflată. Dar ce înseamnă pentru ei înşişi nu ştiu. Se plâng şi suspină din greu că, în timp ce unii creştini sunt scoşi în față de Dumnezeu să facă lucrări mari şi să ocupe locuri importante, lor nu le este îngăduit să creadă că existența lor ar avea un scop specific.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ce ne arată Scripturile dacă nu că Dumnezeu Se îngrijeşte în mod particular de fiecare om, că Se interesează personal de orice făptură omenească şi că Îi pasă de viața sa şi de încercările prin care trece? Dumnezeu îl urmăreşte cu aceeaşi atenție şi bunătate pe cel care îşi foloseşte singurul talant primit, şi îl aprobă din toată inima atunci când îl foloseşte aşa cum trebuie, ca şi pe cel care a primit zece talanți. <i>—Horace Bushnell</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Tu n-ai ajuns aici din întâmplare,<br>\nEşti tocmai unde te vrea Dumnezeu; Iar dacă simți că n-ai câmp de lucrare, Tu nu cârti, căci nu eşti un deşeu.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu risipi nici clipa prețioasă<br>\nDin timpul tău de Domnul acordat, Visând să faci o slujbă mai frumoasă Nestingherit de piedici ori păcat.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Richard Chenevix Trench"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dacă îmi vei spune că lucrarea pe care trebuie s-o fac provine din partea oamenilor, eu mă voi uita imediat la dificultățile care ar putea să apară. Dar spune-mi că acea lucrare mi-a fost impusă din Cer şi că sunt chemat şi ales de Dumnezeu să fac un anumit lucru; indiferent care ar fi piedicile din jurul meu, inima îmi va fi plină de soare şi sufletul plin de o pace profundă şi inexplicabilă; voi privi dificultățile pe care le întâmpin în situația mea actuală ca pe ceva trecător şi mă voi baza pe o putere care nu e nimic altceva decât atotputernicia lui Dumnezeu.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Și atunci, ai cui robi suntem noi? Cine ne-a chemat la această lu- crare creştină? Suntem chemați de Dumnezeu, nu de oameni, şi tre- buie să primim ordinele din Cer, nu de pe pământ. <i>—Joseph Parker</i></p>"
+        }
+      ]
+    },
+    {
+      "id": 351,
+      "monthDay": "12-16",
+      "title": "GLORIE ÎN REPROȘURI",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Am ajuns o priveliște pentru lume, îngeri și oameni. Noi sun‐ tem nebuni pentru Cristos.“",
+          "reference": "1 Corinteni 4.9-10"
+        },
+        {
+          "type": "scripture",
+          "text": "„Ferice de voi, când oamenii [...] vă vor ocărî și vor lepă‐ da numele vostru ca ceva rău, din pricina Fiului omului!“",
+          "reference": "Luca 6.22"
+        },
+        {
+          "type": "prose",
+          "html": "<p>În încercarea voastră de a atinge această plinătate a vieții spi- rituale, să nu vă lăsați descurajați de faptul că deja de multă vreme lumea l-a declarat nebun pe oricine o deține. Și lumea are moti- ve temeinice să stabilească acest verdict. Nebunul este un om care vede, sau crede că vede, ceea ce alții nu văd şi care umblă potrivit cu această viziune. Sub lumina intensă pe care o primeşte de la Tatăl, Fiul şi Duhul Sfânt care locuiesc în el (Ioan 14.16-23), cre- dinciosul vede ceea ce lumea oarbă nu vede, şi îşi modelează com- portamentul în conformitate cu lumina primită de Sus. De aceea, cei care nu văd ceea ce vede el cred că omul acesta şi-a pierdut mințile şi, în consecință, ei îşi exprimă mila la gândul că l-a părăsit simțul rațiunii.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dacă încă nu eşti dispus să fii taxat din perspectiva lumii ca o persoană greu de perceput şi greşit înțeleasă – dintr-un sentiment de compătimire – precum şi să fii socotit o enigmă de către cei mai apropiați prieteni care nu au experiența locuirii lăuntrice a Duhu- lui Sfânt, eu te sfătuiesc să aştepți până vei fi biruit lumea într-o măsură suficientă astfel încât să poți trăi liniştit fără a te bucura de părerea ei bună despre tine. Prin harul lui Dumnezeu, acest lucru este posibil. „Îndrăzniți“, spune marele nostru Mijlocitor şi Model, „Eu am biruit lumea“. <i>—Daniel Steele</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>S-ar putea să vină noi încercări, dar toate sunt bune. Nu am mai fost încercat în felul acesta de mulți ani. În fiecare săptămâ- nă, ba chiar aproape în fiecare zi, sunt împroşcat cu noroi în toate</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>ziarele. Mulți sunt în lacrimi în aceste circumstanțe. Multora li s-a făcut frică şi strigă: „Vai, cum se vor sfârşi toate acestea?“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cum se vor sfârşi? Ei bine, cu slavă pentru Dumnezeu în locu- rile preaînalte şi cu pace şi bună învoire între oameni. <i>—John Wesley</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu cei mulți reformează lumea, ci cei puțini care se ridică deasupra opiniei publice care L-a crucificat pe Domnul nostru cu mulți ani în urmă. <i>—Charles Kingsley</i></p>"
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "monthDay": "12-17",
+      "title": "UN SALUT ADRESAT PERSOANELOR CU DIZABILITĂȚI",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„De aceea simt plăcere în slăbiciuni, [...], în strâmtorări, pentru Cristos.“",
+          "reference": "2 Corinteni 12.10"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Autorii următoarelor fragmente au realizat cele mai frumoase lucrări ale lor pentru Dumnezeu şi pentru oameni fără a se bucura de simțul vederii. Poate handicapul tău nu este atât de evident pen- tru cei din jur – însă indiferent care ar fi, dă-I voie lui Dumnezeu să-l sfințească pentru tine, şi poarta binecuvântării şi a rodniciei se va deschide.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>O, Tu, Cel plin de îndurare! De mine lumii când nu-i pasă Și pleacă, Tu vii mai aproape; Amicii singur când mă lasă, De slăbiciunea mea să scape, Aud cum vin din depărtare Ale iubirii Tale care.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ah, chipul Tău cel glorios, Mă-nvăluie cu-a sa lumină, În liniştea cea mai deplină Și-mparte raze vii din Cer Peste locaşul meu stingher, Din bezna nopții să fiu scos.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>În rugă stând îngenuncheat, În bunătatea Ta mă-ngrop, Pătrund în straşnicul Tău scop Și-l înțeleg, cu-adevărat:</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Da, ştiu, Tu mi-ai slăbit vederea Să-Ți văd mărirea şi puterea; Tu ochii fizici mi i-ai luat<br>\nSă fiu în Tine concentrat.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Și n-am motive să mă tem, Căci noaptea care-mi stă în cale E umbra aripilor Tale;<br>\nAici scutit sunt de blestem<br>\nȘi nu m-ajunge nici un rău, Căci stau sub adăpostul Tău.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ah, dați-mi grabnic lira mea, Să-mi torn în versuri dragostea, Căci sufletul de har mi-i plin Și-mi arde-n piept un foc divin; El nu-i de mintea mea aprins Ci de Stăpânul necuprins.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Milton"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cândva credeam că lucrurile rele care ni se întâmplă în viață sunt nişte mesaje de răzbunare – tunetele unui Dumnezeu răzbu- nător. Însă, de când Cristos S-a înscăunat pe tronul inimii mele, tunetele s-au transformat în muzică. Văd în moarte trăsura trimisă de Tatăl ca să mă ducă Acasă. Durerea nu-i altceva decât o operație menită să vindece boala. Pierderea nu-i decât o mutare a comorilor mele într-o bancă mai sigură. Sărăcia nu-i decât un test al iubirii mele. Norii nu sunt decât o încercare a credinței mele. Surprizele sunt dovezi ale răbdării mele. Focul din viața mea nu face decât să curețe lanțul de aur. <i>—George Matheson</i></p>"
+        },
+        {
+          "type": "scripture",
+          "text": "„Nu te teme nicidecum de ce ai să suferi.“",
+          "reference": "Apocalipsa 2.10"
+        }
+      ]
+    },
+    {
+      "id": 353,
+      "monthDay": "12-18",
+      "title": "CUNOSCUȚI DUPĂ ROADE",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Îi veți cunoaște după roadele lor. [...] orice pom bun face roade bune, dar pomul rău face roade rele. [...] Așa că după roadele lor îi veți cunoaște.“",
+          "reference": "Matei 7.16-17, 20"
+        },
+        {
+          "type": "prose",
+          "html": "<p>La ce este bun un măr, dacă el nu face niciodată fructe?</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Și la ce bun să te numeşti creştin, dacă în viața ta nu se vede nici urmă de rod, iar în purtarea ta nu se observă nici o schimbare? Într-o seară, un băiețel s-a întors acasă de la biserică şi i-a spus</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>surioarei lui că a primit o inimă nouă.<br>\n„Chiar aşa?“ s-a mirat fetița în inocența ei. „Arată-mi-o</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>şi mie, te rog!“<br>\nTocmai asta trebuie să facă toți creştinii – să arate prin viața şi</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>prin purtarea lor schimbată că au primit o inimă nouă.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Faptele vorbesc mai tare decât cuvintele, pentru că de obicei prețul lor este mai mare. În general, testăm cuvintele unui om ui- tându-ne la purtarea şi la trăirea lui.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Promisiunile rostite la altar sunt cântărite în balanța căsniciei; s-ar putea dovedi să fie aur curat sau uşoare ca un fulg. Testăm mărturisirile şi legămintele solemne pe care le faceți mulți dintre voi în fața acestui amvon uitându-ne la viața pe care o duceți în fața lumii. Aceasta este provocarea lansată de Învățătorul nostru Însuşi: „După roadele lor îi veți cunoaşte.“ Adevărul spiritual cuprins într-o carte, într-un crez sau într-un discurs nu-i decât o teorie. Acelaşi adevăr, dacă este transpus în fapte nobile şi caracter evlavi- os, devine atestat de experiență.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Creştinismul, atunci când este atestat prin roadele sale, nu poate fi combătut. Dacă purifică inima omului; dacă înnobilea- ză emoțiile; dacă biruieşte poftele păcătoase şi subjugă pasiunile rele; dacă îndeamnă la simpatii generoase şi la fapte nobile; dacă aduce dulceață în cămin şi curățenie în societate; dacă îndreaptă omenirea căzută înălțând-o spre Dumnezeu; şi dacă îl face pe cel</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>care o are un om mai bun, mai puternic, mai curat şi mai sfânt – atunci îşi dovedeşte originea divină şi îşi stabileşte autoritatea divină. O astfel de religie nu poate fi luată în derâdere de nici un batjocoritor şi nu poate fi redusă la tăcere de nici un filozof.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
+        }
+      ]
+    },
+    {
+      "id": 354,
+      "monthDay": "12-19",
+      "title": "PUTERE ÎN BUCURIE",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Bucuria Domnului va fi tăria voastră.“ (Neemia 8.10)\n\n„V‐am spus aceste lucruri, pentru ca bucuria Mea să rămână în"
+        },
+        {
+          "type": "prose",
+          "html": "<p><i>voi, și bucuria voastră să fie deplină.“ </i>(Ioan 15.11)</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Lucrul cel mai plin de bucurie, mai strălucitor şi mai fericit din întreg Universul este credința creştină. Există aşa de multe proble- me în lumea noastră: oamenii de afaceri se luptă cu atâtea nelinişti; muncitorii au de-a face cu atâta oboseală; orfanii se confruntă cu atâta dezolare. Dacă există locuri frumoase pe pământ, arătați-le. Biserica lui Isus Cristos să fie cel mai vesel loc de pe pământ.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu uitați că sănătatea voastră fizică este strâns legată de cea spirituală. Inima şi ficatul se află la doar câțiva centimetri distanță una de celălalt, şi ceea ce o afectează pe cea dintâi îl afectează şi pe cel de-al doilea – şi viceversa.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Un istoric a consemnat că armata cotropitoare a lui Hanibal s-a retras la auzul hohotelor de râs care zguduiau Roma. La fel şi bucuria care se revarsă nestăpânită din sufletul unui creştin are pu- terea de a sili orice forțe infernale de asediu să bată în retragere. Șobolanilor le plac locurile întunecate, iar lui Satan îi place să se ascundă în sufletele posomorâte. <i>—De Witt Talmage</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Bucuria este-o plantă de obârşie divină<br>\nCe nu creşte-n solul firii, fără apă şi lumină;<br>\nPână-L întâlnim pe Domnul, n-avem nici o bucurie, Viața fără El e numai trudă şi zădărnicie.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Însă, unde El plantează harul dătător de roadă Și prin solii Veştii Bune face slava să se vadă, Rodul sfânt al bucuriei şi al păcii minunate, Izvorât din Duhul vieții, în curând o să se-arate.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Sursa bucuriei noastre-i sfântul sânge-al ispăşirii,<br>\nCare ne-a adus iertare şi speranța mântuirii,<br>\nO speranță neclintită care-nfrânge neagra moarte<br>\nȘi de bucurii ca-n ceruri de pe-acum ne face parte. [...]</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Bucuriile acestea, ele ne-aduc împlinire,<br>\nInima în har ne-o scaldă şi dau gândului sfințire; Ele sufletul ne-nalță şi-ntristarea noastră curmă Astfel că legați de ceruri, lumea o lăsăm în urmă.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Newton"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dacă religia ta este lipsită de soare, să nu te surprindă faptul că nimeni nu va dori să şi-o însuşească. <i>—Autor necunoscut</i></p>"
+        }
+      ]
+    },
+    {
+      "id": 355,
+      "monthDay": "12-20",
+      "title": "RUGĂCIUNI ALTRUISTE",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Vă îndemn, deci, înainte de toate, să faceți rugăciuni, cereri, mijlociri, mulțumiri pentru toți oamenii.“",
+          "reference": "1 Timotei 2.1"
+        },
+        {
+          "type": "scripture",
+          "text": "„Fraților, dorința inimii mele și rugăciunea mea către Dumnezeu pentru Israeliți este să fie mântuiți.“",
+          "reference": "Romani 10.1"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dorințele altruiste pentru binele altora – care izvorăsc din inima credincioşilor aflați sub influența iubirii pe care Cristos a sădit-o în noi – se coboară sub formă de binecuvântări asupra lor, aşa cum umezeala absorbită de soare se pogoară sub formă de stropi de ploaie roditoare peste păşunile îndepărtate din pustietăți. Atunci când ne rugăm unii pentru alții ne ajutăm unii pe alții.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Alexander Maclaren"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Există nenumărate persoane care au ajuns la un punct critic în viața lor; sunt „albe acum, gata pentru seceriş“. Le vedem peste tot, nu numai pe ogoarele de peste hotare, ci şi între cei care tră- iesc lângă noi, şi le putem deosebi nu cu ajutorul minții sau al su- gestiilor, ci prin rugăciune. Gândiți-vă numai la numărul nesfârşit de crize prin care trec oamenii în aceste zile; omenirea se află la o răscruce. „Nu ziceți voi că mai sunt patru luni până la seceriş? Iată, Eu vă spun: «Ridicați-vă ochii, şi priviți holdele, care sunt albe acum, gata pentru seceriş.»“ „Rugați, deci, pe Domnul secerişului să scoată lucrători la secerişul Lui.“ <i>—Oswald Chambers</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ruga ta n-a fost ’nălțată nicidecum în al Meu Nume, Laudele-au fost cântate nu de dragul Meu anume;<br>\nDarul Meu, să ştii, e jertfa şi-am vărsat preascumpul sânge Să fac pace între oameni şi-n frăție să-i pot strânge.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>De aceea clar să-ți fie: până când nu iei pe umeri<br>\nAle fratelui tău sarcini, printre-ai Mei n-ai să te numeri; Dacă nu-ți apleci spinarea azi lângă truditul frate,<br>\nN-ai să poți simți vreodată nici cum inima Mea bate.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Renunță, deci, în mare grabă la gând şi visuri egoiste! Vezi dreptul ei la moştenire al unei lumi nespus de triste! Nu te feri de întristare, fii tot mai curajos şi poartă Povara grea a omenirii ce zace în păcate moartă!</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>La o iubire altruistă ce-aduce păcătoşi în turme<br>\nTu eşti chemat cu insistență, căci trebuie să-Mi calci pe urme; Deci, cheltuieşte-te, jertfeşte, cu zel, cu foc şi energie,<br>\nCăci azi cu drag slujindu-ți frații, vei fi cu ei o veşnicie.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Poem anonim"
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "monthDay": "12-21",
+      "title": "SĂ FACI CEEA CE CONTEAZĂ",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„De aceea, pe orișicine aude aceste cuvinte ale Mele, și le face, îl voi asemăna cu un om cu judecată, care și‐a zidit casa pe stâncă.“",
+          "reference": "Matei 7.24"
+        },
+        {
+          "type": "scripture",
+          "text": "„Nu orișicine‐Mi zice: «Doamne, Doamne!» va intra în Îm‐ părăția cerurilor, ci cel ce face voia Tatălui Meu care este în ceruri.“",
+          "reference": "Matei 7.21"
+        },
+        {
+          "type": "prose",
+          "html": "<p>„A face“ este cuvântul-cheie al acestui capitol. Cel care face lucrările neprihănirii este neprihănit. Cel care face voia Tatălui ce- resc va intra în Împărăția cerurilor – şi numai acela. În felul acesta îi vom recunoaşte pe proorocii mincinoşi – testându-le doctrina în faptele lor. Sfințenia nu înseamnă să spui: „Doamne, Doamne!“ Expresiile pioase, tonul pios, privirile pioase, profesiile pioase – toate acestea nu înseamnă nimic dacă nu faci voia Tatălui ceresc. Cel care aude şi nu face îşi clădeşte casa pe nisip; cel care aude şi face îşi zideşte casa pe stâncă.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Domnul nostru Îşi încheie predica cu pilda celor doi construc- tori: cel care aude şi face şi cel care aude şi nu face. Imaginea aceas- ta continuă mesajul Său anterior pildei. Fiecare casă este o lucrare – un efort depus. Probabil că zidirea unei case pe nisip presupune un efort mai mic decât zidirea ei pe stâncă. Însă, înțeleptul depune eforturi pentru a ajunge pe Stâncă. Din momentul în care şi-a asi- gurat fundația, Stânca împrumută puterea ei întregii zidiri. Fiecare piatră stă tare pentru că fundația este tare. STÂNCA ACEEA ESTE CRISTOS. <i>—Mark Guy Pearse</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Tot ce facem noi trebuie să facem cu un scop bine determi- nat: să aibă un efect real. Nu numai să ne mişcăm noi înşine, ci să-i mişcăm şi pe alții – pe păcătoşi să-i ajutăm să iasă afară din păcatele lor şi să se îndrepte spre Cristos; să mişcăm Biserica şi să contribuim la îmbunătățirea ei, nu să rămânem într-o stare de permanentă stagnare.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Erasmus povesteşte despre un om, pe nume Rabirius, care voia ca robul lui, Syrus, să se ridice, aşa că l-a îndemnat să se mişte.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>„Dar mă mişc“, a răspuns Syrus.<br>\n„Văd că te mişti“, i-a răspuns stăpânul său, „dar nu mişti nimic!“ Este posibil să vezi o mulțime de activități religioase, dar cu</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>toate acestea nici un păcătos să nu fie mişcat din păcatele lui, iar Biserica să nu crească mai deloc în sfințenie. Când ne mişcăm, ar trebui să ne mişcăm cu un scop clar în minte şi mişcarea noastră să realizeze ceva! <i>—James Caughey</i></p>"
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "monthDay": "12-22",
+      "title": "MUSTRĂ CU BLÂNDEȚE",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Mustră pe cel înțelept, și el te va iubi!“"
+        },
+        {
+          "type": "prose",
+          "html": "<p>(Proverbele lui Solomon 9.8)</p>"
+        },
+        {
+          "type": "scripture",
+          "text": "„Fraților, dacă s‐a rătăcit vreunul dintre voi de la adevăr, și‐l în‐ toarce un altul, să știți că [...] va mântui un suflet de la moarte și va acoperi o sumedenie de păcate.“",
+          "reference": "Iacov 5.19-20"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Spuneți adevărul cu orice chip! Spuneți adevărul în aşa fel în- cât nimeni să nu poată înțelege greşit ce ați vrut să spuneți. Mus- trați cu îndrăzneală şi fără teamă greşeala şi chiar mai aspru fără- delegea; toți martorii lui Cristos trebuie să fie „puternici pentru adevăr“, dar fără să-şi piardă spiritul de omenie, dragostea, blânde- țea şi afecțiunea frățească.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dacă trebuie să transmiți mesajul Răscumpărătorului divin, atunci transmite-l cu lacrimile Răscumpărătorului. Priveşte în ochi, dar cu blândețe, pe cel mai rău dintre semenii tăi, aşa cum orice om ar trebui să privească un alt om – amândoi de viță împărătească – chiar dacă unul îşi poartă coroana, iar celălalt şi-a amanetat-o.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—W. Morley Punshon"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Sclavi sunt cei care se tem gura lor a şi-o deschide</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Pentru cei căzuți şi slabi<br>\nce n-au forța de-a decide; Sclavi sunt toți cei care-aleg</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>să stea muți şi să nu-nfrunte Ură, nedreptăți, dispreț,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>ci abuzului fac punte. Sclavi ai unui duh murdar</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>sunt aceia care-neacă Adevăru-n compromis,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>preferând mereu să tacă.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Poem anonim"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Adesea se întâmplă să fie nevoie să ne dojenim sau chiar să ne mustrăm prietenii. Când dojenim sau mustrăm într-un spirit de blândețe, observațiile noastre ar trebui să fie bine primite. Dar, într-o măsură sau alta, există mult adevăr în ceea ce spune priete- nul nostru Terențiu în Fata din Andros: „Conformarea ne aduce prieteni, iar franchețea ură.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Franchețea este cauza multor necazuri dacă e urmată de re- sentimente, care sunt o adevărată otravă pentru orice relație de prietenie; însă conformarea este în realitate cauza şi mai multor necazuri, pentru că acceptând tacit greşelile unui prieten nu faci decât să-l laşi să meargă cu capul înainte spre pieire. Însă, evident, principalul vinovat este acela care nu suferă franchețea şi permite linguşirii să-l împingă de la spate spre nimicire.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dacă dojenim, trebuie s-o facem fără amărăciune; dacă mus- trăm, trebuie s-o facem fără vreo urmă de insultă. [...] Însă, dacă urechile unui om sunt închise la franchețe în aşa măsură încât să nu suporte adevărul spus de un prieten, s-ar putea ca, în dispe- rare de cauză, să renunțăm. Următoarea remarcă a lui Cato – ca, de fapt, multe altele care îi aparțin – dă dovadă de multă acuitate: „Există oameni care datorează mai mult unor duşmani înverşunați decât prietenilor lor aparent foarte amabili: cei dintâi spun adesea adevărul, pe când cei din urmă niciodată.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Pe lângă toate acestea, avem de-a face cu un paradox ciudat: cei cărora le sunt adresate sfaturile nu se arată deloc deranjați de lucruri care ar trebui să-i deranjeze şi sunt teribil de ofensați de lucruri care n-ar trebui să-i supere. Nu-i supără deloc faptul că au comis o greşeală, dar sunt deranjați la culme de faptul că sunt mus- trați pentru greşeala lor. <i>—Cicero</i></p>"
+        }
+      ]
+    },
+    {
+      "id": 358,
+      "monthDay": "12-23",
+      "title": "BIBLIA – CĂLĂUZA MEA",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Mă vei călăuzi cu sfatul Tău, apoi mă vei primi în slavă.“"
+        },
+        {
+          "type": "prose",
+          "html": "<p>(Psalmul 73.24)</p>"
+        },
+        {
+          "type": "scripture",
+          "text": "„Da, cuvintele Mele sunt prielnice celui ce umblă cu neprihănire!“",
+          "reference": "Mica 2.7"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu mă tem să scot la lumină cele mai ascunse gânduri ale ini- mii mele înaintea unor oameni sinceri şi rezonabili. Iată ce gân- desc: sunt o făptură de o zi, care trece prin viață aşa cum trece săgeata prin aer. Sunt un spirit venit de la Dumnezeu şi care se întoarce la Dumnezeu, un duh care pluteşte deasupra acestei mari prăpăstii care este lumea până când, doar peste câteva clipe, nu voi mai fi văzut! Voi coborî într-o eternitate neschimbătoare. Vreau să ştiu un singur lucru: calea către Cer! Și anume, cum să aterizez în siguranță pe țărmul acela fericit. Dumnezeu Însuşi a găsit de cu- viință să mă învețe calea; tocmai de aceea a venit din Cer. A scris totul într-o Carte. Dați-mi Cartea lui Dumnezeu, cu orice preț! O am; în ea e suficientă cunoaştere pentru mine. <i>—John Wesley</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ah, ce frumos e să mă-ncred mereu Doar în al Tău Cuvânt,<br>\nȘi nu-Ți cer, Tată sfânt<br>\nSă-mi dai să văd al slavei curcubeu Și-ntregu-Ți plan ajuns la apogeu; Din ce promiți, un sul îmi aparține, Cuvântul Tău de-ajuns e pentru mine.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Frances Ridley Havergal"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Haideți să citim Biblia aşa cum nu am mai citit-o nicioda- tă până acum. Trebuie să mergem înainte, trebuie să trăim mai presus de lume, dacă vrem să ne bucurăm de puritatea naturii umane pe care o conține Biblia. Dar cum? Nu putem înainta fără o călăuză, ar fi o dovadă de trufie din partea noastră; dar la ce</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>călăuză să apelăm? O, sunt sătul de doctori şi profesori! Cărți! Nu se mai termină: noroi, foc, acizi, alcaloizi, tot felul de ingrediente străine care contaminează adevărul curat.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Vom asculta noi de glasul Duhului lui Dumnezeu şi numai de El? Da! Dar unde? Nu le-a vorbit El chiar celor care au alcătuit cărțile? Și nu are fiecare om propriul său dar? Nu este fiecare prota- gonist martorul desemnat al unui anumit adevăr? Aşadar, trebuie să ne avântăm din nou în oceanul vast, tulbure, întunecat şi contra- dictoriu de cărți? Nu! Nu există o carte unică şi imuabilă? O carte în care să fie consemnată înțelepciunea pură? Biblia, adevărul lui Dumnezeu rostit în cuvinte care îmi sunt adresate mie. S-ar putea să existe în Cartea aceasta şi alte semnificații, în afară de cele clare. Dar iată ce cred eu: că indiferent ce elemente mistice ar găsi în ea misticii, omul simplu, cel care îşi iubeşte soția, cel care este tată pentru copiii săi, cel care iubeşte pământul creat de Dumnezeu, cel care se bucură de lucruri şi de oameni nu pentru ceea ce sunt, ci pentru ceea ce ar trebui să fie şi vor fi, acela va găsi în Biblie re- zolvarea oricărui mister – un răspuns la orice enigmă, o călăuză în orice problemă. <i>—Charles Kingsley</i></p>"
+        }
+      ]
+    },
+    {
+      "id": 359,
+      "monthDay": "12-24",
+      "title": "HANUL VIEȚII ESTE PLIN ȘI ACUM",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„În casa de poposire nu era loc pentru ei.“ (Luca 2.7)\n\n„Vulpile au vizuini, și păsările cerului au cuiburi; dar Fiul omu‐"
+        },
+        {
+          "type": "prose",
+          "html": "<p><i>lui n‐are unde‐Şi odihni capul.“ </i>(Matei 8.20)</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cristos caută – şi a căutat mereu – un loc. Casa de poposire din Betleem era prea plină ca să-L primească, şi astfel a ratat o oportunitate extraordinară. Acelaşi Cristos vine la fiecare dintre noi, la casa de poposire a vieții noastre, şi caută „loc“. Suntem oare prea aglomerați ca să-L primim pe Împăratul împăraților?</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu este loc! Nu este loc! N-avem loc astăzi pentru Tine! Nazarineanule, la noi sunt toate camerele pline.<br>\nDe-un loc de poposire azi, noi nu putem să-Ți facem parte; Aşa că nu Te supăra, şi caută-Ți în altă parte!</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Doar vezi, e plin pân’ la refuz, e-aşa de mare-nghesuială; Cu greu şi noi ne mai mişcăm, nu-i nici o încăpere goală; Ne-ar stingheri prezența Ta, iar vorbele-Ți pot fi deşarte. De-aceea du-Te unde vrei, cât mai curând, cât mai departe!</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Iar, dacă s-ar mai întâmpla să treci din nou pe-aici vreodată, Și s-ar găsi vreun colțişor în casa asta luminată,<br>\nAtunci vei fi binevenit; ne-om bucura, probabil, foarte; Acum noi, însă, Te rugăm să-Ți cauți loc în altă parte.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Iar Domnul care-i plin de milă, de dragoste şi bunătate, El nu dă buzna ca să intre, la uşi închise stă şi bate; Cinează-n dulce părtăşie cu cel ce grabnic Îi deschide, Dar când refuzu-i categoric, să Se retragă El decide.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>De la o inimă la alta, El merge-n marea Sa iubire<br>\nȘi caută cu stăruință la oameni loc de poposire. Oricine-n suflet Îl primeşte, va fi primit şi el în slavă, Dar orice om care-L respinge pedeapsa lui va fi grozavă.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Poem anonim"
+        }
+      ]
+    },
+    {
+      "id": 360,
+      "monthDay": "12-25",
+      "title": "FRUMUSEȚEA LUI CRISTOS",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Pe cine altul am eu în cer în afară de Tine? Şi pe pământ nu‐mi găsesc plăcerea în nimeni decât în Tine.“",
+          "reference": "Psalmul 73.25"
+        },
+        {
+          "type": "scripture",
+          "text": "„Dar El era străpuns pentru păcatele noastre, zdrobit pentru fă‐ rădelegile noastre. Pedeapsa, care ne dă pacea, a căzut peste El, și prin rănile Lui Suntem tămăduiți.“",
+          "reference": "Isaia 53.5"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Domnul Isus Cristos a devenit Fiu al omului pentru ca noi să putem deveni fii ai lui Dumnezeu. El a venit din Cer pe pământ pentru ca noi să putem merge de pe pământ în Cer. Era bogat, dar de dragul nostru a devenit sărac.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>A trăit în sărăcie şi a fost crescut în anonimat. Nu a beneficiat de o educație aleasă. Rudele lui au fost oameni modeşti şi lipsiți de influență în societatea acelei vremi.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>În primii ani de viață, a speriat un împărat. La vârsta copilări- ei, i-a pus pe gânduri pe învățătorii lui Israel; la vârsta maturității, a păşit pe valuri şi a poruncit mării să se potolească. A vindecat mulțimi de oameni fără medicamente şi nu a cerut nimic în schim- bul serviciilor Sale. Nu a scris niciodată o carte, şi cu toate acestea toate bibliotecile din lume nu ar putea cuprinde toate cărțile care s-ar putea scrie despre El. Nu a compus niciodată vreo cântare, şi totuşi El reprezintă tema mai multor cântări decât ale tuturor com- pozitorilor lumii la un loc. Nu a pus bazele niciunui colegiu, şi cu toate acestea toate şcolile la un loc nu se pot lăuda cu un număr de studenți la fel de mare ca numărul învățăceilor Lui. Oameni mari au venit şi au plecat, dar El rămâne. Moartea nu L-a putut nimici şi mormântul nu L-a putut ține.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Toți au cunoscut eşecul, dar El niciodată. Cel desăvârşit, El este Căpetenia zecilor de mii. El este de o frumusețe absolu- tă, desăvârşită.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Măreața frumusețe stă pe tron<br>\nPe-a Salvatorului slăvită frunte; E-ncoronat cu glorie ca Domn,<br>\nPe buze-I curg izvoare ca din munte.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu seamănă cu El vreun muritor, Oricât i-ar fi de sfânt şi nobil traiul; Întrece-n frumusețe-ntregul cor<br>\nAl îngerilor sfinți cu tot alaiul.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>El m-a văzut în tină scufundat<br>\nȘi-a alergat afară a mă duce;<br>\nEl vina mea asupra Lui a luat<br>\nȘi-a pătimit în locul meu pe cruce. [...]</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>De vreme ce din mâna Lui primesc Aşa dovezi de dragoste măreață,<br>\nChiar mii de vieți să am, le dăruiesc, Nu doar un suflet mic şi-o scurtă viață.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Stennett"
+        }
+      ]
+    },
+    {
+      "id": 361,
+      "monthDay": "12-26",
+      "title": "SCOPUL ASCUNS AL LUI DUMNEZEU",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Nu stă în puterea omului, când umblă, să‐și îndrepte pașii spre țintă.“",
+          "reference": "Ieremia 10.23"
+        },
+        {
+          "type": "scripture",
+          "text": "„Venirea Lui e pregătită ca zorile dimineții.“",
+          "reference": "Osea 6:3, traducere după KJV"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Scopurile lui Dumnezeu erau ascunse ochilor doamnei Studd când soțul ei a pornit spre Africa, lăsându-i pe cei dragi în urmă. Norman Grubb citează următoarele rânduri dintr-o scrisoare a doamnei Studd, în care se văd limpede lupta şi biruința ei:</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>„Când m-am gândit la tot ce urma să mi se întâmple, am în- ceput să plâng. Nu plâng prea des, dar în seara aceea am plâns cu amar. Apoi m-am gândit: «Aşa nu se poate ... Mâine nu mă voi simți bine şi nu voi putea fi de folos nimănui.»</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>În ziua aceea, în trenul de Waterloo, citeam o carte în care erau două referințe – una era Psalmul 34, iar cealaltă Daniel 3.29 ...aşa că mi-am deschis Biblia. Primele cuvinte pe care le-am citit parcă m-au izbit direct în față. A început cu „Voi“ – ceea ce denotă fermitate, hotărâre şi curaj; „voi binecuvânta“ – Îl voi face pe Dom- nul fericit – şi asta nu se poate face plângând. „Voi binecuvânta pe Domnul în orice vreme“ – deci, chiar şi acum! Și înainte de a ajunge la sfârşitul acelui verset, lacrimile dispăruseră şi ajunse- sem într-un punct în care am putut spune: „Am să-L fac pe Dom- nul fericit acum.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Am citit mai departe: „Eu am căutat pe Domnul, şi mi-a răs- puns: m-a izbăvit din toate temerile mele.“ „Când strigă un ne- norocit, Domnul aude, şi-l scapă din toate necazurile lui.“ Ultima parte a fost cea mai uimitoare: „Toate oasele i le păzeşte, ca nici unul din ele să nu i se sfărâme.“ [...]</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Am simțit dintr-o dată cum toate temerile mele au dispărut; toate temerile, toate necazurile, tot ce avea să însemne „am rămas singură“, toate temerile legate de malarie şi de săgețile otrăvite ale sălbaticilor; şi m-am dus la culcare plină de bucurie. Am râs „râsul</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>credinței“ în seara aceea. M-am ridicat de pe genunchi şi i-am scris soțului meu despre această experiență şi i-am trimis scrisoarea la Marsilia, cu toate că încă nu părăsise țara.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Domnul scopurile-Și duce totdeauna la-mplinire,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Chiar şi-atunci când, luați de-acasă, mergem fără vreo-nsoțire;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dar plăcerea cea mai mare este să-L simțim aproape</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Și să ştim că ce-Și propune niciodată n-o să-I scape.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>De aceea n-ai motive<br>\nsă te plângi sau să cârteşti.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Viitorul ți-l cunoaşte;<br>\ndeci, voios Lui să-I slujeşti;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Iar când vălu-i dat deoparte şi când umbrele dispar,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Te vei bucura în Domnul, planul Său fiindu-ți clar.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Doamna F.W. Suffield"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"p6\">(„God is Working Out His Purpose“ [Dumnezeu Îşi duce la îndeplinire scopul], de doamna F. W. Suffield, proprietate protejată de legea drepturilor de autor – Lillenas Publishing Co., S.U.A. Folosit cu permisiune.)</p>"
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "monthDay": "12-27",
+      "title": "DUMNEZEU NE DĂ HAR,\nÎNSĂ NOI NE ZIDIM CARACTERUL",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„De aceea, dați‐vă și voi toate silințele ca să uniți cu credința voastră fapta; cu fapta, cunoștința; cu cunoștința, înfrânarea; cu înfrânarea, răbdarea; cu răbdarea, evlavia; cu evlavia, dra‐ gostea de frați; cu dragostea de frați, iubirea de oameni. Căci, dacă aveți din belșug aceste lucruri în voi, ele nu vă vor lăsa să fiți nici leneși, nici neroditori în ce privește deplina cunoștință a Domnului nostru Isus Cristos.“",
+          "reference": "2 Petru 1.5-8"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Reputația este ceea ce spun oamenii că suntem. Caracterul este ceea ce spune Dumnezeu că suntem.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Reputația lui Cristos L-a dus la cruce. Caracterul Lui L-a dus pe tron.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Când ne pierdem bogăția, nu pierdem nimic; când ne pierdem sănătatea, pierdem ceva; când ne pierdem caracterul, pierdem tot.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Motto pe zidurile unei școli din Germania"
+        },
+        {
+          "type": "prose",
+          "html": "<p>A conviețui cu mine<br>\neste gândul ce mă paşte;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Vreau să fiu un om pe care<br>\nmi-ar fi drag să-l pot cunoaşte.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu cumva când voi ajunge în amurgul vieții mele,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Vai, să mă privesc cu ură pentru şir de fapte rele.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Vreau să pot ieşi din scenă bucuros, cu capul sus,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Respectat, pe drept, de semeni şi-ndrăgit mult de Isus;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Iar aici, în toiul luptei pentru câte ni se cer,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Îmi doresc, sporind în toate, să fiu om de caracter.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Vreau să ştiu, privind spre mine, că nu-s doar o vorbă goală, Un om slab, murdar, fățarnic,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>ros de-a făr’delegii boală; Nu contează care-i prețul,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>gata sunt să-l dau întreg: A avea o conştiință</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>pură, eu decis aleg.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Poem anonim"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Marea întrebare nu este ce vei primi, ci ce vei deveni. Cea mai mare bogăție pe care o vei putea primi vreodată va fi în tine însuți.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Horace Bushnell"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Fiecare om este conlucrător cu Dumnezeu la făurirea propriu- lui său viitor. Dumnezeu creează capacitatea, omul creează carac- terul. Nu poți deveni un om de caracter visând la asta, ci caracterul este ceva pe care trebuie să ți-l construieşti singur. <i>—J.G. Carter</i></p>"
+        }
+      ]
+    },
+    {
+      "id": 363,
+      "monthDay": "12-28",
+      "title": "RUGĂCIUNE ÎNAINTE DE MUNCĂ",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Vegheați și rugați‐vă, ca să nu cădeți în ispită; duhul, în adevăr, este plin de râvnă, dar carnea este neputincioasă.“",
+          "reference": "Matei 26.41"
+        },
+        {
+          "type": "scripture",
+          "text": "„Nu este nimeni care să cheme Numele Tău sau care să se tre‐ zească și să se alipească de Tine.“",
+          "reference": "Isaia 64.7"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Despre puțini oameni se poate spune că au fost mai credin- cioşi în rugăciune decât George Müller. Ce autoritate mai com- petentă ne-am putea dori, aşadar, decât mărturia lui cu privire la pierderea temporară a păcii şi a puterii lăuntrice atunci când rugă- ciunea este neglijată chiar şi numai pentru câteva zile.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>„Aş vrea să adresez un cuvânt de atenționare fraților mei cre- dincioşi. Adesea însăşi lucrarea Domnului poate ajunge să fie lu- crul care ne împiedică să avem acea părtăşie cu El care este absolut esențială pentru binele sufletului nostru.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Pe data de 19 am plecat din Dartmouth, am stat de vorbă cu mulți oameni în ziua respectivă; seara am predicat, am mers pe jos apoi 13 kilometri, am dormit numai 5 ore; a doua zi am călătorit din nou 40 de kilometri, am predicat de două ori şi din nou am stat de vorbă cu foarte mulți oameni; m-am culcat la ora 11 seara şi m-am trezit înainte de 5 dimineața. Toate acestea arată că trupul şi sufletul meu aveau nevoie de odihnă; şi, prin urmare, cu riscul ca frații mei să fi considerat că neglijez astfel lucrarea Domnului, ar fi trebuit să am mult mai mult timp pentru rugăciune şi citirea Cuvântului, mai ales având în vedere că în ziua respectivă îmi stă- tea înainte o călătorie lungă – urma să pornesc spre Bristol – fapt pentru care era nevoie de multă rugăciune. Ceea ce am făcut eu, însă, a fost să alerg la o întâlnire de rugăciune după câteva minute de rugăciune personală. Dar nu cumva să credeți că rugăciunea publică poate înlocui părtăşia din cămăruță.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Apoi, din nou, ar fi trebuit să mă retrag – oarecum forțat – din compania unor frați şi surori dragi şi să las astfel o mărturie</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>cu privire la Domnul (şi, de fapt, aceasta ar fi fost cea mai bună mărturie pe care aş fi putut să le-o las), spunându-le că am nevoie de părtăşie personală cu El; însă, în loc să fac aşa, mi-am petrecut restul timpului până la sosirea trăsurii stând de vorbă cu ei. Oricât de util s-ar fi dovedit acest timp sub anumite aspecte pentru cei cu care mi-am petrecut dimineața respectivă, sufletul meu avea şi el nevoie să fie hrănit şi, pentru că nu îşi primise hrana, m-am simțit slăbit şi am resimțit efectele acestui fapt pe parcursul întregii zile şi astfel cred că am ajuns în punctul în care pe trăsură nu am mai fost bun de nimic.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Și tot George Müller spunea:</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>„În aceste ultime trei zile am avut foarte puțin timp de părtăşie cu Domnul şi, drept urmare, m-am simțit foarte slăbit din punct de vedere spiritual, şi de multe ori am căzut pradă irascibilității firii pământeşti. Fie ca Dumnezeu să mă ajute, în îndurarea Lui, să-mi fac mai mult timp de rugăciune personală.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Numai dacă m-aş fi rugat mai mult! O, dacă m-aş fi rugat de o sută de ori mai mult! <i>—Andrew Bonar</i></p>"
+        }
+      ]
+    },
+    {
+      "id": 364,
+      "monthDay": "12-29",
+      "title": "PREȚUL CREȘTERII SPIRITUALE",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„După ce veți suferi puțină vreme, vă va desăvârși, vă va întări, vă va da putere și vă va face neclintiți.“",
+          "reference": "1 Petru 5.10"
+        },
+        {
+          "type": "scripture",
+          "text": "„Şi să‐L cunosc pe El și puterea învierii Lui și părtășia suferințe‐ lor Lui, și să mă fac asemenea cu moartea Lui.“",
+          "reference": "Filipeni 3.10"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Gama suferințelor noastre posibile este determinată de di- mensiunile şi de noblețea țelurilor noastre. Este posibil să evităm o mulțime de suferințe cultivând o viață lipsită de însemnătate. Dacă ambiția unui om este să evite problemele vieții, rețeta este cât se poate de simplă: nu trebuie decât să-şi împrăştie ambițiile în toate direcțiile, să reteze aripile tuturor scopurilor avântate şi să cultive în mod asiduu o viață măruntă, cu cât mai puține relații şi corespondențe. În felul acesta va scăpa de un întreg continent de suferințe, pe care nu va ajunge să le cunoască.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cultivă negația, şi atunci porțiuni semnificative din univers vor înceta să existe. De pildă, cultivă surzenia, şi vei scăpa de oroa- rea certurilor. Cultivă orbirea, şi vei scăpa de atacurile urâțeniei. Amorțeşte un simț, şi vei închide uşa unei lumi întregi. Este cât se poate de adevărat – în cel mai literal sens – că dacă vrei să treci prin lume cu cât mai puține probleme, trebuie să te reduci pe tine însuți la cele mai mici dimensiuni. De aceea atât de mulți oameni – şi atât de mulți oameni care se declară creştini – trec prin viață cu atâta uşurință, având prea puțin de-a face cu necazul. Și-au redus sufle- tele la minimum, şi din acest motiv drumul lor de-a lungul anilor nu este trecerea unui om, ci mai degrabă alunecarea unei amibe. Aceşti oameni nu au un sistem nervos bine pus la punct, pentru că au amorțit şi au oprit creşterea nervilor, unul după altul; au retezat legăturile sensibile care leagă individul de rasa umană şi se simt bine în autosuficiența lor, pentru că fiorul durerii lumii nu-i atinge în izolarea lor. <i>—J.H. Jowett</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ce om poate duce o viață mai bună?<br>\nNu cel care trece vânjos prin furtună,<br>\nCu pânzele lui de maree umflate<br>\nȘi drumul spre țărm dus de vânt îl străbate;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ci omul puternic a cărui credință<br>\nÎl face să scoată din răni biruință;<br>\nDe nici o-ncercare el nu se-nspăimântă, Nu geme, nu plânge şi nu se frământă;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Încrederea lui în Cristos e deplină; În gros întuneric, el umblă-n lumină; Nu-şi cheltuie viața în lucruri uşoare, Căci vremii acordă reala valoare.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Poem anonim"
+        }
+      ]
+    },
+    {
+      "id": 365,
+      "monthDay": "12-30",
+      "title": "CUVÂNTUL DĂTĂTOR DE VIAȚĂ",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Întreabă acum, te rog, Cuvântul Domnului.“"
+        },
+        {
+          "type": "prose",
+          "html": "<p>(2 Cronici 18.4)</p>"
+        },
+        {
+          "type": "scripture",
+          "text": "„Cuvântul Tău îmi dă iarăși viață.“"
+        },
+        {
+          "type": "prose",
+          "html": "<p>(Psalmul 119.50, traducere după KJV)<br>\nOmul unei singure cărți este întotdeauna o forță; însă, când</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>acea carte este Biblia, forța este irezistibilă. <i>—W.M. Taylor</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu există o trăsătură mai remarcabilă a caracterului lui Bunyan decât seriozitatea evlavioasă cu care studia Cuvântul Domnului şi reverența cu care L-a prețuit de-a lungul întregii sale vieți.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>În momentele de agonie, când „rătăcitor neobosit în căutare de odihnă“ s-a luptat cu ispita aprigă şi a căzut în capcana ereziei antinomianismului, a consemnat plin de recunoştință: „În acele zile Biblia a fost prețioasă pentru mine.“ După ce a fost izbăvit, şi-a ales drept lucrare plăcută a vieții sale să-i înalțe autoritatea şi să-i proclame adevărurile.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Le recomandă el ascultătorilor săi să crească în har? Atunci Cuvântul lui Dumnezeu trebuie să fie sursa de alimentație pentru viața lor. „Orice har este alimentat din Cuvânt, şi fără acesta sufle- tul nu poate creşte.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>A anunțat el o prezentare plină de curaj a adevărului? Să privim cum îşi dezarmează oponenții şi cere o verificare atentă! „Dați-mi o şansă să vorbesc: duceți-mă la Biblie, şi să nu găsesc bunăvoință înaintea voastră dacă veți găsi că mă abat de la standardul ei.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Înalță el Cuvântul Domnului mai presus de toate invențiile confraților săi? Să observăm familiaritatea savuroasă a afirmațiilor lui: „Puțin de la Dumnezeu este mai bine decât mult de la oameni. Ceea ce vine de la oameni este adesea şifonat. Ceea ce primim din mâna lui Dumnezeu este nou-nouț, ca un lucru abia ieşit din fabrică. Adevărurile vechi sunt întotdeauna noi pentru noi dacă vin înmiresmate de parfumul Cerului.“</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Este curatul său suflet deranjat de indiferența celor credincioşi sau de impertinența celor necredincioşi? Cu câtă fermitate îşi pro- clamă convingerile cu privire la metehnele acestor vremuri! „Chiar şi în inimile copiilor lui Dumnezeu ar trebui să vedem o mai mare reverență față de Cuvântul Lui decât am văzut până acum printre noi. Dați-mi voie să vă spun ceva: această lipsă de reverență față de Cuvântul lui Dumnezeu este rădăcina tuturor bolilor care apar în inima, în viața, în vorbirea şi în părtăşia creştinilor.“</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—W. Morley Punshon"
+        }
+      ]
+    },
+    {
+      "id": 366,
+      "monthDay": "12-31",
+      "title": "SĂ FACEM INVENTARUL",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Pe voi înșivă încercați‐vă dacă sunteți în credință. Pe voi înșivă cercați‐vă.“",
+          "reference": "2 Corinteni 13.5"
+        },
+        {
+          "type": "scripture",
+          "text": "„Fiecare să‐și cerceteze fapta lui, și atunci va avea cu ce să se laude numai în ce‐l privește pe el, și nu cu privire la alții.“",
+          "reference": "Galateni 6.4"
+        },
+        {
+          "type": "scripture",
+          "text": "„Cercetează‐mă, Doamne, încearcă‐mă...“",
+          "reference": "Psalmul 26.2"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cred că acesta este momentul din an în care oamenii fac in- ventarul în toate domeniile – mai puțin în domeniul spiritual. În industria încălțămintei, se ştie exact cât s-a consumat, cât s-a pro- dus şi unde se află toate produsele finite. În industria cărților, s-au făcut toate calculele. La fel se procedează în toate firmele şi afa- cerile serioase. Oamenii vor să ştie cum stau în ceea ce priveşte posesiunile lor.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dar vai! Unde îți este contabilul şi unde îți este casierul care fac inventarul sufletului tău, pentru ca să ştii dacă ai câştigat în cunoaştere sau ți-ai irosit timpul; dacă ai dobândit o conştiință mai stabilă, sau dacă ea seamănă cu o sfârlează, purtată încoace şi în- colo de obiceiuri sau de părerile oamenilor; dacă te-ai apropiat de oameni, şi ai cu ei relații mai pline de dragoste, sau dacă ai început să te dezintegrezi? <i>—Henry Ward Beecher</i></p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Să ne facem inventarul,<br>\ntot ce-i vechi lăsând în urmă;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Amintind pe cele bune,<br>\nsă iertăm ce-n piept ne scurmă;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Să uităm ce ne mai leagă, producându-ne regrete,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Renunțând la tot ce poate conştiința să ne-o-mbete.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>S-aruncăm în praf ce n-are pentru noi nici o valoare,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Alipindu-ne mai straşnic de comori nepieritoare;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Stabilindu-ne o țintă<br>\nmai măreață şi-ndrăzneață,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Să slujim cu zel pe Domnul printr-o mai curată viață.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Azi trecând voioşi hotarul<br>\ndin cel vechi spre Anul Nou,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Glasul Domnului în inimi să-şi găsească sfânt ecou,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Și să ne-ajutăm toți frații când îi întâlnim pe drum,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Să le ridicăm povara<br>\ngrea în lumea de acum.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Căci nu jertfe, ci vrea milă bunul nostru Salvator,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Creştinismul nostru astfel va fi mai convingător.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Vom adăuga, desigur, stând cu toții împreună,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Unui an ce ne surâde<br>\nun crâmpei de voie bună.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "— Words and Deeds (Cuvinte şi fapte)"
+        }
+      ]
+    }
+  ]
+}

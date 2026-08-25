@@ -1,39 +1,39 @@
 {
   "generatorVersion": 2,
-  "contentVersion": "5dff4952a23099dc",
+  "contentVersion": "9fa790cf97a703d8",
   "correctionManifestChecksum": "7c1051f6e2bc3943b7c1dbe4da229694455681b8875a346c99279e555edb733f",
   "readingCount": 366,
   "translationCount": 732,
   "files": [
     {
       "name": "readings.json",
-      "bytes": 8130317,
-      "sha256": "7a7ae043b8384b609dc0f7adba8b788383c1c33b3341f5a3a6a70c67b0c38664"
+      "bytes": 8054929,
+      "sha256": "025fc4851e61e5e837f085d4fe3c8a35939df7fd1d3862d52766495290018efd"
     },
     {
       "name": "catalog.en.json",
       "bytes": 35733,
-      "sha256": "8ebc334a327e6afcfff7abea92d557d8de55072b05c831596b964ba148498bd4"
+      "sha256": "aa91b61a7d5e87942d3744901ddb5361986c1c0e43e172c84952c5c5d59a2d3a"
     },
     {
       "name": "catalog.ro.json",
-      "bytes": 38593,
-      "sha256": "bd3d9af4ec2c7b58b2c19b1216b276165f3323f9cb5e9bf136f32973468ebfbc"
+      "bytes": 38514,
+      "sha256": "fc4dafb116153061d0e5319cf68f447738be51c92b762ee2702093594b2e257d"
     },
     {
       "name": "search.en.json",
       "bytes": 757818,
-      "sha256": "40351c8df05e6080f3fafa814e972082aef8ca008c59e445e5dabd64aebdf45b"
+      "sha256": "c9e650c2e34d5a2a063690ac4759075daa447dfdb886276b8b2bb5df1e5824ef"
     },
     {
       "name": "search.ro.json",
-      "bytes": 978556,
-      "sha256": "8145b9e1508dd26f222deae5810dec0dbdcad352ebf976b242343548e1528ccb"
+      "bytes": 978477,
+      "sha256": "e749fc870148fae42c15c79d52cbaf22d222eda0fe7cd770ebee0afb057baf80"
     },
     {
       "name": "report.json",
-      "bytes": 254500,
-      "sha256": "268971865164596d48f61fb48af1d321e45b221cd85f25e3d94616b22ee73dee"
+      "bytes": 337270,
+      "sha256": "a701db26820a7d89fadb4b56940d68e60b9aaa0d430e00c954f5cddf113e3e85"
     }
   ]
 }
