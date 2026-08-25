@@ -1,5 +1,5 @@
 {
-  "contentVersion": "9fa790cf97a703d8",
+  "contentVersion": "7efb5e9c7afc08f1",
   "locale": "ro",
   "month": "01",
   "readings": [
@@ -138,7 +138,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nicidecum şi niciodată nu ne vom simţi bine în mod real înainte de a face din Univers odăiţa noastră de rugăciune şi de a umbla pretutindeni sub călăuzirea Duhului Sfânt. —<i>George Bowen</i></p>"
+          "html": "<p>Nicidecum şi niciodată nu ne vom simţi bine în mod real înainte de a face din Univers odăiţa noastră de rugăciune şi de a umbla pretutindeni sub călăuzirea Duhului Sfânt.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Bowen"
         }
       ]
     },
@@ -302,7 +306,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cât de multe poveri poate pune Domnul pe umerii tăi? Care este punctul tău de sarcină maximă – punctul în care te prăbuşeşti sub greutatea poverii? Vei scânci, vei bombăni şi te vei plânge, sau vei accepta totul în linişte. Ba, şi încă ceva pe deasupra, şi vei vorbi, asemenea lui Pavel, despre <i>„întristările noastre uşoare de o clipă” </i>(2 Corinteni 4.17, n.red.)? —<i>John Harrison</i></p>"
+          "html": "<p>Cât de multe poveri poate pune Domnul pe umerii tăi? Care este punctul tău de sarcină maximă – punctul în care te prăbuşeşti sub greutatea poverii? Vei scânci, vei bombăni şi te vei plânge, sau vei accepta totul în linişte. Ba, şi încă ceva pe deasupra, şi vei vorbi, asemenea lui Pavel, despre <i>„întristările noastre uşoare de o clipă” </i>(2 Corinteni 4.17, n.red.)?</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Harrison"
         },
         {
           "type": "prose",
@@ -442,7 +450,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"p6\">El vine cu blândeţe. El vine cu dragoste. El vine într-o misiune a bunăvoinţei infinite, a îndurării, a păcii, a ajutorării şi a bucuriei. El este Avocatul care mijloceşte între Tatăl şi Fiul pe de o parte şi noi, oamenii, de cealaltă parte. El reprezintă şi execută planurile şi scopurile răscumpărătoare ale Dumnezeului Triunic. Aşa cum spunea unul dintre foştii mei profesori, Daniel Steele, «El este Directorul Executiv al Divinităţii»“. ––<i>Samuel Logan Brengle</i></p>"
+          "html": "<p class=\"p6\">El vine cu blândeţe. El vine cu dragoste. El vine într-o misiune a bunăvoinţei infinite, a îndurării, a păcii, a ajutorării şi a bucuriei. El este Avocatul care mijloceşte între Tatăl şi Fiul pe de o parte şi noi, oamenii, de cealaltă parte. El reprezintă şi execută planurile şi scopurile răscumpărătoare ale Dumnezeului Triunic. Aşa cum spunea unul dintre foştii mei profesori, Daniel Steele, «El este Directorul Executiv al Divinităţii»“. –</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Logan Brengle"
         },
         {
           "type": "prose",
@@ -478,11 +490,19 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"p6\">Oare ne vom putea plăti noi vreodată datoria faţă de Cristos? Într-o mică măsură da. Cum anume? Lăsând ca Vestea Bună să treacă prin noi spre alţii care nu au auzit-o niciodată. ––<i>Gospel Echoes</i></p>"
+          "html": "<p class=\"p6\">Oare ne vom putea plăti noi vreodată datoria faţă de Cristos? Într-o mică măsură da. Cum anume? Lăsând ca Vestea Bună să treacă prin noi spre alţii care nu au auzit-o niciodată. –</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Gospel Echoes"
         },
         {
           "type": "prose",
-          "html": "<p class=\"p6\">Când oare va putea Dumnezeu să-i spună lui Satan: „I-ai văzut pe creştinii Mei? Nu mai caută aur sau plăceri, onoruri sau o viaţă tihnită; de acum înainte creştinii Mei vor fi gata să-şi verse sângele cu dragoste, pentru cauza Fiului Meu preaiubit şi pentru mântuirea celor mai nevoiaşi dintre oameni.” ––<i>C.T. Studd</i></p>"
+          "html": "<p class=\"p6\">Când oare va putea Dumnezeu să-i spună lui Satan: „I-ai văzut pe creştinii Mei? Nu mai caută aur sau plăceri, onoruri sau o viaţă tihnită; de acum înainte creştinii Mei vor fi gata să-şi verse sângele cu dragoste, pentru cauza Fiului Meu preaiubit şi pentru mântuirea celor mai nevoiaşi dintre oameni.” –</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—C.T. Studd"
         }
       ]
     },
@@ -534,7 +554,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dar jertfa aceasta nu trebuie să vină doar de pe buze, ci viaţa noastră întreagă trebuie să fie predată Domnului cu bucurie. Da, cu bucurie şi cu recunoştinţă, nu cu ezitări şi stinghereală. Fiecare părticică a personalităţii noastre trebuie să fie închinată Lui şi orice lucru pe care-l facem să fie un act de slujire plină de bucurie, pentru că Domnul (Iehova) este pricina cântării şi desfătării noastre, mântuirea şi tăria noastră. ––<i>W. Hay Aitken</i></p>"
+          "html": "<p>Dar jertfa aceasta nu trebuie să vină doar de pe buze, ci viaţa noastră întreagă trebuie să fie predată Domnului cu bucurie. Da, cu bucurie şi cu recunoştinţă, nu cu ezitări şi stinghereală. Fiecare părticică a personalităţii noastre trebuie să fie închinată Lui şi orice lucru pe care-l facem să fie un act de slujire plină de bucurie, pentru că Domnul (Iehova) este pricina cântării şi desfătării noastre, mântuirea şi tăria noastră. –</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—W. Hay Aitken"
         }
       ]
     },
@@ -574,7 +598,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>ce ţine de firea noastră pământească, tot egoismul nostru subtil – care se poate manifesta sub atâtea forme – este cercetat şi alungat din sufletul nostru pentru că nu poate supravieţui în prezenţa Lui. Laudele oamenilor devin asemenea prafului de sub tălpile noastre şi tremurăm efectiv la gândul de a fi cinstiţi de oameni sau de a ni se acorda o oarecare vrednicie în lumea aceasta. ––<i>Josephine Butler</i></p>"
+          "html": "<p>ce ţine de firea noastră pământească, tot egoismul nostru subtil – care se poate manifesta sub atâtea forme – este cercetat şi alungat din sufletul nostru pentru că nu poate supravieţui în prezenţa Lui. Laudele oamenilor devin asemenea prafului de sub tălpile noastre şi tremurăm efectiv la gândul de a fi cinstiţi de oameni sau de a ni se acorda o oarecare vrednicie în lumea aceasta. –</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Josephine Butler"
         },
         {
           "type": "prose",
@@ -690,11 +718,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Îndoielile scepticilor se nasc nu neapărat din lectura unor cărţi rele, cât mai ales din cauza acelor creştini care nu se aseamănă cu Domnul Isus Cristos. Multe din prejudecăţile oamenilor faţă de religie îşi au rădăcinile în modul de viaţă aspru şi lipsit de bunătate al creştinilor; sau, chiar în indiferenţa lor condamnabilă faţă de aspectele mărunte ale vieţii de zi cu zi. Oricât de mult ne-am gândi noi la „lucrurile de sus”, această atitudine nu va compensa niciodată lipsa de acurateţe a vorbelor noastre sau lipsa de corectitudine a faptelor noastre. ––<i>Mark Guy Pearse</i></p>"
+          "html": "<p>Îndoielile scepticilor se nasc nu neapărat din lectura unor cărţi rele, cât mai ales din cauza acelor creştini care nu se aseamănă cu Domnul Isus Cristos. Multe din prejudecăţile oamenilor faţă de religie îşi au rădăcinile în modul de viaţă aspru şi lipsit de bunătate al creştinilor; sau, chiar în indiferenţa lor condamnabilă faţă de aspectele mărunte ale vieţii de zi cu zi. Oricât de mult ne-am gândi noi la „lucrurile de sus”, această atitudine nu va compensa niciodată lipsa de acurateţe a vorbelor noastre sau lipsa de corectitudine a faptelor noastre. –</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Mark Guy Pearse"
         },
         {
           "type": "prose",
-          "html": "<p>Lasă ca viaţa ta să predice! ––<i>George Fox</i></p>"
+          "html": "<p>Lasă ca viaţa ta să predice! –</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Fox"
         },
         {
           "type": "prose",
@@ -770,7 +806,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cu toate acestea, vulturul, şi nu stridia, este emblema Statelor Unite ale Americii. ––<i>Morris Mandel</i></p>"
+          "html": "<p>Cu toate acestea, vulturul, şi nu stridia, este emblema Statelor Unite ale Americii. –</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Morris Mandel"
         }
       ]
     },

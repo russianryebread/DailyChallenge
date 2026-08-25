@@ -1,5 +1,5 @@
 {
-  "contentVersion": "c9caf9abb8f997da",
+  "contentVersion": "edc4d46c2242e586",
   "readings": [
     {
       "id": 1,
@@ -44,28 +44,56 @@
             {
               "type": "poem",
               "lines": [
-                "Thou broadenest out with every year,",
-                "Each breadth of life to meet;",
-                "I scarce can think Thou art the same,",
-                "Thou art so much more sweet.",
-                "With gentle swiftness lead me on,",
-                "Dear God, to see Thy face;",
-                "And meanwhile in my narrow heart",
-                "O make Thyself more space!"
+                {
+                  "text": "Thou broadenest out with every year,",
+                  "indent": false
+                },
+                {
+                  "text": "Each breadth of life to meet;",
+                  "indent": true
+                },
+                {
+                  "text": "I scarce can think Thou art the same,",
+                  "indent": false
+                },
+                {
+                  "text": "Thou art so much more sweet.",
+                  "indent": true
+                },
+                {
+                  "text": "With gentle swiftness lead me on,",
+                  "indent": false
+                },
+                {
+                  "text": "Dear God, to see Thy face;",
+                  "indent": true
+                },
+                {
+                  "text": "And meanwhile in my narrow heart",
+                  "indent": false
+                },
+                {
+                  "text": "O make Thyself more space!",
+                  "indent": true
+                }
               ]
             },
             {
               "type": "attribution",
-              "text": "—F. W. Faber."
+              "text": "—F. W. Faber"
             },
             {
               "type": "prose",
-              "html": "<p class=\"justify\">To be discontented with the divine discontent and to be ashamed with the noble shame, is the very germ and first upgrowth of all virtue.—<i>Charles Kingsley.</i></p>",
-              "text": "To be discontented with the divine discontent and to be ashamed with the noble shame, is the very germ and first upgrowth of all virtue.—Charles Kingsley."
+              "html": "<p class=\"justify\">To be discontented with the divine discontent and to be ashamed with the noble shame, is the very germ and first upgrowth of all virtue.</p>",
+              "text": "To be discontented with the divine discontent and to be ashamed with the noble shame, is the very germ and first upgrowth of all virtue."
+            },
+            {
+              "type": "attribution",
+              "text": "—Charles Kingsley"
             }
           ],
           "sanitizedHtml": "<p class=\"justify\"><i>“And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work” (2 Cor. 9:8).</i></p><p><i>“Stir up the gift of God, which is in thee” (2 Tim. 1:6).</i></p><p class=\"justify\">Since God is able to make all grace abound always in all things why should there be so many dwarfed, impotent Christians? The lack cannot be with the Source of Supply. It must, therefore, lie in the failure of Christians to draw from this abundance. Throughout the coming year let everyone challenge himself concerning these wonderful possibilities contained in the promises of God.</p><p class=\"justify\">Keep challenging yourself! The moment that you become satisfied with yourself or with your work, that moment you begin to slip backwards. Challenge your thoughts, your actions, and everything that you achieve.</p><p class=\"justify\">The development of this inner life of ours is the most important task that we have to achieve. Not the mere making of money. Not the attainment of fame or station, nor of that fleeting thing called acclaim. We must become content within ourselves. We must satisfy that hunger of the heart. By challenging the adverse forces that strive to push us from our line of purpose, we build a character!</p><p class=\"justify\">Desire is the cornerstone of achievement. But, without will or purpose, even desire remains dormant. Keep challenging yourself! You can rout every pygmy of your nature if you will but decide to do so!</p> <div class=\"c3\"><p>Thou broadenest out with every year,</p> </div> <div class=\"c3\"><p> Each breadth of life to meet;</p> </div> <div class=\"c3\"><p>I scarce can think Thou art the same,</p> </div> <div class=\"c3\"><p> Thou art so much more sweet.</p> </div> <div class=\"c3\"><p>With gentle swiftness lead me on,</p> </div> <div class=\"c3\"><p> Dear God, to see Thy face;</p> </div> <div class=\"c3\"><p>And meanwhile in my narrow heart</p> </div> <div class=\"c3\"><p> O make Thyself more space!</p> </div> <blockquote> <blockquote><p class=\"c4\">—<i>F. W. Faber.</i></p> </blockquote> </blockquote><p class=\"justify\">To be discontented with the divine discontent and to be ashamed with the noble shame, is the very germ and first upgrowth of all virtue.—<i>Charles Kingsley.</i></p><p></p> ",
-          "plainText": "“And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work” (2 Cor. 9:8).\n“Stir up the gift of God, which is in thee” (2 Tim. 1:6).\nSince God is able to make all grace abound always in all things why should there be so many dwarfed, impotent Christians? The lack cannot be with the Source of Supply. It must, therefore, lie in the failure of Christians to draw from this abundance. Throughout the coming year let everyone challenge himself concerning these wonderful possibilities contained in the promises of God.\nKeep challenging yourself! The moment that you become satisfied with yourself or with your work, that moment you begin to slip backwards. Challenge your thoughts, your actions, and everything that you achieve.\nThe development of this inner life of ours is the most important task that we have to achieve. Not the mere making of money. Not the attainment of fame or station, nor of that fleeting thing called acclaim. We must become content within ourselves. We must satisfy that hunger of the heart. By challenging the adverse forces that strive to push us from our line of purpose, we build a character!\nDesire is the cornerstone of achievement. But, without will or purpose, even desire remains dormant. Keep challenging yourself! You can rout every pygmy of your nature if you will but decide to do so!\nThou broadenest out with every year,\n\nEach breadth of life to meet;\n\nI scarce can think Thou art the same,\n\nThou art so much more sweet.\n\nWith gentle swiftness lead me on,\n\nDear God, to see Thy face;\n\nAnd meanwhile in my narrow heart\n\nO make Thyself more space!\n\n—F. W. Faber.\n\nTo be discontented with the divine discontent and to be ashamed with the noble shame, is the very germ and first upgrowth of all virtue.—Charles Kingsley.",
+          "plainText": "“And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work” (2 Cor. 9:8).\n“Stir up the gift of God, which is in thee” (2 Tim. 1:6).\nSince God is able to make all grace abound always in all things why should there be so many dwarfed, impotent Christians? The lack cannot be with the Source of Supply. It must, therefore, lie in the failure of Christians to draw from this abundance. Throughout the coming year let everyone challenge himself concerning these wonderful possibilities contained in the promises of God.\nKeep challenging yourself! The moment that you become satisfied with yourself or with your work, that moment you begin to slip backwards. Challenge your thoughts, your actions, and everything that you achieve.\nThe development of this inner life of ours is the most important task that we have to achieve. Not the mere making of money. Not the attainment of fame or station, nor of that fleeting thing called acclaim. We must become content within ourselves. We must satisfy that hunger of the heart. By challenging the adverse forces that strive to push us from our line of purpose, we build a character!\nDesire is the cornerstone of achievement. But, without will or purpose, even desire remains dormant. Keep challenging yourself! You can rout every pygmy of your nature if you will but decide to do so!\nThou broadenest out with every year,\n\nEach breadth of life to meet;\n\nI scarce can think Thou art the same,\n\nThou art so much more sweet.\n\nWith gentle swiftness lead me on,\n\nDear God, to see Thy face;\n\nAnd meanwhile in my narrow heart\n\nO make Thyself more space!\n\n—F. W. Faber.\n\nTo be discontented with the divine discontent and to be ashamed with the noble shame, is the very germ and first upgrowth of all virtue.",
           "searchAliases": [
             "January",
             "Jan"
@@ -76,9 +104,9 @@
             "sourceDate": "2012-01-01",
             "rawChecksum": "c5cec396c558407af88878f47c0d752f7e101e0db26fc20931884024d2c44fb7",
             "correctionKeys": [],
-            "transformedChecksum": "e3d7287d39ae61e1c2516fdc93d3d29e6fe486eda646100bbe88dc1360418631"
+            "transformedChecksum": "62f19835bc52a799d1fe42173436bf4b0a72d68393433d7e16b38ba128c04847"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         },
         "ro": {
           "title": "NU ÎNCETA SĂ TE PROVOCI SINGUR!",
@@ -172,7 +200,7 @@
             "correctionKeys": [],
             "transformedChecksum": "e99ad5d0dc35c08856a30116d491032ac88eee6c7960b7a4d84f3fa30c235034"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         }
       }
     },
@@ -204,27 +232,90 @@
             {
               "type": "poem",
               "lines": [
-                "I once thought contentment was bought with gold,",
-                "So I went to the land where the rich tide rolled,",
-                "And I eagerly sought, midst disease and death,",
-                "To grasp it, nor feared I the withering breath",
-                "Of the damp chilling mine,",
-                "When I saw it shine.",
-                "Nay, I laughed when I thought of what wealth was mine.",
-                "But it fled—and it left me diseased and worn,",
-                "And I grieved ’mid a night which might know no morn.",
-                "But into my darkness the Savior came",
-                "From Satan His blood-bought one to claim,",
-                "And He opened the mine",
-                "Of His love Divine,",
-                "And His Word bid its gems round my heart to shine.",
-                "Oh how softly He whispered, “’Tis mine to roll",
-                "The mountain of sin off thy laboring soul!”",
-                "How full was my freedom, relieved of its load,",
-                "And He gave me a name, ’twas “a son of God.”",
-                "And He said, “In the mine",
-                "Leave earth’s gold to shine,",
-                "The riches of grace are eternally thine.”"
+                {
+                  "text": "I once thought contentment was bought with gold,",
+                  "indent": false
+                },
+                {
+                  "text": "So I went to the land where the rich tide rolled,",
+                  "indent": false
+                },
+                {
+                  "text": "And I eagerly sought, midst disease and death,",
+                  "indent": false
+                },
+                {
+                  "text": "To grasp it, nor feared I the withering breath",
+                  "indent": false
+                },
+                {
+                  "text": "Of the damp chilling mine,",
+                  "indent": true
+                },
+                {
+                  "text": "When I saw it shine.",
+                  "indent": true
+                },
+                {
+                  "text": "Nay, I laughed when I thought of what wealth was mine.",
+                  "indent": false
+                },
+                {
+                  "text": "But it fled—and it left me diseased and worn,",
+                  "indent": false
+                },
+                {
+                  "text": "And I grieved ’mid a night which might know no morn.",
+                  "indent": false
+                },
+                {
+                  "text": "But into my darkness the Savior came",
+                  "indent": false
+                },
+                {
+                  "text": "From Satan His blood-bought one to claim,",
+                  "indent": false
+                },
+                {
+                  "text": "And He opened the mine",
+                  "indent": true
+                },
+                {
+                  "text": "Of His love Divine,",
+                  "indent": true
+                },
+                {
+                  "text": "And His Word bid its gems round my heart to shine.",
+                  "indent": false
+                },
+                {
+                  "text": "Oh how softly He whispered, “’Tis mine to roll",
+                  "indent": false
+                },
+                {
+                  "text": "The mountain of sin off thy laboring soul!”",
+                  "indent": false
+                },
+                {
+                  "text": "How full was my freedom, relieved of its load,",
+                  "indent": false
+                },
+                {
+                  "text": "And He gave me a name, ’twas “a son of God.”",
+                  "indent": false
+                },
+                {
+                  "text": "And He said, “In the mine",
+                  "indent": true
+                },
+                {
+                  "text": "Leave earth’s gold to shine,",
+                  "indent": true
+                },
+                {
+                  "text": "The riches of grace are eternally thine.”",
+                  "indent": false
+                }
               ]
             },
             {
@@ -245,9 +336,9 @@
             "sourceDate": "2012-01-19",
             "rawChecksum": "be110148232215575de1607a345a83d1d78754e2e65bff20f8065ec970f5cbc5",
             "correctionKeys": [],
-            "transformedChecksum": "9ad632f026eae4a64bd98769be869229abbc2188c3b574a94540f52a35301f86"
+            "transformedChecksum": "0641eca87f569dc82a1a9aafedd9628001965a83aeca324abadcc3ce92799af5"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         },
         "ro": {
           "title": "MINELE DE AUR ALE LUI DUMNEZEU",
@@ -353,7 +444,7 @@
             "correctionKeys": [],
             "transformedChecksum": "2934e7251fc5f57d25aaf6fe6dea1d3997a074ceb4a10f433a4ddcb460a9b672"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         }
       }
     },
@@ -373,8 +464,12 @@
             },
             {
               "type": "prose",
-              "html": "<p class=\"justify\">Getting saved is not like taking a holiday outing. The men and women who are full of the truth—who are walking embodiments of the truth—have not become so without effort. They have digged for truth; they have loved it; they have longed for it more than for their necessary food; they have sacrificed all for it. When they have fallen they have risen again, and when defeated they have not yielded to discouragement, but with more care and watchfulness, and greater earnestness, they have renewed their efforts for it. They have counted not their lives dear unto themselves that they might know the truth. Wealth, ease, a name among men, reputation, pleasure, everything the world holds, has been counted as dung and dross in their pursuit of truth, and just at that point where truth took precedence over all creation they found it—the truth that saves the soul, that satisfies the heart, that answers the questions of life, that brings fellowship with God, and joy unutterable, and perfect peace.—<i>Samuel Logan Brengle.</i></p>",
-              "text": "Getting saved is not like taking a holiday outing. The men and women who are full of the truth—who are walking embodiments of the truth—have not become so without effort. They have digged for truth; they have loved it; they have longed for it more than for their necessary food; they have sacrificed all for it. When they have fallen they have risen again, and when defeated they have not yielded to discouragement, but with more care and watchfulness, and greater earnestness, they have renewed their efforts for it. They have counted not their lives dear unto themselves that they might know the truth. Wealth, ease, a name among men, reputation, pleasure, everything the world holds, has been counted as dung and dross in their pursuit of truth, and just at that point where truth took precedence over all creation they found it—the truth that saves the soul, that satisfies the heart, that answers the questions of life, that brings fellowship with God, and joy unutterable, and perfect peace.—Samuel Logan Brengle."
+              "html": "<p class=\"justify\">Getting saved is not like taking a holiday outing. The men and women who are full of the truth—who are walking embodiments of the truth—have not become so without effort. They have digged for truth; they have loved it; they have longed for it more than for their necessary food; they have sacrificed all for it. When they have fallen they have risen again, and when defeated they have not yielded to discouragement, but with more care and watchfulness, and greater earnestness, they have renewed their efforts for it. They have counted not their lives dear unto themselves that they might know the truth. Wealth, ease, a name among men, reputation, pleasure, everything the world holds, has been counted as dung and dross in their pursuit of truth, and just at that point where truth took precedence over all creation they found it—the truth that saves the soul, that satisfies the heart, that answers the questions of life, that brings fellowship with God, and joy unutterable, and perfect peace.</p>",
+              "text": "Getting saved is not like taking a holiday outing. The men and women who are full of the truth—who are walking embodiments of the truth—have not become so without effort. They have digged for truth; they have loved it; they have longed for it more than for their necessary food; they have sacrificed all for it. When they have fallen they have risen again, and when defeated they have not yielded to discouragement, but with more care and watchfulness, and greater earnestness, they have renewed their efforts for it. They have counted not their lives dear unto themselves that they might know the truth. Wealth, ease, a name among men, reputation, pleasure, everything the world holds, has been counted as dung and dross in their pursuit of truth, and just at that point where truth took precedence over all creation they found it—the truth that saves the soul, that satisfies the heart, that answers the questions of life, that brings fellowship with God, and joy unutterable, and perfect peace."
+            },
+            {
+              "type": "attribution",
+              "text": "—Samuel Logan Brengle"
             },
             {
               "type": "scripture",
@@ -385,23 +480,47 @@
             {
               "type": "poem",
               "lines": [
-                "Great truths are dearly bought. The common truth,",
-                "Such as men give and take from day to day,",
-                "Comes in the common walk of easy life,",
-                "Blown by the careless wind across our way.",
-                "Great truths are greatly won, not found by chance,",
-                "Nor wafted on the breath of summer dream;",
-                "But grasped in the great struggle of the soul,",
-                "Hard buffeting with adverse wind and stream."
+                {
+                  "text": "Great truths are dearly bought. The common truth,",
+                  "indent": false
+                },
+                {
+                  "text": "Such as men give and take from day to day,",
+                  "indent": true
+                },
+                {
+                  "text": "Comes in the common walk of easy life,",
+                  "indent": false
+                },
+                {
+                  "text": "Blown by the careless wind across our way.",
+                  "indent": true
+                },
+                {
+                  "text": "Great truths are greatly won, not found by chance,",
+                  "indent": false
+                },
+                {
+                  "text": "Nor wafted on the breath of summer dream;",
+                  "indent": true
+                },
+                {
+                  "text": "But grasped in the great struggle of the soul,",
+                  "indent": false
+                },
+                {
+                  "text": "Hard buffeting with adverse wind and stream.",
+                  "indent": true
+                }
               ]
             },
             {
               "type": "attribution",
-              "text": "—Horatius Bonar."
+              "text": "—Horatius Bonar"
             }
           ],
           "sanitizedHtml": "<p class=\"justify\"><i>“If thou criest after knowledge, and liftest up thy voice for understanding; If thou seekest her as silver, and searchest for her as for hid treasures; Then shalt thou understand the fear of the Lord, and find the knowledge of God” (Prov. 2:3-5).</i></p><p class=\"justify\">Getting saved is not like taking a holiday outing. The men and women who are full of the truth—who are walking embodiments of the truth—have not become so without effort. They have digged for truth; they have loved it; they have longed for it more than for their necessary food; they have sacrificed all for it. When they have fallen they have risen again, and when defeated they have not yielded to discouragement, but with more care and watchfulness, and greater earnestness, they have renewed their efforts for it. They have counted not their lives dear unto themselves that they might know the truth. Wealth, ease, a name among men, reputation, pleasure, everything the world holds, has been counted as dung and dross in their pursuit of truth, and just at that point where truth took precedence over all creation they found it—the truth that saves the soul, that satisfies the heart, that answers the questions of life, that brings fellowship with God, and joy unutterable, and perfect peace.—<i>Samuel Logan Brengle.</i></p><p class=\"justify\"><i>“Buy the truth, and sell it not” (Prov. 23:23).</i></p> <div class=\"c3\"><p>Great truths are dearly bought. The common truth,</p> </div> <div class=\"c3\"><p> Such as men give and take from day to day,</p> </div> <div class=\"c3\"><p>Comes in the common walk of easy life,</p> </div> <div class=\"c3\"><p> Blown by the careless wind across our way.</p> </div> <div class=\"c3\"><p>Great truths are greatly won, not found by chance,</p> </div> <div class=\"c3\"><p> Nor wafted on the breath of summer dream;</p> </div> <div class=\"c3\"><p>But grasped in the great struggle of the soul,</p> </div> <div class=\"c3\"><p> Hard buffeting with adverse wind and stream.</p> </div><p class=\"c4\"> —<i>Horatius Bonar.</i></p> ",
-          "plainText": "“If thou criest after knowledge, and liftest up thy voice for understanding; If thou seekest her as silver, and searchest for her as for hid treasures; Then shalt thou understand the fear of the Lord, and find the knowledge of God” (Prov. 2:3-5).\nGetting saved is not like taking a holiday outing. The men and women who are full of the truth—who are walking embodiments of the truth—have not become so without effort. They have digged for truth; they have loved it; they have longed for it more than for their necessary food; they have sacrificed all for it. When they have fallen they have risen again, and when defeated they have not yielded to discouragement, but with more care and watchfulness, and greater earnestness, they have renewed their efforts for it. They have counted not their lives dear unto themselves that they might know the truth. Wealth, ease, a name among men, reputation, pleasure, everything the world holds, has been counted as dung and dross in their pursuit of truth, and just at that point where truth took precedence over all creation they found it—the truth that saves the soul, that satisfies the heart, that answers the questions of life, that brings fellowship with God, and joy unutterable, and perfect peace.—Samuel Logan Brengle.\n“Buy the truth, and sell it not” (Prov. 23:23).\nGreat truths are dearly bought. The common truth,\n\nSuch as men give and take from day to day,\n\nComes in the common walk of easy life,\n\nBlown by the careless wind across our way.\n\nGreat truths are greatly won, not found by chance,\n\nNor wafted on the breath of summer dream;\n\nBut grasped in the great struggle of the soul,\n\nHard buffeting with adverse wind and stream.\n\n—Horatius Bonar.",
+          "plainText": "“If thou criest after knowledge, and liftest up thy voice for understanding; If thou seekest her as silver, and searchest for her as for hid treasures; Then shalt thou understand the fear of the Lord, and find the knowledge of God” (Prov. 2:3-5).\nGetting saved is not like taking a holiday outing. The men and women who are full of the truth—who are walking embodiments of the truth—have not become so without effort. They have digged for truth; they have loved it; they have longed for it more than for their necessary food; they have sacrificed all for it. When they have fallen they have risen again, and when defeated they have not yielded to discouragement, but with more care and watchfulness, and greater earnestness, they have renewed their efforts for it. They have counted not their lives dear unto themselves that they might know the truth. Wealth, ease, a name among men, reputation, pleasure, everything the world holds, has been counted as dung and dross in their pursuit of truth, and just at that point where truth took precedence over all creation they found it—the truth that saves the soul, that satisfies the heart, that answers the questions of life, that brings fellowship with God, and joy unutterable, and perfect peace.\n“Buy the truth, and sell it not” (Prov. 23:23).\nGreat truths are dearly bought. The common truth,\n\nSuch as men give and take from day to day,\n\nComes in the common walk of easy life,\n\nBlown by the careless wind across our way.\n\nGreat truths are greatly won, not found by chance,\n\nNor wafted on the breath of summer dream;\n\nBut grasped in the great struggle of the soul,\n\nHard buffeting with adverse wind and stream.\n\n—Horatius Bonar.",
           "searchAliases": [
             "February",
             "Feb"
@@ -412,9 +531,9 @@
             "sourceDate": "2012-02-27",
             "rawChecksum": "fd0b2c87631f9039345b146bdc0664af8dcd39e8b044a066780df139139154a4",
             "correctionKeys": [],
-            "transformedChecksum": "daae02fc381232277b73e92354110487ef56cb7c38242c5fee7302b976a673cc"
+            "transformedChecksum": "7452777f190557a7ae915d1fafc1c1ee8625aa297611d9e21993cc9eebcd7ab6"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         },
         "ro": {
           "title": "PREȚUL ADEVĂRULUI",
@@ -473,7 +592,7 @@
             "correctionKeys": [],
             "transformedChecksum": "2f070d5bbff856df65597f09399fd3a6174388c0f24649b7c0d1dc32411b4bc5"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         }
       }
     },
@@ -505,27 +624,75 @@
             {
               "type": "poem",
               "lines": [
-                "Oh, let me suffer, till I know",
-                "The\ngood that cometh from the pain,",
-                "Like seeds beneath the wintry snow,",
-                "That\nwake in flowers and golden grain.",
-                "Oh, let me suffer, till I find",
-                "What\nplants of sorrow can impart;",
-                "Some gift, some triumph of the mind,",
-                "Some\nflower, some fruitage of the heart.",
-                "The hour of anguish passes by;",
-                "But\nin the spirit there remains",
-                "The outgrowth of its agony,",
-                "The compensation of its pains.",
-                "In meekness, which suspects no wrong,",
-                "In patience, which endures control,",
-                "In faith, which makes the spirit strong,",
-                "In peace and purity of soul."
+                {
+                  "text": "Oh, let me suffer, till I know",
+                  "indent": false
+                },
+                {
+                  "text": "The\ngood that cometh from the pain,",
+                  "indent": false
+                },
+                {
+                  "text": "Like seeds beneath the wintry snow,",
+                  "indent": false
+                },
+                {
+                  "text": "That\nwake in flowers and golden grain.",
+                  "indent": false
+                },
+                {
+                  "text": "Oh, let me suffer, till I find",
+                  "indent": false
+                },
+                {
+                  "text": "What\nplants of sorrow can impart;",
+                  "indent": false
+                },
+                {
+                  "text": "Some gift, some triumph of the mind,",
+                  "indent": false
+                },
+                {
+                  "text": "Some\nflower, some fruitage of the heart.",
+                  "indent": false
+                },
+                {
+                  "text": "The hour of anguish passes by;",
+                  "indent": false
+                },
+                {
+                  "text": "But\nin the spirit there remains",
+                  "indent": false
+                },
+                {
+                  "text": "The outgrowth of its agony,",
+                  "indent": false
+                },
+                {
+                  "text": "The compensation of its pains.",
+                  "indent": false
+                },
+                {
+                  "text": "In meekness, which suspects no wrong,",
+                  "indent": false
+                },
+                {
+                  "text": "In patience, which endures control,",
+                  "indent": false
+                },
+                {
+                  "text": "In faith, which makes the spirit strong,",
+                  "indent": false
+                },
+                {
+                  "text": "In peace and purity of soul.",
+                  "indent": false
+                }
               ]
             },
             {
               "type": "attribution",
-              "text": "—Thomas C. Upham."
+              "text": "—Thomas C. Upham"
             }
           ],
           "sanitizedHtml": "<p class=\"justify\"><i>“Every branch that beareth fruit, he purgeth it, that it may bring forth more fruit” (John 15:2).</i></p>\n\n   <p class=\"justify\"><i>“Now no chastening for the present seemeth to be joyous but grievous:\n    nevertheless afterward it yieldeth the peaceable fruit of\n    righteousness” (Heb.\n    12:11).</i><br></p>\n\n   <p class=\"justify\">It is\n    said that when Mr. Cecil was once walking, in deep dejection of\n    spirit, in the Botanical Gardens at Oxford, his attention was\n    arrested by a fine pomegranate cut almost through the\n    stem. On asking the gardener the reason, he got an\n    answer which explained the wounds of his own bleeding\n    spirit. “Sir,” he\n    said, “this tree used to shoot so strong that\n    it bore nothing but leaves. I was, therefore,\n    obliged to cut it in this manner, and when it was almost cut\n    through then it began to bear plenty of\n    fruit.”—<i>Denton.</i><br>\n    </p>\n\n    <div class=\"c3\">\n     <p>Oh, let me suffer, till I know</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>\n      The\n      good that cometh from the pain,</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>Like seeds beneath the wintry snow,</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>\n      That\n      wake in flowers and golden grain.<br></p>\n    </div>\n\n    <div class=\"c3\">\n     <p>Oh, let me suffer, till I find</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>\n      What\n      plants of sorrow can impart;</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>Some gift, some triumph of the mind,</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>\n      Some\n      flower, some fruitage of the heart.<br></p>\n    </div>\n\n    <div class=\"c3\">\n     <p>The hour of anguish passes by;</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>\n      But\n      in the spirit there remains</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>The outgrowth of its agony,</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>\n      The compensation of its pains.<br></p>\n    </div>\n\n    <div class=\"c3\">\n     <p>In meekness, which suspects no wrong,</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>In patience, which endures control,</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>In faith, which makes the spirit strong,</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>In peace and purity of soul.</p>\n    </div>\n\n   <p class=\"c4\">—<i>Thomas C. Upham.</i></p>",
@@ -540,9 +707,9 @@
             "sourceDate": "2012-02-28",
             "rawChecksum": "57ae66c43665ad10d0ea77f122bd6cf2a795fdb128e1fa1d8c15f903e49120dd",
             "correctionKeys": [],
-            "transformedChecksum": "1e242a61217d662a00b79b44896cf47aeab82ab8741257bdae65458a4fb4ef1e"
+            "transformedChecksum": "b8c21eacdeadd155439ecb49c25e970ae911fb636d44dcba1137a907a902eef3"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         },
         "ro": {
           "title": "RĂNIT PENTRU A FI MAI RODNIC",
@@ -602,7 +769,7 @@
             "correctionKeys": [],
             "transformedChecksum": "293189f2282705759d42e32f510fcd6d1b9b0b31b62fbb3c44b32ce08af6936b"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         }
       }
     },
@@ -659,15 +826,27 @@
             {
               "type": "poem",
               "lines": [
-                "Turn your eyes upon Jesus,",
-                "Look\nfull in His wonderful face;",
-                "And the things of earth will grow strangely dim",
-                "In\nthe light of His glory and grace."
+                {
+                  "text": "Turn your eyes upon Jesus,",
+                  "indent": false
+                },
+                {
+                  "text": "Look\nfull in His wonderful face;",
+                  "indent": false
+                },
+                {
+                  "text": "And the things of earth will grow strangely dim",
+                  "indent": false
+                },
+                {
+                  "text": "In\nthe light of His glory and grace.",
+                  "indent": false
+                }
               ]
             },
             {
               "type": "attribution",
-              "text": "—Helen H.\nLemmel."
+              "text": "—Helen H.\nLemmel"
             }
           ],
           "sanitizedHtml": "<p class=\"justify\"><i>“For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith”(1 John 5:4).</i></p>\n\n   <p class=\"justify\"><i>“Be not\n    overcome of evil, but overcome evil with good”\n    (Rom. 12:21).</i></p>\n\n   <p class=\"justify\"><i>“He that\n    overcometh shall inherit all things; and I will be his God, and\n    he shall be my son” (Rev.\n    21:7).</i><br></p>\n\n   <p class=\"justify\">Now the\n    first thing in overcoming the world is that the spirit of\n    covetousness in respect to worldly things and objects be\n    overcome. The man who does not overcome this spirit\n    of bustling and scrambling after the good which this world\n    proffers has by no means overcome it. Overcoming\n    the world implies rising above its engrossments.\n    When a man has overcome the world, his thoughts are no longer\n    engrossed and swallowed up with worldly things. A\n    man certainly does not overcome the world unless he gets above\n    being engrossed and absorbed with its concerns.</p>\n\n   <p class=\"justify\">What is\n    a religion good for that does not overcome the\n    world? What is the benefit of being born into such\n    a religion if it leave the world still swaying its dominion\n    over our hearts? What avails a new birth which\n    after all fails to bring us into a likeness to God, into the\n    sympathies of His family and of His kingdom; which leaves us\n    still in bondage to the world and to Satan? What\n    can there be of such a religion more than the name?\n    With what reason can any man suppose that such a religion fits\n    his heart for Heaven, supposing it leaves him earthly-minded,\n    sensual, and selfish?</p>\n\n   <p class=\"justify\">Do the\n    great mass of professed Christians really overcome the\n    world? It is a fact beyond question that with them\n    the things of this world are the realities, and the things of\n    God are mere theories. Who does not know that this\n    is the real state of great multitudes in the nominal\n    church?</p>\n\n   <p class=\"justify\">What are\n    those things that set your soul on fire—that\n    stir up your warmest emotions and deeply agitate your nervous\n    system? Are these the things of earth, or the\n    things of Heaven, the things of time, or the things of\n    eternity, the things of self, or the things of God?</p>\n\n   <p class=\"justify\">How is\n    it when you go into your closet? Do you go there to\n    seek and find God? Do you in fact find there a\n    present God, and do you hold communion there as friend with\n    Friend? How is this?—<i>Charles\n    G. Finney.</i><br></p>\n\n    <div class=\"c3\">\n     <p>Turn your eyes upon Jesus,</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>\n      Look\n      full in His wonderful face;</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>And the things of earth will grow strangely dim</p>\n    </div>\n\n    <div class=\"c3\">\n     <p>\n      In\n      the light of His glory and grace.</p>\n    </div>\n\n   <p class=\"c4\">—<i>Helen H.\n    Lemmel.</i> <br></p>\n\n   <p><br></p>\n\n    ",
@@ -682,9 +861,9 @@
             "sourceDate": "2012-02-29",
             "rawChecksum": "538fed00ad8752800654700455818e19267da811e46e28d72bc55b5b4332318f",
             "correctionKeys": [],
-            "transformedChecksum": "1f5f679bc11541c6748a63eb4e02107963597b53e01fee48627a9327625156bc"
+            "transformedChecksum": "63018b8ab75f2b904da6e38b88fad62d7e1987a275ad5e8e8bc57fa215ca864d"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         },
         "ro": {
           "title": "BIRUINȚA ASUPRA LUMII",
@@ -764,7 +943,7 @@
             "correctionKeys": [],
             "transformedChecksum": "21965562f6e5b6ce2fd5a0bf055227601c9eda1ef6896330bccbf9277d29ca02"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         }
       }
     },
@@ -800,8 +979,12 @@
             },
             {
               "type": "prose",
-              "html": "<p class=\"justify\">If there is one truth more than another on which the young may begin to build their life, it is this: that each time you decline a duty to which your better self prompts you, you become less capable of doing it; and, on the other hand, that each humble and painful effort after what is good is real growth in character.—<i>Marcus Dods.</i></p>",
-              "text": "If there is one truth more than another on which the young may begin to build their life, it is this: that each time you decline a duty to which your better self prompts you, you become less capable of doing it; and, on the other hand, that each humble and painful effort after what is good is real growth in character.—Marcus Dods."
+              "html": "<p class=\"justify\">If there is one truth more than another on which the young may begin to build their life, it is this: that each time you decline a duty to which your better self prompts you, you become less capable of doing it; and, on the other hand, that each humble and painful effort after what is good is real growth in character.</p>",
+              "text": "If there is one truth more than another on which the young may begin to build their life, it is this: that each time you decline a duty to which your better self prompts you, you become less capable of doing it; and, on the other hand, that each humble and painful effort after what is good is real growth in character."
+            },
+            {
+              "type": "attribution",
+              "text": "—Marcus Dods"
             },
             {
               "type": "prose",
@@ -816,23 +999,47 @@
             {
               "type": "poem",
               "lines": [
-                "It was only one talent the servant received,",
-                "And its value of so little worth;",
-                "But the lord of that servant was painfully grieved,",
-                "Because it was hid in the earth. . . .",
-                "The talents God gave you indeed may be few,",
-                "It may be He gave you but one;",
-                "But trade on the one He has given to you,",
-                "If you hope to receive His “well-done.”"
+                {
+                  "text": "It was only one talent the servant received,",
+                  "indent": false
+                },
+                {
+                  "text": "And its value of so little worth;",
+                  "indent": true
+                },
+                {
+                  "text": "But the lord of that servant was painfully grieved,",
+                  "indent": false
+                },
+                {
+                  "text": "Because it was hid in the earth. . . .",
+                  "indent": true
+                },
+                {
+                  "text": "The talents God gave you indeed may be few,",
+                  "indent": false
+                },
+                {
+                  "text": "It may be He gave you but one;",
+                  "indent": true
+                },
+                {
+                  "text": "But trade on the one He has given to you,",
+                  "indent": false
+                },
+                {
+                  "text": "If you hope to receive His “well-done.”",
+                  "indent": true
+                }
               ]
             },
             {
               "type": "attribution",
-              "text": "—Unknown."
+              "text": "—Unknown"
             }
           ],
           "sanitizedHtml": "<p class=\"justify\"><i>“He . . . hid his lord’s money” (Matt. 25:18).</i></p><p class=\"justify\"><i>“Take therefore the talent from him” (Matt. 25:28).</i></p><p class=\"justify\"> God’s law in the spiritual life is “use or lose.” The unused faculty dies out. The capacities we have for loving and serving God are taken from us. That which was once possible becomes forever impossible. The future once open to us is closed. We are permanently crippled, limited, paralyzed, deadened.</p><p class=\"justify\">Had we followed the openings given to us, had we used the talent committed to us, endless expansion and fullness of joy would have been ours, but now our chances are past. We have had our opportunity, we have for years been on probation, but now it is over for us. How gladly would a man renounce all that sin has brought him, if only he could stand again with his talent in hand, and all life’s opportunities before him.</p><p class=\"justify\">If there is one truth more than another on which the young may begin to build their life, it is this: that each time you decline a duty to which your better self prompts you, you become less capable of doing it; and, on the other hand, that each humble and painful effort after what is good is real growth in character.—<i>Marcus Dods.</i></p><p class=\"justify\"> Paganini, the world-famous violinist, left his greatest treasure, his violin, to his native city of Genoa. For reasons of his own he made the single condition, that the instrument should never be played again. Today we see what a mistake this was for like all other things made of wood it deteriorated more rapidly with disuse than with the constant handling.</p><p class=\"justify\">And now as it lies worm-eaten in its lovely case it is only valuable as a relic. What a striking reminder of a law that governs our lives. When we cease to serve others we become useless to God and to man. We must use or lose.</p> <div class=\"c3\"><p>It was only one talent the servant received,</p> </div> <div class=\"c3\"><p> And its value of so little worth;</p> </div> <div class=\"c3\"><p>But the lord of that servant was painfully grieved,</p> </div> <div class=\"c3\"><p> Because it was hid in the earth. . . .</p> </div> <div class=\"c3\"><p>The talents God gave you indeed may be few,</p> </div> <div class=\"c3\"><p> It may be He gave you but one;</p> </div> <div class=\"c3\"><p>But trade on the one He has given to you,</p> </div> <div class=\"c3\"><p> If you hope to receive His “well-done.”</p> </div><p class=\"c4\"> —<i>Unknown.</i></p> ",
-          "plainText": "“He . . . hid his lord’s money” (Matt. 25:18).\n“Take therefore the talent from him” (Matt. 25:28).\nGod’s law in the spiritual life is “use or lose.” The unused faculty dies out. The capacities we have for loving and serving God are taken from us. That which was once possible becomes forever impossible. The future once open to us is closed. We are permanently crippled, limited, paralyzed, deadened.\nHad we followed the openings given to us, had we used the talent committed to us, endless expansion and fullness of joy would have been ours, but now our chances are past. We have had our opportunity, we have for years been on probation, but now it is over for us. How gladly would a man renounce all that sin has brought him, if only he could stand again with his talent in hand, and all life’s opportunities before him.\nIf there is one truth more than another on which the young may begin to build their life, it is this: that each time you decline a duty to which your better self prompts you, you become less capable of doing it; and, on the other hand, that each humble and painful effort after what is good is real growth in character.—Marcus Dods.\nPaganini, the world-famous violinist, left his greatest treasure, his violin, to his native city of Genoa. For reasons of his own he made the single condition, that the instrument should never be played again. Today we see what a mistake this was for like all other things made of wood it deteriorated more rapidly with disuse than with the constant handling.\nAnd now as it lies worm-eaten in its lovely case it is only valuable as a relic. What a striking reminder of a law that governs our lives. When we cease to serve others we become useless to God and to man. We must use or lose.\nIt was only one talent the servant received,\n\nAnd its value of so little worth;\n\nBut the lord of that servant was painfully grieved,\n\nBecause it was hid in the earth. . . .\n\nThe talents God gave you indeed may be few,\n\nIt may be He gave you but one;\n\nBut trade on the one He has given to you,\n\nIf you hope to receive His “well-done.”\n\n—Unknown.",
+          "plainText": "“He . . . hid his lord’s money” (Matt. 25:18).\n“Take therefore the talent from him” (Matt. 25:28).\nGod’s law in the spiritual life is “use or lose.” The unused faculty dies out. The capacities we have for loving and serving God are taken from us. That which was once possible becomes forever impossible. The future once open to us is closed. We are permanently crippled, limited, paralyzed, deadened.\nHad we followed the openings given to us, had we used the talent committed to us, endless expansion and fullness of joy would have been ours, but now our chances are past. We have had our opportunity, we have for years been on probation, but now it is over for us. How gladly would a man renounce all that sin has brought him, if only he could stand again with his talent in hand, and all life’s opportunities before him.\nIf there is one truth more than another on which the young may begin to build their life, it is this: that each time you decline a duty to which your better self prompts you, you become less capable of doing it; and, on the other hand, that each humble and painful effort after what is good is real growth in character.\nPaganini, the world-famous violinist, left his greatest treasure, his violin, to his native city of Genoa. For reasons of his own he made the single condition, that the instrument should never be played again. Today we see what a mistake this was for like all other things made of wood it deteriorated more rapidly with disuse than with the constant handling.\nAnd now as it lies worm-eaten in its lovely case it is only valuable as a relic. What a striking reminder of a law that governs our lives. When we cease to serve others we become useless to God and to man. We must use or lose.\nIt was only one talent the servant received,\n\nAnd its value of so little worth;\n\nBut the lord of that servant was painfully grieved,\n\nBecause it was hid in the earth. . . .\n\nThe talents God gave you indeed may be few,\n\nIt may be He gave you but one;\n\nBut trade on the one He has given to you,\n\nIf you hope to receive His “well-done.”\n\n—Unknown.",
           "searchAliases": [
             "April",
             "Apr"
@@ -843,9 +1050,9 @@
             "sourceDate": "2012-04-06",
             "rawChecksum": "8cb80c11156ad0f12b9cc4091a71425d1d58ca2057f0deb0c69603e18910f709",
             "correctionKeys": [],
-            "transformedChecksum": "a1f6effee55c8871482cc1d93d72426970ef82333c211e9e6eaf0eda5b81d63d"
+            "transformedChecksum": "e06b473eb80baa1d0327f50fc74f2cadc000bc2853c10a1bb65f8c5a882e8e91"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         },
         "ro": {
           "title": "FOLOSEȘTI SAU PIERZI?",
@@ -930,7 +1137,7 @@
             "correctionKeys": [],
             "transformedChecksum": "d755605f1c1249c2c1a1a931b6a37bfd7a7f1e00833c5828043812dd182d59ee"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         }
       }
     },
@@ -956,25 +1163,53 @@
             },
             {
               "type": "prose",
-              "html": "<p class=\"justify\">Comes there to me an embassy from a royal house in sackcloth, and smeared with dust, to represent a great king? He must account for it that he fell among robbers, and that he had a hard fight, and then show his vouchers, and I will believe that he is an ambassador. Ordinarily a king’s servants represent a king by their demeanor, by their beauty of apparel, and by the abundance of the treasures they bring. What do you represent? What do people think of Christ’s care of His family when they see you, querulous, anxious, sleepless, nerveless? You, without the quiver of a song; you, without one sparkle of effervescence; you, with the smoke of a wick just as it is expiring and extinguished, but not with the brightness of it—what is to be the thought of Christianity when men see you?—<i>Henry Ward Beecher.</i></p>",
-              "text": "Comes there to me an embassy from a royal house in sackcloth, and smeared with dust, to represent a great king? He must account for it that he fell among robbers, and that he had a hard fight, and then show his vouchers, and I will believe that he is an ambassador. Ordinarily a king’s servants represent a king by their demeanor, by their beauty of apparel, and by the abundance of the treasures they bring. What do you represent? What do people think of Christ’s care of His family when they see you, querulous, anxious, sleepless, nerveless? You, without the quiver of a song; you, without one sparkle of effervescence; you, with the smoke of a wick just as it is expiring and extinguished, but not with the brightness of it—what is to be the thought of Christianity when men see you?—Henry Ward Beecher."
+              "html": "<p class=\"justify\">Comes there to me an embassy from a royal house in sackcloth, and smeared with dust, to represent a great king? He must account for it that he fell among robbers, and that he had a hard fight, and then show his vouchers, and I will believe that he is an ambassador. Ordinarily a king’s servants represent a king by their demeanor, by their beauty of apparel, and by the abundance of the treasures they bring. What do you represent? What do people think of Christ’s care of His family when they see you, querulous, anxious, sleepless, nerveless? You, without the quiver of a song; you, without one sparkle of effervescence; you, with the smoke of a wick just as it is expiring and extinguished, but not with the brightness of it—what is to be the thought of Christianity when men see you?</p>",
+              "text": "Comes there to me an embassy from a royal house in sackcloth, and smeared with dust, to represent a great king? He must account for it that he fell among robbers, and that he had a hard fight, and then show his vouchers, and I will believe that he is an ambassador. Ordinarily a king’s servants represent a king by their demeanor, by their beauty of apparel, and by the abundance of the treasures they bring. What do you represent? What do people think of Christ’s care of His family when they see you, querulous, anxious, sleepless, nerveless? You, without the quiver of a song; you, without one sparkle of effervescence; you, with the smoke of a wick just as it is expiring and extinguished, but not with the brightness of it—what is to be the thought of Christianity when men see you?"
+            },
+            {
+              "type": "attribution",
+              "text": "—Henry Ward Beecher"
             },
             {
               "type": "poem",
               "lines": [
-                "Yes, they had been with Him, and others knew,",
-                "Some inner radiance made their faces shine;",
-                "The glory of the sacred Upper Room",
-                "Illumined them with holy light divine.",
-                "I wonder if the people know today",
-                "That we, too, have sweet fellowship with Him!",
-                "Do we reflect the brightness of His love?",
-                "Or has that glory, with the years, grown dim?"
+                {
+                  "text": "Yes, they had been with Him, and others knew,",
+                  "indent": false
+                },
+                {
+                  "text": "Some inner radiance made their faces shine;",
+                  "indent": true
+                },
+                {
+                  "text": "The glory of the sacred Upper Room",
+                  "indent": false
+                },
+                {
+                  "text": "Illumined them with holy light divine.",
+                  "indent": true
+                },
+                {
+                  "text": "I wonder if the people know today",
+                  "indent": false
+                },
+                {
+                  "text": "That we, too, have sweet fellowship with Him!",
+                  "indent": true
+                },
+                {
+                  "text": "Do we reflect the brightness of His love?",
+                  "indent": false
+                },
+                {
+                  "text": "Or has that glory, with the years, grown dim?",
+                  "indent": true
+                }
               ]
             },
             {
               "type": "attribution",
-              "text": "—Alice E. Sherwood."
+              "text": "—Alice E. Sherwood"
             },
             {
               "type": "prose",
@@ -983,12 +1218,16 @@
             },
             {
               "type": "prose",
-              "html": "<p class=\"justify\">Singing brings the spirit up into liberty. We are no good for the fighting till we know something of this freedom inside. Therefore, get back the song.—<i>John Harrison.</i> </p>",
-              "text": "Singing brings the spirit up into liberty. We are no good for the fighting till we know something of this freedom inside. Therefore, get back the song.—John Harrison."
+              "html": "<p class=\"justify\">Singing brings the spirit up into liberty. We are no good for the fighting till we know something of this freedom inside. Therefore, get back the song.</p>",
+              "text": "Singing brings the spirit up into liberty. We are no good for the fighting till we know something of this freedom inside. Therefore, get back the song."
+            },
+            {
+              "type": "attribution",
+              "text": "—John Harrison"
             }
           ],
           "sanitizedHtml": "<p class=\"justify\"><i>“My servants shall sing for joy of heart” (Isa. 65:14).</i></p><p class=\"justify\"><i>“Shewing the glad tidings of the kingdom of God” (Luke 8:1).</i></p><p class=\"justify\">Comes there to me an embassy from a royal house in sackcloth, and smeared with dust, to represent a great king? He must account for it that he fell among robbers, and that he had a hard fight, and then show his vouchers, and I will believe that he is an ambassador. Ordinarily a king’s servants represent a king by their demeanor, by their beauty of apparel, and by the abundance of the treasures they bring. What do you represent? What do people think of Christ’s care of His family when they see you, querulous, anxious, sleepless, nerveless? You, without the quiver of a song; you, without one sparkle of effervescence; you, with the smoke of a wick just as it is expiring and extinguished, but not with the brightness of it—what is to be the thought of Christianity when men see you?—<i>Henry Ward Beecher.</i></p> <div class=\"c3\"><p>Yes, they had been with Him, and others knew,</p> </div> <div class=\"c3\"><p> Some inner radiance made their faces shine;</p> </div> <div class=\"c3\"><p>The glory of the sacred Upper Room</p> </div> <div class=\"c3\"><p> Illumined them with holy light divine.</p> </div> <div class=\"c3\"><p>I wonder if the people know today</p> </div> <div class=\"c3\"><p> That we, too, have sweet fellowship with Him!</p> </div> <div class=\"c3\"><p>Do we reflect the brightness of His love?</p> </div> <div class=\"c3\"><p> Or has that glory, with the years, grown dim?</p> </div><p class=\"c4\">—<i>Alice E. Sherwood.</i></p><p class=\"justify\">One of the first things the devil touches is a man’s song. Test this! Why does the devil touch the song? Why does he hate praise? Because he is fallen from the heavenly choir himself. See Ezek. 28:12-19. “Thy tabrets . . . thy pipes” speak of the excellent position he held as Choirmaster of Heaven! So having lost his position, he now hates praise and song.</p><p class=\"justify\">Singing brings the spirit up into liberty. We are no good for the fighting till we know something of this freedom inside. Therefore, get back the song.—<i>John Harrison.</i> </p> ",
-          "plainText": "“My servants shall sing for joy of heart” (Isa. 65:14).\n“Shewing the glad tidings of the kingdom of God” (Luke 8:1).\nComes there to me an embassy from a royal house in sackcloth, and smeared with dust, to represent a great king? He must account for it that he fell among robbers, and that he had a hard fight, and then show his vouchers, and I will believe that he is an ambassador. Ordinarily a king’s servants represent a king by their demeanor, by their beauty of apparel, and by the abundance of the treasures they bring. What do you represent? What do people think of Christ’s care of His family when they see you, querulous, anxious, sleepless, nerveless? You, without the quiver of a song; you, without one sparkle of effervescence; you, with the smoke of a wick just as it is expiring and extinguished, but not with the brightness of it—what is to be the thought of Christianity when men see you?—Henry Ward Beecher.\nYes, they had been with Him, and others knew,\n\nSome inner radiance made their faces shine;\n\nThe glory of the sacred Upper Room\n\nIllumined them with holy light divine.\n\nI wonder if the people know today\n\nThat we, too, have sweet fellowship with Him!\n\nDo we reflect the brightness of His love?\n\nOr has that glory, with the years, grown dim?\n\n—Alice E. Sherwood.\nOne of the first things the devil touches is a man’s song. Test this! Why does the devil touch the song? Why does he hate praise? Because he is fallen from the heavenly choir himself. See Ezek. 28:12-19. “Thy tabrets . . . thy pipes” speak of the excellent position he held as Choirmaster of Heaven! So having lost his position, he now hates praise and song.\nSinging brings the spirit up into liberty. We are no good for the fighting till we know something of this freedom inside. Therefore, get back the song.—John Harrison.",
+          "plainText": "“My servants shall sing for joy of heart” (Isa. 65:14).\n“Shewing the glad tidings of the kingdom of God” (Luke 8:1).\nComes there to me an embassy from a royal house in sackcloth, and smeared with dust, to represent a great king? He must account for it that he fell among robbers, and that he had a hard fight, and then show his vouchers, and I will believe that he is an ambassador. Ordinarily a king’s servants represent a king by their demeanor, by their beauty of apparel, and by the abundance of the treasures they bring. What do you represent? What do people think of Christ’s care of His family when they see you, querulous, anxious, sleepless, nerveless? You, without the quiver of a song; you, without one sparkle of effervescence; you, with the smoke of a wick just as it is expiring and extinguished, but not with the brightness of it—what is to be the thought of Christianity when men see you?\nYes, they had been with Him, and others knew,\n\nSome inner radiance made their faces shine;\n\nThe glory of the sacred Upper Room\n\nIllumined them with holy light divine.\n\nI wonder if the people know today\n\nThat we, too, have sweet fellowship with Him!\n\nDo we reflect the brightness of His love?\n\nOr has that glory, with the years, grown dim?\n\n—Alice E. Sherwood.\nOne of the first things the devil touches is a man’s song. Test this! Why does the devil touch the song? Why does he hate praise? Because he is fallen from the heavenly choir himself. See Ezek. 28:12-19. “Thy tabrets . . . thy pipes” speak of the excellent position he held as Choirmaster of Heaven! So having lost his position, he now hates praise and song.\nSinging brings the spirit up into liberty. We are no good for the fighting till we know something of this freedom inside. Therefore, get back the song.",
           "searchAliases": [
             "April",
             "Apr"
@@ -999,9 +1238,9 @@
             "sourceDate": "2012-04-09",
             "rawChecksum": "aa0ce11198ae71cd8e1f360ce5a99b0a310e38ac09e3e26bc232fc493f77f362",
             "correctionKeys": [],
-            "transformedChecksum": "651e0b6ec9dcc24f82954a94e62fb3cbfa0a516d6452d39e3684555ce7109656"
+            "transformedChecksum": "664b54971c7316e759073adb01618d53951fe0c60f04395ee89d2f5970c3c981"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         },
         "ro": {
           "title": "SLUJITORII DOMNULUI SUNT PLINI DE BUCURIE",
@@ -1071,7 +1310,7 @@
             "correctionKeys": [],
             "transformedChecksum": "f6ac3f03d2d29f662459a45c0f4452676a882f4fe894b96ca9dc2a4eb750214c"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         }
       }
     },
@@ -1102,22 +1341,34 @@
             },
             {
               "type": "prose",
-              "html": "<p class=\"justify\">All of us may be, in St. Paul’s high language, “fellow-laborers with God,” and he who is that, be he slave or angel, can be nothing better or greater. The mountains cease to be colossal, the ocean tides lose their majesty, if you see what an atom our earth is in the starry space. Even so turn the telescope of faith to Heaven, and see how at once earth’s grandeurs dwindle into nothingness, and Heaven’s least interests dilate into eternal breadth. Yes, to be a faithful Christian is greater in God’s sight than to be a triumphant statesman or a victorious emperor.—<i>Dean Farrar.</i></p>",
-              "text": "All of us may be, in St. Paul’s high language, “fellow-laborers with God,” and he who is that, be he slave or angel, can be nothing better or greater. The mountains cease to be colossal, the ocean tides lose their majesty, if you see what an atom our earth is in the starry space. Even so turn the telescope of faith to Heaven, and see how at once earth’s grandeurs dwindle into nothingness, and Heaven’s least interests dilate into eternal breadth. Yes, to be a faithful Christian is greater in God’s sight than to be a triumphant statesman or a victorious emperor.—Dean Farrar."
+              "html": "<p class=\"justify\">All of us may be, in St. Paul’s high language, “fellow-laborers with God,” and he who is that, be he slave or angel, can be nothing better or greater. The mountains cease to be colossal, the ocean tides lose their majesty, if you see what an atom our earth is in the starry space. Even so turn the telescope of faith to Heaven, and see how at once earth’s grandeurs dwindle into nothingness, and Heaven’s least interests dilate into eternal breadth. Yes, to be a faithful Christian is greater in God’s sight than to be a triumphant statesman or a victorious emperor.</p>",
+              "text": "All of us may be, in St. Paul’s high language, “fellow-laborers with God,” and he who is that, be he slave or angel, can be nothing better or greater. The mountains cease to be colossal, the ocean tides lose their majesty, if you see what an atom our earth is in the starry space. Even so turn the telescope of faith to Heaven, and see how at once earth’s grandeurs dwindle into nothingness, and Heaven’s least interests dilate into eternal breadth. Yes, to be a faithful Christian is greater in God’s sight than to be a triumphant statesman or a victorious emperor."
+            },
+            {
+              "type": "attribution",
+              "text": "—Dean Farrar"
             },
             {
               "type": "prose",
-              "html": "<p class=\"justify\">I believe it matters little whether we are employed in gathering the sheaves or gleaning the straggling ears after the reaper; it is the <i>state of the soul</i> which fixes the value of the employment, not the employment itself; to glorify God is enough, in small or great things, according as the measure of ability and opportunity is ours. Let us try to fix our eye on this and aim at it alone.—<i>Catherine Booth.</i></p>",
-              "text": "I believe it matters little whether we are employed in gathering the sheaves or gleaning the straggling ears after the reaper; it is the state of the soul which fixes the value of the employment, not the employment itself; to glorify God is enough, in small or great things, according as the measure of ability and opportunity is ours. Let us try to fix our eye on this and aim at it alone.—Catherine Booth."
+              "html": "<p class=\"justify\">I believe it matters little whether we are employed in gathering the sheaves or gleaning the straggling ears after the reaper; it is the <i>state of the soul</i> which fixes the value of the employment, not the employment itself; to glorify God is enough, in small or great things, according as the measure of ability and opportunity is ours. Let us try to fix our eye on this and aim at it alone.</p>",
+              "text": "I believe it matters little whether we are employed in gathering the sheaves or gleaning the straggling ears after the reaper; it is the state of the soul which fixes the value of the employment, not the employment itself; to glorify God is enough, in small or great things, according as the measure of ability and opportunity is ours. Let us try to fix our eye on this and aim at it alone."
+            },
+            {
+              "type": "attribution",
+              "text": "—Catherine Booth"
             },
             {
               "type": "prose",
-              "html": "<p class=\"justify\">There never has been a great and beautiful character which has not become so by filling well the ordinary and smaller offices appointed of God.—<i>Horace Bushnell.</i></p>",
-              "text": "There never has been a great and beautiful character which has not become so by filling well the ordinary and smaller offices appointed of God.—Horace Bushnell."
+              "html": "<p class=\"justify\">There never has been a great and beautiful character which has not become so by filling well the ordinary and smaller offices appointed of God.</p>",
+              "text": "There never has been a great and beautiful character which has not become so by filling well the ordinary and smaller offices appointed of God."
+            },
+            {
+              "type": "attribution",
+              "text": "—Horace Bushnell"
             }
           ],
           "sanitizedHtml": "<p class=\"justify\"><i>“He that is faithful in that which is least is faithful also in much” (Luke 16:10).</i></p><p class=\"justify\"><i>“And if ye have not been faithful in that which is another man’s, who shall give you that which is your own?” (Luke 16:12).</i></p><p class=\"justify\">Little faithfulnesses then are not only the preparation for great ones, but little faithfulnesses are in themselves the great ones. Observe the striking fact that our Lord does not say, “He that is faithful in that which is least <i>will be</i> faithful also in much,” but “He that is faithful in that which is least <i>is</i> faithful also in much.” The essential fidelity of the heart is the same whether it be exercised in two mites or in a regal treasury; the genuine faithfulness of the life is equally beautiful whether it be displayed in governing an empire or in writing an exercise. It has been quaintly said that if God were to send two angels to earth, the one to occupy a throne, and the other to clean a road, they would each regard their employments as equally distinguished and equally happy.</p><p class=\"justify\">All of us may be, in St. Paul’s high language, “fellow-laborers with God,” and he who is that, be he slave or angel, can be nothing better or greater. The mountains cease to be colossal, the ocean tides lose their majesty, if you see what an atom our earth is in the starry space. Even so turn the telescope of faith to Heaven, and see how at once earth’s grandeurs dwindle into nothingness, and Heaven’s least interests dilate into eternal breadth. Yes, to be a faithful Christian is greater in God’s sight than to be a triumphant statesman or a victorious emperor.—<i>Dean Farrar.</i></p><p class=\"justify\">I believe it matters little whether we are employed in gathering the sheaves or gleaning the straggling ears after the reaper; it is the <i>state of the soul</i> which fixes the value of the employment, not the employment itself; to glorify God is enough, in small or great things, according as the measure of ability and opportunity is ours. Let us try to fix our eye on this and aim at it alone.—<i>Catherine Booth.</i></p><p class=\"justify\">There never has been a great and beautiful character which has not become so by filling well the ordinary and smaller offices appointed of God.—<i>Horace Bushnell.</i></p> ",
-          "plainText": "“He that is faithful in that which is least is faithful also in much” (Luke 16:10).\n“And if ye have not been faithful in that which is another man’s, who shall give you that which is your own?” (Luke 16:12).\nLittle faithfulnesses then are not only the preparation for great ones, but little faithfulnesses are in themselves the great ones. Observe the striking fact that our Lord does not say, “He that is faithful in that which is least will be faithful also in much,” but “He that is faithful in that which is least is faithful also in much.” The essential fidelity of the heart is the same whether it be exercised in two mites or in a regal treasury; the genuine faithfulness of the life is equally beautiful whether it be displayed in governing an empire or in writing an exercise. It has been quaintly said that if God were to send two angels to earth, the one to occupy a throne, and the other to clean a road, they would each regard their employments as equally distinguished and equally happy.\nAll of us may be, in St. Paul’s high language, “fellow-laborers with God,” and he who is that, be he slave or angel, can be nothing better or greater. The mountains cease to be colossal, the ocean tides lose their majesty, if you see what an atom our earth is in the starry space. Even so turn the telescope of faith to Heaven, and see how at once earth’s grandeurs dwindle into nothingness, and Heaven’s least interests dilate into eternal breadth. Yes, to be a faithful Christian is greater in God’s sight than to be a triumphant statesman or a victorious emperor.—Dean Farrar.\nI believe it matters little whether we are employed in gathering the sheaves or gleaning the straggling ears after the reaper; it is the state of the soul which fixes the value of the employment, not the employment itself; to glorify God is enough, in small or great things, according as the measure of ability and opportunity is ours. Let us try to fix our eye on this and aim at it alone.—Catherine Booth.\nThere never has been a great and beautiful character which has not become so by filling well the ordinary and smaller offices appointed of God.—Horace Bushnell.",
+          "plainText": "“He that is faithful in that which is least is faithful also in much” (Luke 16:10).\n“And if ye have not been faithful in that which is another man’s, who shall give you that which is your own?” (Luke 16:12).\nLittle faithfulnesses then are not only the preparation for great ones, but little faithfulnesses are in themselves the great ones. Observe the striking fact that our Lord does not say, “He that is faithful in that which is least will be faithful also in much,” but “He that is faithful in that which is least is faithful also in much.” The essential fidelity of the heart is the same whether it be exercised in two mites or in a regal treasury; the genuine faithfulness of the life is equally beautiful whether it be displayed in governing an empire or in writing an exercise. It has been quaintly said that if God were to send two angels to earth, the one to occupy a throne, and the other to clean a road, they would each regard their employments as equally distinguished and equally happy.\nAll of us may be, in St. Paul’s high language, “fellow-laborers with God,” and he who is that, be he slave or angel, can be nothing better or greater. The mountains cease to be colossal, the ocean tides lose their majesty, if you see what an atom our earth is in the starry space. Even so turn the telescope of faith to Heaven, and see how at once earth’s grandeurs dwindle into nothingness, and Heaven’s least interests dilate into eternal breadth. Yes, to be a faithful Christian is greater in God’s sight than to be a triumphant statesman or a victorious emperor.\nI believe it matters little whether we are employed in gathering the sheaves or gleaning the straggling ears after the reaper; it is the state of the soul which fixes the value of the employment, not the employment itself; to glorify God is enough, in small or great things, according as the measure of ability and opportunity is ours. Let us try to fix our eye on this and aim at it alone.\nThere never has been a great and beautiful character which has not become so by filling well the ordinary and smaller offices appointed of God.",
           "searchAliases": [
             "June",
             "Jun"
@@ -1128,9 +1379,9 @@
             "sourceDate": "2012-06-28",
             "rawChecksum": "a3116a1f3f14831e04deb5fb173e460ba526b18154eac22b2ad5671861b54a41",
             "correctionKeys": [],
-            "transformedChecksum": "8026d0018cb78e08c61444cd2ab3676bbf93679987ea70cc47a5eece5412e8e3"
+            "transformedChecksum": "e325ac84ba8db928c6b2bcc65956f412ddf36c571347610b81b49f2916eb7cd8"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         },
         "ro": {
           "title": "CREDINCIOȘIE ÎN LUCRURILE MICI",
@@ -1200,7 +1451,7 @@
             "correctionKeys": [],
             "transformedChecksum": "91f3917a74c9901371f5f13b1d3168a389b7ccf41fa97c7a8ca570ba0e17b904"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         }
       }
     },
@@ -1231,25 +1482,41 @@
             },
             {
               "type": "prose",
-              "html": "<p class=\"justify\">The intercessor must often wait for a time in the outer court before he gains access to the Holiest of all. When this is so he must tarry and knock till the inner door opens to him, and he is granted admission to the Throne-room. When once he has entered, the cause is all but won. What had been at first weary work in prayer becomes easy, the divine stream lays hold of and floods his heart, his horizon widens. The consciousness of his own weakness and nothingness is outweighed by an overwhelming sense of the glory of God and of the grace of being allowed to draw near to Him in the Name of Christ. In that Name, the Name of our great High Priest, the Father grants everything. He has been granted an audience with the King of Heaven. With growing joy that is mingled with a thanksgiving and worship, the intercessor presents his petition. He is certain of acceptance. He has believed the promises and received the assurance of their fulfillment, and when the hour so graciously granted is over, he is sure that he has obtained what he has asked, even though the tangible fulfillment may be long in coming. It will come in God’s time.—<i>Sister Eva.</i></p>",
-              "text": "The intercessor must often wait for a time in the outer court before he gains access to the Holiest of all. When this is so he must tarry and knock till the inner door opens to him, and he is granted admission to the Throne-room. When once he has entered, the cause is all but won. What had been at first weary work in prayer becomes easy, the divine stream lays hold of and floods his heart, his horizon widens. The consciousness of his own weakness and nothingness is outweighed by an overwhelming sense of the glory of God and of the grace of being allowed to draw near to Him in the Name of Christ. In that Name, the Name of our great High Priest, the Father grants everything. He has been granted an audience with the King of Heaven. With growing joy that is mingled with a thanksgiving and worship, the intercessor presents his petition. He is certain of acceptance. He has believed the promises and received the assurance of their fulfillment, and when the hour so graciously granted is over, he is sure that he has obtained what he has asked, even though the tangible fulfillment may be long in coming. It will come in God’s time.—Sister Eva."
+              "html": "<p class=\"justify\">The intercessor must often wait for a time in the outer court before he gains access to the Holiest of all. When this is so he must tarry and knock till the inner door opens to him, and he is granted admission to the Throne-room. When once he has entered, the cause is all but won. What had been at first weary work in prayer becomes easy, the divine stream lays hold of and floods his heart, his horizon widens. The consciousness of his own weakness and nothingness is outweighed by an overwhelming sense of the glory of God and of the grace of being allowed to draw near to Him in the Name of Christ. In that Name, the Name of our great High Priest, the Father grants everything. He has been granted an audience with the King of Heaven. With growing joy that is mingled with a thanksgiving and worship, the intercessor presents his petition. He is certain of acceptance. He has believed the promises and received the assurance of their fulfillment, and when the hour so graciously granted is over, he is sure that he has obtained what he has asked, even though the tangible fulfillment may be long in coming. It will come in God’s time.</p>",
+              "text": "The intercessor must often wait for a time in the outer court before he gains access to the Holiest of all. When this is so he must tarry and knock till the inner door opens to him, and he is granted admission to the Throne-room. When once he has entered, the cause is all but won. What had been at first weary work in prayer becomes easy, the divine stream lays hold of and floods his heart, his horizon widens. The consciousness of his own weakness and nothingness is outweighed by an overwhelming sense of the glory of God and of the grace of being allowed to draw near to Him in the Name of Christ. In that Name, the Name of our great High Priest, the Father grants everything. He has been granted an audience with the King of Heaven. With growing joy that is mingled with a thanksgiving and worship, the intercessor presents his petition. He is certain of acceptance. He has believed the promises and received the assurance of their fulfillment, and when the hour so graciously granted is over, he is sure that he has obtained what he has asked, even though the tangible fulfillment may be long in coming. It will come in God’s time."
+            },
+            {
+              "type": "attribution",
+              "text": "—Sister Eva"
             },
             {
               "type": "poem",
               "lines": [
-                "Thou art coming to a King,",
-                "Large petitions with thee bring;",
-                "For His grace and pow’r are such,",
-                "None can ever ask too much."
+                {
+                  "text": "Thou art coming to a King,",
+                  "indent": false
+                },
+                {
+                  "text": "Large petitions with thee bring;",
+                  "indent": true
+                },
+                {
+                  "text": "For His grace and pow’r are such,",
+                  "indent": false
+                },
+                {
+                  "text": "None can ever ask too much.",
+                  "indent": true
+                }
               ]
             },
             {
               "type": "attribution",
-              "text": "—John Newton."
+              "text": "—John Newton"
             }
           ],
           "sanitizedHtml": "<p class=\"justify\"><i>“For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds” (2 Cor. 10:4).</i></p><p class=\"justify\"><i>“And this is the confidence that we have in him, that, if we ask anything according to his will, he heareth us: And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him” (1 John 5:14-15).</i></p><p class=\"justify\">There are no impossibilities to these intercessors, for they have to do with the God of all power and might to Whom nothing is impossible. Heaven and earth are there to serve them, and they are full of joyous faith. Angels, men and powers of the universe consciously and unconsciously work together for the fulfillment of their petitions.</p><p class=\"justify\">The intercessor must often wait for a time in the outer court before he gains access to the Holiest of all. When this is so he must tarry and knock till the inner door opens to him, and he is granted admission to the Throne-room. When once he has entered, the cause is all but won. What had been at first weary work in prayer becomes easy, the divine stream lays hold of and floods his heart, his horizon widens. The consciousness of his own weakness and nothingness is outweighed by an overwhelming sense of the glory of God and of the grace of being allowed to draw near to Him in the Name of Christ. In that Name, the Name of our great High Priest, the Father grants everything. He has been granted an audience with the King of Heaven. With growing joy that is mingled with a thanksgiving and worship, the intercessor presents his petition. He is certain of acceptance. He has believed the promises and received the assurance of their fulfillment, and when the hour so graciously granted is over, he is sure that he has obtained what he has asked, even though the tangible fulfillment may be long in coming. It will come in God’s time.—<i>Sister Eva.</i></p> <div class=\"c3\"><p>Thou art coming to a King,</p> </div> <div class=\"c3\"><p> Large petitions with thee bring;</p> </div> <div class=\"c3\"><p>For His grace and pow’r are such,</p> </div> <div class=\"c3\"><p> None can ever ask too much.</p> </div> <blockquote> <blockquote><p class=\"c8\">—<i>John Newton.</i></p> </blockquote> </blockquote> ",
-          "plainText": "“For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds” (2 Cor. 10:4).\n“And this is the confidence that we have in him, that, if we ask anything according to his will, he heareth us: And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him” (1 John 5:14-15).\nThere are no impossibilities to these intercessors, for they have to do with the God of all power and might to Whom nothing is impossible. Heaven and earth are there to serve them, and they are full of joyous faith. Angels, men and powers of the universe consciously and unconsciously work together for the fulfillment of their petitions.\nThe intercessor must often wait for a time in the outer court before he gains access to the Holiest of all. When this is so he must tarry and knock till the inner door opens to him, and he is granted admission to the Throne-room. When once he has entered, the cause is all but won. What had been at first weary work in prayer becomes easy, the divine stream lays hold of and floods his heart, his horizon widens. The consciousness of his own weakness and nothingness is outweighed by an overwhelming sense of the glory of God and of the grace of being allowed to draw near to Him in the Name of Christ. In that Name, the Name of our great High Priest, the Father grants everything. He has been granted an audience with the King of Heaven. With growing joy that is mingled with a thanksgiving and worship, the intercessor presents his petition. He is certain of acceptance. He has believed the promises and received the assurance of their fulfillment, and when the hour so graciously granted is over, he is sure that he has obtained what he has asked, even though the tangible fulfillment may be long in coming. It will come in God’s time.—Sister Eva.\nThou art coming to a King,\n\nLarge petitions with thee bring;\n\nFor His grace and pow’r are such,\n\nNone can ever ask too much.\n\n—John Newton.",
+          "plainText": "“For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds” (2 Cor. 10:4).\n“And this is the confidence that we have in him, that, if we ask anything according to his will, he heareth us: And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him” (1 John 5:14-15).\nThere are no impossibilities to these intercessors, for they have to do with the God of all power and might to Whom nothing is impossible. Heaven and earth are there to serve them, and they are full of joyous faith. Angels, men and powers of the universe consciously and unconsciously work together for the fulfillment of their petitions.\nThe intercessor must often wait for a time in the outer court before he gains access to the Holiest of all. When this is so he must tarry and knock till the inner door opens to him, and he is granted admission to the Throne-room. When once he has entered, the cause is all but won. What had been at first weary work in prayer becomes easy, the divine stream lays hold of and floods his heart, his horizon widens. The consciousness of his own weakness and nothingness is outweighed by an overwhelming sense of the glory of God and of the grace of being allowed to draw near to Him in the Name of Christ. In that Name, the Name of our great High Priest, the Father grants everything. He has been granted an audience with the King of Heaven. With growing joy that is mingled with a thanksgiving and worship, the intercessor presents his petition. He is certain of acceptance. He has believed the promises and received the assurance of their fulfillment, and when the hour so graciously granted is over, he is sure that he has obtained what he has asked, even though the tangible fulfillment may be long in coming. It will come in God’s time.\nThou art coming to a King,\n\nLarge petitions with thee bring;\n\nFor His grace and pow’r are such,\n\nNone can ever ask too much.\n\n—John Newton.",
           "searchAliases": [
             "August",
             "Aug"
@@ -1260,9 +1527,9 @@
             "sourceDate": "2012-08-24",
             "rawChecksum": "59f5e1a15d7ac514ff87e4a73345853bf016b65bb25b2fdffb8b0882d17baa0d",
             "correctionKeys": [],
-            "transformedChecksum": "511ace467fda761803071dba51130020d3f5d202b1ba59b678e7e9706f267060"
+            "transformedChecksum": "95a2c53389bae6e2d1bdc65171d4be142bf5ee66c12f583734b1a6ff456fe5cf"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         },
         "ro": {
           "title": "ÎN AȘTEPTAREA RĂSPUNSULUI LA RUGĂCIUNE",
@@ -1323,7 +1590,7 @@
             "correctionKeys": [],
             "transformedChecksum": "e48fbad58ca2e0c7a0d24338e312c7c47d8b71545339ef9d430796064110f55c"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         }
       }
     },
@@ -1365,22 +1632,32 @@
             {
               "type": "poem",
               "lines": [
-                "“Men live in deeds, not years; in thoughts, not breaths;",
-                "In feelings, not in figures on a dial.”"
+                {
+                  "text": "“Men live in deeds, not years; in thoughts, not breaths;",
+                  "indent": false
+                },
+                {
+                  "text": "In feelings, not in figures on a dial.”",
+                  "indent": false
+                }
               ]
             },
             {
               "type": "attribution",
-              "text": "—W. Morley Punshon."
+              "text": "—W. Morley Punshon"
             },
             {
               "type": "prose",
-              "html": "<p class=\"justify\">Have you ever settled anything about your time, whether any of it belongs to God, and if so, how much of it belongs to God? Did you ever sit down and make an honest division with God of your time—I will give God so much every week? John Wesley, a grander man than whom never lived, sat down and divided the twenty-four hours of the day into equal parts, and said, “Eight hours a day I give to sleep and recreation; eight hours I give to my business, and eight hours I give to God.” When I look at Wesley’s life, and see how many sermons he preached, I’m astonished that he had any time to travel; and when I look at the number of miles he traveled on horseback, I’m astonished that he had time to preach; and when I look at the number of books he left behind him, I say, “Well, well, how did Wesley have time for writing and preaching?” And the whole life of that great man, the most laborious life almost of any century, was made successful and extensive because he divided up rightly with God.—<i>S. Jones.</i></p>",
-              "text": "Have you ever settled anything about your time, whether any of it belongs to God, and if so, how much of it belongs to God? Did you ever sit down and make an honest division with God of your time—I will give God so much every week? John Wesley, a grander man than whom never lived, sat down and divided the twenty-four hours of the day into equal parts, and said, “Eight hours a day I give to sleep and recreation; eight hours I give to my business, and eight hours I give to God.” When I look at Wesley’s life, and see how many sermons he preached, I’m astonished that he had any time to travel; and when I look at the number of miles he traveled on horseback, I’m astonished that he had time to preach; and when I look at the number of books he left behind him, I say, “Well, well, how did Wesley have time for writing and preaching?” And the whole life of that great man, the most laborious life almost of any century, was made successful and extensive because he divided up rightly with God.—S. Jones."
+              "html": "<p class=\"justify\">Have you ever settled anything about your time, whether any of it belongs to God, and if so, how much of it belongs to God? Did you ever sit down and make an honest division with God of your time—I will give God so much every week? John Wesley, a grander man than whom never lived, sat down and divided the twenty-four hours of the day into equal parts, and said, “Eight hours a day I give to sleep and recreation; eight hours I give to my business, and eight hours I give to God.” When I look at Wesley’s life, and see how many sermons he preached, I’m astonished that he had any time to travel; and when I look at the number of miles he traveled on horseback, I’m astonished that he had time to preach; and when I look at the number of books he left behind him, I say, “Well, well, how did Wesley have time for writing and preaching?” And the whole life of that great man, the most laborious life almost of any century, was made successful and extensive because he divided up rightly with God.</p>",
+              "text": "Have you ever settled anything about your time, whether any of it belongs to God, and if so, how much of it belongs to God? Did you ever sit down and make an honest division with God of your time—I will give God so much every week? John Wesley, a grander man than whom never lived, sat down and divided the twenty-four hours of the day into equal parts, and said, “Eight hours a day I give to sleep and recreation; eight hours I give to my business, and eight hours I give to God.” When I look at Wesley’s life, and see how many sermons he preached, I’m astonished that he had any time to travel; and when I look at the number of miles he traveled on horseback, I’m astonished that he had time to preach; and when I look at the number of books he left behind him, I say, “Well, well, how did Wesley have time for writing and preaching?” And the whole life of that great man, the most laborious life almost of any century, was made successful and extensive because he divided up rightly with God."
+            },
+            {
+              "type": "attribution",
+              "text": "—S. Jones"
             }
           ],
           "sanitizedHtml": "<p class=\"justify\"><i>“There is . . . a time to every purpose” (Eccles. 3:1).</i></p><p class=\"justify\"><i>“Are there not twelve hours in the day?” (John 11:9).</i></p><p class=\"justify\">When Drexelius was asked by his friend Faustinius how he could do so much as he had done, he answered, “The year has three hundred and sixty-five days, or eight thousand, seven hundred and sixty hours; in so many hours great things may be done; the slow tortoise made a long journey by losing no time.”</p><p class=\"justify\">The man who hasn’t the time to do the things that are worth while is probably doing some things that are not.</p><p class=\"justify\">The length of a life is not to be estimated by the winters over which it has spread. Some lives are brief at seventy, for their record is a blank and dreary vacancy; others are protracted at twenty-five, for a history has been compressed within the space.</p> <div class=\"c3\"><p>“Men live in deeds, not years; in thoughts, not breaths;</p> </div> <div class=\"c3\"><p>In feelings, not in figures on a dial.”</p> </div><p class=\"c8\">—<i>W. Morley Punshon.</i></p><p class=\"justify\">Have you ever settled anything about your time, whether any of it belongs to God, and if so, how much of it belongs to God? Did you ever sit down and make an honest division with God of your time—I will give God so much every week? John Wesley, a grander man than whom never lived, sat down and divided the twenty-four hours of the day into equal parts, and said, “Eight hours a day I give to sleep and recreation; eight hours I give to my business, and eight hours I give to God.” When I look at Wesley’s life, and see how many sermons he preached, I’m astonished that he had any time to travel; and when I look at the number of miles he traveled on horseback, I’m astonished that he had time to preach; and when I look at the number of books he left behind him, I say, “Well, well, how did Wesley have time for writing and preaching?” And the whole life of that great man, the most laborious life almost of any century, was made successful and extensive because he divided up rightly with God.—<i>S. Jones.</i></p> ",
-          "plainText": "“There is . . . a time to every purpose” (Eccles. 3:1).\n“Are there not twelve hours in the day?” (John 11:9).\nWhen Drexelius was asked by his friend Faustinius how he could do so much as he had done, he answered, “The year has three hundred and sixty-five days, or eight thousand, seven hundred and sixty hours; in so many hours great things may be done; the slow tortoise made a long journey by losing no time.”\nThe man who hasn’t the time to do the things that are worth while is probably doing some things that are not.\nThe length of a life is not to be estimated by the winters over which it has spread. Some lives are brief at seventy, for their record is a blank and dreary vacancy; others are protracted at twenty-five, for a history has been compressed within the space.\n“Men live in deeds, not years; in thoughts, not breaths;\n\nIn feelings, not in figures on a dial.”\n\n—W. Morley Punshon.\nHave you ever settled anything about your time, whether any of it belongs to God, and if so, how much of it belongs to God? Did you ever sit down and make an honest division with God of your time—I will give God so much every week? John Wesley, a grander man than whom never lived, sat down and divided the twenty-four hours of the day into equal parts, and said, “Eight hours a day I give to sleep and recreation; eight hours I give to my business, and eight hours I give to God.” When I look at Wesley’s life, and see how many sermons he preached, I’m astonished that he had any time to travel; and when I look at the number of miles he traveled on horseback, I’m astonished that he had time to preach; and when I look at the number of books he left behind him, I say, “Well, well, how did Wesley have time for writing and preaching?” And the whole life of that great man, the most laborious life almost of any century, was made successful and extensive because he divided up rightly with God.—S. Jones.",
+          "plainText": "“There is . . . a time to every purpose” (Eccles. 3:1).\n“Are there not twelve hours in the day?” (John 11:9).\nWhen Drexelius was asked by his friend Faustinius how he could do so much as he had done, he answered, “The year has three hundred and sixty-five days, or eight thousand, seven hundred and sixty hours; in so many hours great things may be done; the slow tortoise made a long journey by losing no time.”\nThe man who hasn’t the time to do the things that are worth while is probably doing some things that are not.\nThe length of a life is not to be estimated by the winters over which it has spread. Some lives are brief at seventy, for their record is a blank and dreary vacancy; others are protracted at twenty-five, for a history has been compressed within the space.\n“Men live in deeds, not years; in thoughts, not breaths;\n\nIn feelings, not in figures on a dial.”\n\n—W. Morley Punshon.\nHave you ever settled anything about your time, whether any of it belongs to God, and if so, how much of it belongs to God? Did you ever sit down and make an honest division with God of your time—I will give God so much every week? John Wesley, a grander man than whom never lived, sat down and divided the twenty-four hours of the day into equal parts, and said, “Eight hours a day I give to sleep and recreation; eight hours I give to my business, and eight hours I give to God.” When I look at Wesley’s life, and see how many sermons he preached, I’m astonished that he had any time to travel; and when I look at the number of miles he traveled on horseback, I’m astonished that he had time to preach; and when I look at the number of books he left behind him, I say, “Well, well, how did Wesley have time for writing and preaching?” And the whole life of that great man, the most laborious life almost of any century, was made successful and extensive because he divided up rightly with God.",
           "searchAliases": [
             "October",
             "Oct"
@@ -1391,9 +1668,9 @@
             "sourceDate": "2012-10-19",
             "rawChecksum": "38b8b791299708706c5215d27f73dc0eccf2e8ca1058b6b13c02e89d8975366c",
             "correctionKeys": [],
-            "transformedChecksum": "397c32266d14a0133d7a66f3f88b68e553cc9673b6b8d10ad8a215fda45e1733"
+            "transformedChecksum": "9b4732735e6d8d326a281a5324a31cfb18d96a5d9c8d8fbd4c0bf40de7468d5b"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         },
         "ro": {
           "title": "CUM SĂ-ȚI FOLOSEȘTI BINE TIMPUL",
@@ -1464,7 +1741,7 @@
             "correctionKeys": [],
             "transformedChecksum": "7e6dc79c010e309c432e7225ccdcf6155ec8b07384582291088f7b33f28044e7"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         }
       }
     },
@@ -1496,33 +1773,73 @@
             },
             {
               "type": "prose",
-              "html": "<p class=\"justify\">I believe this is about the time of the year in which men take account of stock, in everything except their souls. In the shoe and leather business they know just how much has come and how much has gone, and where they are. In the book business they know the whole account. So in every great concern and establishment of various businesses. They want to know how they stand as it regards riches. But alas! where is your bookkeeper and your cashier, that shall take account of stock so that you may know whether you have been gaining in knowledge or idling away your time; whether you have gained in a stable conscience, or have let your conscience be like a weather-vane, blown about by custom or by the breath of men; whether you have been brought nearer to men, and into more loving relations with them, or whether you have been disintegrating?—<i>Henry Ward Beecher.</i></p>",
-              "text": "I believe this is about the time of the year in which men take account of stock, in everything except their souls. In the shoe and leather business they know just how much has come and how much has gone, and where they are. In the book business they know the whole account. So in every great concern and establishment of various businesses. They want to know how they stand as it regards riches. But alas! where is your bookkeeper and your cashier, that shall take account of stock so that you may know whether you have been gaining in knowledge or idling away your time; whether you have gained in a stable conscience, or have let your conscience be like a weather-vane, blown about by custom or by the breath of men; whether you have been brought nearer to men, and into more loving relations with them, or whether you have been disintegrating?—Henry Ward Beecher."
+              "html": "<p class=\"justify\">I believe this is about the time of the year in which men take account of stock, in everything except their souls. In the shoe and leather business they know just how much has come and how much has gone, and where they are. In the book business they know the whole account. So in every great concern and establishment of various businesses. They want to know how they stand as it regards riches. But alas! where is your bookkeeper and your cashier, that shall take account of stock so that you may know whether you have been gaining in knowledge or idling away your time; whether you have gained in a stable conscience, or have let your conscience be like a weather-vane, blown about by custom or by the breath of men; whether you have been brought nearer to men, and into more loving relations with them, or whether you have been disintegrating?</p>",
+              "text": "I believe this is about the time of the year in which men take account of stock, in everything except their souls. In the shoe and leather business they know just how much has come and how much has gone, and where they are. In the book business they know the whole account. So in every great concern and establishment of various businesses. They want to know how they stand as it regards riches. But alas! where is your bookkeeper and your cashier, that shall take account of stock so that you may know whether you have been gaining in knowledge or idling away your time; whether you have gained in a stable conscience, or have let your conscience be like a weather-vane, blown about by custom or by the breath of men; whether you have been brought nearer to men, and into more loving relations with them, or whether you have been disintegrating?"
+            },
+            {
+              "type": "attribution",
+              "text": "—Henry Ward Beecher"
             },
             {
               "type": "poem",
               "lines": [
-                "To leave the old with a burst of song,",
-                "To recall the right and forgive the wrong;",
-                "To forget the thing that binds you fast",
-                "To the vain regrets of the year that’s past;",
-                "To have the strength to let go your hold",
-                "On the not worthwhile of the days grown old;",
-                "To dare go forth with a purpose true,",
-                "To the unknown task of the year that’s new;",
-                "To help your brother along the road,",
-                "To do his work, and lift his load;",
-                "To add your gift to the world’s good cheer,",
-                "Is to have and to give a Glad New Year."
+                {
+                  "text": "To leave the old with a burst of song,",
+                  "indent": false
+                },
+                {
+                  "text": "To recall the right and forgive the wrong;",
+                  "indent": false
+                },
+                {
+                  "text": "To forget the thing that binds you fast",
+                  "indent": false
+                },
+                {
+                  "text": "To the vain regrets of the year that’s past;",
+                  "indent": false
+                },
+                {
+                  "text": "To have the strength to let go your hold",
+                  "indent": false
+                },
+                {
+                  "text": "On the not worthwhile of the days grown old;",
+                  "indent": false
+                },
+                {
+                  "text": "To dare go forth with a purpose true,",
+                  "indent": false
+                },
+                {
+                  "text": "To the unknown task of the year that’s new;",
+                  "indent": false
+                },
+                {
+                  "text": "To help your brother along the road,",
+                  "indent": false
+                },
+                {
+                  "text": "To do his work, and lift his load;",
+                  "indent": false
+                },
+                {
+                  "text": "To add your gift to the world’s good cheer,",
+                  "indent": false
+                },
+                {
+                  "text": "Is to have and to give a Glad New Year.",
+                  "indent": false
+                }
               ]
             },
             {
               "type": "attribution",
-              "text": "—Words and Deeds."
+              "text": "—Words and Deeds"
             }
           ],
           "sanitizedHtml": "<p class=\"justify\"><i>“Examine yourselves, whether ye be in the faith; prove your own selves” (2 Cor. 13:5).</i></p><p class=\"justify\"><i>“But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another” (Gal. 6:4).</i></p><p class=\"justify\"><i>“Examine me, O Lord, and prove me” (Psa. 26:2).</i></p><p class=\"justify\">I believe this is about the time of the year in which men take account of stock, in everything except their souls. In the shoe and leather business they know just how much has come and how much has gone, and where they are. In the book business they know the whole account. So in every great concern and establishment of various businesses. They want to know how they stand as it regards riches. But alas! where is your bookkeeper and your cashier, that shall take account of stock so that you may know whether you have been gaining in knowledge or idling away your time; whether you have gained in a stable conscience, or have let your conscience be like a weather-vane, blown about by custom or by the breath of men; whether you have been brought nearer to men, and into more loving relations with them, or whether you have been disintegrating?—<i>Henry Ward Beecher.</i></p> <div class=\"c3\"><p>To leave the old with a burst of song,</p> </div> <div class=\"c3\"><p>To recall the right and forgive the wrong;</p> </div> <div class=\"c3\"><p>To forget the thing that binds you fast</p> </div> <div class=\"c3\"><p>To the vain regrets of the year that’s past;</p> </div> <div class=\"c3\"><p>To have the strength to let go your hold</p> </div> <div class=\"c3\"><p>On the not worthwhile of the days grown old;</p> </div> <div class=\"c3\"><p>To dare go forth with a purpose true,</p> </div> <div class=\"c3\"><p>To the unknown task of the year that’s new;</p> </div> <div class=\"c3\"><p>To help your brother along the road,</p> </div> <div class=\"c3\"><p>To do his work, and lift his load;</p> </div> <div class=\"c3\"><p>To add your gift to the world’s good cheer,</p> </div> <div class=\"c3\"><p>Is to have and to give a Glad New Year.</p> </div><p class=\"c8\">—<i>Words and Deeds.</i></p> ",
-          "plainText": "“Examine yourselves, whether ye be in the faith; prove your own selves” (2 Cor. 13:5).\n“But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another” (Gal. 6:4).\n“Examine me, O Lord, and prove me” (Psa. 26:2).\nI believe this is about the time of the year in which men take account of stock, in everything except their souls. In the shoe and leather business they know just how much has come and how much has gone, and where they are. In the book business they know the whole account. So in every great concern and establishment of various businesses. They want to know how they stand as it regards riches. But alas! where is your bookkeeper and your cashier, that shall take account of stock so that you may know whether you have been gaining in knowledge or idling away your time; whether you have gained in a stable conscience, or have let your conscience be like a weather-vane, blown about by custom or by the breath of men; whether you have been brought nearer to men, and into more loving relations with them, or whether you have been disintegrating?—Henry Ward Beecher.\nTo leave the old with a burst of song,\n\nTo recall the right and forgive the wrong;\n\nTo forget the thing that binds you fast\n\nTo the vain regrets of the year that’s past;\n\nTo have the strength to let go your hold\n\nOn the not worthwhile of the days grown old;\n\nTo dare go forth with a purpose true,\n\nTo the unknown task of the year that’s new;\n\nTo help your brother along the road,\n\nTo do his work, and lift his load;\n\nTo add your gift to the world’s good cheer,\n\nIs to have and to give a Glad New Year.\n\n—Words and Deeds.",
+          "plainText": "“Examine yourselves, whether ye be in the faith; prove your own selves” (2 Cor. 13:5).\n“But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another” (Gal. 6:4).\n“Examine me, O Lord, and prove me” (Psa. 26:2).\nI believe this is about the time of the year in which men take account of stock, in everything except their souls. In the shoe and leather business they know just how much has come and how much has gone, and where they are. In the book business they know the whole account. So in every great concern and establishment of various businesses. They want to know how they stand as it regards riches. But alas! where is your bookkeeper and your cashier, that shall take account of stock so that you may know whether you have been gaining in knowledge or idling away your time; whether you have gained in a stable conscience, or have let your conscience be like a weather-vane, blown about by custom or by the breath of men; whether you have been brought nearer to men, and into more loving relations with them, or whether you have been disintegrating?\nTo leave the old with a burst of song,\n\nTo recall the right and forgive the wrong;\n\nTo forget the thing that binds you fast\n\nTo the vain regrets of the year that’s past;\n\nTo have the strength to let go your hold\n\nOn the not worthwhile of the days grown old;\n\nTo dare go forth with a purpose true,\n\nTo the unknown task of the year that’s new;\n\nTo help your brother along the road,\n\nTo do his work, and lift his load;\n\nTo add your gift to the world’s good cheer,\n\nIs to have and to give a Glad New Year.\n\n—Words and Deeds.",
           "searchAliases": [
             "December",
             "Dec"
@@ -1533,9 +1850,9 @@
             "sourceDate": "2012-12-31",
             "rawChecksum": "7a5c4e3ca1abaa1d47a2228f6a620a298441a94aa7e5c8c6b0b397d0ea9d87d5",
             "correctionKeys": [],
-            "transformedChecksum": "8923f8a110c067f02638a8cd13eac258da90133eef65201e03967334bee52a5e"
+            "transformedChecksum": "e6235a3b00d5f6392eebb24d1458af636de984d77bb3e843ee7a0329e30555f8"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         },
         "ro": {
           "title": "SĂ FACEM INVENTARUL",
@@ -1667,7 +1984,7 @@
             "correctionKeys": [],
             "transformedChecksum": "b581ec924fccb26824497b8db741a6549e52ca491473c1576d2be150acb99a05"
           },
-          "contentVersion": "c9caf9abb8f997da"
+          "contentVersion": "edc4d46c2242e586"
         }
       }
     }

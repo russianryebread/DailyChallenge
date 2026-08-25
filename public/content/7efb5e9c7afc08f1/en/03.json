@@ -1,0 +1,2403 @@
+{
+  "contentVersion": "7efb5e9c7afc08f1",
+  "locale": "en",
+  "month": "03",
+  "readings": [
+    {
+      "id": 61,
+      "monthDay": "03-01",
+      "title": "Ministering circumstances",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“I am among you as he that serveth”",
+          "reference": "Luke 22:27"
+        },
+        {
+          "type": "scripture",
+          "text": "“Yea, every pot in Jerusalem . . . shall be holiness unto the Lord of hosts”",
+          "reference": "Zech. 14:21"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Through whatever I am to live, I live Christ; I set upon everything the imprint of my Lord! Nothing is allowed to become an alien minister. No circumstance is allowed to raise the flag of revolt. Bengel made every circumstance in his life pay tribute to Christ. Let me quote a little extract from an exquisite little book of Thomas Boston’s, whose life was abounding in labors: “Learn that heavenly chemistry of extracting some spiritual thing out of earthly things. To this end endeavor after a heavenly frame, which will, as is recorded of the philosopher’s stone, turn every metal into gold. When the soul is heavenly, it will even scrape jewels out of a dunghill.” All of which means that a man in Christ can make his adverse environment ideal. He can make his disappointments his ministers. He can make his adversities the King’s witnesses.”•<i>J. H. Jowett.</i> </p>"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "Lord, of all pots and pans and things,",
+              "indent": false
+            },
+            {
+              "text": "Since I’ve no time to be",
+              "indent": true
+            },
+            {
+              "text": "A saint by doing lovely things",
+              "indent": false
+            },
+            {
+              "text": "Or watching late with Thee,",
+              "indent": true
+            },
+            {
+              "text": "Or dreaming in the twilight,",
+              "indent": false
+            },
+            {
+              "text": "Or storming Heaven’s gates,",
+              "indent": true
+            },
+            {
+              "text": "Make me a saint by getting meals,",
+              "indent": false
+            },
+            {
+              "text": "Or washing up the plates.",
+              "indent": true
+            },
+            {
+              "text": "Although I must have Martha’s hands",
+              "indent": false
+            },
+            {
+              "text": "I have a Mary mind;",
+              "indent": true
+            },
+            {
+              "text": "And when I black the boots and shoes,",
+              "indent": false
+            },
+            {
+              "text": "Thy sandals, Lord, I find.",
+              "indent": true
+            },
+            {
+              "text": "Thou Who didst love to give men food,",
+              "indent": false
+            },
+            {
+              "text": "In room or by the sea,",
+              "indent": true
+            },
+            {
+              "text": "Accept this service that I do”•",
+              "indent": false
+            },
+            {
+              "text": "I do it unto Thee.",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "-An English Servant Girl"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "monthDay": "03-02",
+      "title": "Faith’s bright outlook",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“Rejoicing in hope”",
+          "reference": "Rom. 12:12"
+        },
+        {
+          "type": "scripture",
+          "text": "“We through patience and comfort of the scriptures might have hope”",
+          "reference": "Rom. 15:4"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Unbelief paints all God’s beautiful pictures of Christian hope and promise in the darkest hues. Faith grasps them and appropriates them for the individual in the darkest hours. The story is told of a little girl who had an infidel father. Anxious to instill his principles into his little daughter’s mind, he hung a motto in her bedroom which read, “God is Nowhere.” Faith in the heart of the little girl, however, interpreted these dark words differently. They read, “God is Now Here.” Have we such a childlike faith that can read present help into the darkest suggestions of unbelieving friends and even Satan himself? </p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Henry Ward Beecher brings out the same thought in a little story. “A cold cinder and a burning lamp started out one day, to see what they could find. The cinder came back and wrote in its journal that the whole world was dark. It did not find a place wherever it went, in which there was light. Everywhere was darkness. The lamp when it came back, wrote in its journal, ‘Wherever I went it was light. I did not find any darkness in my journey. The whole world was light.’ What was the difference? The lamp carried light with it, and illumined everything about it. The dead cinder carried no light, and found none.”</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">How incomprehensible is the love of God! His ways are indeed past finding out. How many of His providences are like the cloud between the Israelites and the Egyptians—if looked on by unbelievers, or without faith, it is a cloud of darkness; but if viewed according to the privilege of the Lord’s people, it is no longer darkness, but light and safety. May this be your experience; may you feel that the Hand which inflicts the wound supplies the balm, and that He Who has emptied your heart has filled the void with Himself.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hudson Taylor"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "You cannot put one little star in motion,",
+              "indent": false
+            },
+            {
+              "text": "You cannot shape one single forest leaf,",
+              "indent": true
+            },
+            {
+              "text": "Nor fling a mountain up, nor sink an ocean,",
+              "indent": false
+            },
+            {
+              "text": "Presumptuous pygmy, large with unbelief.",
+              "indent": true
+            },
+            {
+              "text": "You cannot bring one dawn of regal splendor,",
+              "indent": false
+            },
+            {
+              "text": "Nor bid the day to shadowy twilight fall,",
+              "indent": true
+            },
+            {
+              "text": "Nor send the pale moon forth with radiance tender,",
+              "indent": false
+            },
+            {
+              "text": "And dare you doubt the One Who has done all?",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Ella Wheeler Wilcox"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "monthDay": "03-03",
+      "title": "Bible study necessary to prayer",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“And it shall be with him, and he shall read therein all the days of his life: that he may learn to fear the Lord his God, to keep all the words of this law and these statutes, to do them”",
+          "reference": "Deut. 17:19"
+        },
+        {
+          "type": "scripture",
+          "text": "“Jesus saith unto them, Did ye never read in the scriptures?”",
+          "reference": "Matt. 21:42"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">There is a tendency to leave the Bible out of the closet. We hear a great deal of earnest counsel concerning secret prayer. We are urged both to open and close the day at God’s feet. We are taught that prayer is the Christian’s vital breath. And not a word too much can be said on this subject. If we would live strong, noble, beautiful, radiant, and useful Christian lives, we must get seasons of secret prayer into all our busy days. But we must take our Bibles with us into the closet. While we talk to God, we must also let God talk to us. God feeds us through His Word. It is <i>into all truth</i> that the Holy Spirit leads Christ’s disciples. Seasons of prayer without meditation on some word of God cannot yield the full blessing that we need.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J. R. Miller"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Little of the Word with little Prayer is death to the spiritual life. Much of the Word with little Prayer gives a sickly life. Much Prayer with little of the Word gives emotional life. But a full measure of the Word and Prayer each day gives a healthy and powerful life.—<i>Andrew Murray.</i> <i> </i> </p>"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "While now Thine oracles we read",
+              "indent": false
+            },
+            {
+              "text": "With earnest prayer and strong desire,",
+              "indent": true
+            },
+            {
+              "text": "Oh, let Thy Spirit from Thee proceed,",
+              "indent": false
+            },
+            {
+              "text": "Our souls to awaken and inspire,",
+              "indent": true
+            },
+            {
+              "text": "Our weakness help, our darkness chase,",
+              "indent": false
+            },
+            {
+              "text": "And guide us by the light of grace.",
+              "indent": false
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles Wesley"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">The “Burman Missionary” tells the story of an old man who years ago, when a heathen, came into possession of a copy of the Psalms in his native language, which had been left behind by a traveler stopping at his house. He began to read and before he had finished the book he had resolved to cast his idols away. For twenty years he worshiped the eternal God revealed to him in the Psalms, using the fifty-first (which he had committed to memory) as a daily prayer. Then having occasion to go to R—, he fell in with a white missionary, who gave him a New Testament. With joy unspeakable he read for the first time the story of salvation. “Twenty years I have walked by starlight,” he said; “now I see the sun. </p>"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "monthDay": "03-04",
+      "title": "Losing ourselves to save others",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“He saved others; himself he cannot save”",
+          "reference": "Matt. 27:42"
+        },
+        {
+          "type": "scripture",
+          "text": "“And that he died for all, that they which live should not henceforth live unto themselves”",
+          "reference": "2 Cor. 5:15"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">To save others, He must sacrifice Himself; to deliver others, He must surrender Himself. It must be the one or the other. He could not do both—save others and save Himself also.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">God has not called us to a life of ease and enjoyment, but to a life of self-renunciation, self-crucifixion, and entire devotion to His will and redemptive purposes. Let us beware of the false enthusiasm which professes to burn for God, but is indifferent to the claims of our brother-man. Let us seek to be filled with the Christ-in-us enthusiasm which burned in the heart of the great apostle of the Gentiles—the enthusiasm which compelled him to look upon himself as a debtor to all men, and which made him the mighty spiritual force that he was in his own day, that he is in our day, and that he will be to the end of time.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">The great need of the age is men, not rich men, not wise men, not learned men—we have them in abundance—but men of deep convictions, men who are conscious of the all-consuming power of the love of God, men with whom it is a passion to save men, men who are prepared to dare all things and endure all things in order to finish the work which they feel in their inmost soul that God has given them to do.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">May God make us men and women of this stamp, and may we live so that those who know us best may be able to say of each one of us when we have passed away, “He saved others; himself he could not save. She saved others; herself she could not save.”</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Griffith John"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "Earth’s truest heroes hold their lives but lightly,",
+              "indent": false
+            },
+            {
+              "text": "Ready to peril all for others’ gain,",
+              "indent": true
+            },
+            {
+              "text": "Thinking but little of the joy hereafter,",
+              "indent": false
+            },
+            {
+              "text": "Only absorbed in soothing this world’s pain.",
+              "indent": true
+            },
+            {
+              "text": "Labor as Christ, with nought of self behind you,",
+              "indent": false
+            },
+            {
+              "text": "He had no ’vantage from His death to win.",
+              "indent": true
+            },
+            {
+              "text": "Ruler of Heaven and earth through countless ages,",
+              "indent": false
+            },
+            {
+              "text": "Why came He, poor, unto a world of sin?",
+              "indent": true
+            },
+            {
+              "text": "Deep in each nature lies a note heroic;",
+              "indent": false
+            },
+            {
+              "text": "Though in the soul its music ne’er may wake,",
+              "indent": true
+            },
+            {
+              "text": "Longing to burst self’s trammels wide asunder,",
+              "indent": false
+            },
+            {
+              "text": "Hardship enduring for its own stern sake.",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—G. F. Browning"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "monthDay": "03-05",
+      "title": "Unanswered prayers",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“For this thing I besought the Lord thrice, that it might depart from me. And he said unto me, My grace is sufficient for thee; for my strength is made perfect in weakness”",
+          "reference": "2 Cor. 12: 8-9"
+        },
+        {
+          "type": "scripture",
+          "text": "“O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt”",
+          "reference": "Matt 26:39"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">He was a Christian, and he prayed. He asked for strength that he might do greater things, but he was given infirmity that he might do better things. He asked for riches that he might be happy; he was given poverty that he might be wise. He asked for power that he might have the praise of men; he was given weakness that he might feel the need of God. He asked for all things that he might enjoy life; he was given life that he might enjoy all things. He received nothing that he had asked for, yet all that he had hoped for. . . . His prayer is answered; he is indeed the most blessed of men. </p>"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "I thank Thee, Lord, for my unanswered prayers,",
+              "indent": false
+            },
+            {
+              "text": "Unanswered save Thy quiet, kindly “Nay”;",
+              "indent": true
+            },
+            {
+              "text": "Yet it seemed hard among my heavy cares—",
+              "indent": false
+            },
+            {
+              "text": "That bitter day.",
+              "indent": true
+            },
+            {
+              "text": "I wanted joy; but Thou didst know for me",
+              "indent": false
+            },
+            {
+              "text": "That sorrow was the gift I needed most,",
+              "indent": true
+            },
+            {
+              "text": "And in its mystic depths I learned to see",
+              "indent": false
+            },
+            {
+              "text": "The Holy Ghost.",
+              "indent": true
+            },
+            {
+              "text": "I wanted health; but Thou didst bid me sound",
+              "indent": false
+            },
+            {
+              "text": "The secret treasuries of pain,",
+              "indent": true
+            },
+            {
+              "text": "And in the moans and groans my heart oft found",
+              "indent": false
+            },
+            {
+              "text": "Thy Christ again.",
+              "indent": true
+            },
+            {
+              "text": "I wanted wealth; ’twas not the better part;",
+              "indent": false
+            },
+            {
+              "text": "There is a wealth with poverty oft given.",
+              "indent": true
+            },
+            {
+              "text": "And Thou didst teach me of the gold of heart—",
+              "indent": false
+            },
+            {
+              "text": "Best gift of Heaven.",
+              "indent": true
+            },
+            {
+              "text": "I thank Thee, Lord, for these unanswered prayers,",
+              "indent": false
+            },
+            {
+              "text": "And for Thy word, the quiet, kindly “Nay,”",
+              "indent": true
+            },
+            {
+              "text": "’Twas Thy withholding lightened all my cares",
+              "indent": false
+            },
+            {
+              "text": "That blessed day.",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. Oliver Huckel"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "monthDay": "03-06",
+      "title": "True service lives for ever",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“Thine alms are had in remembrance in the sight of God”",
+          "reference": "Acts 10:31"
+        },
+        {
+          "type": "scripture",
+          "text": "“This also that she hath done shall be spoken of for a memorial of her”(Mark 14:9)."
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">No work done for Christ perishes. No action that helps to mold the deathless mind of a saint of God is ever lost. Live for Christ in the world and you carry with you into eternity all the results of the world’s business that are worth the keeping. The river of life sweeps on, but the gold grains it held in solution are left behind deposited in the holy heart. “The world passeth away, and the lust thereof; but he that doeth the will of God abideth forever.”</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Worldly sharpness, acuteness, versatility, are not the qualities in request in the world to come. The honor, fame, respect, obsequious homage that attend worldly greatness up to the grave’s brink will not follow it one step beyond. If this be all that we have gained by the toil of our hand or the sweat of our brow, the hour is fast coming when we shall discover that we have labored in vain and spent our strength for naught.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">But while these pass, there are other things that remain. Not one unselfish thought, not one kind and gentle word, not one act of self-sacrificing love done for Jesus’ sake in the midst of a man’s common work, but will have left an indelible impress on the soul when he passes out to his eternal destiny.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">So live, then, that this may be the result of your labors. So live that your work may become a discipline for that glorious state in which work shall be worship, and labor shall be rest; where the worker shall never quit the temple, nor the worshiper the place of work, because there is “no temple therein; for the Lord God Almighty and the Lamb are the temple of it.”</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Caird"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> Consecration is not wrapping one’s self in a holy web in the sanctuary, and then coming forth after prayer and twilight meditation, and saying, “There, I am consecrated.” Consecration is going out into the world where God Almighty is, and using every power for His glory. It is taking all advantages as trust funds-as confidential debts owed to God. It is simply dedicating one’s life, in its whole flow, to God’s service.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Ward Beecher"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "monthDay": "03-07",
+      "title": "My all under God’s control",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“Yield yourselves unto God . . . and your members as instruments of righteousness unto God”",
+          "reference": "Rom. 6:13"
+        },
+        {
+          "type": "scripture",
+          "text": "“Yield yourselves unto the Lord”",
+          "reference": "2 Chron. 30:8"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> Consecration of ourselves to God is another of the duties we owe to ourselves. Every member of our body, every faculty of our mind, every moment of our time, every action of our life, appears full of importance and interest. This hand is the hand of a rational being, and ought therefore never to be used in a way unbecoming such a character. This tongue is the tongue of an accountable being, and ought therefore never to speak at random. This understanding belongs to an immortal being, and ought therefore to be used particularly in reference to subjects connected with eternity, and not to be exclusively, or principally employed about things of momentary importance. This heart is the heart of a sinner redeemed by the mercy of God. This body, this mind, this heart, have been solemnly consecrated to Christ, and I have therefore no right to use them for my own purposes, except when my interest is also the interest of the Savior.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Hunt"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "Lord, what have I that I may offer Thee?",
+              "indent": false
+            },
+            {
+              "text": "Look, Lord, I pray Thee, and see.",
+              "indent": false
+            },
+            {
+              "text": "What is it thou hast got?",
+              "indent": false
+            },
+            {
+              "text": "Nay, child, what is it thou hast not?",
+              "indent": false
+            },
+            {
+              "text": "Thou hast all gifts that I have given to thee:",
+              "indent": false
+            },
+            {
+              "text": "Offer them all to Me,",
+              "indent": false
+            },
+            {
+              "text": "The great ones and the small,",
+              "indent": false
+            },
+            {
+              "text": "I will accept them one and all.",
+              "indent": false
+            },
+            {
+              "text": "I have a will, good Lord, but it is marred;",
+              "indent": false
+            },
+            {
+              "text": "A heart both crushed and hard:",
+              "indent": false
+            },
+            {
+              "text": "Not such as these the gift",
+              "indent": false
+            },
+            {
+              "text": "Clean-handed lovely saints uplift.",
+              "indent": false
+            },
+            {
+              "text": "Nay, child, but wilt thou judge for Me?",
+              "indent": false
+            },
+            {
+              "text": "I crave not thine, but thee.",
+              "indent": false
+            },
+            {
+              "text": "Ah, Lord, Who lovest me!",
+              "indent": false
+            },
+            {
+              "text": "Such as I have now give I Thee.",
+              "indent": false
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Christina Rossetti"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "monthDay": "03-08",
+      "title": "Clear up misunderstandings now",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord”",
+          "reference": "Lev. 19:18"
+        },
+        {
+          "type": "scripture",
+          "text": "“For if ye forgive men their trespasses, your heavenly Father will also forgive you”",
+          "reference": "Matt. 6:14"
+        },
+        {
+          "type": "scripture",
+          "text": "“Say not thou, I will recompense evil: but wait on the Lord, and he shall save thee”",
+          "reference": "Prov. 20:22"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Oh, my dear friends, you who are letting miserable misunderstandings run on from year to year, meaning to clear them up some day; you who are keeping wretched quarrels alive because you cannot quite make up your mind that now is the day to sacrifice your pride and kill them; you who are passing men sullenly upon the street, not speaking to them out of some silly spite, and yet knowing that it would fill you with shame and remorse if you heard that one of those men were dead tomorrow morning; you who are letting your neighbor starve, till you hear that he is dying of starvation, or letting your friend’s heart ache for a word of appreciation or sympathy, which you mean to give him some day, if you only could know and see and feel, all of a sudden, that “time is short,” how it would break the spell! How you would go instantly and do the thing which you might never have another chance to do.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Phillips Brooks"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "Has my brother aught against me?",
+              "indent": false
+            },
+            {
+              "text": "Have I wronged him in the past?",
+              "indent": true
+            },
+            {
+              "text": "Have I harbored unkind memories?",
+              "indent": false
+            },
+            {
+              "text": "Have I false aspersions cast?",
+              "indent": true
+            },
+            {
+              "text": "Have I aught against my brother?",
+              "indent": false
+            },
+            {
+              "text": "False? Imaginary? True?",
+              "indent": true
+            },
+            {
+              "text": "Have I thought him cold and distant,",
+              "indent": false
+            },
+            {
+              "text": "Helped by Satan thus to view?",
+              "indent": true
+            },
+            {
+              "text": "Has some fancied hurt or slander",
+              "indent": false
+            },
+            {
+              "text": "Raised some form of injured pride?",
+              "indent": true
+            },
+            {
+              "text": "Then forgive me, O my brother,",
+              "indent": false
+            },
+            {
+              "text": "I’ll not stem revival’s tide.",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Wesleyan Methodist"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "monthDay": "03-09",
+      "title": "Praise brings victory",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name”",
+          "reference": "Heb. 13:15"
+        },
+        {
+          "type": "scripture",
+          "text": "“Thou shalt rejoice in every good thing which the Lord thy God hath given unto thee, and unto thine house”",
+          "reference": "Deut. 26:11"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">No one needs to be told that the surest method to obtain new favors from an earthly benefactor is to be thankful for those which he has already bestowed.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">I have somewhere met with an account of a Christian who was shipwrecked upon a desolate island while all his companions perished in the waves. In this situation he spent many days in fasting and prayer that God would open a way for his deliverance, but his prayers received no answer.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">At length, musing on the goodness of God in preserving him from the dangers of the sea, he resolved to spend a day in thanksgiving and praise for this and other favors. Before the conclusion of the day a vessel arrived, and it restored him in safety to his country and friends.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Another instance equally in point we find in the history of Solomon. At the dedication of the Temple many prayers were made and many sacrifices offered without any token of the divine acceptance. But when singers and players on instruments began to thank the Lord, saying, “He is good: for his mercy endureth for ever”—then the glory of the Lord descended and filled the Temple.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">The reason why praise and thanksgiving thus prevail with God is that they, above all other duties, glorify Him. “Whoso offereth praise,” says He, “glorifieth me.” And those who thus honor Him will be honored by Him in return.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Edward Payson"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "At the Name of Jesus",
+              "indent": false
+            },
+            {
+              "text": "Satan’s host doth flee;",
+              "indent": true
+            },
+            {
+              "text": "On then, Christian soldiers,",
+              "indent": false
+            },
+            {
+              "text": "On to victory!",
+              "indent": true
+            },
+            {
+              "text": "Hell’s foundations quiver",
+              "indent": false
+            },
+            {
+              "text": "At the shout of praise:",
+              "indent": true
+            },
+            {
+              "text": "Brothers, lift your voices,",
+              "indent": false
+            },
+            {
+              "text": "Loud your anthems raise!",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—S. Baring-Gould"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "monthDay": "03-10",
+      "title": "Do something about it",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“As there was a readiness to will, so there may be a performance also out of that which ye have”",
+          "reference": "2 Cor. 8:11"
+        },
+        {
+          "type": "scripture",
+          "text": "“Be strong, and do it”",
+          "reference": "1 Chron. 28:10"
+        },
+        {
+          "type": "scripture",
+          "text": "“Whatsoever he saith unto you, do it”",
+          "reference": "John 2:5"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">In the beginning God looked out over the universal waste. Hopeless outlook! The Spirit of God moved over the face of the waters—order evolved out of chaos. He did something about it.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">All was darkness—the deep, silent, echoless darkness of the eternities. God said, “Let there be light,” and there was light. He did something about it.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Every mile of human progress—whether in the realm of education, of science and invention, of the alleviation of suffering, of morals or of grace—has been hewn out, inch by inch, by people who set themselves to do something about it.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> Circumstances hedge you in. You feel yourself doomed to the life of defeat. It is not true. It is not true. Rise and call upon your God. The Name of Jesus Christ still casts its sacred spell.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">In His Name and for His sake, <i>do something about it.</i></p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Arrows"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "We shall do so much in the years to come,",
+              "indent": false
+            },
+            {
+              "text": "But what have we done today?",
+              "indent": true
+            },
+            {
+              "text": "We shall give our gold in a princely sum,",
+              "indent": false
+            },
+            {
+              "text": "But what did we give today?",
+              "indent": true
+            },
+            {
+              "text": "We shall lift the heart and dry the tear,",
+              "indent": false
+            },
+            {
+              "text": "We shall plant a hope in the place of fear,",
+              "indent": true
+            },
+            {
+              "text": "We shall speak the words of love and cheer,",
+              "indent": false
+            },
+            {
+              "text": "But what did we speak today?",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "-Unknown"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Piety cannot consist of specific acts only, such as prayer or ritual observances, but is bound up with all actions, concomitant with all doings, accompanying and shaping all life’s business. Man’s responsibility to God is the scaffold on which he stands as daily he goes on building life. His every deed, every incident of mind, takes place on this scaffold, so that unremittingly man is at work either building up or tearing down his life, his home, his hope of God.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Abraham Heschel"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "monthDay": "03-11",
+      "title": "How to read the Bible",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“How readest thou?”",
+          "reference": "Luke 10:26"
+        },
+        {
+          "type": "scripture",
+          "text": "“Blessed is he that readeth”",
+          "reference": "Rev. 1:3"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Each must judge for himself what best meets his need. Many holy men of God have found blessing and food for their souls, and power for life and service, as they have read right through the Scriptures within a short period. Others again have stilled their hunger by giving themselves to prolonged, deep meditation of shorter passages in the Word. From personal experience I am convinced that thorough reading and assimilation of the Word of God is of infinitely greater value than a superficial picking here and there, or a haphazard turning up of single verses. Genuine hard work at conquering difficult passages always brings its reward in fruit and blessing. The one great essential is always that we should, whenever possible, find some practical expression in our lives for that which we have read, so that we become doers of the Word, and not hearers (or speakers) only. The Scripture revelation of the will of God must be the plumb-line of our actions, and the guiding star of our lives. Every question, great or small, must be settled in the light of the Word of God, and every circumstance of our lives find its interpretation there.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sister Eva"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "I supposed I knew my Bible,",
+              "indent": false
+            },
+            {
+              "text": "Reading piecemeal, hit and miss,",
+              "indent": true
+            },
+            {
+              "text": "Now a bit of John, or Matthew,",
+              "indent": false
+            },
+            {
+              "text": "Now a snatch of Genesis. . . .",
+              "indent": true
+            },
+            {
+              "text": "But I found that thorough reading",
+              "indent": false
+            },
+            {
+              "text": "Was a different thing to do,",
+              "indent": true
+            },
+            {
+              "text": "And the way was unfamiliar",
+              "indent": false
+            },
+            {
+              "text": "When I read the Bible through.",
+              "indent": true
+            },
+            {
+              "text": "We who like to scan the Bible,",
+              "indent": false
+            },
+            {
+              "text": "Dip and dabble here and there,",
+              "indent": true
+            },
+            {
+              "text": "Just before we kneel a-weary,",
+              "indent": false
+            },
+            {
+              "text": "And yawn through a hurried prayer. . .",
+              "indent": true
+            },
+            {
+              "text": "Try a worthier procedure,",
+              "indent": false
+            },
+            {
+              "text": "Try a broad and steady view;",
+              "indent": true
+            },
+            {
+              "text": "We will kneel in very rapture,",
+              "indent": false
+            },
+            {
+              "text": "When we read the Bible through!",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Amos R. Wells"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "monthDay": "03-12",
+      "title": "Christ’s letter to the world",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“Ye are our epistle . . . known and read of all men”",
+          "reference": "2 Cor. 3:2"
+        },
+        {
+          "type": "scripture",
+          "text": "“Ye are manifestly declared to be the epistle of Christ”",
+          "reference": "2 Cor. 3:3"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">The great object for which Jesus Christ came into this world, and for which His Gospel is preached, is to form godly character. Christlieb was right when he said that the “living Christian is the world’s Bible,” and there are millions in our land who seldom look at any other. We whose business it is to preach Christianity, must also remember that people look at us when outside of our pulpits to discover exactly what we mean when we are in our pulpits. If our conduct before the community contradicts the utterances on God’s day in God’s house, then the most eloquent tongue becomes a tinkling cymbal.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">A certain parishioner once remarked, “My pastor’s discourses are not brilliant, but his daily life is a sermon all the week.” Paul stood behind all his inspired writings; the “living epistle” moves us as deeply as any words he ever sent to Rome or to Corinth.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "I am my neighbor’s Bible;",
+              "indent": false
+            },
+            {
+              "text": "He reads me when we meet;",
+              "indent": true
+            },
+            {
+              "text": "Today he reads me in my home;",
+              "indent": false
+            },
+            {
+              "text": "Tomorrow in the street.",
+              "indent": true
+            },
+            {
+              "text": "He may be relative or friend,",
+              "indent": false
+            },
+            {
+              "text": "Or slight acquaintance be;",
+              "indent": true
+            },
+            {
+              "text": "He may not even know my name;",
+              "indent": false
+            },
+            {
+              "text": "Yet he is reading me.",
+              "indent": true
+            },
+            {
+              "text": "Dear Christian friends and brothers,",
+              "indent": false
+            },
+            {
+              "text": "If you could only know",
+              "indent": true
+            },
+            {
+              "text": "How faithfully the world records just",
+              "indent": false
+            },
+            {
+              "text": "What we say and do,",
+              "indent": true
+            },
+            {
+              "text": "Oh, we would make our record plain,",
+              "indent": false
+            },
+            {
+              "text": "And labor hard to see",
+              "indent": true
+            },
+            {
+              "text": "Our worldly neighbors won to Christ,",
+              "indent": false
+            },
+            {
+              "text": "While reading you and me.",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "monthDay": "03-13",
+      "title": "The meek assured of God’s guidance",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“The meek will he guide in judgment: and the meek will he teach his way”",
+          "reference": "Psa. 25:9"
+        },
+        {
+          "type": "scripture",
+          "text": "“So the Lord alone did lead him, and there was no strange god with him”",
+          "reference": "Deut. 32:12"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> “How shall I know the voice of God?” comes to us as an almost complaining question. “I think that I am led of God sometimes, but the thing I undertake ends in disaster; my own soul is not satisfied, and others are not helped. I am bound to believe that I was mistaken and that it was some other voice than His which called me in that direction.” Get where God wants you to be in your own soul, then your ears will be unstopped to distinguish His voice from others.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Elizabeth S. Brengle"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">He who has a rectified musical ear knows whether the sound he hears be true harmony; he does not need first to be at the trouble of the reasonings of a mathematician about the proportion of the notes. He that has a rectified palate knows what is good food as soon as he tastes it, without the reasoning of a physician. When a holy action is suggested to a holy soul, that soul at once sees a beauty in it and closes with it. On the contrary, if an unholy action be suggested to it, its sanctified taste nauseates it. Thus a holy person is led by the Spirit.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Jonathan Edwards"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">I never remember, in all my Christian course, a period now of sixty-nine years and four months, that I ever sincerely and patiently sought to know the will of God by the teaching of the Holy Ghost, through the instrumentality of the Word of God, but I have ALWAYS been directed rightly. But if honesty of heart and uprightness before God were lacking, or if I did not patiently wait upon God for instruction, or if I preferred the counsel of my fellowmen to the declarations of the Word of the living God, I made great mistakes.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Müller"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "monthDay": "03-14",
+      "title": "Choice gifts in plain coverings",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“Judge not according to the appearance”",
+          "reference": "John 7:24"
+        },
+        {
+          "type": "scripture",
+          "text": "“Do ye look on things after the outward appearance?”",
+          "reference": "2 Cor. 10:7"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "But all God’s angels come to us disguised;",
+              "indent": false
+            },
+            {
+              "text": "Sorrow and sickness, poverty and death,",
+              "indent": false
+            },
+            {
+              "text": "One after other lift their frowning masks,",
+              "indent": false
+            },
+            {
+              "text": "And we behold the seraph’s face beneath,",
+              "indent": false
+            },
+            {
+              "text": "All radiant with the glory and the calm,",
+              "indent": false
+            },
+            {
+              "text": "Of having looked upon the front of God.",
+              "indent": false
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—J. R. Lowell"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Life is so generous a giver, but we, judging its gifts by their coverings, cast them away as ugly or heavy or hard. Remove the covering and you will find beneath it a living splendor, woven of love, by wisdom, with power. Welcome it! Grasp it, and you touch the angel’s hand that brings it to you!</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> Everything we call a trial, a sorrow, or a duty, believe me, that angel’s hand is there, the gift is there, and the wonder of an overshadowing presence. Our joys too: be not content with them as joys. They, too, conceal diviner gifts. Life is so full of meaning and purpose, so full of beauty beneath its covering that you will find earth but cloaks your heaven. Courage then to claim it: that is all! But courage you have, and the knowledge that we are pilgrims together, wending through an unknown country our way home.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Fra Giovanni"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "Joy dwells not in external things,",
+              "indent": false
+            },
+            {
+              "text": "It hath an inner birth;",
+              "indent": true
+            },
+            {
+              "text": "The sweetest bird in darkness sings,",
+              "indent": false
+            },
+            {
+              "text": "And fairest flowers oft nurture stings—",
+              "indent": false
+            },
+            {
+              "text": "Such is our life on earth.",
+              "indent": true
+            },
+            {
+              "text": "Then measure not by outward show",
+              "indent": false
+            },
+            {
+              "text": "The depth of real joy;",
+              "indent": true
+            },
+            {
+              "text": "The heart can o’er the darkest woe",
+              "indent": false
+            },
+            {
+              "text": "A stream of sunlight softly throw,",
+              "indent": false
+            },
+            {
+              "text": "Or purest bliss destroy.",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—W. J. Brock"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "monthDay": "03-15",
+      "title": "Radiance through prayer",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone”",
+          "reference": "Exod. 34:30"
+        },
+        {
+          "type": "scripture",
+          "text": "“And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the Scriptures?”",
+          "reference": "Luke 24:32"
+        },
+        {
+          "type": "scripture",
+          "text": "“My heart was hot within me, while I was musing the fire burned: then spake I with my tongue”",
+          "reference": "Psa. 39:3"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Observe but the man who is much in Heaven, and you observe he is not like others; there is something of that which he hath seen above appeareth in all his duty and conversation. Nay, take but the same man, immediately when he is returned from these views of bliss, and you perceive he excels himself. If you would set on this employment, even so would it be with you. Men would see your face shine, and say, “Surely he hath been with God.”</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Richard Baxter"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">John G. Paton, the well-known missionary, had sacred childhood memories of a father who really prayed. He describes it thus:</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> “Our home consisted of a ‘but’ and a ‘ben,’ and a mid-room, or chamber, called the ‘closet’. . . . The closet was a very small apartment betwixt the other two, having room only for a bed, a little table, and a chair, with a diminutive window shedding a diminutive light on the scene. This was the sanctuary of that cottage home. Thither daily, and oftentimes a day, generally after each meal, we saw our father retire, and ‘shut to the door’; and we children got to understand, by a sort of spiritual instinct (for the thing was too sacred to be talked about), that prayers were being poured out there for us, as of old by the High Priest within the veil in the Most Holy Place. We occasionally heard the pathetic echoes of a trembling voice, pleading as for life, and we learned to slip out and in past that door on tiptoe, not to disturb the holy colloquy.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> “The outside world might not know, but we knew, whence came that happy light, as of a newborn smile, that always was dawning on my father’s face. It was a reflection from the Divine Presence, in the consciousness of which he lived. Never, in temple or cathedral, in mountain or in glen, can I hope to feel that the Lord God is more near, more visibly walking and talking with men, than under that humble cottage roof of thatch and oaken wattles.” </p>"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "monthDay": "03-16",
+      "title": "Independent of circumstances",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“I have learned, in whatsoever state I am, therewith to be content. I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need”",
+          "reference": "Phil. 4:11-12"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">The other word is in Way’s translation of Phil. 4:11, where he says, “I have learned in all things to be independent of circumstances.” The last clause struck me forcibly. God can bring us on and on to that place where we are independent of circumstances—they will neither change us nor cause us to fret, nor will we be unduly elated when they are good, nor downcast when they are bad—these are the very days to try this thing out. Let us ask Him to make us just that— “independent of circumstances,” because so dependent on Him.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Harrison"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "When winds are raging o’er the upper ocean,",
+              "indent": false
+            },
+            {
+              "text": "And billows wild contend with angry roar,",
+              "indent": true
+            },
+            {
+              "text": "’Tis said, far down beneath the wild commotion,",
+              "indent": false
+            },
+            {
+              "text": "That peaceful stillness reigneth evermore.",
+              "indent": true
+            },
+            {
+              "text": "Far, far beneath, the noise of tempest dieth,",
+              "indent": false
+            },
+            {
+              "text": "And silver waves chime ever peacefully;",
+              "indent": true
+            },
+            {
+              "text": "And no rude storm, how fierce soe’er he flieth,",
+              "indent": false
+            },
+            {
+              "text": "Disturbs the Sabbath of that deeper sea.",
+              "indent": true
+            },
+            {
+              "text": "So, to the soul that knows Thy love, O Purest,",
+              "indent": false
+            },
+            {
+              "text": "There is a temple peaceful evermore,",
+              "indent": true
+            },
+            {
+              "text": "And all the babble of life’s angry voices",
+              "indent": false
+            },
+            {
+              "text": "Dies hushed in stillness at its sacred door.",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Harriet Beecher Stowe"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Peace does not dwell in outward things, but within the soul. We may preserve it in the midst of the bitterest pain, if our will remains firm and submissive. Peace in this life springs from acquiescence even in disagreeable things, not in an exemption from bearing them.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Fénelon"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "monthDay": "03-17",
+      "title": "Choose the best",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“Mary hath chosen that good part”",
+          "reference": "Luke 10:42"
+        },
+        {
+          "type": "scripture",
+          "text": "“Covet earnestly the best gifts: and yet shew I unto you a more excellent way”",
+          "reference": "1 Cor. 12:31"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">It is not always a defect to mind one thing at a time. And an aptness so to do, to employ the whole vigor of the mind on the thing in hand, may answer excellent purposes. Only you have need to be exceeding wary, lest the thing you pursue be wrong. First, be well assured not only that it is good, but that it is the best thing for you at that time, and then, whatsoever your hand findeth to do, do it with your might.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "God has His best things for the few",
+              "indent": false
+            },
+            {
+              "text": "That dare to stand the test;",
+              "indent": true
+            },
+            {
+              "text": "God has His second choice for those",
+              "indent": false
+            },
+            {
+              "text": "Who will not have His best.",
+              "indent": true
+            },
+            {
+              "text": "It is not always open ill",
+              "indent": false
+            },
+            {
+              "text": "That risks the Promised Rest;",
+              "indent": true
+            },
+            {
+              "text": "The better, often, is the foe",
+              "indent": false
+            },
+            {
+              "text": "That keeps us from the best. . . .",
+              "indent": true
+            },
+            {
+              "text": "Give me, O Lord, Thy highest choice;",
+              "indent": false
+            },
+            {
+              "text": "Let others take the rest;",
+              "indent": true
+            },
+            {
+              "text": "Their good things have no charm for me,",
+              "indent": false
+            },
+            {
+              "text": "For I have got THY best.",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—A. B. Simpson"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Life is so short and time so fleeting that much which one would wish to do must fain be omitted. He is fortunate who perceives at a glance what it will do, and what it will not do, to omit. This invaluable faculty, if not possessed in a remarkable degree naturally, is susceptible of cultivation to a considerable extent. Let any one adopt the practice of reflecting, every morning, what must necessarily be done during the day, and then begin by doing the most important things first, leaving the others to take their chance of being done or left undone. In this way attention first to the things of first importance soon acquires the almost irresistible force of habit, and becomes a rule of life. There is no rule more indispensable to success.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Character and Conduct"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "monthDay": "03-18",
+      "title": "Watch against temptation",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“Blessed are those servants, whom the lord when he cometh shall find watching”",
+          "reference": "Luke 12:37"
+        },
+        {
+          "type": "scripture",
+          "text": "“Watch and pray, that ye enter not into temptation”",
+          "reference": "Matt. 26:41"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> Temptations, however, owe much of their peril and of their power to the fact that they commonly spring upon us unawares. Satan is no more likely to advertise the time and method of his assaults in advance than a burglar is to send us word that he will be trying the bolts of our front door at one o’clock tomorrow morning. “I say unto you all, Watch,” is the command of our Master.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> Opportunity knocks but once only, but temptation bangs on the door repeatedly.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Kate Lee was one of the Salvation Army’s best jewels. She gave up everything to become a soul-winner and earned by her sacrificing, loving care for others the name of Angel Adjutant. She says this about her severe temptations:</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> “I have found the need of great watchfulness, and have needed much prayer to keep my soul in touch with God and on fire for precious souls. Although I was sanctified and no longer under the power of sin, yet in his subtlety the devil has come again and again and striven to bring me down. Sometimes he has come as an angel of light, so that I have been led to the very verge of sin, tempted to indulge in what seemed at the moment harmless, perhaps because others who professed as much as I did, indulged in it too. Tempted to shrink from the sacrifice that a separated life must mean, tempted to give way to the flesh, one’s natural desires and inclinations, I have even allowed the devil to take me to the edge of a great spiritual precipice, but God, in His mercy, has flashed His wonderful light upon my pathway in time to show me where I was, and what would be the outcome if I yielded to the temptation. Oh, how it caused me to pray and seek strength which enabled me to overcome!” </p>"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "monthDay": "03-19",
+      "title": "Life blood for lasting results",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“How am I straitened (pained) till it be accomplished”",
+          "reference": "Luke 12:50"
+        },
+        {
+          "type": "scripture",
+          "text": "“He shall see of the travail of his soul and shall be satisfied”",
+          "reference": "Isa. 53:11"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Service without sacrifice secures no results, no achievement, no victory that is worth the name. If we would keep our life we shall lose it, but if we empty it out in loving service we shall make it a lasting blessing to the world. No high thing can be done easily or without cost. To be consumed in God’s work as “a living sacrifice” means burning up and burning out; the candle will grow shorter and the battery weaker. That is a true symbol of the consecrated life, which is inscribed on the tomb of Dr. Adam Clarke—a burning candle, with the superscription, “I give light by being myself consumed.” We give light by giving up our lives to Him Who loved us. We are consumed by the zeal of His house while we carry light and salvation to those for whom He died.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">A woman leaving church heavily burdened over the condition of slavery, put up a silent prayer to God to help her in a humble but effective way to smite a blow for the freedom of the slaves. Her answer came through an inspiration to write the book, <i>Uncle Tom’s Cabin</i>, and being a wife and mother, she set out to write it under great difficulties. This is what it cost her: “I suffered exquisitely in writing <i>Uncle Tom’s Cabin</i>,” she tells us. “It may be truly said that I wrote it with my heart’s blood. Many times in writing I thought my health would fail utterly, but I prayed earnestly that God would help me through.” Is it any wonder that her book is still widely read?</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Again, how many of us have not been greatly helped through the reading of Hudson Taylor’s life by Mrs. Howard Taylor? Her writings are still blessing many although the author has gone on. Why? She tells us the secret: “How well I understand your feeling about the difference it makes HOW a life is written. This one, good as it is (a biography we had just read), seems to me to stop short of the mark, short of really reproducing in some degree the spiritual power of the life itself. It is one thing to tell about it, is it not, and another to make it, in some sense, live again? That is what I long for so much in your dear father’s life: that it may live again! But that is what it costs. It counts, it is the one thing that counts. But no one knows, except the Lord Himself, all that it costs. And that is what takes TIME, as well as lifeblood. It cannot be done to order. One has to live—not merely think and write. I live in this book and for it in a way no words can tell.”</p>"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "monthDay": "03-20",
+      "title": "Christ our environment",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“The Lord is round about his people”",
+          "reference": "Psa. 125:2"
+        },
+        {
+          "type": "scripture",
+          "text": "“For in him we live, and move, and have our being”",
+          "reference": "Acts 17:28"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">That is the same thing as to say, “The Lord is the environment of His people”; to “be round about” is just to environ. Now the environment is a very important thing. There is nothing so sad as to be unsuited to one’s environment. When you take a fish out of water it dies. Why? Because the water is its environment. When you keep a bird from the open air, it pines. Why? Because the open air is its environment. When you debar man from God, he both pines and dies. Why? Because God is his environment. Man is the only creature in this world that does not know what is good for him—does not know his own environment. The fish darts from the hook that would draw it out of the water. The bird tries to escape from the snare of the fowler. But man is very easily led away from his water of life, from his native air. He quits the real water for a painted imitation of it, the real air for a bit of colored space. Therefore he is of all creatures the most miserable.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Matheson"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "As the bridegroom to his chosen,",
+              "indent": false
+            },
+            {
+              "text": "As the king unto his realm,",
+              "indent": true
+            },
+            {
+              "text": "As the keep unto the castle,",
+              "indent": false
+            },
+            {
+              "text": "As the pilot to the helm,",
+              "indent": true
+            },
+            {
+              "text": "So, Lord, art Thou to me.",
+              "indent": true
+            },
+            {
+              "text": "As the fountain in the garden,",
+              "indent": false
+            },
+            {
+              "text": "As the candle in the dark,",
+              "indent": true
+            },
+            {
+              "text": "As the treasure in the coffer,",
+              "indent": false
+            },
+            {
+              "text": "As the manna in the ark,",
+              "indent": true
+            },
+            {
+              "text": "So, Lord, art Thou to me. . . .",
+              "indent": true
+            },
+            {
+              "text": "As the ruby in the setting,",
+              "indent": false
+            },
+            {
+              "text": "As the honey in the comb,",
+              "indent": true
+            },
+            {
+              "text": "As the light within the lantern,",
+              "indent": false
+            },
+            {
+              "text": "As the father in the home,",
+              "indent": true
+            },
+            {
+              "text": "So, Lord, art Thou to me.",
+              "indent": true
+            },
+            {
+              "text": "As the sunshine to the heavens,",
+              "indent": false
+            },
+            {
+              "text": "As the image to the glass,",
+              "indent": true
+            },
+            {
+              "text": "As the fruit unto the fig-tree,",
+              "indent": false
+            },
+            {
+              "text": "As the dew unto the grass,",
+              "indent": true
+            },
+            {
+              "text": "So, Lord, art Thou to me.",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—J. Tauler"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "monthDay": "03-21",
+      "title": "Christ’s love expels evil",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“Perfect love casteth out fear”",
+          "reference": "1 John 4:18"
+        },
+        {
+          "type": "scripture",
+          "text": "“If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him”",
+          "reference": "John 14:23"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">It is quite idle, by force of will, to seek to empty the angry passions out of our life. Who has not made a thousand resolutions in this direction, only and with unutterable mortification to behold them dashed to pieces with the first temptation? The soul is to be made sweet not by taking the acidulous fluids out, but the putting something in—a great love, God’s great love. This is to work a chemical change in them, to renovate and regenerate them, to dissolve them in its own rich fragrant substance. If a man let this into his life, his cure is complete; if not, it is hopeless.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Drummond"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">R. L. Stevenson tells a story of a young man traveling in Spain, and in a lonely part, finding lodgment in an old castle. In the room he occupied there hung on the wall the picture of a beautiful but sensuous woman. Gradually the woman’s face inflamed his imagination, it became an obsession which he could not shake off. Even in sleep the face haunted him, awaking within him evil thoughts and poisoning his heart and mind. Vainly he struggled against it, but without success; the image pursued him wherever he went. In this castle in which he lived he had only met the señor and his wife, both of noble origin but poor. One day, passing up the staircase, he met face to face their daughter, of whose existence even he was ignorant. Young and beautiful, their eyes met, and in that momentary glance, love, fresh and pure, awoke in his heart. Filled with its strange glow and amazement, he entered his room and looked up at the picture. Then he found its spell was gone. Instead of holding him he felt hatred and shame. The pure affection had done what no mental struggle could do.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Such is the expulsive power of a pure affection. Victory over sin is not gained by self-effort, but by opening the heart to the love of Christ. His love rushing in sweeps all foul affections out, and raises the whole being into the heights of peace and victory.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—James Burns"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "monthDay": "03-22",
+      "title": "All for Christ",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am”",
+          "reference": "Acts 26:29"
+        },
+        {
+          "type": "scripture",
+          "text": "“That God may be all in all”",
+          "reference": "1 Cor. 15:28"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">All our teaching about consecration will be in vain, unless it come to that—God must be <i>all.</i> What is the meaning of our talk about giving ourselves as a living sacrifice? It cannot be, unless it is actually true that in our life God is <i>all</i>. What is the reason of so much complaint of feebleness, of failure, of lost blessing, of walking in the dark? It is nothing but this: God does not get His place amongst us.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Andrew Murray"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">The most of the difficulties of trying to live the Christian life arise from attempting to half live it.<i>-Henry Drummond.</i></p>"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "My whole though broken heart, O Lord,",
+              "indent": false
+            },
+            {
+              "text": "From henceforth shall be Thine;",
+              "indent": true
+            },
+            {
+              "text": "And here I do my vow record—",
+              "indent": false
+            },
+            {
+              "text": "This hand, these words, are mine;",
+              "indent": true
+            },
+            {
+              "text": "All that I have, without reserve,",
+              "indent": false
+            },
+            {
+              "text": "I offer here to Thee;",
+              "indent": true
+            },
+            {
+              "text": "Thy will and honor all shall serve",
+              "indent": false
+            },
+            {
+              "text": "That Thou bestow’st on me.",
+              "indent": true
+            },
+            {
+              "text": "All that exceptions save I lose;",
+              "indent": false
+            },
+            {
+              "text": "All that I lose I save;",
+              "indent": true
+            },
+            {
+              "text": "The treasures of Thy love I choose,",
+              "indent": false
+            },
+            {
+              "text": "And Thou art all I crave.",
+              "indent": true
+            },
+            {
+              "text": "My God, Thou hast my heart and hand;",
+              "indent": false
+            },
+            {
+              "text": "I all to Thee resign;",
+              "indent": true
+            },
+            {
+              "text": "I’ll ever to this covenant stand,",
+              "indent": false
+            },
+            {
+              "text": "Though flesh hereat repine.",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Richard Baxter"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">I gave up all for Christ, and what have I found? I have found everything in Christ!</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Calvin"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "monthDay": "03-23",
+      "title": "To action in life’s eventide",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest”",
+          "reference": "Isa. 62:1"
+        },
+        {
+          "type": "scripture",
+          "text": "“We his servants will arise and build”",
+          "reference": "Neh. 2:20"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">C. T. Studd was a man of action and not of words. At fifty years of age, already having served in China and India as a missionary, he went out to an unevangelized part of Africa. Doctors predicted an early death, and loved ones opposed his going, but a divine purpose burned within him. God kept him going in Africa for twenty years, though his body was called a museum of tropical diseases. He died in action. Studd says:</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> “Too long have we been waiting for one another to begin! The time for waiting is past! The hour of God has struck! War is declared! In God’s Holy Name let us arise and build! ‘The God of Heaven, He will fight for us,’ as we for Him. We will not build on the sand, but on the bedrock of the sayings of Christ, and the gates and minions of hell shall not prevail against us. Should such men as we fear? Before the whole world, aye, before the sleepy, lukewarm, faithless, namby-pamby Christian world, we will dare to trust our God. We will venture our all for Him, we will live, and we will die for Him, and we will do it with His joy unspeakable singing aloud in our hearts. We will a thousand times sooner die trusting only in our God, than live trusting in man. And when we come to this position the battle is already won, and the end of the glorious campaign in sight. We will have the real Holiness of God, not the sickly stuff of talk and dainty words and pretty thoughts; we will have a masculine Holiness, one of daring faith and works for Jesus Christ.”</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p> The sunset burns across the sky</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p> Upon the air its warning cry;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p> The curfew tolls from tower to tower,</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p> “Our children, ’tis the last, last hour.”</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p> The works that past years might have done</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p> Must crowd the hours of setting sun;</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p> And through all lands Christ’s saving Name</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p> We must in fervent haste proclaim!</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "monthDay": "03-24",
+      "title": "Ministry of meditation",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“O how I love thy law! It is my meditation all the day”",
+          "reference": "Psa. 119:97"
+        },
+        {
+          "type": "scripture",
+          "text": "“Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all”",
+          "reference": "1 Tim. 4:15"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">We are to employ the ministry of meditation. I care not how unpractical the counsel may seem in this busy, hurrying, breathless day. If we men and women are ever to attain unto life and make progress in its way we have got to find time to go to school and learn. I think one of the cant phrases of our day is the familiar one by which we express our permanent want of time. We repeat it so often that by the very repetition we have deceived ourselves into believing it. It is never the supremely busy men who have got no time. So compact and systematic is the regulation of their day, that, whenever you make a demand upon them, they seem to be able to find additional corners to offer for unselfish service.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">I find that when I have comparatively little to pack into my traveling-bag it seems as full as when I have much. The less we have to pack the more carelessly we pack it, and the traveling-bag appears to be full. There is many a man who says he has no time, who proclaims his day to be full, but the fullness is the result of careless packing. I confess, as a minister, that the men to whom I most hopefully look for additional service are the busiest men. They are always willing to squeeze another item into their bulging traveling-bag.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">But even though our plea were legitimate, if our time were crowded, if the traveling-bag were packed, if we cannot find a corner of the day for meditation in the school of Christ, then we must take something out and make room for it.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">I think if we search our bags we shall find many and many a rag which takes up space, but which is of very little worth, and which might very safely be banished. But if even all the contents were valuables, even assuming that they were pearls, the Master has declared that the secret of progressive living is to sacrifice the pearl of inferior value for the pearl of transcendent worth. Even assuming that the newspaper is not a rag, but a jewel, I do not think it wise to cram so many into one bag that there is no room for the book of Revelation, the title-deeds of “the house not made with hands, eternal in the heavens.” No, if we mean truly to “live,” we have got to find time for the highest of all exercises, meditation upon the eternal things of God.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J. H. Jowett"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "monthDay": "03-25",
+      "title": "The duty of plain speaking",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“Seeing then that we have such hope, we use great plainness of speech”",
+          "reference": "2 Cor. 3:12"
+        },
+        {
+          "type": "scripture",
+          "text": "“The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What is the chaff to the wheat? saith the Lord”",
+          "reference": "Jer. 23:28"
+        },
+        {
+          "type": "scripture",
+          "text": "“Great is my boldness of speech”",
+          "reference": "2 Cor. 7:4"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Luther and Knox and Wesley and Fletcher, and many others who have arrested the attention of their fellows, have been charged with bitterness of spirit and harshness of utterance. Had they contented themselves with honeyed words lisped in monotone, or an occasional refrain about the sweet by and by in a minor key, they would have not succeeded. Their hearts were on fire, and the words which flowed from their lips and pens were red hot also. Why, the things that Luther said were far stronger than anything you will hear or read today.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Shall we who live in these last days speak less plainly? Shall we whom God has called to so glorious a work be less explicit? God forbid. If the love of God is shed abroad in our hearts it will be pure and tender; it will also be true and terrible. Love utters strong words and strikes strong blows to save souls, to rescue the perishing, to glorify God. So let us one and all be kind and loving, but desperately earnest in carrying out the life-work God has given us. Time is short. Eternity will be long. We have no time to lose.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Reader Harris"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "Heirs of the truth they held of old,",
+              "indent": false
+            },
+            {
+              "text": "The truth for which men were martyrs;",
+              "indent": true
+            },
+            {
+              "text": "We lack the love that made them bold,",
+              "indent": false
+            },
+            {
+              "text": "Stronger than fires and waters.",
+              "indent": true
+            },
+            {
+              "text": "Brave hearts we lack, that yearn and long,",
+              "indent": false
+            },
+            {
+              "text": "Touched with diviner feeling;",
+              "indent": true
+            },
+            {
+              "text": "The simple faith that made weak men strong,",
+              "indent": false
+            },
+            {
+              "text": "True to their work and willing.",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Hogg"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> Certainly it is possible to reconcile meekness, yea, and kindness, with the utmost plainness of speech. But this will infallibly be termed bitterness by those who do not receive it in love. Their returning us hatred for goodwill is the cross we are called to bear.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "monthDay": "03-26",
+      "title": "Christ is able",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“Thou shalt call his name JESUS: for he shall save his people from their sins”",
+          "reference": "Matt. 1: 21"
+        },
+        {
+          "type": "scripture",
+          "text": "“He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings”",
+          "reference": "Psa. 40:2"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">A converted Chinaman once said, “I was down in a deep pit, half sunk in the mire, crying for someone to help me out. As I looked up I saw a venerable gray-haired man looking down at me.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> ‘My son,’ he said, ‘this is a dreadful place.’</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> ‘Yes,’ I answered, ‘I fell into it; can’t you help me out?’</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> ‘My son,’ was his reply, ‘I am Confucius. If you had read my books and followed what they taught, you never would have been here.’</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> ‘Yes, Father,’ I said, ‘but can’t you help me out?’</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> ‘As I looked he was gone.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> ‘Soon I saw another form approaching, and another man bent over me, this time with closed eyes and folded arms. He seemed to be looking to some far-off place.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> ‘My son,’ Buddha said, ‘just close your eyes and fold your arms, and forget all about yourself. Get into a state of rest. Don’t think about anything that can disturb. Get so still that nothing can move you. Then, my child, you will be in such a delicious rest as I am.”</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> ‘Yes, Father,’ I answered, ‘I will when I am above ground. Can’t you help me out?’ But Buddha, too, was gone.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> ‘I was just beginning to sink into despair when I saw another Figure above me, different from the others. There were marks of suffering on His face. I cried out to Him, ‘O Father, can You help me?’</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> ‘My child,’ He said, ‘what is the matter?’</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"> ‘Before I could answer Him, He was down in the mire by my side. He folded His arms about me and lifted me up; then He fed me and rested me. When I was well He did not say, ‘Now, don’t do that again,’ but He said, ‘We will walk on together now.’ And we have been walking together until this day.”</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">This was a poor Chinaman’s way of telling of the compassionate love and help of the Lord Jesus.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—D. L. Moody"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "monthDay": "03-27",
+      "title": "One day at a time",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“The day is thine”",
+          "reference": "Psa. 74:16"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">One secret of a sweet and happy Christian life is learning to live by the day. It is the long stretches that tire us. We think of life as a whole, running on for us. We cannot carry this load until we are threescore and ten. We cannot fight this battle continually for half a century. But really there are no long stretches. Life does not come to us all at one time; it comes only a day at a time. Even tomorrow is not ours till it becomes today, and we have nothing whatever to do with it but pass down to it as a fair and good inheritance today’s work well done and today’s life well lived.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">It is a blessed secret, this of living by the day. Anyone can carry his burden, however heavy, till nightfall. Anyone can do his work, however hard, for one day. Anyone can live sweetly, patiently, lovingly, and purely till the sun goes down. And this is all that life means to us—just one little day. “Do today’s duty; fight today’s temptation, and do not weaken and distract yourself by looking forward to things you cannot see and could not understand if you saw them.” God gives us nights to shut down the curtain of darkness on our little days. We cannot see beyond. Short horizons make life easier and give us one of the blessed secrets of brave, true and holy living.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">I saw that I could no more believe for the future than I could breathe for the future, and perceived that I must be contented to live by the moment and rely upon God to sustain me in spiritual existence just as confidently as for sustainment in natural existence.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Phoebe Palmer"
+        },
+        {
+          "type": "scripture",
+          "text": "“The just shall live by faith”",
+          "reference": "Heb. 10:38"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "One day at a time, with its failures and fears,",
+              "indent": false
+            },
+            {
+              "text": "With its hurts and mistakes, with its weakness and tears,",
+              "indent": false
+            },
+            {
+              "text": "With its portion of pain and its burden of care;",
+              "indent": false
+            },
+            {
+              "text": "One day at a time we must meet and must bear.",
+              "indent": false
+            },
+            {
+              "text": "One day at a time, and the day is His day;",
+              "indent": false
+            },
+            {
+              "text": "He hath numbered its hours, though they haste or delay.",
+              "indent": false
+            },
+            {
+              "text": "His grace is sufficient . . . we walk not alone!",
+              "indent": false
+            },
+            {
+              "text": "As the day, so the strength that He giveth His own.",
+              "indent": false
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Annie Johnson Flint"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "monthDay": "03-28",
+      "title": "Pain reveals our nothingness",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“It is good for me that I have been afflicted”",
+          "reference": "Psa. 119:71"
+        },
+        {
+          "type": "scripture",
+          "text": "“I have chosen thee in the furnace of affliction”",
+          "reference": "Isa. 48:10"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">In casting up the incidental blessings of the year, I found none to compare to my illness; it gave such a life, such a reality and nearness, to my prospect of futurity; it told me in language so conclusive and intelligible, that here is no abiding city.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sir Thomas F. Buxton"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\"><i>Pain teaches us our nothingness.</i> Health permits us to swell in self-esteem and gather much which is unreal; sickness makes our feebleness conspicuous, and at the same time breaks up many of our shams. We need solid grace when we are thrown into the furnace of affliction; gilt and tinsel shrivel up in the fire. The patience in which we somewhat pride ourselves, where is it when sharp pangs succeed each other like poisoned arrows setting the blood on flame? The joyful faith which could do all things, and bear all sufferings, is it always at hand when the time of trial has arrived? The peace which stood aloft on the mountain’s summit and serenely smiled on storms beneath, does it hold its ground quite so easily as we thought it would when at our ease we prophesied our behavior in the day of battle?</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">How I have felt dwarfed and diminished by pain and depression! The preacher to thousands could creep into a nutshell, and feel himself smaller than the worm which bored the tiny round hole by which he entered. I have admired and envied the least of my Lord’s servants, and desired their prayers for me, though I felt unworthy of the kind thoughts of the weakest of them.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">We are most of us by far too great. A soap bubble has a scant measure of material in it for its size, and most of us are after the same order. It is greatly for our good to be reduced to our true dimensions. It is comfortable to be small; one has more room and needs less, and is better able to hide away. When storms are out a low bush or narrow eaves may shelter a sparrow, while a larger bird must bear the beat of the rain and the wind. To be nothing, and to feel less than nothing, is most sweet, for then we cower down under the great wings of God, as the little chick beneath the brooding hen, and in utter helplessness we find our strength and solace. Nothing goes but that which ought to go; the flower falls, but the seed ripens; the froth is blown away, but the wines on the lees are perfected. When nought remains but the clinging of a weeping child who grasps his Father’s hand, nought but the smiting on the breast of the publican who cries, “God be merciful to me, a sinner,” nought but the last resolve, “Though he slay me, yet will I trust in Him,” no real loss has been sustained, say rather, a great gain has come to the humbled heart.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—C. H. Spurgeon"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "monthDay": "03-29",
+      "title": "Consult your guide book",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“For whatsoever things were written aforetime were written for our learning; that we through patience and comfort of the scriptures might have hope”",
+          "reference": "Rom. 15:4"
+        },
+        {
+          "type": "scripture",
+          "text": "“For the commandment is a lamp; and the law is light”",
+          "reference": "Prov. 6:23"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">If you want to hold the truth fast, and not let it slip, you must read, and read, and reread the Bible. You must constantly refresh your mind with its truths, just as the diligent student constantly refreshes his mind by reviewing his textbooks, just as the lawyer who wishes to succeed constantly studies his law books, or the doctor his medical works.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">John Wesley, in his old age, after having read, and read, and reread the Bible all his life, said of himself: <i>“I am homo unius libri”</i>—a man of one book. The truth will surely slip, if you do not refresh your mind by constantly reading and meditating on the Bible.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">The Bible is God’s recipe book for making holy people. You must follow the recipe exactly, if you want to be a holy, Christlike person.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">The Bible is God’s guidebook to show men and women the way to Heaven. You must pay strict attention to its directions, and follow them accurately, if you are ever to get there.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">The Bible is God’s doctor’s book, to show people how to get rid of soul-sickness. You must diligently consider its diagnosis of soul-diseases, and its methods of cure, if you want soul-health.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Logan Brengle"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">When the Word of God is neglected, the inevitable consequence is-confusion in the Church, collapse in the home and chaos in the land.</p>"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "Is there a guide to show that path?",
+              "indent": false
+            },
+            {
+              "text": "The Bible:—he alone who hath",
+              "indent": false
+            },
+            {
+              "text": "The Bible, need not stray;",
+              "indent": true
+            },
+            {
+              "text": "Yet he who hath, and will not give",
+              "indent": false
+            },
+            {
+              "text": "That heavenly Guide to all that live,",
+              "indent": false
+            },
+            {
+              "text": "Himself shall lose the way.",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—James Montgomery"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "monthDay": "03-30",
+      "title": "Living above men’s opinions",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“Only be thou strong and very courageous”",
+          "reference": "Josh. 1:7"
+        },
+        {
+          "type": "scripture",
+          "text": "“Be of good courage, and he shall strengthen thine heart”",
+          "reference": "Psa. 27:14"
+        },
+        {
+          "type": "scripture",
+          "text": "“And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him”",
+          "reference": "Acts 9:29"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Why will you keep caring for what the world says? Try, oh! try, to be no longer a slave to it. You can have little idea of the comfort of freedom from it—it is bliss! All this caring for what people will say is from pride. Hoist your flag and abide by it. In an infinitely short space of time all secrets will be divulged. Therefore, if you are misjudged, why trouble to put yourself right? You have no idea what a great deal of trouble it will save you.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—General Gordon"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "Speak Out! and banish all thy fear;",
+              "indent": false
+            },
+            {
+              "text": "Speak Out! and let thy words be clear;",
+              "indent": false
+            },
+            {
+              "text": "Speak Out! for God shall see and hear—",
+              "indent": false
+            },
+            {
+              "text": "Speak Out!",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">If there be one thing upon earth that mankind loves and admires better than another, it is a brave man—a man who dares look the devil in the face and tell him he is the devil.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—James A. Garfield"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">A courageous man is one who fears God thoroughly, and fears neither man nor devil beside.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. Arnold"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">To sin by silence when they should protest makes cowards out of men.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Abraham Lincoln"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">O God, my Father, give me the even courage of Jesus, Who went quietly on, unruffled and unafraid, even though the end of the road meant disaster. I do not have to succeed. I must be true at any price, whether I succeed or fail. Give me the courage to fail, if necessary, doing the highest I know. Amen.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—S. Jones"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "monthDay": "03-31",
+      "title": "Blessing others",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "“I have received commandment to bless”",
+          "reference": "Num. 23:20"
+        },
+        {
+          "type": "scripture",
+          "text": "“Then David returned to bless his household”",
+          "reference": "2 Sam. 6:20"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Every man has left behind him influences for good or for evil that will never exhaust themselves. The sphere in which he acts may be small, or it may be great. It may be his fireside, or it may be a kingdom, a village or a great nation. But act he does, ceaselessly and forever. . . .</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p class=\"justify\">Whatever sphere you fill, carry into it a holy heart, and you will radiate around you life and power, and leave behind you holy and beneficent influences.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—The Royal Path of Life"
+        },
+        {
+          "type": "poem",
+          "lines": [
+            {
+              "text": "He was not always singing;",
+              "indent": false
+            },
+            {
+              "text": "Yet everywhere he went,",
+              "indent": true
+            },
+            {
+              "text": "His quiet smile was bringing",
+              "indent": false
+            },
+            {
+              "text": "A savor of content.",
+              "indent": true
+            },
+            {
+              "text": "He was not always talking",
+              "indent": false
+            },
+            {
+              "text": "Of Heaven or of God;",
+              "indent": true
+            },
+            {
+              "text": "But those who kenned his walking,",
+              "indent": false
+            },
+            {
+              "text": "Found flowers where he trod.",
+              "indent": true
+            },
+            {
+              "text": "He was not always shouting",
+              "indent": false
+            },
+            {
+              "text": "That he alone was right;",
+              "indent": true
+            },
+            {
+              "text": "Had patience with the doubting,",
+              "indent": false
+            },
+            {
+              "text": "Until they reached the light.",
+              "indent": true
+            },
+            {
+              "text": "He was not always praying",
+              "indent": false
+            },
+            {
+              "text": "Aloud, for men to hear;",
+              "indent": true
+            },
+            {
+              "text": "His life was just displaying",
+              "indent": false
+            },
+            {
+              "text": "The fact that God is near.",
+              "indent": true
+            },
+            {
+              "text": "Today our lips are praising",
+              "indent": false
+            },
+            {
+              "text": "A good man passing by;",
+              "indent": true
+            },
+            {
+              "text": "Don’t let it end with gazing:",
+              "indent": false
+            },
+            {
+              "text": "Be like him-you and I.",
+              "indent": true
+            }
+          ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Howard T. N. Ussher"
+        }
+      ]
+    }
+  ]
+}

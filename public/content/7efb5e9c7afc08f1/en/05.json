@@ -1,5 +1,5 @@
 {
-  "contentVersion": "9fa790cf97a703d8",
+  "contentVersion": "7efb5e9c7afc08f1",
   "locale": "en",
   "month": "05",
   "readings": [
@@ -24,19 +24,35 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">When we come in contact with men we do not know what impress they leave upon us. When spiders spin their webs in bushes they leave none that you can see at midday. But the next day the dew that has lodged upon them reveals them, and then you can see that the bushes were covered with them. And the influences which men exert upon you, you often cannot see when you receive them. It is only when they are subsequently revealed in your life that you become aware of them.—<i>Sel.</i></p>"
+          "html": "<p class=\"justify\">When we come in contact with men we do not know what impress they leave upon us. When spiders spin their webs in bushes they leave none that you can see at midday. But the next day the dew that has lodged upon them reveals them, and then you can see that the bushes were covered with them. And the influences which men exert upon you, you often cannot see when you receive them. It is only when they are subsequently revealed in your life that you become aware of them.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sel"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">As diamonds are ground best with their own powder, so men are best molded by men.—<i>Henry Ward Beecher.</i></p>"
+          "html": "<p class=\"justify\">As diamonds are ground best with their own powder, so men are best molded by men.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Ward Beecher"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">If you are not warming the world, the world is chilling you. If you take a red-hot ball out of a furnace and lay it down upon a frosty moor, two processes will go on—the ball will lose its heat and the surrounding atmosphere will gain. There are two ways by which you equalize the temperature of a hotter and a colder body, the one is by the hot one getting cold, and the other is by the cold one getting hot. If you are not warming the world, the world is freezing you. Every man influences all about him, and receives influences from them, and if there be not more exports than imports, he is a poor creature at the mercy of circumstance.—<i>Alexander Maclaren.</i> </p>"
+          "html": "<p class=\"justify\">If you are not warming the world, the world is chilling you. If you take a red-hot ball out of a furnace and lay it down upon a frosty moor, two processes will go on—the ball will lose its heat and the surrounding atmosphere will gain. There are two ways by which you equalize the temperature of a hotter and a colder body, the one is by the hot one getting cold, and the other is by the cold one getting hot. If you are not warming the world, the world is freezing you. Every man influences all about him, and receives influences from them, and if there be not more exports than imports, he is a poor creature at the mercy of circumstance.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Alexander Maclaren"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Our association with unholy people will either make them desire to be holy, or us to be unholy.—<i>Unknown.</i> </p>"
+          "html": "<p class=\"justify\">Our association with unholy people will either make them desire to be holy, or us to be unholy.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         }
       ]
     },
@@ -65,7 +81,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Thus the practical Apostle James puts it: “Submit yourselves therefore to God.” “Resist the devil, and he will flee from you.” “Draw nigh to God, and he will draw nigh to you.” Our effort is to get near to God, and to keep there, <i>then</i> we are more than conquerors through Him that loved us. “I will say of the Lord, He is my refuge,” where I run and hide from my foes. Then, “I will say of the Lord, He is . . . my fortress,” where I turn and fight against them. “Surely he shall deliver thee.”—<i>Mark Guy Pearse.</i> </p>"
+          "html": "<p class=\"justify\">Thus the practical Apostle James puts it: “Submit yourselves therefore to God.” “Resist the devil, and he will flee from you.” “Draw nigh to God, and he will draw nigh to you.” Our effort is to get near to God, and to keep there, <i>then</i> we are more than conquerors through Him that loved us. “I will say of the Lord, He is my refuge,” where I run and hide from my foes. Then, “I will say of the Lord, He is . . . my fortress,” where I turn and fight against them. “Surely he shall deliver thee.”</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Mark Guy Pearse"
         }
       ]
     },
@@ -98,14 +118,27 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">To have our work completed at the end, we must do it while the day lasts. Mr. McCheyne had on his watch-dial a picture of the setting sun, and over it the words, “The night cometh.” Every time he looked at his watch to see the hour he was reminded of the shortness of life, and of the urgent necessity for earnestness in duty. We should all catch the lesson.—<i>J. R. Miller.</i></p>"
+          "html": "<p class=\"justify\">To have our work completed at the end, we must do it while the day lasts. Mr. McCheyne had on his watch-dial a picture of the setting sun, and over it the words, “The night cometh.” Every time he looked at his watch to see the hour he was reminded of the shortness of life, and of the urgent necessity for earnestness in duty. We should all catch the lesson.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J. R. Miller"
         },
         {
           "type": "poem",
           "lines": [
-            "Father in Heaven, may I never wait",
-            "Till the work of my life is begun too late!",
-            "“Wait” is a fearful word!"
+            {
+              "text": "Father in Heaven, may I never wait",
+              "indent": false
+            },
+            {
+              "text": "Till the work of my life is begun too late!",
+              "indent": false
+            },
+            {
+              "text": "“Wait” is a fearful word!",
+              "indent": false
+            }
           ]
         }
       ]
@@ -127,32 +160,76 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">There is a peaceableness which comes <i>before</i> purity; and it is <i>not</i> beautiful. It is the gentleness of a shallow nature. There is all the difference in the world between the peace of an inland lake and the peace of the great sea. The one is calm because it is sheltered from the storm, the other because it has lulled the breeze to rest upon its bosom. Even so is it with the passions of the heart. There are lives among us which are only inland lakes. They roll not, they toss not; and yet we do not deem them beautiful. We feel that their peace has cost them no struggle; they are calm because they cannot help it. But there are other lives which are like the great sea. Theirs is not the peace of passionlessness, but of passion—of that purity called love.—<i>George Matheson.</i></p>"
+          "html": "<p class=\"justify\">There is a peaceableness which comes <i>before</i> purity; and it is <i>not</i> beautiful. It is the gentleness of a shallow nature. There is all the difference in the world between the peace of an inland lake and the peace of the great sea. The one is calm because it is sheltered from the storm, the other because it has lulled the breeze to rest upon its bosom. Even so is it with the passions of the heart. There are lives among us which are only inland lakes. They roll not, they toss not; and yet we do not deem them beautiful. We feel that their peace has cost them no struggle; they are calm because they cannot help it. But there are other lives which are like the great sea. Theirs is not the peace of passionlessness, but of passion—of that purity called love.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Matheson"
         },
         {
           "type": "poem",
           "lines": [
-            "I have a treasure which I prize;",
-            "The like I cannot find;",
-            "There’s nothing like it in the earth:",
-            "It is a quiet mind.",
-            "But ’tis not that I’m stupefied,",
-            "Or senseless, dull, or blind;",
-            "’Tis God’s own peace within my soul",
-            "Which forms my quiet mind.",
-            "My Savior’s death and risen life",
-            "To give this were designed;",
-            "And that’s the root and that’s the branch",
-            "Of this, my quiet mind."
+            {
+              "text": "I have a treasure which I prize;",
+              "indent": false
+            },
+            {
+              "text": "The like I cannot find;",
+              "indent": true
+            },
+            {
+              "text": "There’s nothing like it in the earth:",
+              "indent": false
+            },
+            {
+              "text": "It is a quiet mind.",
+              "indent": true
+            },
+            {
+              "text": "But ’tis not that I’m stupefied,",
+              "indent": false
+            },
+            {
+              "text": "Or senseless, dull, or blind;",
+              "indent": true
+            },
+            {
+              "text": "’Tis God’s own peace within my soul",
+              "indent": false
+            },
+            {
+              "text": "Which forms my quiet mind.",
+              "indent": true
+            },
+            {
+              "text": "My Savior’s death and risen life",
+              "indent": false
+            },
+            {
+              "text": "To give this were designed;",
+              "indent": true
+            },
+            {
+              "text": "And that’s the root and that’s the branch",
+              "indent": false
+            },
+            {
+              "text": "Of this, my quiet mind.",
+              "indent": true
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Unknown."
+          "text": "—Unknown"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">It was into the real world that Christ came, and He comes to us, not to snatch us away by some miracle from the conflict of life, but to give us His peace in our hearts, whereby we may be calmly steadfast while the conflict rages, and be able to bring to the torn world the healing of that peace.—<i>William Temple.</i> </p>"
+          "html": "<p class=\"justify\">It was into the real world that Christ came, and He comes to us, not to snatch us away by some miracle from the conflict of life, but to give us His peace in our hearts, whereby we may be calmly steadfast while the conflict rages, and be able to bring to the torn world the healing of that peace.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—William Temple"
         }
       ]
     },
@@ -233,7 +310,7 @@
         },
         {
           "type": "attribution",
-          "text": "—James R. Lowell."
+          "text": "—James R. Lowell"
         }
       ]
     },
@@ -250,42 +327,100 @@
         {
           "type": "poem",
           "lines": [
-            "The love of Thee flows just as much",
-            "As that of ebbing self subsides;",
-            "Our hearts (their scantiness is such)",
-            "Bear not the conflict of two rival tides.",
-            "Both cannot govern in one soul;",
-            "Then let self-love be dispossess’d;",
-            "The love of God deserves the whole,",
-            "And will not dwell with so despised a guest."
+            {
+              "text": "The love of Thee flows just as much",
+              "indent": false
+            },
+            {
+              "text": "As that of ebbing self subsides;",
+              "indent": true
+            },
+            {
+              "text": "Our hearts (their scantiness is such)",
+              "indent": false
+            },
+            {
+              "text": "Bear not the conflict of two rival tides.",
+              "indent": true
+            },
+            {
+              "text": "Both cannot govern in one soul;",
+              "indent": false
+            },
+            {
+              "text": "Then let self-love be dispossess’d;",
+              "indent": true
+            },
+            {
+              "text": "The love of God deserves the whole,",
+              "indent": false
+            },
+            {
+              "text": "And will not dwell with so despised a guest.",
+              "indent": true
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Madame Guyon."
+          "text": "—Madame Guyon"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">I firmly believe that the moment our hearts are emptied of pride, selfishness, ambition, self-seeking, and everything that is contrary to God’s law, the Holy Ghost will come and fill every corner of our hearts. But if we are full of pride, conceit, ambition, self-seeking, pleasure, and the world, there is no room for the Spirit of God. I believe many a man is praying to God to fill him when he is full already with something else.—<i>D. L. Moody.</i></p>"
+          "html": "<p class=\"justify\">I firmly believe that the moment our hearts are emptied of pride, selfishness, ambition, self-seeking, and everything that is contrary to God’s law, the Holy Ghost will come and fill every corner of our hearts. But if we are full of pride, conceit, ambition, self-seeking, pleasure, and the world, there is no room for the Spirit of God. I believe many a man is praying to God to fill him when he is full already with something else.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—D. L. Moody"
         },
         {
           "type": "poem",
           "lines": [
-            "If thou couldst empty all thyself of self,",
-            "Like to a shell dishabited,",
-            "Then might He find thee on the ocean shelf",
-            "And say, “This is not dead,”",
-            "And fill thee with Himself instead:",
-            "But thou art all replete with very thou,",
-            "And hast such shrewd activity,",
-            "That, when He comes, He says, “This is enow",
-            "Unto itself—’Twere better let it be:",
-            "It is so small and full, there is no room for Me.”"
+            {
+              "text": "If thou couldst empty all thyself of self,",
+              "indent": false
+            },
+            {
+              "text": "Like to a shell dishabited,",
+              "indent": true
+            },
+            {
+              "text": "Then might He find thee on the ocean shelf",
+              "indent": false
+            },
+            {
+              "text": "And say, “This is not dead,”",
+              "indent": true
+            },
+            {
+              "text": "And fill thee with Himself instead:",
+              "indent": true
+            },
+            {
+              "text": "But thou art all replete with very thou,",
+              "indent": false
+            },
+            {
+              "text": "And hast such shrewd activity,",
+              "indent": true
+            },
+            {
+              "text": "That, when He comes, He says, “This is enow",
+              "indent": false
+            },
+            {
+              "text": "Unto itself—’Twere better let it be:",
+              "indent": true
+            },
+            {
+              "text": "It is so small and full, there is no room for Me.”",
+              "indent": true
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—T. E. Brown."
+          "text": "—T. E. Brown"
         },
         {
           "type": "scripture",
@@ -311,19 +446,35 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">True greatness never shows better than in the acknowledgment of wrong.—<i>Unknown.</i></p>"
+          "html": "<p class=\"justify\">True greatness never shows better than in the acknowledgment of wrong.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Be always ready to own any fault you have been in. If you have at any time thought, spoken or acted wrong, be not backward to acknowledge it. Never dream that this will hurt the cause of God; no, it will further it. Be, therefore, open and frank when you are taxed with anything; do not seek either to evade or disguise it, but let it appear just as it is, and you will thereby not hinder, but adorn the Gospel.—<i>John Wesley.</i></p>"
+          "html": "<p class=\"justify\">Be always ready to own any fault you have been in. If you have at any time thought, spoken or acted wrong, be not backward to acknowledge it. Never dream that this will hurt the cause of God; no, it will further it. Be, therefore, open and frank when you are taxed with anything; do not seek either to evade or disguise it, but let it appear just as it is, and you will thereby not hinder, but adorn the Gospel.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Humbling ourselves is sweeter than being humiliated.—<i>Reader Harris.</i></p>"
+          "html": "<p class=\"justify\">Humbling ourselves is sweeter than being humiliated.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Reader Harris"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">A man should never be ashamed to own that he has been in the wrong, which is but saying that he is wiser today than he was yesterday.—<i>Alexander Pope.</i></p>"
+          "html": "<p class=\"justify\">A man should never be ashamed to own that he has been in the wrong, which is but saying that he is wiser today than he was yesterday.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Alexander Pope"
         },
         {
           "type": "prose",
@@ -397,19 +548,43 @@
         {
           "type": "poem",
           "lines": [
-            "Sweet hour of prayer! sweet hour of prayer!",
-            "That calls me from a world of care,",
-            "And bids me, at my Father’s throne,",
-            "Make all my wants and wishes known;",
-            "In seasons of distress and grief",
-            "My soul has often found relief,",
-            "And oft escaped the tempter’s snare",
-            "By thy return, sweet hour of prayer."
+            {
+              "text": "Sweet hour of prayer! sweet hour of prayer!",
+              "indent": false
+            },
+            {
+              "text": "That calls me from a world of care,",
+              "indent": false
+            },
+            {
+              "text": "And bids me, at my Father’s throne,",
+              "indent": false
+            },
+            {
+              "text": "Make all my wants and wishes known;",
+              "indent": false
+            },
+            {
+              "text": "In seasons of distress and grief",
+              "indent": false
+            },
+            {
+              "text": "My soul has often found relief,",
+              "indent": false
+            },
+            {
+              "text": "And oft escaped the tempter’s snare",
+              "indent": false
+            },
+            {
+              "text": "By thy return, sweet hour of prayer.",
+              "indent": false
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—William Walford."
+          "text": "—William Walford"
         }
       ]
     },
@@ -435,22 +610,55 @@
         {
           "type": "poem",
           "lines": [
-            "Where Jesus reigns there’s joy untold;",
-            "There’s wealth that’s richer far than gold;",
-            "There’s service glad and courage true;",
-            "There’s power to be, and strength to do;",
-            "There’s sacrifice and sweet content;",
-            "There’s grace divine and mercy sent;",
-            "There’s triumph over self and sin;",
-            "And blessed peace abides within;",
-            "There’s truest faith that seldom wanes;",
-            "There’s love supreme where Jesus reigns;",
-            "Are these all found, dear heart, in you?"
+            {
+              "text": "Where Jesus reigns there’s joy untold;",
+              "indent": false
+            },
+            {
+              "text": "There’s wealth that’s richer far than gold;",
+              "indent": false
+            },
+            {
+              "text": "There’s service glad and courage true;",
+              "indent": false
+            },
+            {
+              "text": "There’s power to be, and strength to do;",
+              "indent": false
+            },
+            {
+              "text": "There’s sacrifice and sweet content;",
+              "indent": false
+            },
+            {
+              "text": "There’s grace divine and mercy sent;",
+              "indent": false
+            },
+            {
+              "text": "There’s triumph over self and sin;",
+              "indent": false
+            },
+            {
+              "text": "And blessed peace abides within;",
+              "indent": false
+            },
+            {
+              "text": "There’s truest faith that seldom wanes;",
+              "indent": false
+            },
+            {
+              "text": "There’s love supreme where Jesus reigns;",
+              "indent": false
+            },
+            {
+              "text": "Are these all found, dear heart, in you?",
+              "indent": false
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "-Unknown."
+          "text": "-Unknown"
         },
         {
           "type": "prose",
@@ -491,11 +699,19 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">It is easy to appear a Daniel in a country where there are no lions.—<i>Unknown.</i></p>"
+          "html": "<p class=\"justify\">It is easy to appear a Daniel in a country where there are no lions.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Be careful that what you take for sweetness is not cowardice, and what you take to be the defense of the truth is not theological sourness.—<i>Reader Harris.</i> </p>"
+          "html": "<p class=\"justify\">Be careful that what you take for sweetness is not cowardice, and what you take to be the defense of the truth is not theological sourness.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Reader Harris"
         }
       ]
     },
@@ -516,40 +732,116 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">The Christian prays for fuller manifestations of Christ’s power, and glory, and love to him; but he is often not aware that this is in truth praying to be brought into the furnace; for in the furnace only it is that Christ can walk with His friends, and display, in their preservation and deliverance, His own almighty power. Yet when brought thither, it is one of the worst parts of the trial that the Christian often thinks himself, for a time at least, abandoned.—<i>Cecil.</i></p>"
+          "html": "<p class=\"justify\">The Christian prays for fuller manifestations of Christ’s power, and glory, and love to him; but he is often not aware that this is in truth praying to be brought into the furnace; for in the furnace only it is that Christ can walk with His friends, and display, in their preservation and deliverance, His own almighty power. Yet when brought thither, it is one of the worst parts of the trial that the Christian often thinks himself, for a time at least, abandoned.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Cecil"
         },
         {
           "type": "poem",
           "lines": [
-            "She asked to be made like her Savior,",
-            "And He took her at her word,",
-            "And sent her a heart-crushing burden",
-            "Till the depths of her soul were stirred.",
-            "She asked for a faith strong, yet simple.",
-            "He permitted the dark clouds to come;",
-            "She staggered by faith through the darkness,",
-            "As the storms did her soul overwhelm. . . .",
-            "She asked to lean hard on her Savior;",
-            "He took human props quite away,",
-            "Till no earthly friend could help her,",
-            "And she could do nothing but pray.",
-            "I saw her go out to the vineyard",
-            "To harvest the golden grain;",
-            "Her eyes were still moistened with weeping,",
-            "Her heart was still throbbing with pain.",
-            "But many a heart that was broken,",
-            "And many a wrecked, blighted life",
-            "Was made to thank God for her coming,",
-            "And rejoiced in the midst of the strife.",
-            "She had prayed to be made like her Savior,",
-            "And the burden He gave her to bear",
-            "Had been but the great Sculptor’s training:",
-            "Thus answering her earnest prayer."
+            {
+              "text": "She asked to be made like her Savior,",
+              "indent": false
+            },
+            {
+              "text": "And He took her at her word,",
+              "indent": true
+            },
+            {
+              "text": "And sent her a heart-crushing burden",
+              "indent": false
+            },
+            {
+              "text": "Till the depths of her soul were stirred.",
+              "indent": true
+            },
+            {
+              "text": "She asked for a faith strong, yet simple.",
+              "indent": false
+            },
+            {
+              "text": "He permitted the dark clouds to come;",
+              "indent": true
+            },
+            {
+              "text": "She staggered by faith through the darkness,",
+              "indent": false
+            },
+            {
+              "text": "As the storms did her soul overwhelm. . . .",
+              "indent": true
+            },
+            {
+              "text": "She asked to lean hard on her Savior;",
+              "indent": false
+            },
+            {
+              "text": "He took human props quite away,",
+              "indent": true
+            },
+            {
+              "text": "Till no earthly friend could help her,",
+              "indent": false
+            },
+            {
+              "text": "And she could do nothing but pray.",
+              "indent": true
+            },
+            {
+              "text": "I saw her go out to the vineyard",
+              "indent": false
+            },
+            {
+              "text": "To harvest the golden grain;",
+              "indent": true
+            },
+            {
+              "text": "Her eyes were still moistened with weeping,",
+              "indent": false
+            },
+            {
+              "text": "Her heart was still throbbing with pain.",
+              "indent": true
+            },
+            {
+              "text": "But many a heart that was broken,",
+              "indent": false
+            },
+            {
+              "text": "And many a wrecked, blighted life",
+              "indent": true
+            },
+            {
+              "text": "Was made to thank God for her coming,",
+              "indent": false
+            },
+            {
+              "text": "And rejoiced in the midst of the strife.",
+              "indent": true
+            },
+            {
+              "text": "She had prayed to be made like her Savior,",
+              "indent": false
+            },
+            {
+              "text": "And the burden He gave her to bear",
+              "indent": true
+            },
+            {
+              "text": "Had been but the great Sculptor’s training:",
+              "indent": false
+            },
+            {
+              "text": "Thus answering her earnest prayer.",
+              "indent": true
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Unknown."
+          "text": "—Unknown"
         }
       ]
     },
@@ -578,28 +870,68 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">After being fulfilled hundreds of times, the words of promise still stand to be yet further made good. Many a time and oft have we stooped down to the spring-head in the meadow, and quaffed a cooling draught. It is just as full and free, and we may drink today with as much confidence as if we now stooped for the first time. Men do not keep their promises over and over again; it would be unreasonable to expect it of them. They are cisterns, but Thou, O Lord, art a fountain! All my fresh springs are in Thee.—<i>C. H. Spurgeon.</i></p>"
+          "html": "<p class=\"justify\">After being fulfilled hundreds of times, the words of promise still stand to be yet further made good. Many a time and oft have we stooped down to the spring-head in the meadow, and quaffed a cooling draught. It is just as full and free, and we may drink today with as much confidence as if we now stooped for the first time. Men do not keep their promises over and over again; it would be unreasonable to expect it of them. They are cisterns, but Thou, O Lord, art a fountain! All my fresh springs are in Thee.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—C. H. Spurgeon"
         },
         {
           "type": "poem",
           "lines": [
-            "This Book unfolds Jehovah’s mind,",
-            "This Voice salutes in accents kind,",
-            "This Friend will all your need supply,",
-            "This Fountain sends forth streams of joy,",
-            "This Mine affords us boundless wealth,",
-            "This Good Physician gives us health,",
-            "This Sun renews and warms the soul,",
-            "This Sword both wounds and makes us whole,",
-            "This Letter shows our sins forgiven,",
-            "This Guide conducts us safe to Heaven,",
-            "This Charter has been sealed with blood,",
-            "This Volume is the Word of God."
+            {
+              "text": "This Book unfolds Jehovah’s mind,",
+              "indent": false
+            },
+            {
+              "text": "This Voice salutes in accents kind,",
+              "indent": false
+            },
+            {
+              "text": "This Friend will all your need supply,",
+              "indent": false
+            },
+            {
+              "text": "This Fountain sends forth streams of joy,",
+              "indent": false
+            },
+            {
+              "text": "This Mine affords us boundless wealth,",
+              "indent": false
+            },
+            {
+              "text": "This Good Physician gives us health,",
+              "indent": false
+            },
+            {
+              "text": "This Sun renews and warms the soul,",
+              "indent": false
+            },
+            {
+              "text": "This Sword both wounds and makes us whole,",
+              "indent": false
+            },
+            {
+              "text": "This Letter shows our sins forgiven,",
+              "indent": false
+            },
+            {
+              "text": "This Guide conducts us safe to Heaven,",
+              "indent": false
+            },
+            {
+              "text": "This Charter has been sealed with blood,",
+              "indent": false
+            },
+            {
+              "text": "This Volume is the Word of God.",
+              "indent": false
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "-Enc. of Poetical Illustrations."
+          "text": "-Enc. of Poetical Illustrations"
         },
         {
           "type": "prose",
@@ -624,15 +956,27 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Unbelief begins at the obstacle, and then tries to work for God, but the obstacle shuts out the sight of God. Unbelief looks at the mountain of difficulty. Faith says, “I like mountain scenery, let me get on to the top and see the view.” Faith begins with God, and the obstacle becomes as a molehill.—<i>Reader Harris.</i></p>"
+          "html": "<p class=\"justify\">Unbelief begins at the obstacle, and then tries to work for God, but the obstacle shuts out the sight of God. Unbelief looks at the mountain of difficulty. Faith says, “I like mountain scenery, let me get on to the top and see the view.” Faith begins with God, and the obstacle becomes as a molehill.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Reader Harris"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">It is men of faith who have saved the world, not men of knowledge.—<i>Sir Wilfred Grenfell.</i></p>"
+          "html": "<p class=\"justify\">It is men of faith who have saved the world, not men of knowledge.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sir Wilfred Grenfell"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Faith is the source of power, a principle of action; men of faith have always been men of action. Where there is belief there must be something to believe.—<i>Graham Scroggie.</i></p>"
+          "html": "<p class=\"justify\">Faith is the source of power, a principle of action; men of faith have always been men of action. Where there is belief there must be something to believe.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Graham Scroggie"
         },
         {
           "type": "prose",
@@ -672,7 +1016,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">When we are led in the way of faith, we are led by God Himself.—<i>Thomas Upham.</i> </p>"
+          "html": "<p class=\"justify\">When we are led in the way of faith, we are led by God Himself.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Thomas Upham"
         }
       ]
     },
@@ -701,25 +1049,48 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Let the time past suffice us for this weakness and deadness. Let us arise and shake ourselves from the dust. Let us be willing to receive from God this choicest gift of His grace to us, His Holy Spirit. It is God’s command, and therefore possible.—<i>Barclay Buxton.</i></p>"
+          "html": "<p class=\"justify\">Let the time past suffice us for this weakness and deadness. Let us arise and shake ourselves from the dust. Let us be willing to receive from God this choicest gift of His grace to us, His Holy Spirit. It is God’s command, and therefore possible.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Barclay Buxton"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\"> “Be filled with the Spirit.” In the Greek that is, “Be being filled with the Spirit.” If I am full, how am I to be “being filled”? I must give to others, and as I give, God will give me more. That is what God wants us for, to flow through us. “Ye shall receive power, after that the Holy Ghost is come upon you; and ye shall be witnesses unto me.” The Greek is, “You shall be receiving power continuously after the Holy Ghost is come upon you.” The continuous reception and transmission of the power of God is the privilege of the saint of God. Such a privilege carries with it an equal responsibility. The promise is unto YOU.—<i>Reader Harris.</i></p>"
+          "html": "<p class=\"justify\"> “Be filled with the Spirit.” In the Greek that is, “Be being filled with the Spirit.” If I am full, how am I to be “being filled”? I must give to others, and as I give, God will give me more. That is what God wants us for, to flow through us. “Ye shall receive power, after that the Holy Ghost is come upon you; and ye shall be witnesses unto me.” The Greek is, “You shall be receiving power continuously after the Holy Ghost is come upon you.” The continuous reception and transmission of the power of God is the privilege of the saint of God. Such a privilege carries with it an equal responsibility. The promise is unto YOU.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Reader Harris"
         },
         {
           "type": "poem",
           "lines": [
-            "I am so needy, Lord, and yet I know",
-            "All fullness dwells in Thee;",
-            "And hour by hour that never-failing treasure",
-            "Supplies and fills, in overflowing measure,",
-            "Thy grace is enough for me!"
+            {
+              "text": "I am so needy, Lord, and yet I know",
+              "indent": false
+            },
+            {
+              "text": "All fullness dwells in Thee;",
+              "indent": true
+            },
+            {
+              "text": "And hour by hour that never-failing treasure",
+              "indent": false
+            },
+            {
+              "text": "Supplies and fills, in overflowing measure,",
+              "indent": false
+            },
+            {
+              "text": "Thy grace is enough for me!",
+              "indent": true
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Frances Ridley Havergal."
+          "text": "—Frances Ridley Havergal"
         }
       ]
     },
@@ -745,32 +1116,95 @@
         {
           "type": "poem",
           "lines": [
-            "Only a word, yes, only a word",
-            "That the Spirit’s small voice whispered “Speak,”",
-            "But the worker passed onward, unblessed and weak,",
-            "Whom you were meant to have stirred",
-            "To courage, devotion and love anew,",
-            "Because when the message came to you,",
-            "You were out of touch with your Lord.",
-            "Only a note, yes, only a note",
-            "To a friend in a distant land.",
-            "The Spirit said, “Write.” But then you had planned",
-            "Some different work, and you thought",
-            "It matters little. You did not know",
-            "’Twould have saved a soul from sin and woe.",
-            "You were out of touch with your Lord.",
-            "Only a day, yes, only a day,",
-            "But oh, can you guess, my friend,",
-            "Where the influence reaches, and where it will end?",
-            "Oh, the hours that you frittered away!",
-            "The Master’s command is “Abide in me.”",
-            "And fruitless and vain will your service be",
-            "If out of touch with your Lord."
+            {
+              "text": "Only a word, yes, only a word",
+              "indent": false
+            },
+            {
+              "text": "That the Spirit’s small voice whispered “Speak,”",
+              "indent": false
+            },
+            {
+              "text": "But the worker passed onward, unblessed and weak,",
+              "indent": false
+            },
+            {
+              "text": "Whom you were meant to have stirred",
+              "indent": false
+            },
+            {
+              "text": "To courage, devotion and love anew,",
+              "indent": false
+            },
+            {
+              "text": "Because when the message came to you,",
+              "indent": false
+            },
+            {
+              "text": "You were out of touch with your Lord.",
+              "indent": false
+            },
+            {
+              "text": "Only a note, yes, only a note",
+              "indent": false
+            },
+            {
+              "text": "To a friend in a distant land.",
+              "indent": false
+            },
+            {
+              "text": "The Spirit said, “Write.” But then you had planned",
+              "indent": false
+            },
+            {
+              "text": "Some different work, and you thought",
+              "indent": false
+            },
+            {
+              "text": "It matters little. You did not know",
+              "indent": false
+            },
+            {
+              "text": "’Twould have saved a soul from sin and woe.",
+              "indent": false
+            },
+            {
+              "text": "You were out of touch with your Lord.",
+              "indent": false
+            },
+            {
+              "text": "Only a day, yes, only a day,",
+              "indent": false
+            },
+            {
+              "text": "But oh, can you guess, my friend,",
+              "indent": false
+            },
+            {
+              "text": "Where the influence reaches, and where it will end?",
+              "indent": false
+            },
+            {
+              "text": "Oh, the hours that you frittered away!",
+              "indent": false
+            },
+            {
+              "text": "The Master’s command is “Abide in me.”",
+              "indent": false
+            },
+            {
+              "text": "And fruitless and vain will your service be",
+              "indent": false
+            },
+            {
+              "text": "If out of touch with your Lord.",
+              "indent": false
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Jean H. Watson."
+          "text": "—Jean H. Watson"
         }
       ]
     },
@@ -791,7 +1225,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">The fulfillment of irksome duties is the test of sincere obedience. When pleasure and service are identical, it is easy to be diligent in heavenly business. But when flesh and blood rebel against a known duty, it is time to invoke the aid of divine grace. Every personal feeling and private affection must give way before the imperative demands of our Lord and Master. Contention for the faith is far less pleasant than communion with Christ; but the neglect of the precept may involve the withdrawal of the privilege.—<i>C. H. Spurgeon.</i></p>"
+          "html": "<p class=\"justify\">The fulfillment of irksome duties is the test of sincere obedience. When pleasure and service are identical, it is easy to be diligent in heavenly business. But when flesh and blood rebel against a known duty, it is time to invoke the aid of divine grace. Every personal feeling and private affection must give way before the imperative demands of our Lord and Master. Contention for the faith is far less pleasant than communion with Christ; but the neglect of the precept may involve the withdrawal of the privilege.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—C. H. Spurgeon"
         },
         {
           "type": "prose",
@@ -803,7 +1241,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">God gives His Spirit, not to those who long for Him, not to those who pray for Him, not to those who desire to be filled always; but He does give His Holy Spirit to them that obey Him.—<i>Hudson Taylor.</i> </p>"
+          "html": "<p class=\"justify\">God gives His Spirit, not to those who long for Him, not to those who pray for Him, not to those who desire to be filled always; but He does give His Holy Spirit to them that obey Him.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hudson Taylor"
         }
       ]
     },
@@ -836,19 +1278,35 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">May God open our eyes to see what the holy ministry of intercession is to which, as His royal priesthood, we have been set apart. May He give us a large and strong heart to believe what mighty influence our prayers can exert. And may all fear as to our being able to fulfill our vocation vanish as we see Jesus, living ever to pray, living in us to pray, and standing surety for our prayer life.—<i>Andrew Murray.</i></p>"
+          "html": "<p class=\"justify\">May God open our eyes to see what the holy ministry of intercession is to which, as His royal priesthood, we have been set apart. May He give us a large and strong heart to believe what mighty influence our prayers can exert. And may all fear as to our being able to fulfill our vocation vanish as we see Jesus, living ever to pray, living in us to pray, and standing surety for our prayer life.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Andrew Murray"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Men cannot represent God who do not get answers to prayer from Him.—<i>E. M. Bounds.</i></p>"
+          "html": "<p class=\"justify\">Men cannot represent God who do not get answers to prayer from Him.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—E. M. Bounds"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Every great movement of God can be traced to a kneeling figure.—<i>D. L. Moody.</i></p>"
+          "html": "<p class=\"justify\">Every great movement of God can be traced to a kneeling figure.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—D. L. Moody"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">If you spend several hours in prayer daily, you will see great things.—<i>John Nelson.</i></p>"
+          "html": "<p class=\"justify\">If you spend several hours in prayer daily, you will see great things.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Nelson"
         }
       ]
     },
@@ -869,32 +1327,76 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">The disciples did not stop to organize themselves into Conferences or Councils, into Synods or General Assemblies. Each man spoke the word which the Holy Spirit gave to him. Peter talks to Cornelius, and his assembled kinsfolk, until the Spirit descends upon them, and they are converted and baptized. Paul preaches to the Philippian jailer and condenses the core of the Gospel into a single sentence. Philip overtakes a titled foreigner in his chariot by the roadside, and a “Bible reading” is extemporized on the spot. That was preaching—truth teaching—in its most elementary form. Aquila and Priscilla become expounders of the new Gospel, with the gifted Apollos for their pupil. Down at Joppa, industrious Dorcas takes to preaching also, but womanlike she employs her needle as her instrument. Her actions speak louder than words. And so the hive is busy. Everyone who has a message delivers it; everyone who can heal a sick man or mend a crippled limb performs the miracles of love; everyone who has a lamp lets it shine. Their Lord and Master is glorified by their “bearing much fruit.”—<i>Theodore Cuyler.</i></p>"
+          "html": "<p class=\"justify\">The disciples did not stop to organize themselves into Conferences or Councils, into Synods or General Assemblies. Each man spoke the word which the Holy Spirit gave to him. Peter talks to Cornelius, and his assembled kinsfolk, until the Spirit descends upon them, and they are converted and baptized. Paul preaches to the Philippian jailer and condenses the core of the Gospel into a single sentence. Philip overtakes a titled foreigner in his chariot by the roadside, and a “Bible reading” is extemporized on the spot. That was preaching—truth teaching—in its most elementary form. Aquila and Priscilla become expounders of the new Gospel, with the gifted Apollos for their pupil. Down at Joppa, industrious Dorcas takes to preaching also, but womanlike she employs her needle as her instrument. Her actions speak louder than words. And so the hive is busy. Everyone who has a message delivers it; everyone who can heal a sick man or mend a crippled limb performs the miracles of love; everyone who has a lamp lets it shine. Their Lord and Master is glorified by their “bearing much fruit.”</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">The Gospel commands the sinner to come and the Christian to go.—<i>D. L. Moody.</i></p>"
+          "html": "<p class=\"justify\">The Gospel commands the sinner to come and the Christian to go.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—D. L. Moody"
         },
         {
           "type": "poem",
           "lines": [
-            "To talk with God no breath is lost;",
-            "Talk on.",
-            "To walk with God no strength is lost;",
-            "Walk on.",
-            "To toil with God no time is lost;",
-            "Toil on.",
-            "Little is much, if God is in it;",
-            "Man’s busiest day not worth God’s minute.",
-            "Much is little everywhere",
-            "If God the business doth not share.",
-            "So work with God, then nothing’s lost;",
-            "Who works with Him does well and most."
+            {
+              "text": "To talk with God no breath is lost;",
+              "indent": false
+            },
+            {
+              "text": "Talk on.",
+              "indent": true
+            },
+            {
+              "text": "To walk with God no strength is lost;",
+              "indent": false
+            },
+            {
+              "text": "Walk on.",
+              "indent": true
+            },
+            {
+              "text": "To toil with God no time is lost;",
+              "indent": false
+            },
+            {
+              "text": "Toil on.",
+              "indent": true
+            },
+            {
+              "text": "Little is much, if God is in it;",
+              "indent": false
+            },
+            {
+              "text": "Man’s busiest day not worth God’s minute.",
+              "indent": false
+            },
+            {
+              "text": "Much is little everywhere",
+              "indent": false
+            },
+            {
+              "text": "If God the business doth not share.",
+              "indent": false
+            },
+            {
+              "text": "So work with God, then nothing’s lost;",
+              "indent": false
+            },
+            {
+              "text": "Who works with Him does well and most.",
+              "indent": false
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Unknown."
+          "text": "—Unknown"
         }
       ]
     },
@@ -915,24 +1417,44 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">There is no such thing as negative influence. We are all positive in the place we occupy, making the world better or making it worse, on the Lord’s side or on the devil’s, making up the reason for our blessedness or banishment; and we have already done a mighty work in peopling Heaven or hell. By the force of your evil influence you have already consumed infinite values, or you have, by the power of a right influence, won whole kingdoms for God.—<i>De Witt Talmage.</i></p>"
+          "html": "<p class=\"justify\">There is no such thing as negative influence. We are all positive in the place we occupy, making the world better or making it worse, on the Lord’s side or on the devil’s, making up the reason for our blessedness or banishment; and we have already done a mighty work in peopling Heaven or hell. By the force of your evil influence you have already consumed infinite values, or you have, by the power of a right influence, won whole kingdoms for God.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—De Witt Talmage"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">I know not a more serious thing than the responsibility incurred by human affection. Only think of this: whoever loves you is growing like you! Neither you nor he can hinder it save at the cost of alienation. Oh, if you are grateful for but one creature’s love, rise to the height of so pure a blessing. Drag them not down by the very embrace by which they cling to you, but through their gentleness and trust secure their consecration.—<i>James Martineau.</i></p>"
+          "html": "<p class=\"justify\">I know not a more serious thing than the responsibility incurred by human affection. Only think of this: whoever loves you is growing like you! Neither you nor he can hinder it save at the cost of alienation. Oh, if you are grateful for but one creature’s love, rise to the height of so pure a blessing. Drag them not down by the very embrace by which they cling to you, but through their gentleness and trust secure their consecration.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—James Martineau"
         },
         {
           "type": "poem",
           "lines": [
-            "The tidal wave of deeper souls",
-            "Into our inmost being rolls,",
-            "And lifts us unawares",
-            "Out of all meaner cares."
+            {
+              "text": "The tidal wave of deeper souls",
+              "indent": false
+            },
+            {
+              "text": "Into our inmost being rolls,",
+              "indent": false
+            },
+            {
+              "text": "And lifts us unawares",
+              "indent": true
+            },
+            {
+              "text": "Out of all meaner cares.",
+              "indent": true
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—H. W. Longfellow."
+          "text": "—H. W. Longfellow"
         },
         {
           "type": "prose",
@@ -949,15 +1471,27 @@
         {
           "type": "poem",
           "lines": [
-            "She never found fault with you, never implied",
-            "Your wrong by her right; and yet men at her side",
-            "Grew nobler, girls purer, as through the whole town",
-            "The children were gladder that pulled at her gown—"
+            {
+              "text": "She never found fault with you, never implied",
+              "indent": false
+            },
+            {
+              "text": "Your wrong by her right; and yet men at her side",
+              "indent": false
+            },
+            {
+              "text": "Grew nobler, girls purer, as through the whole town",
+              "indent": false
+            },
+            {
+              "text": "The children were gladder that pulled at her gown—",
+              "indent": false
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "My Kate.—Elizabeth B. Browning."
+          "text": "My Kate.—Elizabeth B. Browning"
         }
       ]
     },
@@ -973,46 +1507,140 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Let no one despise the day of small things. The noblest Christian lives often have their origin in some faithful word spoken in love, or in the reading of a tract, or in some small occurrence, or in a single resolution to break with some besetting sin.—<i>Theodore Cuyler.</i></p>"
+          "html": "<p class=\"justify\">Let no one despise the day of small things. The noblest Christian lives often have their origin in some faithful word spoken in love, or in the reading of a tract, or in some small occurrence, or in a single resolution to break with some besetting sin.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "poem",
           "lines": [
-            "I asked the Lord to let me do",
-            "Some mighty work for Him;",
-            "To fight amid His battle hosts,",
-            "Then sing the victor’s hymn.",
-            "I longed my ardent love to show,",
-            "But Jesus would not have it so.",
-            "He placed me in a quiet home,",
-            "Whose life was calm and still,",
-            "And gave me little things to do,",
-            "My daily round to fill;",
-            "I could not think it good to be",
-            "Just put aside so silently.",
-            "Small duties gathered round my way,",
-            "They seemed of earth alone;",
-            "I, who had longed for conquests bright",
-            "To lay before His throne,",
-            "Had common things to do and bear,",
-            "To watch and strive with daily care.",
-            "So then I thought my prayer unheard,",
-            "And asked the Lord once more",
-            "That He would give me work for Him",
-            "And open wide the door;",
-            "Forgetting that my Master knew",
-            "Just what was best for me to do.",
-            "Then quietly the answer came,",
-            "“My child, I hear thy cry;",
-            "Think not that mighty deed alone",
-            "Will bring the victory.",
-            "The battle has been planned by Me,",
-            "Let daily life thy conquests see.”"
+            {
+              "text": "I asked the Lord to let me do",
+              "indent": false
+            },
+            {
+              "text": "Some mighty work for Him;",
+              "indent": true
+            },
+            {
+              "text": "To fight amid His battle hosts,",
+              "indent": false
+            },
+            {
+              "text": "Then sing the victor’s hymn.",
+              "indent": true
+            },
+            {
+              "text": "I longed my ardent love to show,",
+              "indent": false
+            },
+            {
+              "text": "But Jesus would not have it so.",
+              "indent": false
+            },
+            {
+              "text": "He placed me in a quiet home,",
+              "indent": false
+            },
+            {
+              "text": "Whose life was calm and still,",
+              "indent": true
+            },
+            {
+              "text": "And gave me little things to do,",
+              "indent": false
+            },
+            {
+              "text": "My daily round to fill;",
+              "indent": true
+            },
+            {
+              "text": "I could not think it good to be",
+              "indent": false
+            },
+            {
+              "text": "Just put aside so silently.",
+              "indent": false
+            },
+            {
+              "text": "Small duties gathered round my way,",
+              "indent": false
+            },
+            {
+              "text": "They seemed of earth alone;",
+              "indent": true
+            },
+            {
+              "text": "I, who had longed for conquests bright",
+              "indent": false
+            },
+            {
+              "text": "To lay before His throne,",
+              "indent": true
+            },
+            {
+              "text": "Had common things to do and bear,",
+              "indent": false
+            },
+            {
+              "text": "To watch and strive with daily care.",
+              "indent": false
+            },
+            {
+              "text": "So then I thought my prayer unheard,",
+              "indent": false
+            },
+            {
+              "text": "And asked the Lord once more",
+              "indent": true
+            },
+            {
+              "text": "That He would give me work for Him",
+              "indent": false
+            },
+            {
+              "text": "And open wide the door;",
+              "indent": true
+            },
+            {
+              "text": "Forgetting that my Master knew",
+              "indent": false
+            },
+            {
+              "text": "Just what was best for me to do.",
+              "indent": false
+            },
+            {
+              "text": "Then quietly the answer came,",
+              "indent": false
+            },
+            {
+              "text": "“My child, I hear thy cry;",
+              "indent": true
+            },
+            {
+              "text": "Think not that mighty deed alone",
+              "indent": false
+            },
+            {
+              "text": "Will bring the victory.",
+              "indent": true
+            },
+            {
+              "text": "The battle has been planned by Me,",
+              "indent": false
+            },
+            {
+              "text": "Let daily life thy conquests see.”",
+              "indent": false
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Unknown."
+          "text": "—Unknown"
         }
       ]
     },
@@ -1041,28 +1669,68 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">And so the power of the Holy Ghost will give us the heroism of endurance and enable us, like our Master, for the joy set before us, to endure the cross, despising the shame. It will bring about a spirit of self-denial and holy sacrifice; it will make it easy for us to let go of things and give up things “and endure all things for the elect’s sake,” and to say with the great apostle, “Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.”—<i>A. B. Simpson.</i></p>"
+          "html": "<p class=\"justify\">And so the power of the Holy Ghost will give us the heroism of endurance and enable us, like our Master, for the joy set before us, to endure the cross, despising the shame. It will bring about a spirit of self-denial and holy sacrifice; it will make it easy for us to let go of things and give up things “and endure all things for the elect’s sake,” and to say with the great apostle, “Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.”</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—A. B. Simpson"
         },
         {
           "type": "poem",
           "lines": [
-            "We make our songs in the day of our gladness",
-            "When life is all laughter and joy and delight,",
-            "When never a shadow has clouded our sunshine;",
-            "But God giveth songs in the night. . . .",
-            "He giveth songs in the night of affliction,",
-            "When earth has no sun and the heavens no star;",
-            "Like a comforting touch in the desolate darkness",
-            "His voice stealeth in from afar. . . .",
-            "Give us Thy songs, O Thou Maker of music!",
-            "Teach us to sing, O Thou Bringer of joy!",
-            "Till nothing can silence the notes of our triumph",
-            "And naught our rejoicing destroy."
+            {
+              "text": "We make our songs in the day of our gladness",
+              "indent": false
+            },
+            {
+              "text": "When life is all laughter and joy and delight,",
+              "indent": true
+            },
+            {
+              "text": "When never a shadow has clouded our sunshine;",
+              "indent": false
+            },
+            {
+              "text": "But God giveth songs in the night. . . .",
+              "indent": true
+            },
+            {
+              "text": "He giveth songs in the night of affliction,",
+              "indent": false
+            },
+            {
+              "text": "When earth has no sun and the heavens no star;",
+              "indent": true
+            },
+            {
+              "text": "Like a comforting touch in the desolate darkness",
+              "indent": false
+            },
+            {
+              "text": "His voice stealeth in from afar. . . .",
+              "indent": true
+            },
+            {
+              "text": "Give us Thy songs, O Thou Maker of music!",
+              "indent": false
+            },
+            {
+              "text": "Teach us to sing, O Thou Bringer of joy!",
+              "indent": true
+            },
+            {
+              "text": "Till nothing can silence the notes of our triumph",
+              "indent": false
+            },
+            {
+              "text": "And naught our rejoicing destroy.",
+              "indent": true
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Annie Johnson Flint."
+          "text": "—Annie Johnson Flint"
         }
       ]
     },
@@ -1103,7 +1771,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">I feel most strongly that the real way to test the inspiration of the Bible, or any other book, is not by criticizing its text, but by watching its influence upon human lives. In that, after all, we have definite and distinct evidence of its miraculous and supernatural character.—<i>Hudson Taylor.</i></p>"
+          "html": "<p class=\"justify\">I feel most strongly that the real way to test the inspiration of the Bible, or any other book, is not by criticizing its text, but by watching its influence upon human lives. In that, after all, we have definite and distinct evidence of its miraculous and supernatural character.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hudson Taylor"
         }
       ]
     },
@@ -1128,22 +1800,44 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">If an old heathen could say on his deathbed that he had lost everything he had except what he had given away, how much more truly can an enlightened Christian feel that all his wise investments made to promote the cause of God and humanity is only so much placed at interest in time, the advantage of which will be reaped in eternity.—<i>Edward R. Ames.</i></p>"
+          "html": "<p class=\"justify\">If an old heathen could say on his deathbed that he had lost everything he had except what he had given away, how much more truly can an enlightened Christian feel that all his wise investments made to promote the cause of God and humanity is only so much placed at interest in time, the advantage of which will be reaped in eternity.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Edward R. Ames"
         },
         {
           "type": "poem",
           "lines": [
-            "Gladness be with thee, Helper of the world!",
-            "I think this is the authentic sign and seal",
-            "Of God-ship, that ever waxes glad,",
-            "And more glad, until gladness blossoms, bursts",
-            "Into a rage to suffer for mankind",
-            "And recommence at sorrow."
+            {
+              "text": "Gladness be with thee, Helper of the world!",
+              "indent": false
+            },
+            {
+              "text": "I think this is the authentic sign and seal",
+              "indent": false
+            },
+            {
+              "text": "Of God-ship, that ever waxes glad,",
+              "indent": false
+            },
+            {
+              "text": "And more glad, until gladness blossoms, bursts",
+              "indent": false
+            },
+            {
+              "text": "Into a rage to suffer for mankind",
+              "indent": false
+            },
+            {
+              "text": "And recommence at sorrow.",
+              "indent": false
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Unknown."
+          "text": "—Unknown"
         }
       ]
     },
@@ -1159,11 +1853,19 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Do you make it your primary business, your first great concern to seek the kingdom of God and His righteousness? Are the things of God, the honor of His Name, the welfare of His Church, the conversion of sinners, and the profit of your own soul, your chief aim? Or does your business or your family, or your own temporal concerns, in some shape or other, <i>primarily</i> occupy your attention? Remember that the world passeth away, but that the things of God endure for ever. I never knew a child of God who acted according to the above passage, in whose experience the Lord did not fulfill His word of promise, “All these things shall be added unto you.”—<i>George Müller.</i></p>"
+          "html": "<p class=\"justify\">Do you make it your primary business, your first great concern to seek the kingdom of God and His righteousness? Are the things of God, the honor of His Name, the welfare of His Church, the conversion of sinners, and the profit of your own soul, your chief aim? Or does your business or your family, or your own temporal concerns, in some shape or other, <i>primarily</i> occupy your attention? Remember that the world passeth away, but that the things of God endure for ever. I never knew a child of God who acted according to the above passage, in whose experience the Lord did not fulfill His word of promise, “All these things shall be added unto you.”</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Müller"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Again we are met with an “all things”: “seek ye first the kingdom of God, and His righteousness; and all these things shall be added unto you.” All <i>these</i> things, food and clothing, etc. No doubt some of us could bear witness to how really <i>curiously</i> God has fulfilled this, adding to the first sought grace of His kingdom just the thing that we didn’t quite see our way to, as to some needed supply of dress, change of air, or other of “these things.” Why should one ever have an anxious thought in this direction, when He has downright forbidden it on the one hand, “take no thought,” etc., and when He so tenderly says, “your Father knoweth,” on the other!—<i>Frances Ridley Havergal.</i></p>"
+          "html": "<p class=\"justify\">Again we are met with an “all things”: “seek ye first the kingdom of God, and His righteousness; and all these things shall be added unto you.” All <i>these</i> things, food and clothing, etc. No doubt some of us could bear witness to how really <i>curiously</i> God has fulfilled this, adding to the first sought grace of His kingdom just the thing that we didn’t quite see our way to, as to some needed supply of dress, change of air, or other of “these things.” Why should one ever have an anxious thought in this direction, when He has downright forbidden it on the one hand, “take no thought,” etc., and when He so tenderly says, “your Father knoweth,” on the other!</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Frances Ridley Havergal"
         },
         {
           "type": "scripture",
@@ -1173,22 +1875,55 @@
         {
           "type": "poem",
           "lines": [
-            "Who does God’s work, will get God’s pay,",
-            "However long may seem the day,",
-            "However weary be the way;",
-            "Though powers and Princes thunder “nay,”",
-            "Who does God’s work will get God’s pay.",
-            "He does not pay as others pay,",
-            "In gold, or land, or raiment gay,",
-            "In goods that vanish and decay;",
-            "But God in wisdom knows a way,",
-            "And that is sure, let come what may,",
-            "Who does God’s work, will get God’s pay."
+            {
+              "text": "Who does God’s work, will get God’s pay,",
+              "indent": false
+            },
+            {
+              "text": "However long may seem the day,",
+              "indent": false
+            },
+            {
+              "text": "However weary be the way;",
+              "indent": false
+            },
+            {
+              "text": "Though powers and Princes thunder “nay,”",
+              "indent": false
+            },
+            {
+              "text": "Who does God’s work will get God’s pay.",
+              "indent": false
+            },
+            {
+              "text": "He does not pay as others pay,",
+              "indent": false
+            },
+            {
+              "text": "In gold, or land, or raiment gay,",
+              "indent": false
+            },
+            {
+              "text": "In goods that vanish and decay;",
+              "indent": false
+            },
+            {
+              "text": "But God in wisdom knows a way,",
+              "indent": false
+            },
+            {
+              "text": "And that is sure, let come what may,",
+              "indent": false
+            },
+            {
+              "text": "Who does God’s work, will get God’s pay.",
+              "indent": false
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Unknown."
+          "text": "—Unknown"
         }
       ]
     },
@@ -1209,43 +1944,123 @@
         {
           "type": "poem",
           "lines": [
-            "Straight through my heart this fact today,",
-            "By Truth’s own hand is driven:",
-            "God never takes one thing away,",
-            "But something else is given.",
-            "I did not know in earlier years",
-            "This law of love and kindness;",
-            "I only mourned through bitter tears",
-            "My loss, in sorrow’s blindness.",
-            "But, ever following each regret",
-            "O’er some departed treasure,",
-            "My sad repining heart was met",
-            "With unexpected pleasure.",
-            "I thought it only happened so;",
-            "But Time this truth has taught me—",
-            "No least thing from my life can go,",
-            "But something else is brought me.",
-            "It is the Law, complete, sublime;",
-            "And now with Faith unshaken,",
-            "In patience I but bide my time",
-            "When any joy is taken.",
-            "No matter if the crushing blow",
-            "May for the moment down me,",
-            "Still, behind it waits Love, I know,",
-            "With some new gift to crown me."
+            {
+              "text": "Straight through my heart this fact today,",
+              "indent": false
+            },
+            {
+              "text": "By Truth’s own hand is driven:",
+              "indent": true
+            },
+            {
+              "text": "God never takes one thing away,",
+              "indent": false
+            },
+            {
+              "text": "But something else is given.",
+              "indent": true
+            },
+            {
+              "text": "I did not know in earlier years",
+              "indent": false
+            },
+            {
+              "text": "This law of love and kindness;",
+              "indent": true
+            },
+            {
+              "text": "I only mourned through bitter tears",
+              "indent": false
+            },
+            {
+              "text": "My loss, in sorrow’s blindness.",
+              "indent": true
+            },
+            {
+              "text": "But, ever following each regret",
+              "indent": false
+            },
+            {
+              "text": "O’er some departed treasure,",
+              "indent": true
+            },
+            {
+              "text": "My sad repining heart was met",
+              "indent": false
+            },
+            {
+              "text": "With unexpected pleasure.",
+              "indent": true
+            },
+            {
+              "text": "I thought it only happened so;",
+              "indent": false
+            },
+            {
+              "text": "But Time this truth has taught me—",
+              "indent": true
+            },
+            {
+              "text": "No least thing from my life can go,",
+              "indent": false
+            },
+            {
+              "text": "But something else is brought me.",
+              "indent": true
+            },
+            {
+              "text": "It is the Law, complete, sublime;",
+              "indent": false
+            },
+            {
+              "text": "And now with Faith unshaken,",
+              "indent": true
+            },
+            {
+              "text": "In patience I but bide my time",
+              "indent": false
+            },
+            {
+              "text": "When any joy is taken.",
+              "indent": true
+            },
+            {
+              "text": "No matter if the crushing blow",
+              "indent": false
+            },
+            {
+              "text": "May for the moment down me,",
+              "indent": true
+            },
+            {
+              "text": "Still, behind it waits Love, I know,",
+              "indent": false
+            },
+            {
+              "text": "With some new gift to crown me.",
+              "indent": true
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Ella Wheeler Wilcox."
+          "text": "—Ella Wheeler Wilcox"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">The blow most dreaded often falls to break from off our limbs a chain.—<i>Unknown.</i></p>"
+          "html": "<p class=\"justify\">The blow most dreaded often falls to break from off our limbs a chain.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">God deals out our comforts and our sorrows with exact, unerring hand, in number, weight and measure. Hence we have not either joy or adversity a grain too little or too much.—<i>A. Toplady.</i> </p>"
+          "html": "<p class=\"justify\">God deals out our comforts and our sorrows with exact, unerring hand, in number, weight and measure. Hence we have not either joy or adversity a grain too little or too much.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—A. Toplady"
         }
       ]
     },
@@ -1270,28 +2085,68 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">When we pray for others the Spirit of God works in the unconscious domain of their being that we know nothing about, and the one we are praying for knows nothing about, but after the passing of time, the conscious life of the one prayed for begins to show signs of unrest and disquiet. We may have spoken until we are worn out, but have never come anywhere near, and we have given up in despair. But if we have been praying, we find on meeting them one day that there is the beginning of a softening in an enquiry and a desire to know something. It is that kind of intercession that does most damage to Satan’s kingdom. It is so slight, so feeble in its initial stages that if reason is not wedded to the light of the Holy Spirit, we will never obey it. It seems stupid to think that we can pray and all that will happen, but remember to Whom we pray, we pray to a God Who understands the unconscious depths of personality about which we know nothing, and He has told us to pray. The great Master of the human heart said, “Greater works than these shall he do . . . And whatsoever ye shall ask in my name, that will I do.”—<i>Oswald Chambers.</i></p>"
+          "html": "<p class=\"justify\">When we pray for others the Spirit of God works in the unconscious domain of their being that we know nothing about, and the one we are praying for knows nothing about, but after the passing of time, the conscious life of the one prayed for begins to show signs of unrest and disquiet. We may have spoken until we are worn out, but have never come anywhere near, and we have given up in despair. But if we have been praying, we find on meeting them one day that there is the beginning of a softening in an enquiry and a desire to know something. It is that kind of intercession that does most damage to Satan’s kingdom. It is so slight, so feeble in its initial stages that if reason is not wedded to the light of the Holy Spirit, we will never obey it. It seems stupid to think that we can pray and all that will happen, but remember to Whom we pray, we pray to a God Who understands the unconscious depths of personality about which we know nothing, and He has told us to pray. The great Master of the human heart said, “Greater works than these shall he do . . . And whatsoever ye shall ask in my name, that will I do.”</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Oswald Chambers"
         },
         {
           "type": "poem",
           "lines": [
-            "Can I neglect to pray, while there is one",
-            "Who needs the help my prayer can bring?",
-            "Can I ignore the cry of hearts as death",
-            "Draws near, when prayer can ease the sting?",
-            "Can I be blameless if I plainly see",
-            "Within the young and tender hearts",
-            "The stark bewilderment, the need, and breathe",
-            "No prayer against the evil darts?",
-            "Can I withhold from God the rarest alms,",
-            "And think that I have naught to give,",
-            "While someone needs a prayer to help him find",
-            "The way to Christ, that he might live?"
+            {
+              "text": "Can I neglect to pray, while there is one",
+              "indent": false
+            },
+            {
+              "text": "Who needs the help my prayer can bring?",
+              "indent": true
+            },
+            {
+              "text": "Can I ignore the cry of hearts as death",
+              "indent": false
+            },
+            {
+              "text": "Draws near, when prayer can ease the sting?",
+              "indent": true
+            },
+            {
+              "text": "Can I be blameless if I plainly see",
+              "indent": false
+            },
+            {
+              "text": "Within the young and tender hearts",
+              "indent": true
+            },
+            {
+              "text": "The stark bewilderment, the need, and breathe",
+              "indent": false
+            },
+            {
+              "text": "No prayer against the evil darts?",
+              "indent": true
+            },
+            {
+              "text": "Can I withhold from God the rarest alms,",
+              "indent": false
+            },
+            {
+              "text": "And think that I have naught to give,",
+              "indent": true
+            },
+            {
+              "text": "While someone needs a prayer to help him find",
+              "indent": false
+            },
+            {
+              "text": "The way to Christ, that he might live?",
+              "indent": true
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Pansy B. Menge."
+          "text": "—Pansy B. Menge"
         }
       ]
     },
@@ -1316,7 +2171,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">We are in great danger of degenerating into molluscous Christians. Christian preachers and writers ought, I think, to be continually reminding their people of the place of self-denial in the Christian life. If we let down the tone of the Church in this respect it may please God to give her a new chapter of discipline of persecution, for that has been the great means usually employed for teaching her that the Cross has to be borne in another sense than as an ornament on a lady’s bosom. “If any man will come after me, let him take up his cross daily and follow me.”—<i>Dr. W. G. Blaikie.</i></p>"
+          "html": "<p class=\"justify\">We are in great danger of degenerating into molluscous Christians. Christian preachers and writers ought, I think, to be continually reminding their people of the place of self-denial in the Christian life. If we let down the tone of the Church in this respect it may please God to give her a new chapter of discipline of persecution, for that has been the great means usually employed for teaching her that the Cross has to be borne in another sense than as an ornament on a lady’s bosom. “If any man will come after me, let him take up his cross daily and follow me.”</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. W. G. Blaikie"
         },
         {
           "type": "prose",
@@ -1381,10 +2240,22 @@
         {
           "type": "poem",
           "lines": [
-            "“He hath breathed into my heart",
-            "A special love of Thee,",
-            "A love to lose my will in His,",
-            "And by the loss be free.”"
+            {
+              "text": "“He hath breathed into my heart",
+              "indent": false
+            },
+            {
+              "text": "A special love of Thee,",
+              "indent": true
+            },
+            {
+              "text": "A love to lose my will in His,",
+              "indent": false
+            },
+            {
+              "text": "And by the loss be free.”",
+              "indent": true
+            }
           ]
         },
         {
@@ -1398,15 +2269,27 @@
         {
           "type": "poem",
           "lines": [
-            "I love Thee so, I know not how",
-            "My transports to control;",
-            "Thy love is like a burning fire",
-            "Within my very soul."
+            {
+              "text": "I love Thee so, I know not how",
+              "indent": false
+            },
+            {
+              "text": "My transports to control;",
+              "indent": true
+            },
+            {
+              "text": "Thy love is like a burning fire",
+              "indent": false
+            },
+            {
+              "text": "Within my very soul.",
+              "indent": true
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Daniel Steele."
+          "text": "—Daniel Steele"
         }
       ]
     },
@@ -1431,25 +2314,56 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Let us not live fretful lives. God will never stretch the line of our duty beyond the measure of our strength. We ought to live with the grace of the flowers, with the joy of the birds, with the freedom of the wind and wave. Without question this is God’s ideal of human life. We are expected to do no more than we can do with the time granted us, with the tools, the material, and the opportunity at our disposal. We serve no Egyptian taskmaster who watches to double the tale of bricks, but a generous Lord Who waits to make our duty our delight.—<i>W. L. Watkinson.</i></p>"
+          "html": "<p class=\"justify\">Let us not live fretful lives. God will never stretch the line of our duty beyond the measure of our strength. We ought to live with the grace of the flowers, with the joy of the birds, with the freedom of the wind and wave. Without question this is God’s ideal of human life. We are expected to do no more than we can do with the time granted us, with the tools, the material, and the opportunity at our disposal. We serve no Egyptian taskmaster who watches to double the tale of bricks, but a generous Lord Who waits to make our duty our delight.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—W. L. Watkinson"
         },
         {
           "type": "poem",
           "lines": [
-            "“As thy days, thy strength shall be,”",
-            "Lord, it is Thy word to me",
-            "Who dost all the need foresee. . . .",
-            "Not supplies that I can hoard,",
-            "For the future ready stored,",
-            "Daily feast I at Thy board. . . .",
-            "As my days bring varied need,",
-            "So my strength is guaranteed,",
-            "Lord, Thou art my strength indeed."
+            {
+              "text": "“As thy days, thy strength shall be,”",
+              "indent": false
+            },
+            {
+              "text": "Lord, it is Thy word to me",
+              "indent": false
+            },
+            {
+              "text": "Who dost all the need foresee. . . .",
+              "indent": false
+            },
+            {
+              "text": "Not supplies that I can hoard,",
+              "indent": false
+            },
+            {
+              "text": "For the future ready stored,",
+              "indent": false
+            },
+            {
+              "text": "Daily feast I at Thy board. . . .",
+              "indent": false
+            },
+            {
+              "text": "As my days bring varied need,",
+              "indent": false
+            },
+            {
+              "text": "So my strength is guaranteed,",
+              "indent": false
+            },
+            {
+              "text": "Lord, Thou art my strength indeed.",
+              "indent": false
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Adeline Braithwaite."
+          "text": "—Adeline Braithwaite"
         }
       ]
     },
@@ -1475,7 +2389,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">If we can live in Christ and have His life in us, shall not the spiritual balance and proportion which were His become ours too? If He were really our Master and our Savior, could it be that we should get so eager and excited over little things? If we were His, could we possibly be wretched over the losing of a little money which we did not need, or be exalted at the sound of a little praise which we know that we only half deserve and that the praisers only half intend? A moment’s disappointment, a moment’s gratification, and then the ocean would be calm again and quite forgetful of the ripple which disturbed its bosom.—<i>Phillips Brooks.</i></p>"
+          "html": "<p class=\"justify\">If we can live in Christ and have His life in us, shall not the spiritual balance and proportion which were His become ours too? If He were really our Master and our Savior, could it be that we should get so eager and excited over little things? If we were His, could we possibly be wretched over the losing of a little money which we did not need, or be exalted at the sound of a little praise which we know that we only half deserve and that the praisers only half intend? A moment’s disappointment, a moment’s gratification, and then the ocean would be calm again and quite forgetful of the ripple which disturbed its bosom.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Phillips Brooks"
         },
         {
           "type": "prose",
@@ -1515,11 +2433,19 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\"> “Then I shall be in Heaven, which is the truest life.”—<i>Gospel Gleaners.</i></p>"
+          "html": "<p class=\"justify\"> “Then I shall be in Heaven, which is the truest life.”</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Gospel Gleaners"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Where Christ brings His cross, He brings His presence; and where He is, none are desolate and there is no room for despair.—<i>Elizabeth B. Browning.</i> </p>"
+          "html": "<p class=\"justify\">Where Christ brings His cross, He brings His presence; and where He is, none are desolate and there is no room for despair.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Elizabeth B. Browning"
         }
       ]
     },
@@ -1541,34 +2467,68 @@
         {
           "type": "poem",
           "lines": [
-            "Give what Thou canst; without Thee we are poor;",
-            "And with Thee rich, take what Thou wilt away."
+            {
+              "text": "Give what Thou canst; without Thee we are poor;",
+              "indent": false
+            },
+            {
+              "text": "And with Thee rich, take what Thou wilt away.",
+              "indent": false
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—William Cowper."
+          "text": "—William Cowper"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">A little with the blessing of God upon it is better than a great deal with the incumbrance of His curse. His blessing can multiply a mite into a talent, but His curse will shrink a talent into a mite. By Him the arms of the wicked are broken, and by Him the righteous are upholden. So that the great question is, Whether He be with or against us? The favor of God is to them that obtain it a better and enduring substance, which, like the widow’s barrel of oil, wasted not in the evil days of famine, nor will fail.—<i>Bishop Horne.</i></p>"
+          "html": "<p class=\"justify\">A little with the blessing of God upon it is better than a great deal with the incumbrance of His curse. His blessing can multiply a mite into a talent, but His curse will shrink a talent into a mite. By Him the arms of the wicked are broken, and by Him the righteous are upholden. So that the great question is, Whether He be with or against us? The favor of God is to them that obtain it a better and enduring substance, which, like the widow’s barrel of oil, wasted not in the evil days of famine, nor will fail.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Bishop Horne"
         },
         {
           "type": "poem",
           "lines": [
-            "In palaces are hearts that ask,",
-            "In discontent and pride,",
-            "Why life is such a dreary task",
-            "And all things good denied.",
-            "Yet hearts in poorest huts admire",
-            "How love has in their aid",
-            "(Love that not ever seems to tire)",
-            "Such rich provision made."
+            {
+              "text": "In palaces are hearts that ask,",
+              "indent": false
+            },
+            {
+              "text": "In discontent and pride,",
+              "indent": true
+            },
+            {
+              "text": "Why life is such a dreary task",
+              "indent": false
+            },
+            {
+              "text": "And all things good denied.",
+              "indent": true
+            },
+            {
+              "text": "Yet hearts in poorest huts admire",
+              "indent": false
+            },
+            {
+              "text": "How love has in their aid",
+              "indent": true
+            },
+            {
+              "text": "(Love that not ever seems to tire)",
+              "indent": false
+            },
+            {
+              "text": "Such rich provision made.",
+              "indent": true
+            }
           ]
         },
         {
           "type": "attribution",
-          "text": "—Richard Chevenix Trench."
+          "text": "—Richard Chevenix Trench"
         },
         {
           "type": "prose",

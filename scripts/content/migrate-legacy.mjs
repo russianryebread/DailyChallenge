@@ -276,6 +276,91 @@ function isItalicLead(node) {
   return ['i', 'em'].includes(getTagName(firstElement));
 }
 
+// Poem lines encode their book indentation as leading whitespace inside the
+// source paragraph, which plainText() otherwise trims away.
+function hasLeadingIndent(node) {
+  return /^[ \t ]/.test(collectVisibleText(node).join(''));
+}
+
+// Attribution credits follow the book style: no trailing period after the name.
+// A final period that terminates a lone initial (e.g. "—E. S. M.") is part of
+// the abbreviation and is preserved.
+function stripTrailingPeriod(text) {
+  if (/(^|[\s.])\p{Lu}\.$/u.test(text)) {
+    return text.trimEnd();
+  }
+  return text.replace(/\.\s*$/, '').trimEnd();
+}
+
+// A verse paragraph either leads with an italic quote or is a quotation that
+// closes with a scripture reference such as "(Gal. 3:6)".
+function isScriptureParagraph(node, text) {
+  if (getTagName(node) !== 'p') {
+    return false;
+  }
+  if (!/^\s*[“"„«]/.test(text)) {
+    return false;
+  }
+  if (isItalicLead(node)) {
+    return true;
+  }
+  const { reference } = scriptureParts(text);
+  return Boolean(reference && /\d/.test(reference));
+}
+
+// Detach a trailing "—<i>Author</i>" credit baked onto the end of a prose
+// paragraph so it renders as its own attribution block. Mutates the node to
+// drop the credit and returns the normalized attribution text, or null when the
+// paragraph does not end with an italic citation.
+function extractTrailingAttribution(node) {
+  const children = node.childNodes ?? [];
+
+  let lastIndex = -1;
+  for (let index = children.length - 1; index >= 0; index -= 1) {
+    const child = children[index];
+    if (child.nodeName === '#text' && child.value.trim() === '') {
+      continue;
+    }
+    lastIndex = index;
+    break;
+  }
+  if (lastIndex < 0 || !['i', 'em'].includes(getTagName(children[lastIndex]))) {
+    return null;
+  }
+
+  let precedingText = null;
+  let precedingIndex = -1;
+  for (let index = lastIndex - 1; index >= 0; index -= 1) {
+    const child = children[index];
+    if (child.nodeName !== '#text') {
+      return null;
+    }
+    if (child.value.trim() === '') {
+      continue;
+    }
+    precedingText = child;
+    precedingIndex = index;
+    break;
+  }
+  if (!precedingText) {
+    return null;
+  }
+
+  const trimmedEnd = precedingText.value.replace(/\s+$/, '');
+  if (!/[—–]$/.test(trimmedEnd)) {
+    return null;
+  }
+
+  const name = stripTrailingPeriod(plainText(children[lastIndex]).trim());
+  if (!name) {
+    return null;
+  }
+
+  precedingText.value = trimmedEnd.replace(/[—–]\s*$/, '').replace(/\s+$/, '');
+  node.childNodes = children.slice(0, precedingIndex + 1);
+  return `—${name}`;
+}
+
 function toBlocks(fragment) {
   const blocks = [];
   let poemLines = [];
@@ -302,22 +387,26 @@ function toBlocks(fragment) {
     const classNames = getClassNames(node);
 
     if (tagName === 'div' && classNames.some((name) => ['c3', 'c6'].includes(name))) {
-      poemLines.push(text);
+      poemLines.push({ text, indent: hasLeadingIndent(node) });
       continue;
     }
 
     flushPoem();
 
-    if (tagName === 'p' && isItalicLead(node) && /^[“\"„]/.test(text)) {
+    if (isScriptureParagraph(node, text)) {
       blocks.push({ type: 'scripture', ...scriptureParts(text), sourceText: text });
     } else if (
       (tagName === 'p' &&
         classNames.some((name) => ['author', 'c4', 'c8', 'c10'].includes(name))) ||
       /^[—–-]/.test(text)
     ) {
-      blocks.push({ type: 'attribution', text });
+      blocks.push({ type: 'attribution', text: stripTrailingPeriod(text) });
     } else if (tagName === 'p') {
-      blocks.push({ type: 'prose', html: serializeNode(node), text });
+      const attribution = extractTrailingAttribution(node);
+      blocks.push({ type: 'prose', html: serializeNode(node), text: plainText(node) });
+      if (attribution) {
+        blocks.push({ type: 'attribution', text: attribution });
+      }
     } else if (tagName === 'blockquote') {
       blocks.push({ type: 'quotation', html: serializeNode(node), text });
     } else if (tagName === 'ul' || tagName === 'ol') {

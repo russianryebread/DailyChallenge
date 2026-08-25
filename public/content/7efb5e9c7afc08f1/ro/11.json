@@ -1,5 +1,5 @@
 {
-  "contentVersion": "9fa790cf97a703d8",
+  "contentVersion": "7efb5e9c7afc08f1",
   "locale": "ro",
   "month": "11",
   "readings": [
@@ -677,12 +677,13 @@
       "title": "UN TIMP LINIȘTIT ÎN PĂRTĂȘIE CU DUMNEZEU",
       "blocks": [
         {
-          "type": "prose",
-          "html": "<p><i>«Isus le‐a zis: «Veniți singuri la o parte, într‐un loc pustiu, și odihniți‐vă puțin.» Căci erau mulți care veneau și se duceau, și ei n‐aveau vreme nici să mănânce.»“ </i>(Marcu 6.31)</p>"
+          "type": "scripture",
+          "text": "«Isus le‐a zis: «Veniți singuri la o parte, într‐un loc pustiu, și odihniți‐vă puțin.» Căci erau mulți care veneau și se duceau, și ei n‐aveau vreme nici să mănânce.»“",
+          "reference": "Marcu 6.31"
         },
         {
-          "type": "prose",
-          "html": "<p><i>«Isus a zis: «Spuneți oamenilor să șadă jos.»“ </i>(Ioan 6.10)<br>\n<i>„El i‐a luat cu Sine, și S‐a dus la o parte, lângă o cetate.“</i></p>"
+          "type": "scripture",
+          "text": "«Isus a zis: «Spuneți oamenilor să șadă jos.»“ (Ioan 6.10)\n\n„El i‐a luat cu Sine, și S‐a dus la o parte, lângă o cetate.“"
         },
         {
           "type": "prose",
