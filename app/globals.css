@@ -86,13 +86,15 @@ a:focus-visible {
 .reading-screen {
   position: relative;
   min-height: 100svh;
-  overflow: hidden;
   background: var(--paper-0);
 }
 
+/* Sticky hero: the reading content scrolls up and over it. */
 .reading-hero {
-  position: relative;
-  min-height: 330px;
+  position: sticky;
+  top: 0;
+  z-index: 0;
+  min-height: 340px;
   color: var(--paper-0);
   background:
     linear-gradient(to top, rgba(42, 35, 32, 0.62), rgba(42, 35, 32, 0.16) 58%, rgba(42, 35, 32, 0)),
@@ -100,12 +102,20 @@ a:focus-visible {
 }
 
 .app-bar {
-  position: relative;
-  z-index: 2;
   display: flex;
-  min-height: calc(52px + var(--safe-top));
   align-items: center;
   justify-content: space-between;
+}
+
+/* Reader top bar: overlaid on the hero on mobile, extending under the status
+   bar; moved outside the hero (light chrome) on desktop. */
+.reading-topbar {
+  position: absolute;
+  z-index: 3;
+  top: 0;
+  right: 0;
+  left: 0;
+  min-height: calc(52px + var(--safe-top));
   padding: var(--safe-top) 20px 0;
 }
 
@@ -127,6 +137,11 @@ a:focus-visible {
   gap: 4px;
 }
 
+/* Aa (reader settings) is desktop-only; on mobile settings live in the tab bar. */
+.app-actions .reader-settings-btn {
+  display: none;
+}
+
 .icon-button {
   display: grid;
   width: 44px;
@@ -143,8 +158,9 @@ a:focus-visible {
 .hero-copy {
   position: absolute;
   right: 20px;
-  bottom: 48px;
+  bottom: 44px;
   left: 20px;
+  will-change: transform, opacity;
 }
 
 .eyebrow {
@@ -163,23 +179,17 @@ a:focus-visible {
 
 .hero-meta {
   display: flex;
-  gap: 8px;
-  margin-top: 24px;
-  letter-spacing: 0.08em;
-}
-
-.hero-meta span {
-  border: 1px solid rgba(255, 253, 251, 0.2);
-  border-radius: 999px;
-  background: rgba(255, 253, 251, 0.14);
-  padding: 6px 11px;
-  backdrop-filter: blur(14px);
+  justify-content: flex-end;
+  gap: 16px;
+  margin-top: 20px;
+  color: rgba(255, 253, 251, 0.9);
+  font-variant: all-small-caps;
+  letter-spacing: 0.1em;
 }
 
 .reading-card {
   position: relative;
-  margin-top: -24px;
-  border-radius: 28px 28px 0 0;
+  z-index: 1;
   background: var(--paper-0);
 }
 
@@ -248,7 +258,7 @@ a:focus-visible {
   text-indent: 0;
 }
 
-.poem-line-indent {
+.poem-line:nth-child(odd) {
   padding-left: 1.75em;
 }
 
@@ -361,6 +371,66 @@ a:focus-visible {
   text-decoration: none;
 }
 
+/* Offline fallback screen (matches the app's warm style) */
+.offline-screen {
+  display: grid;
+  place-items: center;
+  min-height: 100svh;
+  padding: 24px;
+  background: var(--paper-1);
+}
+
+.offline-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  width: min(100%, 26rem);
+  padding: 40px 28px;
+  border: 1px solid var(--border-subtle);
+  border-radius: 20px;
+  background: var(--paper-0);
+  box-shadow: 0 24px 60px -34px rgba(58, 42, 34, 0.4);
+  text-align: center;
+}
+
+.offline-icon {
+  display: grid;
+  width: 60px;
+  height: 60px;
+  place-items: center;
+  margin-bottom: 4px;
+  border-radius: 999px;
+  background: var(--apricot-100);
+  color: var(--apricot-500);
+}
+
+.offline-card h1 {
+  margin: 0;
+  color: var(--ink-900);
+  font: 300 1.7rem/1.15 var(--font-reading);
+}
+
+.offline-card p {
+  margin: 0;
+  max-width: 22rem;
+  color: var(--ink-500);
+  font: 400 1rem/1.55 var(--font-reading);
+}
+
+.offline-link {
+  margin-top: 12px;
+  min-height: 46px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 22px;
+  border-radius: 999px;
+  background: var(--apricot-500);
+  color: var(--paper-0);
+  font: 600 0.9rem/1 var(--font-ui);
+  text-decoration: none;
+}
+
 /* Archive / list screens */
 .list-screen {
   position: relative;
@@ -368,19 +438,21 @@ a:focus-visible {
   background: var(--paper-0);
 }
 
+/* Colored header band — contrasts with the paper body and lets the header
+   paint under the translucent status bar. */
 .list-header {
-  padding: calc(28px + var(--safe-top)) 24px 8px;
-  background: var(--paper-1);
-  border-bottom: 1px solid var(--border-subtle);
+  padding: calc(28px + var(--safe-top)) 24px 16px;
+  color: var(--paper-0);
+  background: linear-gradient(158deg, #e0a074 0%, #bf7d84 100%);
 }
 
 .list-eyebrow {
-  color: var(--apricot-500);
+  color: rgba(255, 253, 251, 0.82);
 }
 
 .list-header h1 {
   margin: 6px 0 0;
-  color: var(--ink-900);
+  color: var(--paper-0);
   font: 300 clamp(2rem, 7vw, 2.6rem) / 1.08 var(--font-reading);
   letter-spacing: -0.02em;
 }
@@ -400,11 +472,11 @@ a:focus-visible {
 
 .month-chip {
   flex: 0 0 auto;
-  border: 1px solid var(--border-subtle);
+  border: 1px solid rgba(255, 253, 251, 0.3);
   border-radius: 999px;
-  padding: 8px 14px;
-  background: var(--paper-0);
-  color: var(--ink-500);
+  padding: 10px 12px;
+  background: rgba(255, 253, 251, 0.14);
+  color: rgba(255, 253, 251, 0.92);
   font: 600 0.8rem/1 var(--font-ui);
   text-decoration: none;
   text-transform: capitalize;
@@ -412,8 +484,8 @@ a:focus-visible {
 
 .month-chip.active {
   border-color: transparent;
-  background: var(--apricot-500);
-  color: var(--paper-0);
+  background: var(--paper-0);
+  color: var(--apricot-500);
 }
 
 .reading-index {
@@ -472,11 +544,18 @@ a:focus-visible {
 }
 
 .header-search-link {
-  color: var(--apricot-500);
+  color: rgba(255, 253, 251, 0.92);
   font: 600 0.72rem/1 var(--font-ui);
   letter-spacing: 0.07em;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+/* Menu button sits on the colored header band on list screens. */
+.list-header .app-menu-button {
+  border-color: rgba(255, 253, 251, 0.28);
+  background: rgba(255, 253, 251, 0.16);
+  color: var(--paper-0);
 }
 
 /* Search */
@@ -670,27 +749,40 @@ a:focus-visible {
     width: min(100%, 800px);
     min-height: calc(100svh - 64px);
     margin: 0 auto;
-    border-radius: 28px;
+    overflow: hidden;
+    border-radius: 10px;
     box-shadow: 0 24px 60px -28px rgba(58, 42, 34, 0.3);
   }
 
-  .app-bar {
-    padding-right: 40px;
-    padding-left: 40px;
+  /* Desktop: the wordmark + actions live outside the hero as light chrome. */
+  .reading-topbar {
+    position: static;
+    min-height: 60px;
+    padding: 0 24px;
+    background: var(--paper-0);
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .reading-topbar .wordmark {
+    color: var(--ink-500);
+  }
+
+  .reading-topbar .icon-button {
+    background: transparent;
+    color: var(--ink-700);
+  }
+
+  .reading-topbar .icon-button:hover {
+    background: var(--paper-1);
+  }
+
+  .app-actions .reader-settings-btn {
+    display: grid;
   }
 
   .hero-copy {
     right: 40px;
     left: 40px;
-  }
-
-  .tab-bar {
-    right: max(32px, calc((100vw - 800px) / 2));
-    bottom: 32px;
-    left: max(32px, calc((100vw - 800px) / 2));
-    border: 1px solid var(--border-subtle);
-    border-radius: 0 0 28px 28px;
-    padding-bottom: 5px;
   }
 }
 

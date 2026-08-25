@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import Link from 'next/link';
 
 import type { Locale, LocalizedReading, ReadingBlock } from '@/src/core/types';
 import type { NeighborRef } from '@/src/content/navigation';
@@ -10,7 +11,9 @@ import {
   previousInSequence,
   toMonthDay,
 } from '@/src/core/calendar';
+import { messages } from '@/src/i18n/messages';
 import { ReadingScreen } from '@/src/features/reader/ReadingScreen';
+import { Icon } from '@/src/features/shell/icons';
 
 interface SearchEntry {
   id: number;
@@ -49,7 +52,7 @@ function parsePath(pathname: string): Parsed | null {
 
 type State =
   | { status: 'loading' }
-  | { status: 'notfound' }
+  | { status: 'notfound'; locale: Locale }
   | {
       status: 'ready';
       reading: LocalizedReading;
@@ -74,7 +77,7 @@ export function OfflineReader() {
     (async () => {
       const parsed = parsePath(window.location.pathname);
       if (!parsed) {
-        if (active) setState({ status: 'notfound' });
+        if (active) setState({ status: 'notfound', locale: 'en' });
         return;
       }
       try {
@@ -94,7 +97,7 @@ export function OfflineReader() {
             ? toMonthDay(new Date())
             : byId.get(parsed.id)?.monthDay;
         if (!monthDay) {
-          if (active) setState({ status: 'notfound' });
+          if (active) setState({ status: 'notfound', locale: parsed.locale });
           return;
         }
 
@@ -105,7 +108,7 @@ export function OfflineReader() {
         const monthReading = monthDoc.readings.find((r) => r.monthDay === monthDay);
         const searchEntry = byMonthDay.get(monthDay);
         if (!monthReading || !searchEntry) {
-          if (active) setState({ status: 'notfound' });
+          if (active) setState({ status: 'notfound', locale: parsed.locale });
           return;
         }
 
@@ -135,7 +138,7 @@ export function OfflineReader() {
           });
         }
       } catch {
-        if (active) setState({ status: 'notfound' });
+        if (active) setState({ status: 'notfound', locale: parsed.locale });
       }
     })();
     return () => {
@@ -152,12 +155,20 @@ export function OfflineReader() {
   }
 
   if (state.status === 'notfound') {
+    const copy = messages(state.locale);
+    const prefix = state.locale === 'ro' ? '/ro' : '';
     return (
       <main className="app-shell">
-        <section className="reading-screen placeholder-screen" aria-label="Offline">
-          <div className="placeholder-body">
-            <h1>Unavailable offline</h1>
-            <p>Reconnect to load this page.</p>
+        <section className="offline-screen" aria-label={copy.offline.title}>
+          <div className="offline-card">
+            <span className="offline-icon" aria-hidden="true">
+              <Icon name="today" size={30} />
+            </span>
+            <h1>{copy.offline.title}</h1>
+            <p>{copy.offline.body}</p>
+            <Link className="offline-link" href={`${prefix}/today`}>
+              {copy.offline.today}
+            </Link>
           </div>
         </section>
       </main>

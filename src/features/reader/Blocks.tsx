@@ -24,13 +24,12 @@ function PoemBlockView({
 }: {
   lines: { text: string; indent: boolean }[];
 }) {
+  // Alternating inset is handled in CSS (.poem-line:nth-child(odd)); the markup
+  // stays flat so it no longer carries per-line inset classes.
   return (
     <div className="poem" role="group">
       {lines.map((line, index) => (
-        <p
-          className={line.indent ? 'poem-line poem-line-indent' : 'poem-line'}
-          key={index}
-        >
+        <p className="poem-line" key={index}>
           {line.text}
         </p>
       ))}

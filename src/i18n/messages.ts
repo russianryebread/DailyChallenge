@@ -22,6 +22,9 @@ export interface Messages {
   comingSoon: string;
   menu: string;
   savedEmpty: string;
+  share: string;
+  linkCopied: string;
+  offline: { title: string; body: string; today: string };
   search: {
     label: string;
     placeholder: string;
@@ -83,6 +86,9 @@ const CATALOG: Record<Locale, Messages> = {
     comingSoon: 'Coming soon',
     menu: 'Menu',
     savedEmpty: 'Readings you save appear here. Tap the bookmark on any reading.',
+    share: 'Share',
+    linkCopied: 'Link copied',
+    offline: { title: 'Not available offline', body: 'This reading hasn\u2019t been saved for offline yet. Reconnect to load it.', today: 'Go to today\u2019s reading' },
     search: {
       label: 'Search readings',
       placeholder: 'Search readings',
@@ -142,6 +148,9 @@ const CATALOG: Record<Locale, Messages> = {
     comingSoon: 'În curând',
     menu: 'Meniu',
     savedEmpty: 'Lecturile salvate apar aici. Atinge semnul de carte de pe orice lectură.',
+    share: 'Distribuie',
+    linkCopied: 'Link copiat',
+    offline: { title: 'Indisponibil offline', body: 'Aceast\u0103 lectur\u0103 nu a fost salvat\u0103 \u00eenc\u0103 pentru offline. Reconecteaz\u0103-te pentru a o \u00eenc\u0103rca.', today: 'Mergi la lectura de azi' },
     search: {
       label: 'Caută în lecturi',
       placeholder: 'Caută în lecturi',

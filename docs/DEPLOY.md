@@ -3,21 +3,19 @@
 The app is a vinext (Next.js on Vite) project that builds to a Cloudflare
 Worker with static assets. It deploys to **app.dailychallenge.me**.
 
-## Automatic deploy on push
+## Automatic deploy (Cloudflare git integration)
 
-`.github/workflows/deploy.yml` builds and deploys on every push to `main`.
+Deployment is handled on Cloudflare's side via Workers Builds connected to this
+GitHub repo — there is no GitHub Actions workflow. Configure the build in the
+Cloudflare dashboard (Workers & Pages → the `daily-challenge-pwa` worker →
+Settings → Builds):
 
-It needs two GitHub repository secrets (Settings → Secrets and variables →
-Actions):
+- **Build command:** `npm run build`
+- **Deploy command:** `npx wrangler deploy --config dist/server/wrangler.json`
 
-- `CLOUDFLARE_API_TOKEN` — a token with **Workers Scripts: Edit** and, for the
-  custom domain, **Zone → DNS: Edit** and **Workers Routes: Edit** on the
-  `dailychallenge.me` zone. Create it at
-  <https://dash.cloudflare.com/profile/api-tokens> (the "Edit Cloudflare
-  Workers" template plus DNS edit works).
-- `CLOUDFLARE_ACCOUNT_ID` — your account ID (Workers & Pages → Overview).
-
-Until both secrets exist the workflow runs but the deploy step fails.
+`vinext build` generates `dist/server/wrangler.json`; the deploy command uses it.
+The custom domain **app.dailychallenge.me** is bound once in the dashboard
+(the same worker → Settings → Domains & Routes).
 
 ## Manual deploy
 
@@ -25,18 +23,10 @@ Until both secrets exist the workflow runs but the deploy step fails.
 npm run deploy
 ```
 
-This builds, patches the generated `dist/server/wrangler.json` with the custom
-domain, and runs `wrangler deploy`. Authenticate first with `wrangler login` or
-by exporting `CLOUDFLARE_API_TOKEN`.
-
-## Custom domain
-
-`scripts/patch-wrangler.mjs` adds `app.dailychallenge.me` as a Worker custom
-domain (override with `DEPLOY_DOMAIN`). The `dailychallenge.me` zone must be on
-the same Cloudflare account; Wrangler creates the DNS record and route on first
-deploy. Alternatively set the custom domain once in the dashboard
-(Workers & Pages → the `daily-challenge-pwa` worker → Settings → Domains &
-Routes) and remove the patch step.
+This builds, patches the generated `dist/server/wrangler.json` to add the custom
+domain (`scripts/patch-wrangler.mjs`, override with `DEPLOY_DOMAIN`), and runs
+`wrangler deploy`. Authenticate first with `wrangler login`. The patch step is
+optional if the domain is already bound in the dashboard.
 
 ## Keeping the app 100% offline-capable
 

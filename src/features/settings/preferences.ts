@@ -40,6 +40,39 @@ export function readTextSize(): TextSize {
   }
 }
 
+// Status-bar / overscroll colors, matching --paper-1 in each theme.
+export const THEME_COLORS = { light: '#faf5f0', dark: '#1a1512' } as const;
+
+function prefersDark(): boolean {
+  try {
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
+  } catch {
+    return false;
+  }
+}
+
+/** Whether dark surfaces are currently active for the given (or stored) choice. */
+export function isDarkActive(theme?: ThemeChoice): boolean {
+  const choice = theme ?? readTheme();
+  return choice === 'dark' || (choice === 'system' && prefersDark());
+}
+
+/**
+ * Keep <meta name="theme-color"> in sync with the active theme so the status bar
+ * and overscroll area are never the wrong color (e.g. white in dark mode). Keyed
+ * on the app's theme choice, not just the system preference.
+ */
+export function updateThemeColor(theme?: ThemeChoice): void {
+  const color = isDarkActive(theme) ? THEME_COLORS.dark : THEME_COLORS.light;
+  let meta = document.querySelector<HTMLMetaElement>('meta[name="theme-color"]');
+  if (!meta) {
+    meta = document.createElement('meta');
+    meta.name = 'theme-color';
+    document.head.appendChild(meta);
+  }
+  meta.setAttribute('content', color);
+}
+
 export function applyTheme(theme: ThemeChoice): void {
   const root = document.documentElement;
   if (theme === 'system') {
@@ -47,6 +80,7 @@ export function applyTheme(theme: ThemeChoice): void {
   } else {
     root.setAttribute('data-theme', theme);
   }
+  updateThemeColor(theme);
 }
 
 export function applyTextSize(size: TextSize): void {
@@ -143,4 +177,4 @@ export function savePrevNext(enabled: boolean): void {
  * Inline script that runs before first paint to prevent a theme/size flash.
  * Kept as a literal string so it can be injected without hydration.
  */
-export const NO_FLASH_SCRIPT = `(function(){try{var d=document.documentElement;var t=localStorage.getItem('${THEME_KEY}');if(t==='light'||t==='dark'){d.setAttribute('data-theme',t);}var s=localStorage.getItem('${TEXT_KEY}');var m={small:'17px',medium:'19px',large:'20px'};if(s&&m[s]){d.style.setProperty('--reading-size',m[s]);}if(localStorage.getItem('${PREVNEXT_KEY}')==='on'){d.setAttribute('data-prevnext','on');}}catch(e){}})();`;
+export const NO_FLASH_SCRIPT = `(function(){try{var d=document.documentElement;var t=localStorage.getItem('${THEME_KEY}');if(t==='light'||t==='dark'){d.setAttribute('data-theme',t);}var s=localStorage.getItem('${TEXT_KEY}');var m={small:'17px',medium:'19px',large:'20px'};if(s&&m[s]){d.style.setProperty('--reading-size',m[s]);}if(localStorage.getItem('${PREVNEXT_KEY}')==='on'){d.setAttribute('data-prevnext','on');}var dark=t==='dark'||(t!=='light'&&window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches);var mc=document.querySelector('meta[name="theme-color"]');if(!mc){mc=document.createElement('meta');mc.setAttribute('name','theme-color');document.head.appendChild(mc);}mc.setAttribute('content',dark?'${THEME_COLORS.dark}':'${THEME_COLORS.light}');}catch(e){}})();`;

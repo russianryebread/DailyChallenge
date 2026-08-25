@@ -63,7 +63,7 @@ self.addEventListener('install', (event) => {
           const manifest = await response.json();
           const version = manifest.contentVersion;
           const urls = (manifest.files || []).map(
-            (file) => `/content/${version}/${file.name}`,
+            (file) => file.url || `/content/${version}/${file.name}`,
           );
           urls.push('/content/manifest.json');
           await Promise.allSettled(urls.map((url) => putSafe(cache, url)));

@@ -11,7 +11,9 @@ import { TabBar } from '@/src/features/shell/TabBar';
 import { AppMenu } from '@/src/features/shell/AppMenu';
 import { Blocks } from './Blocks';
 import { SaveButton } from './SaveButton';
+import { ShareButton } from './ShareButton';
 import { ReadingTracker } from './ReadingTracker';
+import { HeroParallax } from './HeroParallax';
 
 function localePrefix(locale: Locale): string {
   return locale === 'ro' ? '/ro' : '';
@@ -72,23 +74,25 @@ export function ReadingScreen({
   return (
     <main className="app-shell">
       <ReadingTracker monthDay={reading.monthDay} />
+      <HeroParallax />
       <section className="reading-screen" aria-label={reading.title}>
-        <header className="reading-hero">
-          <nav className="app-bar" aria-label={copy.wordmark}>
-            <span className="wordmark">{copy.wordmark}</span>
-            <div className="app-actions">
-              <SaveButton monthDay={reading.monthDay} locale={locale} />
-              <Link
-                className="icon-button"
-                href={`${prefix}/settings`}
-                aria-label={copy.readerSettings}
-              >
-                Aa
-              </Link>
-              <AppMenu locale={locale} active="today" />
-            </div>
-          </nav>
+        <nav className="app-bar reading-topbar" aria-label={copy.wordmark}>
+          <span className="wordmark">{copy.wordmark}</span>
+          <div className="app-actions">
+            <SaveButton monthDay={reading.monthDay} locale={locale} />
+            <ShareButton id={reading.id} title={reading.title} locale={locale} />
+            <Link
+              className="icon-button reader-settings-btn"
+              href={`${prefix}/settings`}
+              aria-label={copy.readerSettings}
+            >
+              Aa
+            </Link>
+            <AppMenu locale={locale} active="today" />
+          </div>
+        </nav>
 
+        <header className="reading-hero">
           <div className="hero-copy">
             <p className="eyebrow">{dateLabel}</p>
             <h1>{reading.title}</h1>

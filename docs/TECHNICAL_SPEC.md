@@ -405,8 +405,9 @@ Use semantic buttons, links, radio groups, dialogs, and landmarks. Do not implem
 - Mobile screen gutter: 20px.
 - Mobile reading gutter: 24px.
 - Minimum control target: 44x44px.
-- Mobile reading hero: approximately 280–330px.
-- Paper panel overlaps hero by 24px with 28px upper corners.
+- Mobile reading hero: approximately 340px.
+- The reading pane meets the hero flush — no corner radius and no negative
+  overlap. The hero is sticky and the reading content scrolls up over it.
 
 Text remains ragged right, is never justified, and is not automatically hyphenated.
 
@@ -658,3 +659,59 @@ These decisions do not block the first content/architecture work but must be res
 The repository has been initialized with the Sites-compatible web scaffold. The first product slice is the August 24 reading, using the approved warm palette, overlapped paper reading surface, responsive reading measure, safe-area-aware navigation, semantic actions, and real legacy content.
 
 The next implementation checkpoint is the bilingual content-migration proof. It is the highest-risk dependency and must be validated before bulk feature development.
+
+## 21. Reader chrome, navigation, and PWA refinements
+
+These decisions refine sections 12–15 as built:
+
+### 21.1 Reader header
+
+- The hero is sticky; the title and metadata parallax upward and fade as the
+  page scrolls, and the reading content scrolls over the hero. Parallax is
+  disabled under `prefers-reduced-motion`.
+- Reading-day and reading-time metadata are right-aligned small caps with no
+  pill/background.
+- Mobile: the wordmark and actions overlay the hero and extend under the status
+  bar (see 21.4). The reader-settings (`Aa`) control is hidden on mobile because
+  Settings is a bottom-tab destination; it appears only on desktop.
+- Desktop: the wordmark and action icons move out of the hero into a light top
+  bar above it. The reading-screen card uses a 10px radius; the reading pane has
+  no radius and no negative overlap.
+- A Share action uses the Web Share API (mobile and supporting desktop
+  browsers) and falls back to copying the reading's permalink to the clipboard.
+
+### 21.2 Poem inset
+
+Poem markup is flat (no per-line inset classes); alternating inset is applied in
+CSS via `.poem-line:nth-child(odd)`.
+
+### 21.3 List/secondary headers
+
+Archive, Search, Saved, Settings, and Support use a warm colored header band
+(distinct from the paper body) with light text, so the header reads clearly and
+paints under the translucent status bar. Month chips use `10px 12px` padding.
+
+### 21.4 Status bar, theme color, and icon
+
+- `apple-mobile-web-app-status-bar-style` is `black-translucent` so headers paint
+  under the safe area rather than leaving a status-bar band.
+- A single `theme-color` meta is kept in sync with the *active* theme (light or
+  dark), not just the system preference, so the status bar and overscroll are
+  never the wrong color in an explicitly chosen dark mode. Applied before first
+  paint by the no-flash script and maintained by `ThemeColorSync`.
+- The installed-app icon is derived from the native sunset app icon
+  (`/icons/*`, plus `apple-touch-icon`). Note: keep these committed — a global
+  `Icon?` gitignore rule can silently drop a `public/icons/` directory.
+
+### 21.5 Offline fallback
+
+When a route is not individually cached offline, the service worker serves the
+`/offline` client shell, which renders the requested reading from the precached
+content library. When content is genuinely unavailable it shows a styled
+"Not available offline" screen (warm card, icon, and a link to Today) rather than
+a browser error.
+
+### 21.6 Deployment
+
+Deployment runs on Cloudflare's side (Workers Builds git integration); there is
+no GitHub Actions workflow. See [DEPLOY.md](./DEPLOY.md).

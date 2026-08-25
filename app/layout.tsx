@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next';
 import './globals.css';
 import { NO_FLASH_SCRIPT } from '@/src/features/settings/preferences';
 import { RegisterSW } from '@/src/features/pwa/RegisterSW';
+import { ThemeColorSync } from '@/src/features/pwa/ThemeColorSync';
 
 export const metadata: Metadata = {
   title: {
@@ -13,7 +14,8 @@ export const metadata: Metadata = {
   applicationName: 'Daily Challenge',
   appleWebApp: {
     capable: true,
-    statusBarStyle: 'default',
+    // Translucent status bar so the hero/header paints under the safe area.
+    statusBarStyle: 'black-translucent',
     title: 'Daily Challenge',
   },
   icons: {
@@ -27,10 +29,9 @@ export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
   viewportFit: 'cover',
-  themeColor: [
-    { media: '(prefers-color-scheme: light)', color: '#faf5f0' },
-    { media: '(prefers-color-scheme: dark)', color: '#1a1512' },
-  ],
+  // A single base theme-color; the no-flash script and ThemeColorSync update it
+  // to match the active (light/dark) theme, not just the system preference.
+  themeColor: '#faf5f0',
 };
 
 export default function RootLayout({
@@ -44,6 +45,7 @@ export default function RootLayout({
         <script dangerouslySetInnerHTML={{ __html: NO_FLASH_SCRIPT }} />
         {children}
         <RegisterSW />
+        <ThemeColorSync />
       </body>
     </html>
   );
