@@ -116,8 +116,8 @@ a:focus-visible {
   justify-content: space-between;
 }
 
-/* Reader top bar: overlaid on the hero on mobile, extending under the status
-   bar; moved outside the hero (light chrome) on desktop. */
+/* Reader top bar: overlays the hero on mobile (extends under the status bar).
+   Hidden on desktop, where the shared DesktopNav provides the chrome. */
 .reading-topbar {
   position: absolute;
   z-index: 3;
@@ -144,13 +144,6 @@ a:focus-visible {
 .app-actions {
   display: flex;
   gap: 4px;
-}
-
-/* Reader actions differ by breakpoint: Aa (reader settings) and Search are
-   desktop-only; Share is mobile-only. */
-.app-actions .reader-settings-btn,
-.app-actions .reader-search-btn {
-  display: none;
 }
 
 .icon-button {
@@ -762,33 +755,8 @@ a:focus-visible {
     box-shadow: 0 24px 60px -28px rgba(58, 42, 34, 0.3);
   }
 
-  /* Desktop: the wordmark + actions live outside the hero as light chrome. */
+  /* Desktop: the reader's mobile hero bar is replaced by the shared DesktopNav. */
   .reading-topbar {
-    position: static;
-    min-height: 60px;
-    padding: 0 24px;
-  }
-
-  .reading-topbar .wordmark {
-    color: var(--ink-500);
-  }
-
-  .reading-topbar .icon-button {
-    background: transparent;
-    color: var(--ink-700);
-  }
-
-  .reading-topbar .icon-button:hover {
-    background: var(--paper-1);
-  }
-
-  .app-actions .reader-settings-btn,
-  .app-actions .reader-search-btn {
-    display: grid;
-  }
-
-  /* Share is mobile-only; desktop uses the search + menu instead. */
-  .app-actions .share-button {
     display: none;
   }
 
@@ -809,61 +777,82 @@ a:focus-visible {
   gap: 10px;
 }
 
-/* Desktop navigation menu (hidden on mobile; replaces the bottom tab bar) */
-.app-menu {
+/* Shared desktop navigation bar (hidden on mobile, where the bottom tab bar is
+   used). Rendered on every page so navigation is consistent. */
+.desktop-nav {
   display: none;
-  position: relative;
 }
 
-.app-menu-button {
-  display: inline-grid;
-  width: 40px;
-  height: 40px;
-  place-items: center;
-  border: 1px solid var(--border-subtle);
-  border-radius: 10px;
-  background: var(--paper-0);
-  color: var(--ink-700);
-  cursor: pointer;
-}
+@media (min-width: 760px) {
+  .desktop-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    width: min(100%, 800px);
+    margin: 0 auto;
+    padding: 14px 8px 0;
+  }
 
-.reading-hero .app-menu-button {
-  border-color: rgba(255, 253, 251, 0.28);
-  background: rgba(255, 253, 251, 0.14);
-  color: var(--paper-0);
-}
+  .desktop-nav-brand {
+    color: var(--ink-500);
+    font: 600 0.75rem/1.2 var(--font-ui);
+    letter-spacing: 0.14em;
+    text-decoration: none;
+  }
 
-.app-menu-popover {
-  position: absolute;
-  right: 0;
-  top: calc(100% + 8px);
-  z-index: 20;
-  min-width: 208px;
-  padding: 8px;
-  border: 1px solid var(--border-subtle);
-  border-radius: 10px;
-  background: var(--paper-0);
-  box-shadow: 0 20px 44px -20px rgba(42, 35, 32, 0.45);
-}
+  .desktop-nav-right {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
 
-.app-menu-item {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  min-height: 44px;
-  padding: 8px 12px;
-  border-radius: 10px;
-  color: var(--ink-700);
-  font: 600 0.95rem/1 var(--font-ui);
-  text-decoration: none;
-}
+  .desktop-nav-links {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+  }
 
-.app-menu-item:hover {
-  background: var(--paper-1);
-}
+  .desktop-nav-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    min-height: 40px;
+    padding: 0 12px;
+    border-radius: 999px;
+    color: var(--ink-700);
+    font: 600 0.85rem/1 var(--font-ui);
+    text-decoration: none;
+  }
 
-.app-menu-item.active {
-  color: var(--apricot-500);
+  .desktop-nav-link:hover {
+    background: var(--paper-2);
+  }
+
+  .desktop-nav-link.active {
+    color: var(--apricot-500);
+  }
+
+  .desktop-nav-link.icon-only {
+    padding: 0 10px;
+  }
+
+  .desktop-nav-actions {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding-left: 8px;
+    border-left: 1px solid var(--border-subtle);
+  }
+
+  .desktop-nav-actions .icon-button {
+    background: transparent;
+    color: var(--ink-700);
+  }
+
+  .desktop-nav-actions .icon-button:hover {
+    background: var(--paper-2);
+  }
 }
 
 /* Saved */
@@ -1042,14 +1031,15 @@ a:focus-visible {
   color: var(--ink-900);
 }
 
-/* Desktop: replace the bottom tab bar with the dropdown menu */
+/* Desktop: the bottom tab bar is replaced by the shared DesktopNav. */
 @media (min-width: 760px) {
   .tab-bar {
     display: none;
   }
 
-  .app-menu {
-    display: block;
+  /* Search lives in the DesktopNav on desktop; drop the in-header link. */
+  .header-search-link {
+    display: none;
   }
 
   .reading-content,

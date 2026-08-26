@@ -5,7 +5,7 @@ import { useState } from 'react';
 import type { Locale } from '@/src/core/types';
 import { messages } from '@/src/i18n/messages';
 import { TabBar } from '@/src/features/shell/TabBar';
-import { AppMenu } from '@/src/features/shell/AppMenu';
+import { DesktopNav } from '@/src/features/shell/DesktopNav';
 
 // The publisher's existing support inbox. Absolute cross-origin URL because the
 // app is served from app.dailychallenge.me. This is the only network request in
@@ -70,12 +70,13 @@ export function SupportScreen({ locale }: { locale: Locale }) {
   const sending = status.kind === 'sending';
 
   return (
-    <main className="app-shell">
+    <>
+      <DesktopNav locale={locale} active="settings" />
+      <main className="app-shell">
       <section className="list-screen" aria-label={copy.support.title}>
         <header className="list-header">
           <div className="list-header-top">
             <p className="eyebrow list-eyebrow">{copy.tabs.settings}</p>
-            <AppMenu locale={locale} active="settings" />
           </div>
           <h1>{copy.support.title}</h1>
         </header>
@@ -144,5 +145,6 @@ export function SupportScreen({ locale }: { locale: Locale }) {
         <TabBar locale={locale} active="settings" />
       </section>
     </main>
+    </>
   );
 }

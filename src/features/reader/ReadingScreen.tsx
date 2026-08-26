@@ -8,8 +8,7 @@ import {
   readingMinutes,
 } from '@/src/i18n/messages';
 import { TabBar } from '@/src/features/shell/TabBar';
-import { AppMenu } from '@/src/features/shell/AppMenu';
-import { Icon } from '@/src/features/shell/icons';
+import { DesktopNav } from '@/src/features/shell/DesktopNav';
 import { Blocks } from './Blocks';
 import { SaveButton } from './SaveButton';
 import { ShareButton } from './ShareButton';
@@ -68,32 +67,21 @@ export function ReadingScreen({
 }) {
   const { locale } = reading;
   const copy = messages(locale);
-  const prefix = localePrefix(locale);
   const dateLabel = formatFullDate(reading.monthDay, year, locale).toUpperCase();
   const minutes = readingMinutes(reading.plainText);
 
   return (
     <>
+      <DesktopNav
+        locale={locale}
+        active="today"
+        actions={<SaveButton monthDay={reading.monthDay} locale={locale} />}
+      />
       <nav className="app-bar reading-topbar" aria-label={copy.wordmark}>
         <span className="wordmark">{copy.wordmark}</span>
         <div className="app-actions">
           <SaveButton monthDay={reading.monthDay} locale={locale} />
           <ShareButton id={reading.id} title={reading.title} locale={locale} />
-          <Link
-            className="icon-button reader-search-btn"
-            href={`${prefix}/search`}
-            aria-label={copy.search.label}
-          >
-            <Icon name="search" size={22} />
-          </Link>
-          <Link
-            className="icon-button reader-settings-btn"
-            href={`${prefix}/settings`}
-            aria-label={copy.readerSettings}
-          >
-            Aa
-          </Link>
-          <AppMenu locale={locale} active="today" />
         </div>
       </nav>
       <main className="app-shell">

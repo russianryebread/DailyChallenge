@@ -7,7 +7,7 @@ import type { Locale } from '@/src/core/types';
 import { messages } from '@/src/i18n/messages';
 import { getAll, toggleSaved } from '@/src/state/readingState';
 import { TabBar } from '@/src/features/shell/TabBar';
-import { AppMenu } from '@/src/features/shell/AppMenu';
+import { DesktopNav } from '@/src/features/shell/DesktopNav';
 import { Icon } from '@/src/features/shell/icons';
 
 export interface CatalogEntry {
@@ -63,12 +63,13 @@ export function SavedScreen({
   const isEmpty = items !== null && items.length === 0;
 
   return (
-    <main className="app-shell">
+    <>
+      <DesktopNav locale={locale} active="saved" />
+      <main className="app-shell">
       <section className="list-screen" aria-label={copy.tabs.saved}>
         <header className="list-header">
           <div className="list-header-top">
             <p className="eyebrow list-eyebrow">{copy.tabs.saved}</p>
-            <AppMenu locale={locale} active="saved" />
           </div>
           <h1>{copy.tabs.saved}</h1>
         </header>
@@ -104,5 +105,6 @@ export function SavedScreen({
         <TabBar locale={locale} active="saved" />
       </section>
     </main>
+    </>
   );
 }

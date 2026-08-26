@@ -7,7 +7,7 @@ import Link from 'next/link';
 import type { Locale } from '@/src/core/types';
 import { messages } from '@/src/i18n/messages';
 import { TabBar } from '@/src/features/shell/TabBar';
-import { AppMenu } from '@/src/features/shell/AppMenu';
+import { DesktopNav } from '@/src/features/shell/DesktopNav';
 import {
   applyPrevNext,
   applyTextSize,
@@ -110,12 +110,13 @@ export function SettingsScreen({ locale }: { locale: Locale }) {
   }
 
   return (
-    <main className="app-shell">
+    <>
+      <DesktopNav locale={locale} active="settings" />
+      <main className="app-shell">
       <section className="list-screen settings-screen" aria-label={copy.tabs.settings}>
         <header className="list-header">
           <div className="list-header-top">
             <p className="eyebrow list-eyebrow">{copy.tabs.settings}</p>
-            <AppMenu locale={locale} active="settings" />
           </div>
           <h1>{copy.tabs.settings}</h1>
         </header>
@@ -205,5 +206,6 @@ export function SettingsScreen({ locale }: { locale: Locale }) {
         <TabBar locale={locale} active="settings" />
       </section>
     </main>
+    </>
   );
 }

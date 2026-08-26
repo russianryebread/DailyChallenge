@@ -4,7 +4,7 @@ import type { Locale } from '@/src/core/types';
 import type { MonthEntry } from '@/src/content/repository';
 import { messages, monthName } from '@/src/i18n/messages';
 import { TabBar } from '@/src/features/shell/TabBar';
-import { AppMenu } from '@/src/features/shell/AppMenu';
+import { DesktopNav } from '@/src/features/shell/DesktopNav';
 
 const MONTHS = Array.from({ length: 12 }, (_, index) => index + 1);
 
@@ -25,7 +25,9 @@ export function ArchiveScreen({
   const copy = messages(locale);
 
   return (
-    <main className="app-shell">
+    <>
+      <DesktopNav locale={locale} active="archive" />
+      <main className="app-shell">
       <section className="list-screen" aria-label={copy.tabs.archive}>
         <header className="list-header">
           <div className="list-header-top">
@@ -34,7 +36,6 @@ export function ArchiveScreen({
               <Link className="header-search-link" href={`${prefix}/search`}>
                 {copy.search.label}
               </Link>
-              <AppMenu locale={locale} active="archive" />
             </div>
           </div>
           <h1>{monthName(month, locale)}</h1>
@@ -79,5 +80,6 @@ export function ArchiveScreen({
         <TabBar locale={locale} active="archive" />
       </section>
     </main>
+    </>
   );
 }
