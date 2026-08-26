@@ -180,7 +180,7 @@ a:focus-visible {
 .hero-copy h1 {
   max-width: 32rem;
   margin: 10px 0 0;
-  color: var(--ink-900);
+  color: rgba(255, 253, 251, 0.82);
   font: 300 clamp(2.15rem, 9vw, 3.4rem) / 1.06 var(--font-reading);
   letter-spacing: -0.025em;
   text-wrap: balance;
