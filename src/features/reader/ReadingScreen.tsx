@@ -72,56 +72,59 @@ export function ReadingScreen({
   const minutes = readingMinutes(reading.plainText);
 
   return (
-    <main className="app-shell">
-      <ReadingTracker monthDay={reading.monthDay} />
-      <HeroParallax />
-      <section className="reading-screen" aria-label={reading.title}>
-        <nav className="app-bar reading-topbar" aria-label={copy.wordmark}>
-          <span className="wordmark">{copy.wordmark}</span>
-          <div className="app-actions">
-            <SaveButton monthDay={reading.monthDay} locale={locale} />
-            <ShareButton id={reading.id} title={reading.title} locale={locale} />
-            <Link
-              className="icon-button reader-settings-btn"
-              href={`${prefix}/settings`}
-              aria-label={copy.readerSettings}
-            >
-              Aa
-            </Link>
-            <AppMenu locale={locale} active="today" />
-          </div>
-        </nav>
-
-        <header className="reading-hero">
-          <div className="hero-copy">
-            <p className="eyebrow">{dateLabel}</p>
-            <h1>{reading.title}</h1>
-            <div className="hero-meta" aria-label={`${copy.dayLabel} ${reading.id}`}>
-              <span>
-                {copy.dayLabel} {reading.id}
-              </span>
-              <span>
-                {minutes} {copy.minutesLabel}
-              </span>
+    <>
+      <nav className="app-bar reading-topbar" aria-label={copy.wordmark}>
+        <span className="wordmark">{copy.wordmark}</span>
+        <div className="app-actions">
+          <SaveButton monthDay={reading.monthDay} locale={locale} />
+          <ShareButton id={reading.id} title={reading.title} locale={locale} />
+          <Link
+            className="icon-button reader-settings-btn"
+            href={`${prefix}/settings`}
+            aria-label={copy.readerSettings}
+          >
+            Aa
+          </Link>
+          <AppMenu locale={locale} active="today" />
+        </div>
+      </nav>
+      <main className="app-shell">
+        <ReadingTracker monthDay={reading.monthDay} />
+        <HeroParallax />
+        <section className="reading-screen" aria-label={reading.title}>
+          <header className="reading-hero">
+            <div className="hero-copy">
+              <div className="hero-flex">
+                <p className="eyebrow">{dateLabel}</p>
+                <div className="hero-meta" aria-label={`${copy.dayLabel} ${reading.id}`}>
+                  <span>
+                    {copy.dayLabel} {reading.id}
+                  </span>
+                  <span>
+                    {minutes} {copy.minutesLabel}
+                  </span>
+                </div>
+              </div>
+              <h1>{reading.title}</h1>
             </div>
-          </div>
-        </header>
+          </header>
 
-        <article className="reading-card">
-          <div className="reading-content">
-            <Blocks blocks={reading.blocks} />
+          <article className="reading-card">
+            <div className="reading-content">
+              <Blocks blocks={reading.blocks} />
 
-            <ReadingNav locale={locale} previous={previous} next={next} />
+              <ReadingNav locale={locale} previous={previous} next={next} />
 
-            <div className="publisher-credit">
-              <p>{copy.publisher.title}</p>
-              <p>{copy.publisher.imprint}</p>
+              <div className="publisher-credit">
+                <p>{copy.publisher.title}</p>
+                <p>{copy.publisher.imprint}</p>
+              </div>
             </div>
-          </div>
-        </article>
+          </article>
 
-        <TabBar locale={locale} active="today" />
-      </section>
-    </main>
+          <TabBar locale={locale} active="today" />
+        </section>
+      </main>
+    </>
   );
 }

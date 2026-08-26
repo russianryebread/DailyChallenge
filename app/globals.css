@@ -19,6 +19,9 @@
   --reading-size: 1.1875rem;
   --safe-top: env(safe-area-inset-top, 0px);
   --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --gradient-1: #e0a074;
+  --gradient-2: #bf7d84;
+  --gradient-3: #554264;
   color-scheme: light;
 }
 
@@ -35,6 +38,9 @@
     --ink-500: #a2938a;
     --border-subtle: #362d27;
     --surface-glass: rgba(26, 21, 18, 0.82);
+    --gradient-1: #6b7ba0; /* dusty slate blue */
+    --gradient-2: #3d4566; /* deep blue-indigo */
+    --gradient-3: #14141f; /* near-black navy */
     color-scheme: dark;
   }
 }
@@ -48,6 +54,9 @@
   --ink-500: #a2938a;
   --border-subtle: #362d27;
   --surface-glass: rgba(26, 21, 18, 0.82);
+  --gradient-1: #6b7ba0; /* dusty slate blue */
+  --gradient-2: #3d4566; /* deep blue-indigo */
+  --gradient-3: #14141f; /* near-black navy */
   color-scheme: dark;
 }
 
@@ -98,7 +107,7 @@ a:focus-visible {
   color: var(--paper-0);
   background:
     linear-gradient(to top, rgba(42, 35, 32, 0.62), rgba(42, 35, 32, 0.16) 58%, rgba(42, 35, 32, 0)),
-    linear-gradient(165deg, #f3b183 0%, #c87a80 55%, #8e6f9e 100%);
+    linear-gradient(165deg, var(--gradient-1) 0%, var(--gradient-2) 55%, var(--gradient-3) 100%);
 }
 
 .app-bar {
@@ -158,7 +167,7 @@ a:focus-visible {
 .hero-copy {
   position: absolute;
   right: 20px;
-  bottom: 44px;
+  bottom: 35%;
   left: 20px;
   will-change: transform, opacity;
 }
@@ -171,17 +180,21 @@ a:focus-visible {
 .hero-copy h1 {
   max-width: 32rem;
   margin: 10px 0 0;
-  color: var(--paper-0);
+  color: var(--ink-900);
   font: 300 clamp(2.15rem, 9vw, 3.4rem) / 1.06 var(--font-reading);
   letter-spacing: -0.025em;
   text-wrap: balance;
+}
+
+.hero-flex {
+    display: flex;
+    justify-content: space-between;
 }
 
 .hero-meta {
   display: flex;
   justify-content: flex-end;
   gap: 16px;
-  margin-top: 20px;
   color: rgba(255, 253, 251, 0.9);
   font-variant: all-small-caps;
   letter-spacing: 0.1em;
@@ -196,7 +209,7 @@ a:focus-visible {
 .reading-content {
   width: min(100%, 40rem);
   margin: 0 auto;
-  padding: 38px 24px calc(112px + var(--safe-bottom));
+  padding: 38px 24px calc(100px + var(--safe-bottom));
   font: 400 var(--reading-size, 1.1875rem) / 1.68 var(--font-reading);
 }
 
@@ -258,7 +271,7 @@ a:focus-visible {
   text-indent: 0;
 }
 
-.poem-line:nth-child(odd) {
+.poem-line:nth-child(even) {
   padding-left: 1.75em;
 }
 
@@ -388,7 +401,7 @@ a:focus-visible {
   width: min(100%, 26rem);
   padding: 40px 28px;
   border: 1px solid var(--border-subtle);
-  border-radius: 20px;
+  border-radius: 10px;
   background: var(--paper-0);
   box-shadow: 0 24px 60px -34px rgba(58, 42, 34, 0.4);
   text-align: center;
@@ -435,7 +448,7 @@ a:focus-visible {
 .list-screen {
   position: relative;
   min-height: 100svh;
-  background: var(--paper-0);
+  background: var(--);
 }
 
 /* Colored header band — contrasts with the paper body and lets the header
@@ -443,7 +456,7 @@ a:focus-visible {
 .list-header {
   padding: calc(28px + var(--safe-top)) 24px 16px;
   color: var(--paper-0);
-  background: linear-gradient(158deg, #e0a074 0%, #bf7d84 100%);
+  background: linear-gradient(158deg, var(--gradient-1) 0%, var(--gradient-2) 100%);
 }
 
 .list-eyebrow {
@@ -452,7 +465,7 @@ a:focus-visible {
 
 .list-header h1 {
   margin: 6px 0 0;
-  color: var(--paper-0);
+  color: var(--ink-900);
   font: 300 clamp(2rem, 7vw, 2.6rem) / 1.08 var(--font-reading);
   letter-spacing: -0.02em;
 }
@@ -551,13 +564,6 @@ a:focus-visible {
   text-transform: uppercase;
 }
 
-/* Menu button sits on the colored header band on list screens. */
-.list-header .app-menu-button {
-  border-color: rgba(255, 253, 251, 0.28);
-  background: rgba(255, 253, 251, 0.16);
-  color: var(--paper-0);
-}
-
 /* Search */
 .search-field {
   margin-top: 14px;
@@ -567,7 +573,7 @@ a:focus-visible {
   width: 100%;
   min-height: 48px;
   border: 1px solid var(--border-subtle);
-  border-radius: 14px;
+  border-radius: 10px;
   padding: 0 16px;
   background: var(--paper-0);
   color: var(--ink-900);
@@ -639,7 +645,7 @@ a:focus-visible {
   gap: 4px;
   padding: 4px;
   border: 1px solid var(--border-subtle);
-  border-radius: 14px;
+  border-radius: 10px;
   background: var(--paper-1);
 }
 
@@ -669,7 +675,7 @@ a:focus-visible {
   margin: 4px 0 0;
   padding: 20px;
   border: 1px solid var(--border-subtle);
-  border-radius: 16px;
+  border-radius: 10px;
   background: var(--paper-0);
   color: var(--ink-700);
   font-family: var(--font-reading);
@@ -681,7 +687,7 @@ a:focus-visible {
     width: min(100%, 800px);
     min-height: calc(100svh - 64px);
     margin: 0 auto;
-    border-radius: 28px;
+    border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 24px 60px -28px rgba(58, 42, 34, 0.3);
   }
@@ -692,7 +698,7 @@ a:focus-visible {
   border-top: 1px solid var(--border-subtle);
   padding-top: 20px;
   color: var(--ink-500);
-  font: 0.8125rem/1.5 var(--font-ui);
+  font: 0.7125rem/1.5 var(--font-ui);
 }
 
 .publisher-credit p {
@@ -721,7 +727,7 @@ a:focus-visible {
   justify-content: center;
   flex-direction: column;
   gap: 3px;
-  border-radius: 12px;
+  border-radius: 10px;
   color: var(--ink-500);
   font-size: 0.68rem;
   font-weight: 600;
@@ -759,8 +765,6 @@ a:focus-visible {
     position: static;
     min-height: 60px;
     padding: 0 24px;
-    background: var(--paper-0);
-    border-bottom: 1px solid var(--border-subtle);
   }
 
   .reading-topbar .wordmark {
@@ -809,7 +813,7 @@ a:focus-visible {
   height: 40px;
   place-items: center;
   border: 1px solid var(--border-subtle);
-  border-radius: 12px;
+  border-radius: 10px;
   background: var(--paper-0);
   color: var(--ink-700);
   cursor: pointer;
@@ -829,7 +833,7 @@ a:focus-visible {
   min-width: 208px;
   padding: 8px;
   border: 1px solid var(--border-subtle);
-  border-radius: 16px;
+  border-radius: 10px;
   background: var(--paper-0);
   box-shadow: 0 20px 44px -20px rgba(42, 35, 32, 0.45);
 }
