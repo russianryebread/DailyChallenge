@@ -9,6 +9,7 @@ import {
 } from '@/src/i18n/messages';
 import { TabBar } from '@/src/features/shell/TabBar';
 import { AppMenu } from '@/src/features/shell/AppMenu';
+import { Icon } from '@/src/features/shell/icons';
 import { Blocks } from './Blocks';
 import { SaveButton } from './SaveButton';
 import { ShareButton } from './ShareButton';
@@ -78,6 +79,13 @@ export function ReadingScreen({
         <div className="app-actions">
           <SaveButton monthDay={reading.monthDay} locale={locale} />
           <ShareButton id={reading.id} title={reading.title} locale={locale} />
+          <Link
+            className="icon-button reader-search-btn"
+            href={`${prefix}/search`}
+            aria-label={copy.search.label}
+          >
+            <Icon name="search" size={22} />
+          </Link>
           <Link
             className="icon-button reader-settings-btn"
             href={`${prefix}/settings`}

@@ -72,7 +72,7 @@ const CATALOG: Record<Locale, Messages> = {
     next: 'Next',
     tabs: {
       today: 'Today',
-      archive: 'Archive',
+      archive: 'Book',
       saved: 'Saved',
       settings: 'Settings',
     },
@@ -134,7 +134,7 @@ const CATALOG: Record<Locale, Messages> = {
     next: 'Următor',
     tabs: {
       today: 'Astăzi',
-      archive: 'Arhivă',
+      archive: 'Carte',
       saved: 'Salvate',
       settings: 'Setări',
     },

@@ -11,12 +11,12 @@ export const metadata: Metadata = {
   },
   description: 'A daily devotional by Edwin and Lillian Harvey.',
   manifest: '/manifest.webmanifest',
-  applicationName: 'Daily Challenge',
+  applicationName: 'DailyChallenge',
   appleWebApp: {
     capable: true,
     // Translucent status bar so the hero/header paints under the safe area.
     statusBarStyle: 'black-translucent',
-    title: 'Daily Challenge',
+    title: 'DailyChallenge',
   },
   icons: {
     icon: '/icons/favicon.png',
@@ -29,9 +29,10 @@ export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
   viewportFit: 'cover',
-  // A single base theme-color; the no-flash script and ThemeColorSync update it
-  // to match the active (light/dark) theme, not just the system preference.
-  themeColor: '#faf5f0',
+  // Base theme-color matches the hero/header top so the browser's status-bar
+  // area blends with the gradient (no band); the no-flash script and
+  // ThemeColorSync keep it in sync with the active light/dark theme.
+  themeColor: '#e0a074',
 };
 
 export default function RootLayout({

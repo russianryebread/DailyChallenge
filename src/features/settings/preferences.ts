@@ -40,8 +40,10 @@ export function readTextSize(): TextSize {
   }
 }
 
-// Status-bar / overscroll colors, matching --paper-1 in each theme.
-export const THEME_COLORS = { light: '#faf5f0', dark: '#1a1512' } as const;
+// Status-bar / overscroll colors, matching the hero+header top (--gradient-1) in
+// each theme so the browser status-bar area blends with the header instead of
+// showing a contrasting band.
+export const THEME_COLORS = { light: '#e0a074', dark: '#6b7ba0' } as const;
 
 function prefersDark(): boolean {
   try {

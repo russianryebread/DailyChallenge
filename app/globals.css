@@ -146,8 +146,10 @@ a:focus-visible {
   gap: 4px;
 }
 
-/* Aa (reader settings) is desktop-only; on mobile settings live in the tab bar. */
-.app-actions .reader-settings-btn {
+/* Reader actions differ by breakpoint: Aa (reader settings) and Search are
+   desktop-only; Share is mobile-only. */
+.app-actions .reader-settings-btn,
+.app-actions .reader-search-btn {
   display: none;
 }
 
@@ -780,8 +782,14 @@ a:focus-visible {
     background: var(--paper-1);
   }
 
-  .app-actions .reader-settings-btn {
+  .app-actions .reader-settings-btn,
+  .app-actions .reader-search-btn {
     display: grid;
+  }
+
+  /* Share is mobile-only; desktop uses the search + menu instead. */
+  .app-actions .share-button {
+    display: none;
   }
 
   .hero-copy {
