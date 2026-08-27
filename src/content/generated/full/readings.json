@@ -9912,9 +9912,8 @@
               "text": "Most of us would do more for God if we would do less and spend more time in getting ready. When Luther had a specially busy and exciting day, he always allowed himself longer time than usual for his private devotions. A wise man once said he was too busy to be in a hurry; he meant that if he allowed himself to become hurried he could not do what he had to do. It is possible to have so much to do that we get nothing done. A workman would soon faint if he did not stop for meals. The mower must stop occasionally to sharpen his scythe, and it is just as necessary that busy workers should have quiet periods to renew their wasted strength and seek preparation for further usefulness and service."
             },
             {
-              "type": "prose",
-              "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>",
-              "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
+              "type": "attribution",
+              "text": "From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press."
             },
             {
               "type": "scripture",
@@ -14339,9 +14338,8 @@
               "text": "Service without sacrifice secures no results, no achievement, no victory that is worth the name. If we would keep our life we shall lose it, but if we empty it out in loving service we shall make it a lasting blessing to the world. No high thing can be done easily or without cost. To be consumed in God’s work as “a living sacrifice” means burning up and burning out; the candle will grow shorter and the battery weaker. That is a true symbol of the consecrated life, which is inscribed on the tomb of Dr. Adam Clarke—a burning candle, with the superscription, “I give light by being myself consumed.” We give light by giving up our lives to Him Who loved us. We are consumed by the zeal of His house while we carry light and salvation to those for whom He died."
             },
             {
-              "type": "prose",
-              "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>",
-              "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
+              "type": "attribution",
+              "text": "From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press."
             },
             {
               "type": "prose",
@@ -17184,9 +17182,8 @@
               "text": "Walking with God means step by step in the will of God. A man who carries a lantern at night does not see the whole path home. The lantern lights only a single step in advance, but when that step is taken another is lighted, and so on until the end of the journey. In like manner God lights our way. He makes one step plain, and when we take that, another, and then another. We have nothing to do with life in the aggregate. Each moment brings its duties, responsibilities, burdens, and needs. Our business is to live a moment at a time, and that moment for God. Dr. Kitto’s advice is, “Think not on a holy life, but on a holy moment as it flies. The first overwhelms by its immensity, the other sweetens and refreshes by its lightness and present stimulus; and yet a succession of holy moments constitutes a holy life.”"
             },
             {
-              "type": "prose",
-              "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>",
-              "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
+              "type": "attribution",
+              "text": "From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press."
             },
             {
               "type": "poem",
@@ -27197,9 +27194,8 @@
               ]
             },
             {
-              "type": "prose",
-              "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>",
-              "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
+              "type": "attribution",
+              "text": "From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press."
             },
             {
               "type": "prose",
@@ -32840,9 +32836,8 @@
               "text": "But when our love is in kind like His, we cannot help doing it. Our “must” then is like the “must” of God. God must give His love, whether souls accept it or not. Let the love of Christ, the most sublime of all motives, and the glory of Christ, the most sublime of all ends, become the ruling principle of action, and who can help living magnanimously for man and for God?"
             },
             {
-              "type": "prose",
-              "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>",
-              "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
+              "type": "attribution",
+              "text": "From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press."
             },
             {
               "type": "poem",
@@ -42655,7 +42650,11 @@
             {
               "type": "prose",
               "html": "<p class=\"justify\"> “Make the very most of your time.” (Mof.) Are we really doing this? How much frittering away in selfish ends and wasteful talk! The very word “redeemed” indicates a price to be paid for this. The other translators (Wey. and Rhm.) definitely state “buy.” If investing money you had a chance of, say, 7.5% or 10% in one scheme and only 1% and 2% in others, which way would you act? Then what is yielding the greatest profit now? There is no time for prayer. No, you will not find it, you must take it from something else less vital.—<i>John Harrison, (successor to C. T. Studd)</i>.</p>",
-              "text": "“Make the very most of your time.” (Mof.) Are we really doing this? How much frittering away in selfish ends and wasteful talk! The very word “redeemed” indicates a price to be paid for this. The other translators (Wey. and Rhm.) definitely state “buy.” If investing money you had a chance of, say, 7.5% or 10% in one scheme and only 1% and 2% in others, which way would you act? Then what is yielding the greatest profit now? There is no time for prayer. No, you will not find it, you must take it from something else less vital.—John Harrison, (successor to C. T. Studd)."
+              "text": "“Make the very most of your time.” (Mof.) Are we really doing this? How much frittering away in selfish ends and wasteful talk! The very word “redeemed” indicates a price to be paid for this. The other translators (Wey. and Rhm.) definitely state “buy.” If investing money you had a chance of, say, 7.5% or 10% in one scheme and only 1% and 2% in others, which way would you act? Then what is yielding the greatest profit now? There is no time for prayer. No, you will not find it, you must take it from something else less vital."
+            },
+            {
+              "type": "attribution",
+              "text": "—John Harrison, (successor to C. T. Studd)"
             }
           ],
           "sanitizedHtml": "<p class=\"justify\"><i>“Remember how short my time is” (Psa. 89:47).</i></p><p class=\"justify\"><i>“Redeeming the time, because the days are evil” (Eph. 5:16).</i></p><p class=\"justify\"> We are all great people, or at least we think so, until we come to Time, but Time makes everybody look small. When the morning comes, it is soon twelve o’clock, and very little done, and the day has soon gone. When Saturday comes it appears to most of us as if Saturday were here two days ago. . . . How small Time makes us! Even our pleasures are measured by Time: “pleasures of sin for a season” (Heb.11:25). We are all very great people, until we place ourselves by the side of Time! The hours are flying over our heads; the days, weeks, months, and years, are gliding silently but swiftly away. A few more sunsets over the dark hills of Time, a few more springs, summers, autumns, winters, and Time will have left us in Eternity!</p> <div class=\"c3\"><p>“Tomorrow,” he promised his conscience,</p> </div> <div class=\"c3\"><p> “Tomorrow I’ll do as I should;</p> </div> <div class=\"c3\"><p>Tomorrow I’ll think as I ought to;</p> </div> <div class=\"c3\"><p> Tomorrow I mean to be good;</p> </div> <div class=\"c3\"><p>Tomorrow I’ll conquer the habits</p> </div> <div class=\"c3\"><p> That hold me from Heaven away”;</p> </div> <div class=\"c3\"><p>But ever his conscience repeated</p> </div> <div class=\"c3\"><p> One word—and one only—“Today.”</p> </div> <div class=\"c3\"><p>Tomorrow, tomorrow, tomorrow—</p> </div> <div class=\"c3\"><p> Thus day after day it went on;</p> </div> <div class=\"c3\"><p>Tomorrow, tomorrow, tomorrow—</p> </div> <div class=\"c3\"><p> Till Youth like a vision was gone;</p> </div> <div class=\"c3\"><p>Till age and his passions had written</p> </div> <div class=\"c3\"><p> The message of fate on his brow,</p> </div> <div class=\"c3\"><p>And forth from the shadows came Death</p> </div> <div class=\"c3\"><p> With pitiless syllable—“Now.”</p> </div> <blockquote> <blockquote><p class=\"c8\">—<i>Unknown.</i></p> </blockquote> </blockquote><p>Much of life is lost in getting ready to live.—<i>Unknown.</i></p><p class=\"justify\"> “Make the very most of your time.” (Mof.) Are we really doing this? How much frittering away in selfish ends and wasteful talk! The very word “redeemed” indicates a price to be paid for this. The other translators (Wey. and Rhm.) definitely state “buy.” If investing money you had a chance of, say, 7.5% or 10% in one scheme and only 1% and 2% in others, which way would you act? Then what is yielding the greatest profit now? There is no time for prayer. No, you will not find it, you must take it from something else less vital.—<i>John Harrison, (successor to C. T. Studd)</i>.</p> ",
@@ -46593,9 +46592,8 @@
               "text": "It is the deep tranquility of a soul resting wholly upon God, in contrast with the unrest and anxiety engendered by a self-centered and worldly spirit. Jesus calls it, “My peace,” in contrast with the hollowness of what the world calls peace. The world’s peace is determined by outward things, and is as changeable as external conditions. But the peace of God changes not. It is not fitful and transient, but an abiding and ever-increasing reality. Ecstatic joy fluctuates like the waves of the sea, but peace flows on without interruption, like a river ever flowing and full."
             },
             {
-              "type": "prose",
-              "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>",
-              "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
+              "type": "attribution",
+              "text": "From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press."
             },
             {
               "type": "poem",
@@ -51535,9 +51533,8 @@
               "text": "The Spirit-filled Christian has an artesian well of joy in his heart, a miraculous spring opened in his breast, which fills, floods and overwhelms his soul with joy unspeakable all the year round. Common surface wells are soon dry, but artesian wells, even in dry weather, have plenty of water."
             },
             {
-              "type": "prose",
-              "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>",
-              "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
+              "type": "attribution",
+              "text": "From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press."
             },
             {
               "type": "prose",
@@ -62351,9 +62348,8 @@
               "text": "“With all thy heart,” is the command. Our love-power may be very limited, but so long as it is fully employed in loving God, we fulfill the divine requirement just the same as those who have the larger capacities. A thimble may be as full as a bucket. To love God with more than all our heart—beyond our power or capacity—would be impossible, and to love Him less than to the full measure of our power to love, would be short of His requirement. “He that does as well as he can, does well: angels can do no better, and God requires no more.”"
             },
             {
-              "type": "prose",
-              "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>",
-              "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
+              "type": "attribution",
+              "text": "From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press."
             },
             {
               "type": "poem",
