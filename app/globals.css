@@ -103,7 +103,7 @@ a:focus-visible {
   position: sticky;
   top: 0;
   z-index: 0;
-  min-height: 340px;
+  min-height: 210px;
   color: var(--paper-0);
   background:
     linear-gradient(to top, rgba(42, 35, 32, 0.62), rgba(42, 35, 32, 0.16) 58%, rgba(42, 35, 32, 0)),
@@ -116,16 +116,15 @@ a:focus-visible {
   justify-content: space-between;
 }
 
-/* Reader top bar: overlays the hero on mobile (extends under the status bar).
-   Hidden on desktop, where the shared DesktopNav provides the chrome. */
+/* Reader top bar: paints through the iOS safe area and continues the same
+   color used at the top of the hero gradient. Hidden on desktop, where the
+   shared DesktopNav provides the chrome. */
 .reading-topbar {
-  position: absolute;
+  position: relative;
   z-index: 3;
-  top: 0;
-  right: 0;
-  left: 0;
   min-height: calc(52px + var(--safe-top));
   padding: var(--safe-top) 20px 0;
+  background: var(--gradient-1);
 }
 
 .wordmark,
@@ -162,7 +161,7 @@ a:focus-visible {
 .hero-copy {
   position: absolute;
   right: 20px;
-  bottom: 35%;
+  bottom: 28px;
   left: 20px;
   will-change: transform, opacity;
 }
@@ -700,6 +699,16 @@ a:focus-visible {
   margin: 0;
 }
 
+.publisher-credit a {
+  color: inherit;
+  text-decoration-color: color-mix(in srgb, currentColor 55%, transparent);
+  text-underline-offset: 0.18em;
+}
+
+.publisher-credit a:hover {
+  color: var(--apricot-500);
+}
+
 .tab-bar {
   position: fixed;
   z-index: 5;
@@ -763,6 +772,10 @@ a:focus-visible {
   .hero-copy {
     right: 40px;
     left: 40px;
+  }
+
+  .reading-hero {
+    min-height: 280px;
   }
 }
 

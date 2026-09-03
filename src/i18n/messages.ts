@@ -11,11 +11,10 @@ export interface Messages {
   save: string;
   saved: string;
   dayLabel: string;
-  minutesLabel: string;
   previous: string;
   next: string;
   tabs: { today: string; archive: string; saved: string; settings: string };
-  publisher: { title: string; imprint: string };
+  publisher: { title: string; imprintPrefix: string };
   today: string;
   languageName: string;
   otherLanguage: string;
@@ -67,7 +66,6 @@ const CATALOG: Record<Locale, Messages> = {
     save: 'Save',
     saved: 'Saved',
     dayLabel: 'Day',
-    minutesLabel: 'min read',
     previous: 'Previous',
     next: 'Next',
     tabs: {
@@ -78,7 +76,7 @@ const CATALOG: Record<Locale, Messages> = {
     },
     publisher: {
       title: 'The Christian’s Daily Challenge by Edwin and Lillian Harvey',
-      imprint: 'Published by Harvey Christian Publishers',
+      imprintPrefix: 'Published by',
     },
     today: 'Today',
     languageName: 'English',
@@ -129,7 +127,6 @@ const CATALOG: Record<Locale, Messages> = {
     save: 'Salvează',
     saved: 'Salvate',
     dayLabel: 'Ziua',
-    minutesLabel: 'min de citit',
     previous: 'Anterior',
     next: 'Următor',
     tabs: {
@@ -140,7 +137,7 @@ const CATALOG: Record<Locale, Messages> = {
     },
     publisher: {
       title: 'Provocarea Zilnică a Creștinului de Edwin și Lillian Harvey',
-      imprint: 'Publicată de Harvey Christian Publishers',
+      imprintPrefix: 'Publicată de',
     },
     today: 'Astăzi',
     languageName: 'Română',
@@ -224,10 +221,4 @@ export function monthName(
     month: style,
     timeZone: 'UTC',
   }).format(date);
-}
-
-/** Estimated reading time in whole minutes (>= 1) at ~200 words per minute. */
-export function readingMinutes(plainText: string): number {
-  const words = plainText.trim().split(/\s+/).filter(Boolean).length;
-  return Math.max(1, Math.round(words / 200));
 }

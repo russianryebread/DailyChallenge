@@ -2,11 +2,7 @@ import Link from 'next/link';
 
 import type { Locale, LocalizedReading } from '@/src/core/types';
 import type { NeighborRef } from '@/src/content/navigation';
-import {
-  formatFullDate,
-  messages,
-  readingMinutes,
-} from '@/src/i18n/messages';
+import { formatFullDate, messages } from '@/src/i18n/messages';
 import { TabBar } from '@/src/features/shell/TabBar';
 import { DesktopNav } from '@/src/features/shell/DesktopNav';
 import { Blocks } from './Blocks';
@@ -68,7 +64,6 @@ export function ReadingScreen({
   const { locale } = reading;
   const copy = messages(locale);
   const dateLabel = formatFullDate(reading.monthDay, year, locale).toUpperCase();
-  const minutes = readingMinutes(reading.plainText);
 
   return (
     <>
@@ -96,9 +91,6 @@ export function ReadingScreen({
                   <span>
                     {copy.dayLabel} {reading.id}
                   </span>
-                  <span>
-                    {minutes} {copy.minutesLabel}
-                  </span>
                 </div>
               </div>
               <h1>{reading.title}</h1>
@@ -113,7 +105,12 @@ export function ReadingScreen({
 
               <div className="publisher-credit">
                 <p>{copy.publisher.title}</p>
-                <p>{copy.publisher.imprint}</p>
+                <p>
+                  {copy.publisher.imprintPrefix}{' '}
+                  <a href="https://harveycp.com" target="_blank" rel="noopener noreferrer" className="font-medium underline">
+                    Harvey Christian Publishers
+                  </a>
+                </p>
               </div>
             </div>
           </article>
