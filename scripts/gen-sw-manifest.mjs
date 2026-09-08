@@ -21,7 +21,7 @@ if (!existsSync(clientDir)) {
   process.exit(1);
 }
 
-const EXCLUDE_PREFIXES = ['content/', '.vite/', 'sw.js', 'sw-manifest.json'];
+const EXCLUDE_PREFIXES = ['.vite/', 'sw.js', 'sw-manifest.json'];
 const EXCLUDE_FILES = new Set([
   '_headers',
   '.assetsignore',
@@ -51,10 +51,18 @@ const assets = walk(clientDir)
   })
   .sort();
 
-const version = createHash('sha256')
-  .update(assets.join('\n'))
-  .digest('hex')
-  .slice(0, 12);
+// Include bytes, the worker itself, and server output (the shell HTML depends
+// on it). Stable filenames must invalidate the bundle when their contents change.
+const hash = createHash('sha256');
+for (const url of assets) {
+  hash.update(url).update(readFileSync(resolve(clientDir, url.slice(1))));
+}
+hash.update(readFileSync(resolve(process.cwd(), 'public/sw.js')));
+const serverDir = resolve(process.cwd(), 'dist/server');
+for (const file of walk(serverDir).sort()) {
+  hash.update(relative(serverDir, file)).update(readFileSync(file));
+}
+const version = hash.digest('hex').slice(0, 12);
 
 const swPath = resolve(clientDir, 'sw.js');
 if (!existsSync(swPath)) {

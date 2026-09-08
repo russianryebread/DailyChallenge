@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import { AppLink as Link } from '@/src/features/offline/navigation';
 
 import type { Locale, LocalizedReading } from '@/src/core/types';
 import type { NeighborRef } from '@/src/content/navigation';

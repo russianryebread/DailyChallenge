@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import { AppLink as Link } from '@/src/features/offline/navigation';
 
 import type { Locale } from '@/src/core/types';
 import type { MonthEntry } from '@/src/content/repository';

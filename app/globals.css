@@ -1088,3 +1088,31 @@ a:focus-visible {
     transition-duration: 0.01ms !important;
   }
 }
+
+.offline-download-status {
+  position: fixed;
+  z-index: 20;
+  right: 16px;
+  bottom: calc(88px + var(--safe-bottom));
+  left: 16px;
+  width: min(calc(100% - 32px), 36rem);
+  margin-inline: auto;
+  padding: 16px;
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+  background: var(--paper-0);
+  color: var(--ink-900);
+  box-shadow: 0 8px 24px rgba(42, 35, 32, 0.15);
+  font: 500 0.875rem/1.5 var(--font-ui);
+}
+
+.offline-download-status button {
+  display: block;
+  min-height: 44px;
+  margin-top: 8px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: var(--paper-2);
+  color: var(--ink-900);
+  cursor: pointer;
+}

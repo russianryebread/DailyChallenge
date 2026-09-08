@@ -2,7 +2,9 @@
 
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
-import Link from 'next/link';
+import { ensureOfflineLanguage } from '@/src/features/offline/language';
+import { useOfflineNavigation } from '@/src/features/offline/navigation';
+import { AppLink as Link } from '@/src/features/offline/navigation';
 
 import type { Locale } from '@/src/core/types';
 import { messages } from '@/src/i18n/messages';
@@ -61,9 +63,11 @@ function SegmentedControl<T extends string>({
 export function SettingsScreen({ locale }: { locale: Locale }) {
   const copy = messages(locale);
   const router = useRouter();
+  const navigateOffline = useOfflineNavigation();
   const [theme, setTheme] = useState<ThemeChoice>('system');
   const [textSize, setTextSize] = useState<TextSize>('medium');
   const [prevNext, setPrevNext] = useState(false);
+  const [languageStatus, setLanguageStatus] = useState<'idle' | 'downloading' | 'error'>('idle');
 
   // Read persisted values after mount to avoid a hydration mismatch; the
   // no-flash script has already applied them to the document.
@@ -101,12 +105,22 @@ export function SettingsScreen({ locale }: { locale: Locale }) {
     savePrevNext(next);
   }
 
-  function changeLocale(next: Locale) {
-    if (next === locale) {
+  async function changeLocale(next: Locale) {
+    if (next === locale || languageStatus === 'downloading') {
       return;
     }
+    setLanguageStatus('downloading');
+    try {
+      await ensureOfflineLanguage(next);
+    } catch {
+      setLanguageStatus('error');
+      return;
+    }
+    setLanguageStatus('idle');
     saveLocale(next);
-    router.push(next === 'ro' ? '/ro/settings' : '/settings');
+    const href = next === 'ro' ? '/ro/settings' : '/settings';
+    if (navigateOffline) navigateOffline(href);
+    else router.push(href);
   }
 
   return (
@@ -122,6 +136,11 @@ export function SettingsScreen({ locale }: { locale: Locale }) {
         </header>
 
         <div className="settings-body">
+          {languageStatus !== 'idle' && <p role="status">
+            {languageStatus === 'downloading'
+              ? (locale === 'ro' ? 'Se descarcă lecturile în limba selectată…' : 'Downloading readings in the selected language…')
+              : (locale === 'ro' ? 'Descărcarea nu s-a terminat. Reconectează-te și selectează din nou limba.' : 'Download did not finish. Reconnect and select the language again.')}
+          </p>}
           <SegmentedControl
             legend={copy.settings.theme}
             value={theme}

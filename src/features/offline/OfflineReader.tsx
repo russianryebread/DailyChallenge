@@ -1,186 +1,133 @@
 'use client';
 
-import { useEffect, useState } from 'react';
-import Link from 'next/link';
-
-import type { Locale, LocalizedReading, ReadingBlock } from '@/src/core/types';
-import type { NeighborRef } from '@/src/content/navigation';
+import { useEffect, useState, type ReactNode } from 'react';
+import type { LocalizedReading, ReadingBlock } from '@/src/core/types';
 import {
-  activeSequence,
-  nextInSequence,
-  previousInSequence,
-  toMonthDay,
+  activeSequence, isLeapYear, LEAP_DAY, nextInSequence, previousInSequence, toMonthDay,
 } from '@/src/core/calendar';
 import { messages } from '@/src/i18n/messages';
 import { ReadingScreen } from '@/src/features/reader/ReadingScreen';
-import { Icon } from '@/src/features/shell/icons';
+import { ArchiveScreen } from '@/src/features/archive/ArchiveScreen';
+import { SearchScreen } from '@/src/features/search/SearchScreen';
+import { SavedScreen } from '@/src/features/saved/SavedScreen';
+import { SettingsScreen } from '@/src/features/settings/SettingsScreen';
+import { SupportScreen } from '@/src/features/support/SupportScreen';
+import { readLocale } from '@/src/features/settings/preferences';
+import { AppLink, OfflineNavigation } from './navigation';
+import { offlineRoute, type OfflineRoute } from './routes';
+import { ensureOfflineLanguage } from './language';
 
-interface SearchEntry {
-  id: number;
-  monthDay: string;
-  title: string;
-  text: string;
-}
-
-interface MonthReading {
-  id: number;
-  monthDay: string;
-  title: string;
-  blocks: ReadingBlock[];
-}
-
-type Parsed =
-  | { locale: Locale; kind: 'today' }
-  | { locale: Locale; kind: 'devotional'; id: number };
-
-function parsePath(pathname: string): Parsed | null {
-  let locale: Locale = 'en';
-  let path = pathname;
-  if (path === '/ro' || path.startsWith('/ro/')) {
-    locale = 'ro';
-    path = path.slice(3) || '/';
-  }
-  if (path === '/today' || path === '/' || path === '') {
-    return { locale, kind: 'today' };
-  }
-  const match = path.match(/^\/devotional\/(\d+)$/);
-  if (match) {
-    return { locale, kind: 'devotional', id: Number.parseInt(match[1], 10) };
-  }
-  return null;
-}
-
-type State =
-  | { status: 'loading' }
-  | { status: 'notfound'; locale: Locale }
-  | {
-      status: 'ready';
-      reading: LocalizedReading;
-      year: number;
-      previous: NeighborRef | null;
-      next: NeighborRef | null;
-    };
+interface SearchEntry { id: number; monthDay: string; title: string; text: string }
+interface MonthReading { id: number; monthDay: string; title: string; blocks: ReadingBlock[] }
+type Page = { route: OfflineRoute; catalog: SearchEntry[]; version: string; reading?: LocalizedReading; year: number };
 
 async function loadJson<T>(url: string): Promise<T> {
   const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`Failed to load ${url}`);
-  }
-  return (await response.json()) as T;
+  if (!response.ok) throw new Error(`Offline bundle missing: ${url}`);
+  return response.json() as Promise<T>;
 }
 
+// All application routes share this shell. Its links use local history, so no
+// RSC payloads or server-rendered pages are needed after installation.
 export function OfflineReader() {
-  const [state, setState] = useState<State>({ status: 'loading' });
+  const [location, setLocation] = useState<{ href: string; day: string } | null>(null);
+  const [page, setPage] = useState<Page | null>(null);
+  const [error, setError] = useState(false);
 
   useEffect(() => {
-    let active = true;
-    (async () => {
-      const parsed = parsePath(window.location.pathname);
-      if (!parsed) {
-        if (active) setState({ status: 'notfound', locale: 'en' });
-        return;
-      }
-      try {
-        const contentManifest = await loadJson<{ contentVersion: string }>(
-          '/content/manifest.json',
-        );
-        const version = contentManifest.contentVersion;
-        const search = await loadJson<{ readings: SearchEntry[] }>(
-          `/content/${version}/search-${parsed.locale}.json`,
-        );
-        const byId = new Map(search.readings.map((r) => [r.id, r]));
-        const byMonthDay = new Map(search.readings.map((r) => [r.monthDay, r]));
-        const allMonthDays = search.readings.map((r) => r.monthDay);
-
-        const monthDay =
-          parsed.kind === 'today'
-            ? toMonthDay(new Date())
-            : byId.get(parsed.id)?.monthDay;
-        if (!monthDay) {
-          if (active) setState({ status: 'notfound', locale: parsed.locale });
-          return;
-        }
-
-        const month = monthDay.slice(0, 2);
-        const monthDoc = await loadJson<{ readings: MonthReading[] }>(
-          `/content/${version}/${parsed.locale}/${month}.json`,
-        );
-        const monthReading = monthDoc.readings.find((r) => r.monthDay === monthDay);
-        const searchEntry = byMonthDay.get(monthDay);
-        if (!monthReading || !searchEntry) {
-          if (active) setState({ status: 'notfound', locale: parsed.locale });
-          return;
-        }
-
-        const reading: LocalizedReading = {
-          id: monthReading.id,
-          monthDay,
-          locale: parsed.locale,
-          title: monthReading.title,
-          blocks: monthReading.blocks,
-          plainText: searchEntry.text,
-        };
-
-        const year = new Date().getFullYear();
-        const sequence = activeSequence(allMonthDays, year);
-        const toRef = (md: string | null): NeighborRef | null => {
-          const entry = md ? byMonthDay.get(md) : undefined;
-          return entry ? { id: entry.id, monthDay: entry.monthDay } : null;
-        };
-
-        if (active) {
-          setState({
-            status: 'ready',
-            reading,
-            year,
-            previous: toRef(previousInSequence(sequence, monthDay)),
-            next: toRef(nextInSequence(sequence, monthDay)),
-          });
-        }
-      } catch {
-        if (active) setState({ status: 'notfound', locale: parsed.locale });
-      }
-    })();
+    const sync = () => setLocation({ href: window.location.pathname, day: toMonthDay(new Date()) });
+    const visible = () => { if (document.visibilityState === 'visible') sync(); };
+    sync();
+    window.addEventListener('popstate', sync);
+    document.addEventListener('visibilitychange', visible);
+    // Keep Today current when left open overnight, including Dec 31 -> Jan 1.
+    const timer = window.setInterval(() => {
+      const day = toMonthDay(new Date());
+      setLocation((current) => current?.day === day ? current : { href: window.location.pathname, day });
+    }, 30_000);
     return () => {
-      active = false;
+      window.removeEventListener('popstate', sync);
+      document.removeEventListener('visibilitychange', visible);
+      window.clearInterval(timer);
     };
   }, []);
 
-  if (state.status === 'loading') {
-    return (
-      <main className="app-shell">
-        <section className="reading-screen" aria-busy="true" />
-      </main>
-    );
+  useEffect(() => {
+    if (!location) return;
+    let cancelled = false;
+    (async () => {
+      const now = new Date();
+      const route = offlineRoute(location.href, readLocale(), now);
+      await ensureOfflineLanguage(route.locale);
+      const manifest = await loadJson<{ contentVersion: string }>('/content/manifest.json');
+      const version = manifest.contentVersion;
+      const search = await loadJson<{ readings: SearchEntry[] }>(`/content/${version}/search-${route.locale}.json`);
+      let reading: LocalizedReading | undefined;
+      if (route.kind === 'today' || route.kind === 'devotional') {
+        const entry = route.kind === 'today'
+          ? search.readings.find((item) => item.monthDay === toMonthDay(now))
+          : search.readings.find((item) => item.id === route.id);
+        if (!entry) throw new Error('Reading missing from offline catalog');
+        const month = await loadJson<{ readings: MonthReading[] }>(`/content/${version}/${route.locale}/${entry.monthDay.slice(0, 2)}.json`);
+        const item = month.readings.find((item) => item.id === entry.id);
+        if (!item) throw new Error('Reading missing from offline month');
+        reading = { ...item, locale: route.locale, plainText: entry.text };
+      }
+      if (!cancelled) {
+        document.documentElement.lang = route.locale;
+        const copy = messages(route.locale);
+        document.title = `${reading?.title ?? (route.kind in copy.tabs ? copy.tabs[route.kind as keyof typeof copy.tabs] : copy.wordmark)} · DailyChallenge`;
+        setPage({ route, version, catalog: search.readings, reading, year: now.getFullYear() });
+      }
+    })().catch(() => { if (!cancelled) setError(true); });
+    return () => { cancelled = true; };
+  }, [location]);
+
+  function navigate(href: string) {
+    const url = new URL(href, window.location.href);
+    window.history.pushState(null, '', url);
+    setPage(null);
+    setError(false);
+    setLocation({ href: url.pathname, day: toMonthDay(new Date()) });
+    window.scrollTo(0, 0);
   }
 
-  if (state.status === 'notfound') {
-    const copy = messages(state.locale);
-    const prefix = state.locale === 'ro' ? '/ro' : '';
-    return (
-      <main className="app-shell">
-        <section className="offline-screen" aria-label={copy.offline.title}>
-          <div className="offline-card">
-            <span className="offline-icon" aria-hidden="true">
-              <Icon name="today" size={30} />
-            </span>
-            <h1>{copy.offline.title}</h1>
-            <p>{copy.offline.body}</p>
-            <Link className="offline-link" href={`${prefix}/today`}>
-              {copy.offline.today}
-            </Link>
-          </div>
-        </section>
-      </main>
-    );
+  let screen: ReactNode;
+  if (error) {
+    const copy = messages(readLocale());
+    screen = <main className="app-shell"><section className="offline-screen"><div className="offline-card">
+      <h1>{copy.offline.title}</h1><p>{copy.offline.body}</p>
+      <AppLink className="offline-link" href="/">{copy.offline.today}</AppLink>
+    </div></section></main>;
+  } else if (!page) {
+    screen = <main className="app-shell"><section className="reading-screen" aria-busy="true" /></main>;
+  } else {
+    const { route, reading, catalog, version, year } = page;
+    const { locale } = route;
+    switch (route.kind) {
+      case 'today':
+      case 'devotional': {
+        const sequence = activeSequence(catalog.map((entry) => entry.monthDay), year);
+        const ref = (md: string | null) => {
+          const entry = catalog.find((item) => item.monthDay === md);
+          return entry ? { id: entry.id, monthDay: entry.monthDay } : null;
+        };
+        screen = reading && <ReadingScreen reading={reading} year={year}
+          previous={ref(previousInSequence(sequence, reading.monthDay))}
+          next={ref(nextInSequence(sequence, reading.monthDay))} />;
+        break;
+      }
+      case 'archive':
+        screen = <ArchiveScreen locale={locale} month={route.month} entries={catalog
+          .filter((entry) => Number(entry.monthDay.slice(0, 2)) === route.month && (isLeapYear(year) || entry.monthDay !== LEAP_DAY))
+          .map((entry) => ({ ...entry, day: Number(entry.monthDay.slice(3)) }))} />;
+        break;
+      case 'search': screen = <SearchScreen locale={locale} indexUrl={`/content/${version}/search-${locale}.json`} />; break;
+      case 'saved': screen = <SavedScreen locale={locale} catalog={catalog} />; break;
+      case 'settings': screen = <SettingsScreen locale={locale} />; break;
+      case 'support': screen = <SupportScreen locale={locale} />; break;
+      default: screen = <main className="app-shell"><h1>{locale === 'ro' ? 'Pagina nu a fost găsită' : 'Page not found'}</h1><AppLink href="/">{messages(locale).offline.today}</AppLink></main>;
+    }
   }
-
-  return (
-    <ReadingScreen
-      reading={state.reading}
-      year={state.year}
-      previous={state.previous}
-      next={state.next}
-    />
-  );
+  return <OfflineNavigation.Provider value={navigate}>{screen}</OfflineNavigation.Provider>;
 }

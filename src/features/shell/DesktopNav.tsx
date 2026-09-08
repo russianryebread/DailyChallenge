@@ -1,5 +1,5 @@
 import type { ReactNode } from 'react';
-import Link from 'next/link';
+import { AppLink as Link } from '@/src/features/offline/navigation';
 
 import type { Locale } from '@/src/core/types';
 import { messages } from '@/src/i18n/messages';

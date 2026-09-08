@@ -16,6 +16,7 @@
     "test:content": "node --test tests/content-proof.test.mjs",
     "test:content:full": "node --test tests/content-full.test.mjs tests/content-runtime.test.mjs",
     "test:unit": "node --test tests/core-calendar.test.mjs",
+    "test:offline": "node --test tests/offline-worker.test.mjs tests/offline-manifest.test.mjs tests/content-runtime.test.mjs",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
