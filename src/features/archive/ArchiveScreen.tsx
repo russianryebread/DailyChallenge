@@ -5,6 +5,7 @@ import type { MonthEntry } from '@/src/content/repository';
 import { messages, monthName } from '@/src/i18n/messages';
 import { TabBar } from '@/src/features/shell/TabBar';
 import { DesktopNav } from '@/src/features/shell/DesktopNav';
+import { Icon } from '@/src/features/shell/icons';
 
 const MONTHS = Array.from({ length: 12 }, (_, index) => index + 1);
 
@@ -33,8 +34,13 @@ export function ArchiveScreen({
           <div className="list-header-top">
             <p className="eyebrow list-eyebrow">{copy.tabs.archive}</p>
             <div className="header-actions">
-              <Link className="header-search-link" href={`${prefix}/search`}>
-                {copy.search.label}
+              <Link
+                className="icon-button header-search-link"
+                href={`${prefix}/search`}
+                aria-label={copy.search.label}
+                title={copy.search.label}
+              >
+                <Icon name="search" size={22} />
               </Link>
             </div>
           </div>

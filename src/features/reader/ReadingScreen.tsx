@@ -9,7 +9,6 @@ import { Blocks } from './Blocks';
 import { SaveButton } from './SaveButton';
 import { ShareButton } from './ShareButton';
 import { ReadingTracker } from './ReadingTracker';
-import { HeroParallax } from './HeroParallax';
 
 function localePrefix(locale: Locale): string {
   return locale === 'ro' ? '/ro' : '';
@@ -63,7 +62,7 @@ export function ReadingScreen({
 }) {
   const { locale } = reading;
   const copy = messages(locale);
-  const dateLabel = formatFullDate(reading.monthDay, year, locale).toUpperCase();
+  const dateLabel = formatFullDate(reading.monthDay, year, locale);
 
   return (
     <>
@@ -72,27 +71,24 @@ export function ReadingScreen({
         active="today"
         actions={<SaveButton monthDay={reading.monthDay} locale={locale} />}
       />
-      <nav className="app-bar reading-topbar" aria-label={copy.wordmark}>
-        <span className="wordmark">{copy.wordmark}</span>
-        <div className="app-actions">
-          <SaveButton monthDay={reading.monthDay} locale={locale} />
-          <ShareButton id={reading.id} title={reading.title} locale={locale} />
-        </div>
-      </nav>
       <main className="app-shell">
         <ReadingTracker monthDay={reading.monthDay} />
-        <HeroParallax />
         <section className="reading-screen" aria-label={reading.title}>
           <header className="reading-hero">
-            <div className="hero-copy">
-              <div className="hero-flex">
-                <p className="eyebrow">{dateLabel}</p>
-                <div className="hero-meta" aria-label={`${copy.dayLabel} ${reading.id}`}>
-                  <span>
-                    {copy.dayLabel} {reading.id}
-                  </span>
-                </div>
+            <nav className="app-bar reading-topbar" aria-label={copy.wordmark}>
+              <span className="wordmark">{copy.wordmark}</span>
+              <div className="app-actions">
+                <SaveButton monthDay={reading.monthDay} locale={locale} />
+                <ShareButton id={reading.id} title={reading.title} locale={locale} />
               </div>
+            </nav>
+            <div className="hero-copy">
+              <p className="hero-meta">
+                <span>{dateLabel}</span>
+                <span className="hero-day">
+                  <span aria-hidden="true">·</span> {copy.dayLabel} {reading.id}
+                </span>
+              </p>
               <h1>{reading.title}</h1>
             </div>
           </header>

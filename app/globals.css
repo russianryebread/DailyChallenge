@@ -98,15 +98,16 @@ a:focus-visible {
   background: var(--paper-0);
 }
 
-/* Sticky hero: the reading content scrolls up and over it. */
+/* Compact opening that grows with its title and scrolls with the reading. */
 .reading-hero {
-  position: sticky;
-  top: 0;
-  z-index: 0;
-  min-height: 210px;
-  color: var(--paper-0);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 140px;
+  color: #fffdfb;
   background:
-    linear-gradient(to top, rgba(42, 35, 32, 0.62), rgba(42, 35, 32, 0.16) 58%, rgba(42, 35, 32, 0)),
+    linear-gradient(to top, rgba(42, 35, 32, 0.28), rgba(42, 35, 32, 0.08) 58%, rgba(42, 35, 32, 0)),
     linear-gradient(165deg, var(--gradient-1) 0%, var(--gradient-2) 55%, var(--gradient-3) 100%);
 }
 
@@ -116,20 +117,20 @@ a:focus-visible {
   justify-content: space-between;
 }
 
-/* Reader top bar: paints through the iOS safe area and continues the same
-   color used at the top of the hero gradient. Hidden on desktop, where the
-   shared DesktopNav provides the chrome. */
+/* Transparent mobile toolbar within the hero's continuous gradient,
+   including the iOS safe area. Desktop uses the shared DesktopNav. */
 .reading-topbar {
   position: relative;
   z-index: 3;
+  width: 100%;
+  flex-shrink: 0;
   min-height: calc(52px + var(--safe-top));
   padding: var(--safe-top) 20px 0;
-  background: var(--gradient-1);
+  background: transparent;
 }
 
 .wordmark,
 .eyebrow,
-.hero-meta,
 .verse cite {
   font-size: 0.75rem;
   font-weight: 600;
@@ -159,11 +160,13 @@ a:focus-visible {
 }
 
 .hero-copy {
-  position: absolute;
-  right: 20px;
-  bottom: 28px;
-  left: 20px;
-  will-change: transform, opacity;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 140px;
+  width: min(100%, 40rem);
+  margin: 0 auto;
+  padding: 24px;
 }
 
 .eyebrow {
@@ -172,26 +175,36 @@ a:focus-visible {
 }
 
 .hero-copy h1 {
-  max-width: 32rem;
   margin: 10px 0 0;
-  color: rgba(255, 253, 251, 0.82);
-  font: 300 clamp(2.15rem, 9vw, 3.4rem) / 1.06 var(--font-reading);
+  color: #fffdfb;
+  font: 300 clamp(2rem, 7vw, 3rem) / 1.12 var(--font-reading);
   letter-spacing: -0.025em;
   text-wrap: balance;
-}
-
-.hero-flex {
-    display: flex;
-    justify-content: space-between;
+  overflow-wrap: anywhere;
 }
 
 .hero-meta {
   display: flex;
-  justify-content: flex-end;
-  gap: 16px;
-  color: rgba(255, 253, 251, 0.9);
-  font-variant: all-small-caps;
-  letter-spacing: 0.1em;
+  flex-wrap: wrap;
+  gap: 4px 8px;
+  margin: 0;
+  color: #fffdfb;
+  font: 500 0.8125rem/1.5 var(--font-ui);
+  letter-spacing: 0.025em;
+}
+
+.hero-day {
+  white-space: nowrap;
+}
+
+.reading-topbar .icon-button {
+  background: transparent;
+  color: #fffdfb;
+}
+
+.reading-topbar .icon-button:hover,
+.reading-topbar .icon-button:focus-visible {
+  background: rgba(255, 253, 251, 0.1);
 }
 
 .reading-card {
@@ -299,6 +312,7 @@ a:focus-visible {
   align-items: center;
   gap: 12px;
   margin-top: 40px;
+  margin-bottom: -26px;
   border-top: 1px solid var(--border-subtle);
   padding-top: 12px;
 }
@@ -551,11 +565,14 @@ a:focus-visible {
 }
 
 .header-search-link {
-  color: rgba(255, 253, 251, 0.92);
-  font: 600 0.72rem/1 var(--font-ui);
-  letter-spacing: 0.07em;
+  background: transparent;
+  color: #fffdfb;
   text-decoration: none;
-  text-transform: uppercase;
+}
+
+.header-search-link:hover,
+.header-search-link:focus-visible {
+  background: rgba(255, 253, 251, 0.1);
 }
 
 /* Search */
@@ -770,12 +787,11 @@ a:focus-visible {
   }
 
   .hero-copy {
-    right: 40px;
-    left: 40px;
+    padding-block: 32px;
   }
 
   .reading-hero {
-    min-height: 280px;
+    min-height: 186px;
   }
 }
 
