@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "ro",
   "month": "10",
   "readings": [
@@ -28,11 +28,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Din când în când neliniştea, boala, suferința sau primejdia, toate acestea însoțite de pierderea unor avantaje şi favoruri cu care ne-am obişnuit, ne pot tăia elanul, ne pot face duhul să şovăie şi sufletul să ni se întristeze. Însă, numai pentru o clipă. Toate acestea sunt nimicuri în comparație cu slava care va fi descoperită în noi şi pentru noi.“ <i>—David Livingstone</i></p>"
+          "html": "<p>Din când în când neliniştea, boala, suferința sau primejdia, toate acestea însoțite de pierderea unor avantaje şi favoruri cu care ne-am obişnuit, ne pot tăia elanul, ne pot face duhul să şovăie şi sufletul să ni se întristeze. Însă, numai pentru o clipă. Toate acestea sunt nimicuri în comparație cu slava care va fi descoperită în noi şi pentru noi.“ </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—David Livingstone"
         },
         {
           "type": "prose",
-          "html": "<p>Din momentul în care descoperi un lucru cât se poate de simplu – şi anume că obligația pe care o simți față de Dumnezeu este un privilegiu de care te bucuri, şi nu ceva ce îți este impus ca o povară – experiența te va învăța mai multe lucruri: că datoria este libertate, că pocăința este o eliberare de suferință, că sacrifi- ciul este un câştig, că smerenia este demnitate şi că adevărul de care te ascunzi este un element vindecător, care îți inundă viața dezorganizată. <i>—Horace Bushnell</i></p>"
+          "html": "<p>Din momentul în care descoperi un lucru cât se poate de simplu – şi anume că obligația pe care o simți față de Dumnezeu este un privilegiu de care te bucuri, şi nu ceva ce îți este impus ca o povară – experiența te va învăța mai multe lucruri: că datoria este libertate, că pocăința este o eliberare de suferință, că sacrifi- ciul este un câştig, că smerenia este demnitate şi că adevărul de care te ascunzi este un element vindecător, care îți inundă viața dezorganizată. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Horace Bushnell"
         },
         {
           "type": "prose",
@@ -65,7 +73,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Trebuie să-l atacăm pe Satan, dar în acelaşi timp să ne apărăm; cu scutul într-o mână şi cu sabia în cealaltă. Oricine luptă cu pute- rile întunericului are nevoie de ambele. Cum vom putea birui dacă nu luptăm? <i>—John Wesley</i></p>"
+          "html": "<p>Trebuie să-l atacăm pe Satan, dar în acelaşi timp să ne apărăm; cu scutul într-o mână şi cu sabia în cealaltă. Oricine luptă cu pute- rile întunericului are nevoie de ambele. Cum vom putea birui dacă nu luptăm? </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         },
         {
           "type": "prose",
@@ -138,7 +150,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>După ce vântul din nord şi-a făcut treaba, este rândul vântu- lui din sud („de miazăzi“). Vântul din nord ar putea fi comparat cu furtunile care aduc judecata lui Dumnezeu, iar vântul din sud cu mişcările blânde ale Duhului Sfânt. Vântul din sud trebuie să sufle peste grădină pentru ca aceasta să-şi pună în libertate parfu- mul. Vântul din nord apleacă ramurile până la pământ, după care vine vântul din sud, care le ridică şi le împrospătează. Este suflarea Dumnezeului celui Viu, suflarea Lui dătătoare de viață. <i>—Sora Eva</i></p>"
+          "html": "<p>După ce vântul din nord şi-a făcut treaba, este rândul vântu- lui din sud („de miazăzi“). Vântul din nord ar putea fi comparat cu furtunile care aduc judecata lui Dumnezeu, iar vântul din sud cu mişcările blânde ale Duhului Sfânt. Vântul din sud trebuie să sufle peste grădină pentru ca aceasta să-şi pună în libertate parfu- mul. Vântul din nord apleacă ramurile până la pământ, după care vine vântul din sud, care le ridică şi le împrospătează. Este suflarea Dumnezeului celui Viu, suflarea Lui dătătoare de viață. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sora Eva"
         },
         {
           "type": "prose",
@@ -178,7 +194,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Acum, dacă viziunea lui Dumnezeu diferă atât de mult de vi- ziunea oamenilor şi dacă El împărtăşeşte viziunea Lui fiecărui om căruia îi oferă privilegiul prezenței Lui binecuvântate, concluzia logică este că viziunea nouă pe care o capătă persoana respectivă trebuie să fie radical diferită de a celorlalți oameni. Și în măsura în care se lasă influențat de această viziune, omul acela va urma o altă cale, diferită de a celorlalți oameni – căci merg oare doi oameni împreună fără să se învoiască? El se uită la lucrurile nevăzute şi veşnice, în timp ce semenii lui trăiesc fără Dumnezeu în lume. El caută şi urmează calea îngustă care duce la viață, pe când ei se îm- bulzesc pe calea cea largă care duce la pieire. Aşa cum cele două căi duc în direcții diametral opuse, cei care păşesc pe una trebuie să fie despărțiți de cei care merg pe cealaltă. <i>—Edward Payson</i></p>"
+          "html": "<p>Acum, dacă viziunea lui Dumnezeu diferă atât de mult de vi- ziunea oamenilor şi dacă El împărtăşeşte viziunea Lui fiecărui om căruia îi oferă privilegiul prezenței Lui binecuvântate, concluzia logică este că viziunea nouă pe care o capătă persoana respectivă trebuie să fie radical diferită de a celorlalți oameni. Și în măsura în care se lasă influențat de această viziune, omul acela va urma o altă cale, diferită de a celorlalți oameni – căci merg oare doi oameni împreună fără să se învoiască? El se uită la lucrurile nevăzute şi veşnice, în timp ce semenii lui trăiesc fără Dumnezeu în lume. El caută şi urmează calea îngustă care duce la viață, pe când ei se îm- bulzesc pe calea cea largă care duce la pieire. Aşa cum cele două căi duc în direcții diametral opuse, cei care păşesc pe una trebuie să fie despărțiți de cei care merg pe cealaltă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Edward Payson"
         },
         {
           "type": "prose",
@@ -221,7 +241,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Fiecare zi este o viață în miniatură, iar viața noastră întreagă nu-i decât o zi care se tot repetă. De aceea cei care îndrăznesc să piardă o zi sunt periculos de risipitori, iar cei care îndrăznesc să o petreacă în mod greşit sunt nişte omeni nesăbuiți. <i>—Joseph Hall</i></p>"
+          "html": "<p>Fiecare zi este o viață în miniatură, iar viața noastră întreagă nu-i decât o zi care se tot repetă. De aceea cei care îndrăznesc să piardă o zi sunt periculos de risipitori, iar cei care îndrăznesc să o petreacă în mod greşit sunt nişte omeni nesăbuiți. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Joseph Hall"
         },
         {
           "type": "prose",
@@ -423,7 +447,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Haideți să fim practici cu Dumnezeu în privința aceasta. El a plătit prețul; tot ce ne rămâne nouă de făcut este să cerem, şi El ne va da. <i>—Reader Harris</i></p>"
+          "html": "<p>Haideți să fim practici cu Dumnezeu în privința aceasta. El a plătit prețul; tot ce ne rămâne nouă de făcut este să cerem, şi El ne va da. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Reader Harris"
         },
         {
           "type": "prose",
@@ -455,7 +483,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Rugăciunea este cheia cu care se deschid porțile Cerului; Duhul Sfânt este Cel care ajută credința noastră să răsucească această cheie. <i>—T. Watson</i></p>"
+          "html": "<p>Rugăciunea este cheia cu care se deschid porțile Cerului; Duhul Sfânt este Cel care ajută credința noastră să răsucească această cheie. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—T. Watson"
         }
       ]
     },
@@ -499,7 +531,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>O viață de sfințenie are propria ei voce. Ea vorbeşte şi atunci când gura tace, şi este sau o chemare constantă, sau o respingere perpetuă. <i>—Hinton</i></p>"
+          "html": "<p>O viață de sfințenie are propria ei voce. Ea vorbeşte şi atunci când gura tace, şi este sau o chemare constantă, sau o respingere perpetuă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hinton"
         },
         {
           "type": "prose",
@@ -603,8 +639,24 @@
           "html": "<p>stâncă lovită de toiagul Unuia mai mare decât Moise;</p>"
         },
         {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "– este o bucurie care nu izvorăşte din cursul normal al naturii, ci este dăruită din Cer şi implantată în sufletul\n\ncelui credincios;",
+            "– este cu adevărat un izvor miraculos deschis de Duhul\n\nSfânt în Sahara sufletului omenesc."
+          ]
+        },
+        {
           "type": "attribution",
-          "text": "– este o bucurie care nu izvorăşte din cursul normal al naturii, ci este dăruită din Cer şi implantată în sufletul\n\ncelui credincios;\n\n– este cu adevărat un izvor miraculos deschis de Duhul\n\nSfânt în Sahara sufletului omenesc. —Daniel Steele\n\nTu, izvor de bucurie, Ai umplut cu dărnicie, Ale sfinților pahare\n\nSă se-adape fiecare\n\nȘi să bea pe îndelete Pelerinii arşi de sete;\n\nDar şi-n mine clocoteşte Bucuria Ta divină; Nu-mprejurul meu, fireşte, Căci Tu-ai hotărât să vină, Doamne, şi-n a mea ființă Unde ai Tu locuință.\n\n—Gerhardt Tersteegen"
+          "text": "—Daniel Steele"
+        },
+        {
+          "type": "prose",
+          "html": "<p><br>\nTu, izvor de bucurie, Ai umplut cu dărnicie, Ale sfinților pahare<br>\nSă se-adape fiecare<br>\nȘi să bea pe îndelete Pelerinii arşi de sete; <br>\nDar şi-n mine clocoteşte Bucuria Ta divină; Nu-mprejurul meu, fireşte, Căci Tu-ai hotărât să vină, Doamne, şi-n a mea ființă Unde ai Tu locuință. <br>\n</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Gerhardt Tersteegen"
         }
       ]
     },
@@ -628,7 +680,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Supunerea este întotdeauna latura practică a credinței. Numai dacă trăim după această Carte binecuvântată putem să-i revendi- căm pe deplin promisiunile şi să ne găsim alinare în cuvintele ei pline de har. Haideți să trăim la înălțimea deplinătății Bibliei noas- tre. Haideți să îi traducem fiecare cuvânt în viața noastră. Haideți să fim fiecare dintre noi o nouă ediție şi o nouă versiune a Scrip- turilor, tradusă în carne şi sânge, în cuvinte şi fapte, în sfințenie şi slujire. <i>—A.B. Simpson</i></p>"
+          "html": "<p>Supunerea este întotdeauna latura practică a credinței. Numai dacă trăim după această Carte binecuvântată putem să-i revendi- căm pe deplin promisiunile şi să ne găsim alinare în cuvintele ei pline de har. Haideți să trăim la înălțimea deplinătății Bibliei noas- tre. Haideți să îi traducem fiecare cuvânt în viața noastră. Haideți să fim fiecare dintre noi o nouă ediție şi o nouă versiune a Scrip- turilor, tradusă în carne şi sânge, în cuvinte şi fapte, în sfințenie şi slujire. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—A.B. Simpson"
         },
         {
           "type": "prose",
@@ -683,7 +739,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Îl încoronăm pe Domnul Isus Cristos ca rege al vieții noastre? Putem spune: „Domnul domneşte“? <i>—George S. Ingram</i></p>"
+          "html": "<p>Îl încoronăm pe Domnul Isus Cristos ca rege al vieții noastre? Putem spune: „Domnul domneşte“? </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George S. Ingram"
         },
         {
           "type": "prose",
@@ -715,7 +775,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Eşti în aşa măsură sufletul vieții mele, încât nu am altă viață decât a Ta. <i>—Doamna Guyon</i></p>"
+          "html": "<p>Eşti în aşa măsură sufletul vieții mele, încât nu am altă viață decât a Ta. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Doamna Guyon"
         }
       ]
     },
@@ -734,7 +798,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Mi se pare imposibil să evit ofensarea celor vinovați, fiindcă este ceva ce nu poate fi evitat decât prin tăcerea noastră sau prin răbdarea lor; de tăcut noi nu putem să tăcem din pricina poruncii lui Dumnezeu, iar de răbdat ei nu pot răbda din pricina vinovăției lor. <i>—Martin Luther</i></p>"
+          "html": "<p>Mi se pare imposibil să evit ofensarea celor vinovați, fiindcă este ceva ce nu poate fi evitat decât prin tăcerea noastră sau prin răbdarea lor; de tăcut noi nu putem să tăcem din pricina poruncii lui Dumnezeu, iar de răbdat ei nu pot răbda din pricina vinovăției lor. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Martin Luther"
         },
         {
           "type": "prose",
@@ -851,7 +919,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>O, prietenii mei dragi, haideți să ne sprijinim mai mult pe ade- vărul absolut, aşa cum îl descoperim în Persoana Domnului Isus. În ultima vreme am fost pus în situația de a mă hrăni din ce în ce mai mult din Isus ca întruchipare a adevărului deplin. Văd alt- fel plinătatea existentă în El sub aspectul adevărului suprem decât am văzut-o vreodată. Văd în Cristos adevărul cu privire la viața mea, la prietenii mei, la relațiile mele, la rațiunea mea, la mâncarea mea, la straiele mele, la lumina mea, la focul meu, la odihna mea. În afara Lui totul nu-i decât o umbră. În El toate sunt sacramente binecuvântate – semne vizibile ale izvorului, căi de transmitere a izvoarelor lăuntrice de har. <i>—John Fletcher</i></p>"
+          "html": "<p>O, prietenii mei dragi, haideți să ne sprijinim mai mult pe ade- vărul absolut, aşa cum îl descoperim în Persoana Domnului Isus. În ultima vreme am fost pus în situația de a mă hrăni din ce în ce mai mult din Isus ca întruchipare a adevărului deplin. Văd alt- fel plinătatea existentă în El sub aspectul adevărului suprem decât am văzut-o vreodată. Văd în Cristos adevărul cu privire la viața mea, la prietenii mei, la relațiile mele, la rațiunea mea, la mâncarea mea, la straiele mele, la lumina mea, la focul meu, la odihna mea. În afara Lui totul nu-i decât o umbră. În El toate sunt sacramente binecuvântate – semne vizibile ale izvorului, căi de transmitere a izvoarelor lăuntrice de har. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Fletcher"
         },
         {
           "type": "prose",
@@ -1004,7 +1076,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>În toți creştinii care au trecut prin numeroase încercări, eu văd o anumită calitate, o anumită maturitate care, după părerea mea, nu poate fi formată în nici o altă şcoală. După cum este nevoie de o anumită măsură de căldură solară pentru a aduce la desăvârşire cele mai frumoase fructe, tot astfel încercările de foc sunt indis- pensabile în vederea maturizării omului lăuntric. <i>—Tholuck</i></p>"
+          "html": "<p>În toți creştinii care au trecut prin numeroase încercări, eu văd o anumită calitate, o anumită maturitate care, după părerea mea, nu poate fi formată în nici o altă şcoală. După cum este nevoie de o anumită măsură de căldură solară pentru a aduce la desăvârşire cele mai frumoase fructe, tot astfel încercările de foc sunt indis- pensabile în vederea maturizării omului lăuntric. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Tholuck"
         }
       ]
     },
@@ -1053,7 +1129,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>ore ale zilei în trei părți egale, spunând: „Opt ore pe zi sunt pentru somn şi recreere; opt ore pe zi sunt pentru afacerea mea; şi opt ore pe zi I le dau lui Dumnezeu.“ Când mă uit la viața lui Wesley şi văd câte predici a ținut, mă mir că a mai avut timp să călătorească; şi când mă uit la numărul de mile pe care le-a parcurs călare, mă mir că a mai avut timp să predice; iar când mă uit la numărul de cărți pe care le-a lăsat în urmă, mă întreb: „De unde a mai avut Wesley timp să scrie şi să predice?“ Întreaga viață a acestui om mare, cea mai laborioasă dintre toate de-a lungul secolelor, a fost atât de pli- nă de succes şi atât de cuprinzătoare pentru că el a ştiut să-şi îm- partă timpul corect cu Dumnezeu. <i>—S. Jones</i></p>"
+          "html": "<p>ore ale zilei în trei părți egale, spunând: „Opt ore pe zi sunt pentru somn şi recreere; opt ore pe zi sunt pentru afacerea mea; şi opt ore pe zi I le dau lui Dumnezeu.“ Când mă uit la viața lui Wesley şi văd câte predici a ținut, mă mir că a mai avut timp să călătorească; şi când mă uit la numărul de mile pe care le-a parcurs călare, mă mir că a mai avut timp să predice; iar când mă uit la numărul de cărți pe care le-a lăsat în urmă, mă întreb: „De unde a mai avut Wesley timp să scrie şi să predice?“ Întreaga viață a acestui om mare, cea mai laborioasă dintre toate de-a lungul secolelor, a fost atât de pli- nă de succes şi atât de cuprinzătoare pentru că el a ştiut să-şi îm- partă timpul corect cu Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—S. Jones"
         }
       ]
     },
@@ -1086,7 +1166,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dumnezeu vrea să Se folosească de oameni – bărbați şi femei deopotrivă – şi îi caută pretutindeni, însă, asemenea comerciantu- lui meu, trebuie să vadă sute de persoane înainte de a-i găsi pe cei potriviți. Biblia spune: „Căci Domnul Îşi întinde privirile peste tot pământul, ca să sprijinească pe aceia a căror inimă este întreagă a Lui.“ <i>—Samuel Logan Brengle</i></p>"
+          "html": "<p>Dumnezeu vrea să Se folosească de oameni – bărbați şi femei deopotrivă – şi îi caută pretutindeni, însă, asemenea comerciantu- lui meu, trebuie să vadă sute de persoane înainte de a-i găsi pe cei potriviți. Biblia spune: „Căci Domnul Îşi întinde privirile peste tot pământul, ca să sprijinească pe aceia a căror inimă este întreagă a Lui.“ </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Logan Brengle"
         },
         {
           "type": "prose",
@@ -1135,7 +1219,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu te gândi cu îngrijorare la ziua de mâine. Ajunge zilei – şi chiar fiecărei ore din fiecare zi – necazul ei. Nu există în lumea în- treagă un copil al lui Dumnezeu suficient de puternic ca să reziste sub presiunea îndatoririlor de azi şi sub povara neliniştilor legate de ziua de mâine puse una peste alta. Până şi apostolul Pavel s-ar fi prăbuşit la pământ dacă ar fi încercat o asemenea aventură. Avem tot dreptul să-I cerem Tatălui nostru ceresc putere pentru ziua de azi; dar nu avem nici un drept să-I cerem vreun gram de putere pentru ceva care trece dincolo de ziua de azi. Odată cu ziua de mâine va veni şi harul care să ne fie de ajuns pentru sarcinile şi necazurile ei. <i>—Theodore Cuyler</i></p>"
+          "html": "<p>Nu te gândi cu îngrijorare la ziua de mâine. Ajunge zilei – şi chiar fiecărei ore din fiecare zi – necazul ei. Nu există în lumea în- treagă un copil al lui Dumnezeu suficient de puternic ca să reziste sub presiunea îndatoririlor de azi şi sub povara neliniştilor legate de ziua de mâine puse una peste alta. Până şi apostolul Pavel s-ar fi prăbuşit la pământ dacă ar fi încercat o asemenea aventură. Avem tot dreptul să-I cerem Tatălui nostru ceresc putere pentru ziua de azi; dar nu avem nici un drept să-I cerem vreun gram de putere pentru ceva care trece dincolo de ziua de azi. Odată cu ziua de mâine va veni şi harul care să ne fie de ajuns pentru sarcinile şi necazurile ei. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
@@ -1278,7 +1366,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Am descoperit că rezultatul este aproape întotdeauna acelaşi, şi anume: după câteva minute de meditație, sufletul meu este con- dus către mărturisire, mulțumire, mijlocire sau rugăciune stărui- toare. Astfel, chiar dacă nu mă dedicasem rugăciunii, ci meditației, timpul meu de părtăşie cu Dumnezeu devenea aproape imediat un timp de rugăciune. <i>—George Müller</i></p>"
+          "html": "<p>Am descoperit că rezultatul este aproape întotdeauna acelaşi, şi anume: după câteva minute de meditație, sufletul meu este con- dus către mărturisire, mulțumire, mijlocire sau rugăciune stărui- toare. Astfel, chiar dacă nu mă dedicasem rugăciunii, ci meditației, timpul meu de părtăşie cu Dumnezeu devenea aproape imediat un timp de rugăciune. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Müller"
         }
       ]
     },
@@ -1303,11 +1395,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>În acelaşi timp, să ne asigurăm că împotrivirea pe care o în- tâmpinăm se datorează sfințeniei noastre, şi nu unei comportări neplăcute; să ne asigurăm că persecuția la care suntem supuşi este de dragul neprihănirii, şi nu pentru alte cauze mai puțin glorioase. Dacă aşa stau lucrurile, atunci să avem grijă să continuăm a ne bucura, a predica şi a mărturisi mântuirea deplină, indiferent de tratamentul la care am fi supuşi. Dumnezeul nostru S-a angajat ca odată cu orice ispită sau încercare să ne asigure şi o cale de scăpare. Să nu ne îndoim nici o clipă că El va face întocmai cum a promis. Ba chiar mai mult decât atât, să declarăm că scena fiecărui atac de genul acesta va deveni un loc al biruinței. <i>—Reader Harris</i></p>"
+          "html": "<p>În acelaşi timp, să ne asigurăm că împotrivirea pe care o în- tâmpinăm se datorează sfințeniei noastre, şi nu unei comportări neplăcute; să ne asigurăm că persecuția la care suntem supuşi este de dragul neprihănirii, şi nu pentru alte cauze mai puțin glorioase. Dacă aşa stau lucrurile, atunci să avem grijă să continuăm a ne bucura, a predica şi a mărturisi mântuirea deplină, indiferent de tratamentul la care am fi supuşi. Dumnezeul nostru S-a angajat ca odată cu orice ispită sau încercare să ne asigure şi o cale de scăpare. Să nu ne îndoim nici o clipă că El va face întocmai cum a promis. Ba chiar mai mult decât atât, să declarăm că scena fiecărui atac de genul acesta va deveni un loc al biruinței. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Reader Harris"
         },
         {
           "type": "prose",
-          "html": "<p>Dumnezeu nu pune prea des capăt persecuției dintr-o singură lovitură, lucru pe care l-ar putea foarte uşor. Însă, El le asigură co- piilor Săi un loc de scăpare şi într-un mod mai puțin spectaculos, dar la fel de eficient, îi păzeşte de înec, chiar şi atunci când duşma- nul se năpusteşte asupra lor ca un torent. <i>—John Wesley</i></p>"
+          "html": "<p>Dumnezeu nu pune prea des capăt persecuției dintr-o singură lovitură, lucru pe care l-ar putea foarte uşor. Însă, El le asigură co- piilor Săi un loc de scăpare şi într-un mod mai puțin spectaculos, dar la fel de eficient, îi păzeşte de înec, chiar şi atunci când duşma- nul se năpusteşte asupra lor ca un torent. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         },
         {
           "type": "prose",
@@ -1376,7 +1476,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Este un gând înalt, solemn şi aproape terifiant pentru orice om, şi anume acela că influența sa pe pământ, care a avut un punct de început, indiferent câtă vreme ar trece, chiar dacă el a fost cel mai rău dintre oameni, nu va avea niciodată un sfârşit. <i>—T. Carlyle</i></p>"
+          "html": "<p>Este un gând înalt, solemn şi aproape terifiant pentru orice om, şi anume acela că influența sa pe pământ, care a avut un punct de început, indiferent câtă vreme ar trece, chiar dacă el a fost cel mai rău dintre oameni, nu va avea niciodată un sfârşit. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—T. Carlyle"
         }
       ]
     },
@@ -1455,11 +1559,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cred că aceasta ar putea fi declarată o maximă în sfera religi- ei: cei care se dedică mântuirii altora cu cea mai mare râvnă, sunt întotdeauna cei mai bine plasați pentru a-şi duce până la capăt pro- pria mântuire. <i>—Stephen Olin</i></p>"
+          "html": "<p>Cred că aceasta ar putea fi declarată o maximă în sfera religi- ei: cei care se dedică mântuirii altora cu cea mai mare râvnă, sunt întotdeauna cei mai bine plasați pentru a-şi duce până la capăt pro- pria mântuire. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Stephen Olin"
         },
         {
           "type": "prose",
-          "html": "<p>În timp ce voi paşteți astfel mieluşeii lui Dumnezeu, El vă va conduce spre păşuni bogate. <i>—John Wesley</i></p>"
+          "html": "<p>În timp ce voi paşteți astfel mieluşeii lui Dumnezeu, El vă va conduce spre păşuni bogate. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         },
         {
           "type": "prose",
@@ -1516,7 +1628,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>seamnă să nu faci nimic rău. De parcă un război de țesut care nu a țesut nimic niciodată ar putea fi considerat bun pentru că nu a țesut nici măcar un fir greşit! <i>—Henry Ward Beecher</i></p>"
+          "html": "<p>seamnă să nu faci nimic rău. De parcă un război de țesut care nu a țesut nimic niciodată ar putea fi considerat bun pentru că nu a țesut nici măcar un fir greşit! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Ward Beecher"
         },
         {
           "type": "prose",
@@ -1540,7 +1656,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă nu aduc rod, nu contează cine mă laudă, iar dacă aduc rod nu-mi pasă cine mă critică. <i>—John Bunyan</i></p>"
+          "html": "<p>Dacă nu aduc rod, nu contează cine mă laudă, iar dacă aduc rod nu-mi pasă cine mă critică. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Bunyan"
         }
       ]
     },
@@ -1571,7 +1691,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dar de ce nu am putea face toate aceste lucruri încă de aici, de pe pământ? <i>—Edward Payson</i></p>"
+          "html": "<p>Dar de ce nu am putea face toate aceste lucruri încă de aici, de pe pământ? </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Edward Payson"
         },
         {
           "type": "prose",
@@ -1658,7 +1782,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>O, ce putere stă în smerenie! Sunt mii de oameni pe care Dum- nezeu tânjeşte să-i folosească în lucrarea de câştigare a sufletelor nemântuite, dar nu îndrăzneşte. Succesul li s-ar urca la cap şi i-ar duce la pieire. <i>—Catherine Booth</i></p>"
+          "html": "<p>O, ce putere stă în smerenie! Sunt mii de oameni pe care Dum- nezeu tânjeşte să-i folosească în lucrarea de câştigare a sufletelor nemântuite, dar nu îndrăzneşte. Succesul li s-ar urca la cap şi i-ar duce la pieire. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Catherine Booth"
         },
         {
           "type": "prose",
@@ -1699,11 +1827,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dar dacă sentimentele noastre ne-ar conduce pe altă cale? Atunci pacea se îndepărtează imediat de noi şi o asemenea neli- nişte îi ia locul, încât suntem nevoiți să ne întoarcem pe propriile urme. Atunci când ne călăuzeşte din exterior, El ne aşază în ase- menea circumstanțe, conexiuni şi situații, încât o singură opțiune să ne rămână deschisă, pentru că vedem cum toate celelalte sunt blocate de întâmplări vizibil providențiale. <i>—James Caughey</i></p>"
+          "html": "<p>Dar dacă sentimentele noastre ne-ar conduce pe altă cale? Atunci pacea se îndepărtează imediat de noi şi o asemenea neli- nişte îi ia locul, încât suntem nevoiți să ne întoarcem pe propriile urme. Atunci când ne călăuzeşte din exterior, El ne aşază în ase- menea circumstanțe, conexiuni şi situații, încât o singură opțiune să ne rămână deschisă, pentru că vedem cum toate celelalte sunt blocate de întâmplări vizibil providențiale. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—James Caughey"
         },
         {
           "type": "prose",
-          "html": "<p>Cred că dacă tu şi cu mine am pleca urechea la şoaptele Tatălui nostru ceresc, nu am mai avea nevoie de atâtea tunete din partea Lui. <i>—J.H. Evans</i></p>"
+          "html": "<p>Cred că dacă tu şi cu mine am pleca urechea la şoaptele Tatălui nostru ceresc, nu am mai avea nevoie de atâtea tunete din partea Lui. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.H. Evans"
         },
         {
           "type": "prose",

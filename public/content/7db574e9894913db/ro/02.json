@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "ro",
   "month": "02",
   "readings": [
@@ -35,7 +35,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>De aşa ceva avem nevoie şi la orele de studiu biblic. Punem un tânăr sau o tânără să predea la orele de studiu biblic; şi acel tânăr sau acea tânără cunoaşte la perfecție lecția, a studiat toate materialele ajutătoare şi face lecția extrem de interesantă, dar copiii sau adulții care participă la orele respective nu se convertesc, pentru că învățătorii nu ard pentru Dumnezeu. <i>––R.A. Torrey</i></p>"
+          "html": "<p>De aşa ceva avem nevoie şi la orele de studiu biblic. Punem un tânăr sau o tânără să predea la orele de studiu biblic; şi acel tânăr sau acea tânără cunoaşte la perfecție lecția, a studiat toate materialele ajutătoare şi face lecția extrem de interesantă, dar copiii sau adulții care participă la orele respective nu se convertesc, pentru că învățătorii nu ard pentru Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—R.A. Torrey"
         },
         {
           "type": "prose",
@@ -82,7 +86,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Doresc să am harul de a trăi mai presus de orice motivație umană; pur şi simplu, să trăiesc în părtăşie cu Dumnezeu şi pentru Dumnezeu; să nu fiu influențat – în special în lucrarea de misiune – de opiniile oamenilor care nu ştiu cum stau lucrurile şi a căror judecată ar putea fi opusă judecății mele. <i>––Henry Martyn</i></p>"
+          "html": "<p>Doresc să am harul de a trăi mai presus de orice motivație umană; pur şi simplu, să trăiesc în părtăşie cu Dumnezeu şi pentru Dumnezeu; să nu fiu influențat – în special în lucrarea de misiune – de opiniile oamenilor care nu ştiu cum stau lucrurile şi a căror judecată ar putea fi opusă judecății mele. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Martyn"
         },
         {
           "type": "prose",
@@ -182,7 +190,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Omul trebuie să stea aplecat asupra propriilor lui gânduri până când îi ia mintea foc şi abia apoi poate spera să aprindă şi mintea altuia. <i>––T.T. Lynch</i></p>"
+          "html": "<p>Omul trebuie să stea aplecat asupra propriilor lui gânduri până când îi ia mintea foc şi abia apoi poate spera să aprindă şi mintea altuia. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—T.T. Lynch"
         },
         {
           "type": "prose",
@@ -218,7 +230,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dumnezeu nu este nici orb, nici surd, nici indiferent şi nici neputincios. El nu este „Dumnezeul tăcut” aşa cum, în trufia şi în necredința lor îndărătnică, şi-L imaginează unii oameni. El ştie prea bine când să fie tăcut şi cum să Se ascundă de cei cu inima plină de mândrie. Dar nu Se poate ascunde nicăieri în Universul Său imens de credința copilărească şi de dragostea curată, ascultătoare şi îndelung răbdătoare. <i>––Samuel Logan Brengle</i></p>"
+          "html": "<p>Dumnezeu nu este nici orb, nici surd, nici indiferent şi nici neputincios. El nu este „Dumnezeul tăcut” aşa cum, în trufia şi în necredința lor îndărătnică, şi-L imaginează unii oameni. El ştie prea bine când să fie tăcut şi cum să Se ascundă de cei cu inima plină de mândrie. Dar nu Se poate ascunde nicăieri în Universul Său imens de credința copilărească şi de dragostea curată, ascultătoare şi îndelung răbdătoare. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Logan Brengle"
         },
         {
           "type": "prose",
@@ -233,8 +249,8 @@
           "html": "<p>Cu-aceeaşi grijă şi credincioşie, condu-mă, Tată bun, şi mai departe Pe calea-ngustă către veşnicie,<br>\nunde pe nume m-ai înscris în Carte; Să foloseşti câştig sau falimentul, dureri adânci sau bucurii măreţe,<br>\nSă pot şi eu, când va sosi momentul, să stau sub raza sfintei Tale Feţe...</p>"
         },
         {
-          "type": "prose",
-          "html": "<p><i>Prelucrare de C.M. a câtorva strofe dintr-un imn german</i></p>"
+          "type": "attribution",
+          "text": "Prelucrare de C.M. a câtorva strofe dintr-un imn german"
         },
         {
           "type": "prose",
@@ -334,7 +350,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"p6\">Dă-mi voie să formulez gândul acesta în felul următor: ca urmare a rugăciunii celui mai smerit om de pe pământ, Dumnezeu va face ceea ce altfel nu ar face niciodată. <i>––S.D. Gordon</i></p>"
+          "html": "<p class=\"p6\">Dă-mi voie să formulez gândul acesta în felul următor: ca urmare a rugăciunii celui mai smerit om de pe pământ, Dumnezeu va face ceea ce altfel nu ar face niciodată. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—S.D. Gordon"
         }
       ]
     },
@@ -358,7 +378,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>În Sfintele Scripturi, de la început până la sfârşit, vedem că bucuria este o caracteristică pe care nu o putem îndepărta fără a răni şi fără a desfigura. Împărăția lui Dumnezeu nu este doar „neprihănire”, ci <i>„neprihănire, pace şi bucurie în Duhul Sfânt” </i>(Romani 14.17, n.red.)<i>. </i><i>––William Arthur</i></p>"
+          "html": "<p>În Sfintele Scripturi, de la început până la sfârşit, vedem că bucuria este o caracteristică pe care nu o putem îndepărta fără a răni şi fără a desfigura. Împărăția lui Dumnezeu nu este doar „neprihănire”, ci <i>„neprihănire, pace şi bucurie în Duhul Sfânt” </i>(Romani 14.17, n.red.)<i>. </i></p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—William Arthur"
         },
         {
           "type": "prose",
@@ -373,8 +397,8 @@
           "html": "<p>Parola mea e „în Cristos”,<br>\nIzvor de har şi pace;<br>\nMergând spre Cer tot mai voios, Îi cânt şi fac ce-I place.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p><i>Prelucrare de C.M. a unui fragment dintr-un poem aparţinând lui E.S.M.</i></p>"
+          "type": "attribution",
+          "text": "Prelucrare de C.M. a unui fragment dintr-un poem aparţinând lui E.S.M."
         }
       ]
     },
@@ -453,7 +477,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Şi în domeniul spiritual diferența este la fel de mare. Unii creştini au viață, adică sunt cu adevărat convertiți, dar nu ştiu nimic despre viața din belşug pe care Isus Cristos a venit să le-o dea copiilor Săi. <i>„Eu am venit ca oile să aibă viaţă, şi s-o aibă din belşug.” </i>(Ioan 10.10, n.red.). <i>––George S. Ingram</i></p>"
+          "html": "<p>Şi în domeniul spiritual diferența este la fel de mare. Unii creştini au viață, adică sunt cu adevărat convertiți, dar nu ştiu nimic despre viața din belşug pe care Isus Cristos a venit să le-o dea copiilor Săi. <i>„Eu am venit ca oile să aibă viaţă, şi s-o aibă din belşug.” </i>(Ioan 10.10, n.red.). </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George S. Ingram"
         },
         {
           "type": "prose",
@@ -559,7 +587,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu e de mirare că parfumul şi frumusețea vieții divine dispar încetul cu încetul, că strălucirea din ochi se stinge, că bucuria lui în Domnul şi în puterea tăriei Lui scad până când din persoana respectivă nu mai rămâne decât o biată ființă umană care devine o dezamăgire cruntă pentru sine şi pentru ceilalți. <i>––Sora Eva</i></p>"
+          "html": "<p>Nu e de mirare că parfumul şi frumusețea vieții divine dispar încetul cu încetul, că strălucirea din ochi se stinge, că bucuria lui în Domnul şi în puterea tăriei Lui scad până când din persoana respectivă nu mai rămâne decât o biată ființă umană care devine o dezamăgire cruntă pentru sine şi pentru ceilalți. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sora Eva"
         },
         {
           "type": "prose",
@@ -647,7 +679,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Oh, da! Răbdarea este rodul unor nopți lungi şi întunecoase petrecute în mijlocul furtunii şi al unor zile atât de grele încât amiaza lor seamănă cu un miez de noapte. Căci <i>„încercarea credinței voastre lucrează răbdare” </i>(Iacov 1.3, n.red.)<i>. </i>Curăția sufletului este asemenea purității aurului – cele mai aprige focuri scot la iveală din creuzet metalul cel mai prețios şi mai rafinat. <i>––Theodore Cuyler</i></p>"
+          "html": "<p>Oh, da! Răbdarea este rodul unor nopți lungi şi întunecoase petrecute în mijlocul furtunii şi al unor zile atât de grele încât amiaza lor seamănă cu un miez de noapte. Căci <i>„încercarea credinței voastre lucrează răbdare” </i>(Iacov 1.3, n.red.)<i>. </i>Curăția sufletului este asemenea purității aurului – cele mai aprige focuri scot la iveală din creuzet metalul cel mai prețios şi mai rafinat. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
@@ -687,7 +723,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Sfințire pe deplin înseamnă să fii foarte corect în toate tranzacțiile tale, fie că este vorba de cumpărarea şi vânzarea de cai sau de plata impozitelor pe venit. <i>––Benjamin Hellier</i></p>"
+          "html": "<p>Sfințire pe deplin înseamnă să fii foarte corect în toate tranzacțiile tale, fie că este vorba de cumpărarea şi vânzarea de cai sau de plata impozitelor pe venit. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Benjamin Hellier"
         },
         {
           "type": "prose",
@@ -711,7 +751,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Te poți încrede fără rezerve în creştinii care fac cu conştiincio- zitate până şi cea mai măruntă lucrare; în cei care aprind focul sau mătură podeaua cu ochii ațintiți spre slava lui Dumnezeu; în cei care înnobilează şi munca cea mai umilă țintind către un obiectiv ales; în cei care se apropie de lucrarea pe care trebuie s-o facă cu credința înaltă şi sfântă că atunci când îşi îndeplinesc bine datoria – oricât de umilă ar fi aceasta – Dumnezeu este slăvit. <i>––Dr. Guthrie</i></p>"
+          "html": "<p>Te poți încrede fără rezerve în creştinii care fac cu conştiincio- zitate până şi cea mai măruntă lucrare; în cei care aprind focul sau mătură podeaua cu ochii ațintiți spre slava lui Dumnezeu; în cei care înnobilează şi munca cea mai umilă țintind către un obiectiv ales; în cei care se apropie de lucrarea pe care trebuie s-o facă cu credința înaltă şi sfântă că atunci când îşi îndeplinesc bine datoria – oricât de umilă ar fi aceasta – Dumnezeu este slăvit. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. Guthrie"
         }
       ]
     },
@@ -742,12 +786,16 @@
           "html": "<p>Când Îl ai pe Dumnezeu cu tine, Nu există vreun motiv de groază; Nimeni şi nimic nu te-afectează. Toate-s bune, clare şi senine.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p><i>Prelucrare de C.M. a unei strofe dintr-un poem aparţinând Maicii Theresa</i></p>"
+          "type": "attribution",
+          "text": "Prelucrare de C.M. a unei strofe dintr-un poem aparţinând Maicii Theresa"
         },
         {
           "type": "prose",
-          "html": "<p>Când ne bazăm pe organizații, obținem ceea ce pot oferi organizațiile; când ne bazăm pe educație, obținem ceea ce ne poate oferi educația; când ne bazăm pe oameni, obținem ceea ce pot oferi oamenii; dar când ne bazăm pe rugăciune, obținem ceea ce poate să ne ofere Dumnezeu. <i>––Dr. A.C. Dixon</i></p>"
+          "html": "<p>Când ne bazăm pe organizații, obținem ceea ce pot oferi organizațiile; când ne bazăm pe educație, obținem ceea ce ne poate oferi educația; când ne bazăm pe oameni, obținem ceea ce pot oferi oamenii; dar când ne bazăm pe rugăciune, obținem ceea ce poate să ne ofere Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. A.C. Dixon"
         },
         {
           "type": "prose",
@@ -930,7 +978,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dragostea sfântă este un foc mistuitor pentru tot ce este rău. Loveşte aprig şi ce loveşte ea se frânge, dar se frânge pentru a se salva. Blestemele la adresa fariseilor izvorăsc din aceeaşi inimă ca şi fericirile. <i>––Dr. Pressensé</i></p>"
+          "html": "<p>Dragostea sfântă este un foc mistuitor pentru tot ce este rău. Loveşte aprig şi ce loveşte ea se frânge, dar se frânge pentru a se salva. Blestemele la adresa fariseilor izvorăsc din aceeaşi inimă ca şi fericirile. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. Pressensé"
         },
         {
           "type": "prose",
@@ -966,7 +1018,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>E remarcabil la câtă „rumegare” se pretează Cartea aceasta a lui Dumnezeu în comparație cu alte cărți. <i>––S.D. Gordon</i></p>"
+          "html": "<p>E remarcabil la câtă „rumegare” se pretează Cartea aceasta a lui Dumnezeu în comparație cu alte cărți. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—S.D. Gordon"
         },
         {
           "type": "prose",
@@ -1050,7 +1106,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Oriunde intră un om evlavios, coboară o binecuvântare mai mare decât dacă ar fi intrat cel mai puternic dintre împăraţii lumii. Aşa să fiți şi voi. <i>––Jonathan Edwards</i></p>"
+          "html": "<p>Oriunde intră un om evlavios, coboară o binecuvântare mai mare decât dacă ar fi intrat cel mai puternic dintre împăraţii lumii. Aşa să fiți şi voi. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Jonathan Edwards"
         },
         {
           "type": "prose",
@@ -1074,7 +1134,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Acolo unde biserica întreagă este formată din asemenea creştini, necredința nu poate propăşi. Nu trebuie să te temi că un duh de necredinţă îşi va face loc într-o astfel de biserică. Cuvântul lui Dumnezeu e plin de putere în asemenea circumstanțe şi nimic nu se poate ridica împotriva lui. <i>––Henry Ward Beecher</i></p>"
+          "html": "<p>Acolo unde biserica întreagă este formată din asemenea creştini, necredința nu poate propăşi. Nu trebuie să te temi că un duh de necredinţă îşi va face loc într-o astfel de biserică. Cuvântul lui Dumnezeu e plin de putere în asemenea circumstanțe şi nimic nu se poate ridica împotriva lui. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Ward Beecher"
         }
       ]
     },
@@ -1098,7 +1162,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dimineața este timpul cel mai potrivit pentru momentele devoționale, pentru ceasul de părtăşie cu Dumnezeu. Binecuvântarea nopții ne îndeamnă la recunoştință. Inima îndrăgostită de Dumnezeu zboară ca o ciocârlie în zori de zi spre porțile Cerului. Recunoştința, credința, încrederea dependentă de El – toate acestea ne îndeamnă să ne întâlnim cât mai devreme cu Cel care nu doarme niciodată şi stă pe tronul Său şi aşteaptă rugile noastre de dimineață. Nici o presiune exercitată de afacerile noastre sau de treburile casei nu ar trebui să ne afecteze timpul de rugăciune. <i>––Theodore Cuyler</i></p>"
+          "html": "<p>Dimineața este timpul cel mai potrivit pentru momentele devoționale, pentru ceasul de părtăşie cu Dumnezeu. Binecuvântarea nopții ne îndeamnă la recunoştință. Inima îndrăgostită de Dumnezeu zboară ca o ciocârlie în zori de zi spre porțile Cerului. Recunoştința, credința, încrederea dependentă de El – toate acestea ne îndeamnă să ne întâlnim cât mai devreme cu Cel care nu doarme niciodată şi stă pe tronul Său şi aşteaptă rugile noastre de dimineață. Nici o presiune exercitată de afacerile noastre sau de treburile casei nu ar trebui să ne afecteze timpul de rugăciune. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
@@ -1147,7 +1215,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Viața creştină înseamnă acțiune; nu speculație sau dezbatere, ci <i>mişcare</i>. În lumea aceasta, un singur lucru – şi numai unul – poartă ştampila veşniciei. Sentimentele nu durează; hotărârile şi gândurile trec; opiniile se schimbă. Ceea ce ai făcut rămâne – rămâne în tine. Peste ani şi ani, în veşnicie, ceea ce ai făcut pentru Cristos – aceea şi numai aceea eşti. <i>––F.W. Robertson</i></p>"
+          "html": "<p>Viața creştină înseamnă acțiune; nu speculație sau dezbatere, ci <i>mişcare</i>. În lumea aceasta, un singur lucru – şi numai unul – poartă ştampila veşniciei. Sentimentele nu durează; hotărârile şi gândurile trec; opiniile se schimbă. Ceea ce ai făcut rămâne – rămâne în tine. Peste ani şi ani, în veşnicie, ceea ce ai făcut pentru Cristos – aceea şi numai aceea eşti. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—F.W. Robertson"
         },
         {
           "type": "prose",
@@ -1195,7 +1267,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dr. Doddridge a redat versetul cu pricina în felul următor: „Nu vreau şi nu te voi lăsa; niciodată, niciodată, niciodată nu te voi părăsi.” <i>––James Caughey</i></p>"
+          "html": "<p>Dr. Doddridge a redat versetul cu pricina în felul următor: „Nu vreau şi nu te voi lăsa; niciodată, niciodată, niciodată nu te voi părăsi.” </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—James Caughey"
         },
         {
           "type": "scripture",
@@ -1243,7 +1319,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Aşadar, fiecare om trebuie să învețe să se înarmeze cu multă răbdare – trebuie să aştepte timpul potrivit. Nu într-o lenevie indiferentă, nu în distracții nefolositoare, nu într-o tristețe şi o nemulţumire care nu se mai termină, ci în săvârşirea într-un ritm constant şi echilibrat a unor activități pregătitoare, întotdeauna vigilent şi gata să-şi îndeplinească lucrarea, pentru ca atunci când se iveşte ocazia, să se poată ridica la înălțimea ei. Iar dacă ocazia nu se iveşte niciodată, ce îi pasă lumii că eu sau tu, sau oricare alt om, am făcut cutare faptă sau am scris cutare carte – atâta vreme cât fapta sau cartea au fost bine făcute. <i>––H.W. Longfellow</i></p>"
+          "html": "<p>Aşadar, fiecare om trebuie să învețe să se înarmeze cu multă răbdare – trebuie să aştepte timpul potrivit. Nu într-o lenevie indiferentă, nu în distracții nefolositoare, nu într-o tristețe şi o nemulţumire care nu se mai termină, ci în săvârşirea într-un ritm constant şi echilibrat a unor activități pregătitoare, întotdeauna vigilent şi gata să-şi îndeplinească lucrarea, pentru ca atunci când se iveşte ocazia, să se poată ridica la înălțimea ei. Iar dacă ocazia nu se iveşte niciodată, ce îi pasă lumii că eu sau tu, sau oricare alt om, am făcut cutare faptă sau am scris cutare carte – atâta vreme cât fapta sau cartea au fost bine făcute. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—H.W. Longfellow"
         },
         {
           "type": "prose",
@@ -1319,7 +1399,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>„Domnule”, a spus grădinarul, „rodiul acesta a fost atât de frumos şi puternic, încât nu făcea decât frunze. Aşa că am fost obligat să-l tai în felul acesta, şi când tulpina i-a fost retezată aproape complet, atunci a început să facă o mulțime de fructe.” <i>––Denton</i></p>"
+          "html": "<p>„Domnule”, a spus grădinarul, „rodiul acesta a fost atât de frumos şi puternic, încât nu făcea decât frunze. Aşa că am fost obligat să-l tai în felul acesta, şi când tulpina i-a fost retezată aproape complet, atunci a început să facă o mulțime de fructe.” </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Denton"
         },
         {
           "type": "prose",

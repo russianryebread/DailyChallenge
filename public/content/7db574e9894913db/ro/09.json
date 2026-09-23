@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "ro",
   "month": "09",
   "readings": [
@@ -164,7 +164,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu contează cât de mare este presiunea, contează doar locul în care apare ea; dacă intervine între tine şi Dumnezeu, sau dacă te apropie de inima Lui. <i>—Hudson Taylor</i></p>"
+          "html": "<p>Nu contează cât de mare este presiunea, contează doar locul în care apare ea; dacă intervine între tine şi Dumnezeu, sau dacă te apropie de inima Lui. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hudson Taylor"
         },
         {
           "type": "prose",
@@ -207,7 +211,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Vă amintesc promisiunea glorioasă a lui Cristos, anume că El poate să ne umple inimile cu dragoste. <i>—Andrew Murray</i></p>"
+          "html": "<p>Vă amintesc promisiunea glorioasă a lui Cristos, anume că El poate să ne umple inimile cu dragoste. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Andrew Murray"
         },
         {
           "type": "prose",
@@ -347,11 +355,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Fiecare creştin autentic este un pom al neprihănirii, ale cărui fructe sunt bune şi folositoare oamenilor. El îi ajută şi îi mângâie pe ceilalți cu bucurie. Este harnic şi perseverent. El vorbeşte ca să zidească, şi trăieşte în pace, blândețe şi dragoste. El condamnă tot ce este rău prin exemplul său deosebit, şi recomandă prin propria-i trăire ceea ce este plăcut lui Dumnezeu. <i>—Autor necunoscut</i></p>"
+          "html": "<p>Fiecare creştin autentic este un pom al neprihănirii, ale cărui fructe sunt bune şi folositoare oamenilor. El îi ajută şi îi mângâie pe ceilalți cu bucurie. Este harnic şi perseverent. El vorbeşte ca să zidească, şi trăieşte în pace, blândețe şi dragoste. El condamnă tot ce este rău prin exemplul său deosebit, şi recomandă prin propria-i trăire ceea ce este plăcut lui Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         },
         {
           "type": "prose",
-          "html": "<p>Lumea nu va remarca şi nici nu va ține minte prea mult timp ceea ce spunem noi aici; dar nu va putea uita niciodată ceea ce fa- cem aici. <i>—Abraham Lincoln</i></p>"
+          "html": "<p>Lumea nu va remarca şi nici nu va ține minte prea mult timp ceea ce spunem noi aici; dar nu va putea uita niciodată ceea ce fa- cem aici. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Abraham Lincoln"
         }
       ]
     },
@@ -390,7 +406,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ajutorul acordat semenului nostru a fost încadrat într-o cate- gorie greşită. Este considerat – asemenea unei voci frumoase – un privilegiu şi un dar deosebit, extraordinar; în loc să fie privit – ase- menea brațelor – ca un test şi o dovadă a omeniei. <i>—Phillips Brooks</i></p>"
+          "html": "<p>Ajutorul acordat semenului nostru a fost încadrat într-o cate- gorie greşită. Este considerat – asemenea unei voci frumoase – un privilegiu şi un dar deosebit, extraordinar; în loc să fie privit – ase- menea brațelor – ca un test şi o dovadă a omeniei. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Phillips Brooks"
         }
       ]
     },
@@ -486,11 +506,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>cunoaşte niciodată dezamăgirea. <i>—F. Faber</i></p>"
+          "html": "<p>cunoaşte niciodată dezamăgirea. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—F. Faber"
         },
         {
           "type": "prose",
-          "html": "<p>Supunerea deplină în fața Voinței Divine zădărniceşte o mie de ispite, şi încrederea în Mântuitorul nostru ne poartă lin printr-o mie de încercări. <i>—John Fletcher</i></p>"
+          "html": "<p>Supunerea deplină în fața Voinței Divine zădărniceşte o mie de ispite, şi încrederea în Mântuitorul nostru ne poartă lin printr-o mie de încercări. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Fletcher"
         },
         {
           "type": "prose",
@@ -530,7 +558,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Voința este cheia de boltă a ființei umane. Este piatra de te- melie a întregii suprastructuri mentale şi morale a omului. Dacă renunță la ea, sau dacă o consacră cuiva, tot restul ființei sale este pus pe altar împreună cu ea. <i>—Lewis R. Dunn</i></p>"
+          "html": "<p>Voința este cheia de boltă a ființei umane. Este piatra de te- melie a întregii suprastructuri mentale şi morale a omului. Dacă renunță la ea, sau dacă o consacră cuiva, tot restul ființei sale este pus pe altar împreună cu ea. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Lewis R. Dunn"
         }
       ]
     },
@@ -575,15 +607,27 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă te declari ucenic al Domnului Isus, dar eşti copleşit de griji, arunci o umbră asupra bunătății Tatălui nostru ceresc. Nu ne-a asigurat El împlinirea tuturor nevoilor? Nu ne-a interzis El în mod explicit să ne îngrijorăm? Nu ne-a îndemnat El să-L facem confidentul nostru, să ne deschidem inima într-o recunoaştere pli- nă de mulțumire a bunătății Lui, şi să ne încredem în călăuzirea Lui continuă pentru ajutor? <i>—King’s Highway</i></p>"
+          "html": "<p>Dacă te declari ucenic al Domnului Isus, dar eşti copleşit de griji, arunci o umbră asupra bunătății Tatălui nostru ceresc. Nu ne-a asigurat El împlinirea tuturor nevoilor? Nu ne-a interzis El în mod explicit să ne îngrijorăm? Nu ne-a îndemnat El să-L facem confidentul nostru, să ne deschidem inima într-o recunoaştere pli- nă de mulțumire a bunătății Lui, şi să ne încredem în călăuzirea Lui continuă pentru ajutor? </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—King’s Highway"
         },
         {
           "type": "prose",
-          "html": "<p>O, dacă oamenii ar recunoaşte sinceritatea lui Dumnezeu şi ar crede în ea! <i>—Hewitson</i></p>"
+          "html": "<p>O, dacă oamenii ar recunoaşte sinceritatea lui Dumnezeu şi ar crede în ea! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hewitson"
         },
         {
           "type": "prose",
-          "html": "<p>Nu munca ucide oamenii, ci îngrijorarea. Munca este sănă- toasă; nu prea poți împovăra un om dincolo de capacitatea lui de a îndura. Însă, îngrijorarea este asemenea ruginii. Nu mişcarea dis- truge maşinăria, ci frecarea. <i>—Henry Ward Beecher</i></p>"
+          "html": "<p>Nu munca ucide oamenii, ci îngrijorarea. Munca este sănă- toasă; nu prea poți împovăra un om dincolo de capacitatea lui de a îndura. Însă, îngrijorarea este asemenea ruginii. Nu mişcarea dis- truge maşinăria, ci frecarea. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Ward Beecher"
         }
       ]
     },
@@ -607,7 +651,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>În viața indivizilor – de fapt şi în istoria rasei umane – rugă- ciunea a fost adesea puterea călăuzitoare, veriga de legătură sau factorul modelator atât în evenimentele mărunte de fiecare zi, cât şi în crizele majore. În spatele uşilor închise, departe de scena aglo- merată a vieții, se înfăptuiesc lucruri, se deschid uşi, se creează condiții, se eliberează puteri, se obțin promisiuni şi se iau decizii. Cine poate estima sfera de influență a unei asemenea rugăciuni, sau cine îi poate înțelege pe deplin semnificația? Rugăciunea au- tentică, rugăciunea credinței în puterea Duhului Sfânt, îl pune pe mijlocitor în legătură imediată cu Dumnezeu. <i>—Sora Eva</i></p>"
+          "html": "<p>În viața indivizilor – de fapt şi în istoria rasei umane – rugă- ciunea a fost adesea puterea călăuzitoare, veriga de legătură sau factorul modelator atât în evenimentele mărunte de fiecare zi, cât şi în crizele majore. În spatele uşilor închise, departe de scena aglo- merată a vieții, se înfăptuiesc lucruri, se deschid uşi, se creează condiții, se eliberează puteri, se obțin promisiuni şi se iau decizii. Cine poate estima sfera de influență a unei asemenea rugăciuni, sau cine îi poate înțelege pe deplin semnificația? Rugăciunea au- tentică, rugăciunea credinței în puterea Duhului Sfânt, îl pune pe mijlocitor în legătură imediată cu Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sora Eva"
         },
         {
           "type": "prose",
@@ -643,7 +691,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Rugăciunea este mâna care mişcă lumea, însă degetele acestei mâini sunt femei şi bărbați dedicați lui Dumnezeu. <i>—Robert Moffat</i></p>"
+          "html": "<p>Rugăciunea este mâna care mişcă lumea, însă degetele acestei mâini sunt femei şi bărbați dedicați lui Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Robert Moffat"
         }
       ]
     },
@@ -870,7 +922,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Aşadar, putem spune că există două categorii mari de oameni în rândul creştinilor din zilele noastre: (1) cei care cunosc şi îm- plinesc voia lui Dumnezeu cu privire la caracterul lor; (2) cei care cunosc şi împlinesc voia lui Dumnezeu şi în cariera lor. Cei din prima categorie sunt pe acest pământ pentru a trăi. Ei au o viață. Cei din a doua categorie se află pe acest pământ pentru a sluji. Ei au o misiune. <i>—Henry Drummond</i></p>"
+          "html": "<p>Aşadar, putem spune că există două categorii mari de oameni în rândul creştinilor din zilele noastre: (1) cei care cunosc şi îm- plinesc voia lui Dumnezeu cu privire la caracterul lor; (2) cei care cunosc şi împlinesc voia lui Dumnezeu şi în cariera lor. Cei din prima categorie sunt pe acest pământ pentru a trăi. Ei au o viață. Cei din a doua categorie se află pe acest pământ pentru a sluji. Ei au o misiune. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Drummond"
         }
       ]
     },
@@ -989,7 +1045,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>De ce ne-am teme de valurile de suferință care vin asupra noastră, câtă vreme, dacă stăm neclintiți în credința noastră în Dumnezeu, acestea nu sunt decât durerile naşterii unor mângâ- ieri veşnice şi ale unor bucurii profunde şi nepieritoare, care altfel ne-ar fi inaccesibile. <i>—Asa Mahan</i></p>"
+          "html": "<p>De ce ne-am teme de valurile de suferință care vin asupra noastră, câtă vreme, dacă stăm neclintiți în credința noastră în Dumnezeu, acestea nu sunt decât durerile naşterii unor mângâ- ieri veşnice şi ale unor bucurii profunde şi nepieritoare, care altfel ne-ar fi inaccesibile. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Asa Mahan"
         },
         {
           "type": "prose",
@@ -1043,7 +1103,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Frumusețea acestui adevăr constă în faptul că cine Îl poartă pe Domnul Isus în inima lui în timpul vieții va avea parte de prezența Lui şi în clipa morții. <i>—Daniel Steele</i></p>"
+          "html": "<p>Frumusețea acestui adevăr constă în faptul că cine Îl poartă pe Domnul Isus în inima lui în timpul vieții va avea parte de prezența Lui şi în clipa morții. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Daniel Steele"
         },
         {
           "type": "prose",
@@ -1130,7 +1194,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>„Ah, Te rog vorbeşte-mi, Doamne! Roaba Ta cu drag Te-ascultă!“ <i>—Mary Ellen Atkinson</i></p>"
+          "html": "<p>„Ah, Te rog vorbeşte-mi, Doamne! Roaba Ta cu drag Te-ascultă!“ </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Mary Ellen Atkinson"
         }
       ]
     },
@@ -1151,7 +1219,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Toate zilele noastre par la fel atunci când ne stau înainte. Însă, fiecare zi vine cu propriile oportunități, cu propriile îndatoriri şi cu propriile privilegii – mâini întinse spre noi, oferindu-ne daruri strălucitoare. Fiecare zi la rândul ei trece şi nu mai revine nicio- dată. Poate că vor veni alte zile la fel de luminoase, însă nici o zi nu se mai repetă. Dacă nu profităm atunci de darurile pe care ni le oferă, nu vom mai avea niciodată o altă şansă de a o face şi vom fi pentru totdeauna mai săraci din pricina oportunităților pe care le-am irosit. <i>—J.R. Miller</i></p>"
+          "html": "<p>Toate zilele noastre par la fel atunci când ne stau înainte. Însă, fiecare zi vine cu propriile oportunități, cu propriile îndatoriri şi cu propriile privilegii – mâini întinse spre noi, oferindu-ne daruri strălucitoare. Fiecare zi la rândul ei trece şi nu mai revine nicio- dată. Poate că vor veni alte zile la fel de luminoase, însă nici o zi nu se mai repetă. Dacă nu profităm atunci de darurile pe care ni le oferă, nu vom mai avea niciodată o altă şansă de a o face şi vom fi pentru totdeauna mai săraci din pricina oportunităților pe care le-am irosit. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.R. Miller"
         },
         {
           "type": "prose",
@@ -1167,7 +1239,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu-ți irosi viața în îndoieli şi temeri; implică-te, făcând lucra- rea care îți iese înainte, având siguranța că îndeplinirea corectă a îndatoririlor de azi reprezintă cea mai bună pregătire pentru cea- surile sau veacurile care vor veni. <i>—R.W. Emerson</i></p>"
+          "html": "<p>Nu-ți irosi viața în îndoieli şi temeri; implică-te, făcând lucra- rea care îți iese înainte, având siguranța că îndeplinirea corectă a îndatoririlor de azi reprezintă cea mai bună pregătire pentru cea- surile sau veacurile care vor veni. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—R.W. Emerson"
         },
         {
           "type": "prose",
@@ -1216,7 +1292,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Când cauți să împlineşti voia lui Dumnezeu, nu face asta crâc- nind şi suspinând, ci fii plin de dorința de a fi plăcut înaintea Lui. Uneori fiul tău face un lucru pe care i l-ai cerut încruntat şi protes- tând fără încetare. Alteori face cu bucurie ceea ce îi spui – cu o față strălucitoare şi zâmbitoare – iar lucrul pe care îl face astfel valorea- ză de zece ori mai mult decât cel făcut protestând. Dumnezeu ne-a promis un astfel de duh, asigurându-ne nu numai că vom împlini voia Lui, ci că vom face acest lucru cu bucurie; ne-a promis că va lucra în noi ceea ce Îi este plăcut, iar ceea ce Îi place Domnlui este să-I slujim cu bucurie. <i>—Barclay Buxton</i></p>"
+          "html": "<p>Când cauți să împlineşti voia lui Dumnezeu, nu face asta crâc- nind şi suspinând, ci fii plin de dorința de a fi plăcut înaintea Lui. Uneori fiul tău face un lucru pe care i l-ai cerut încruntat şi protes- tând fără încetare. Alteori face cu bucurie ceea ce îi spui – cu o față strălucitoare şi zâmbitoare – iar lucrul pe care îl face astfel valorea- ză de zece ori mai mult decât cel făcut protestând. Dumnezeu ne-a promis un astfel de duh, asigurându-ne nu numai că vom împlini voia Lui, ci că vom face acest lucru cu bucurie; ne-a promis că va lucra în noi ceea ce Îi este plăcut, iar ceea ce Îi place Domnlui este să-I slujim cu bucurie. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Barclay Buxton"
         },
         {
           "type": "prose",
@@ -1240,7 +1320,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>În jugul Său, Domnul Cristos a găsit bucurie şi satisfacție, chiar şi atunci când împlinirea voii lui Dumnezeu I-a adus nerecu- noştință crasă, respingere surdă şi împotrivire înverşunată tocmai din partea acelor cetăți pe care le-a binecuvântat cel mai mult cu prezența şi cu darurile Lui. <i>—Autor necunoscut</i></p>"
+          "html": "<p>În jugul Său, Domnul Cristos a găsit bucurie şi satisfacție, chiar şi atunci când împlinirea voii lui Dumnezeu I-a adus nerecu- noştință crasă, respingere surdă şi împotrivire înverşunată tocmai din partea acelor cetăți pe care le-a binecuvântat cel mai mult cu prezența şi cu darurile Lui. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         }
       ]
     },
@@ -1277,7 +1361,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>coate şi pe genunchi într-un zbor splendid. Curajul este cel care răscumpără viața de sub blestemul banalului. <i>—T.T. Munger</i></p>"
+          "html": "<p>coate şi pe genunchi într-un zbor splendid. Curajul este cel care răscumpără viața de sub blestemul banalului. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—T.T. Munger"
         },
         {
           "type": "prose",
@@ -1317,7 +1405,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>După ce am slujit o vreme ca pastor metodist, m-am alăturat Armatei Salvării; în cadrul colegiului de pregătire mi s-a dat sarci- na de a lustrui cizmele cadeților neştiutori de carte. Am fost ispitit să cred că activitatea aceasta era o pierdere periculoasă de timp, pentru care Domnul s-ar putea să-mi ceară socoteală, aşa cum i-a cerut socoteală şi celui care şi-a îngropat talantul în loc să-l pună în negoț. Atunci şoapta Duhului Sfânt mi-a amintit de Isus şi de felul în care a spălat El picioarele trudite şi murdare ale ucenicilor Săi modeşti; după ce m-am uitat la Isus, am fost mulțumit. Orice act prin care Îl slujesc pe El şi pe cei mai umili ucenici ai Lui, în loc să mă coboare, mă înalță. <i>—Samuel Logan Brengle</i></p>"
+          "html": "<p>După ce am slujit o vreme ca pastor metodist, m-am alăturat Armatei Salvării; în cadrul colegiului de pregătire mi s-a dat sarci- na de a lustrui cizmele cadeților neştiutori de carte. Am fost ispitit să cred că activitatea aceasta era o pierdere periculoasă de timp, pentru care Domnul s-ar putea să-mi ceară socoteală, aşa cum i-a cerut socoteală şi celui care şi-a îngropat talantul în loc să-l pună în negoț. Atunci şoapta Duhului Sfânt mi-a amintit de Isus şi de felul în care a spălat El picioarele trudite şi murdare ale ucenicilor Săi modeşti; după ce m-am uitat la Isus, am fost mulțumit. Orice act prin care Îl slujesc pe El şi pe cei mai umili ucenici ai Lui, în loc să mă coboare, mă înalță. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Logan Brengle"
         },
         {
           "type": "prose",
@@ -1434,7 +1526,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>O viață creştină viguroasă n-a fost şi nici nu va fi vreodată po- sibilă fără un studiu onest şi aplicat al Cuvântului lui Dumnezeu. Nu există nici o scurtătură la care ar putea să recurgă un creştin pentru a ajunge direct la finalul cursei. Cea mai bună metodă prin care ochii creştinilor pot fi luminați şi inimile lor pot fi umplute de bucurie este ca ei să-şi aplice pe ochi acea doctorie şi să-şi ascundă în inimă acea dulce mângâiere şi acel izvor de bucurie care este Cuvântul răbdării lui Cristos şi descoperirea voii lui Dumnezeu. Copacii ale căror rădăcini sunt udate şi ale căror ramuri sunt îm- prospătate de râul acesta au frunze care nu se veştejesc niciodată şi toți bobocii lor dau flori. <i>—Alexander Maclaren</i></p>"
+          "html": "<p>O viață creştină viguroasă n-a fost şi nici nu va fi vreodată po- sibilă fără un studiu onest şi aplicat al Cuvântului lui Dumnezeu. Nu există nici o scurtătură la care ar putea să recurgă un creştin pentru a ajunge direct la finalul cursei. Cea mai bună metodă prin care ochii creştinilor pot fi luminați şi inimile lor pot fi umplute de bucurie este ca ei să-şi aplice pe ochi acea doctorie şi să-şi ascundă în inimă acea dulce mângâiere şi acel izvor de bucurie care este Cuvântul răbdării lui Cristos şi descoperirea voii lui Dumnezeu. Copacii ale căror rădăcini sunt udate şi ale căror ramuri sunt îm- prospătate de râul acesta au frunze care nu se veştejesc niciodată şi toți bobocii lor dau flori. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Alexander Maclaren"
         },
         {
           "type": "prose",
@@ -1564,15 +1660,27 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu cred că există în întreaga istorie a Împărăției lui Dumne- zeu o rugăciune înălțată într-un duh corespunzător şi care să ră- mână pentru totdeauna fără răspuns. <i>—Theodore Cuyler</i></p>"
+          "html": "<p>Nu cred că există în întreaga istorie a Împărăției lui Dumne- zeu o rugăciune înălțată într-un duh corespunzător şi care să ră- mână pentru totdeauna fără răspuns. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
-          "html": "<p>Rugăciunea a fost sursa mea de ajutor ori de câte ori poverile m-au apăsat cu atâta forță încât erau cât pe ce să-mi zdrobească sufletul. De fiecare dată când dezamăgirile şi clevetirea aproape că m-au copleşit, rugăciunea mi-a adus putere şi mângâiere, dar şi curajul de a înfrunta o lume plină de amărăciune şi dispreț. S-a do- vedit viabilă afirmația că rugăciunea mă ajută să păstrez substanța sfințeniei. Rugăciunea mă ajută să-mi mențin pasiunea pentru su- flete; s-o păstrez fierbinte în momente de dezamăgire şi eşec, con- fruntată cu indiferență şi dificultăți, atunci când oameni şi demoni, deopotrivă, se năpustesc împotriva mea. <i>—Kate Lee</i></p>"
+          "html": "<p>Rugăciunea a fost sursa mea de ajutor ori de câte ori poverile m-au apăsat cu atâta forță încât erau cât pe ce să-mi zdrobească sufletul. De fiecare dată când dezamăgirile şi clevetirea aproape că m-au copleşit, rugăciunea mi-a adus putere şi mângâiere, dar şi curajul de a înfrunta o lume plină de amărăciune şi dispreț. S-a do- vedit viabilă afirmația că rugăciunea mă ajută să păstrez substanța sfințeniei. Rugăciunea mă ajută să-mi mențin pasiunea pentru su- flete; s-o păstrez fierbinte în momente de dezamăgire şi eşec, con- fruntată cu indiferență şi dificultăți, atunci când oameni şi demoni, deopotrivă, se năpustesc împotriva mea. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Kate Lee"
         },
         {
           "type": "prose",
-          "html": "<p>Rugăciunea este un instrument muzical atât de extraordinar, încât nimeni n-a ajuns să-i atingă vreodată toate clapele. Ele se în- tind pe o scară infinită care parcurge distanța de la dorințele omu- lui până la bunătatea lui Dumnezeu. <i>—Hugh Miller</i></p>"
+          "html": "<p>Rugăciunea este un instrument muzical atât de extraordinar, încât nimeni n-a ajuns să-i atingă vreodată toate clapele. Ele se în- tind pe o scară infinită care parcurge distanța de la dorințele omu- lui până la bunătatea lui Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hugh Miller"
         },
         {
           "type": "prose",
@@ -1627,11 +1735,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>CÂT DESPRE MINE, sunt hotărât să nu mă alătur celor mulți în fapte rele. Mă voi ține de credința veche şi de calea veche, chiar dacă ar fi să nu am nici un tovarăş alături, de acum şi până când voi ajunge la porțile cereşti! <i>—C.H. Spurgeon</i></p>"
+          "html": "<p>CÂT DESPRE MINE, sunt hotărât să nu mă alătur celor mulți în fapte rele. Mă voi ține de credința veche şi de calea veche, chiar dacă ar fi să nu am nici un tovarăş alături, de acum şi până când voi ajunge la porțile cereşti! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—C.H. Spurgeon"
         },
         {
           "type": "prose",
-          "html": "<p>Curajul moral înseamnă să te supui propriei conştiințe şi să faci ceea ce crezi tu că este bine în fața unei majorități ostile; iar la- şitatea morală înseamnă să-ți reduci la tăcere propria conştiință şi să faci ceea ce ştii că nu-i tocmai bine pentru a câştiga bunăvoința altor oameni. <i>—Dr. John Watson</i></p>"
+          "html": "<p>Curajul moral înseamnă să te supui propriei conştiințe şi să faci ceea ce crezi tu că este bine în fața unei majorități ostile; iar la- şitatea morală înseamnă să-ți reduci la tăcere propria conştiință şi să faci ceea ce ştii că nu-i tocmai bine pentru a câştiga bunăvoința altor oameni. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. John Watson"
         }
       ]
     }

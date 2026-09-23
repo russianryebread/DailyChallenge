@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "ro",
   "month": "04",
   "readings": [
@@ -23,7 +23,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>să picure din vinul puterii Lui în apa noastră. Apoi, după ce facem anumite progrese în umblarea noastră cu El, începem să căutăm vinul Lui, dar socotim că ar trebui să mai existe ceva şi din apa noastră în amestecul respectiv. Şi abia mai târziu începem să înțelegem că Dumnezeu nu lucrează cu amestecuri, că El face toate lucrurile noi. Nu-i decât slăbiciune absolută până la gura vasului, slăbiciune pe care El vine s-o schimbe în puterea Lui absolută. <i>––I. Lilias Trotter</i></p>"
+          "html": "<p>să picure din vinul puterii Lui în apa noastră. Apoi, după ce facem anumite progrese în umblarea noastră cu El, începem să căutăm vinul Lui, dar socotim că ar trebui să mai existe ceva şi din apa noastră în amestecul respectiv. Şi abia mai târziu începem să înțelegem că Dumnezeu nu lucrează cu amestecuri, că El face toate lucrurile noi. Nu-i decât slăbiciune absolută până la gura vasului, slăbiciune pe care El vine s-o schimbe în puterea Lui absolută. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—I. Lilias Trotter"
         },
         {
           "type": "prose",
@@ -47,7 +51,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Din perspectiva noastră, se vede slăbiciune omenească; din perspectiva divină, se vede atotputernicie dumnezeiască. Iar acest lucru este valabil pentru orice persoană care duce o viață evlavioasă. Dacă ne-am însuşi mai bine această lecție şi am capitula la Tronul îndurării din toată inima şi fără rezerve, ne-am da seama cu siguranţă ce binecuvântare extraordinară este să locuieşti în fiecare dimineață, în fiecare ceas şi în fiecare clipă, împreună cu un Dumnezeu atotputernic. <i>––Andrew Murray</i></p>"
+          "html": "<p>Din perspectiva noastră, se vede slăbiciune omenească; din perspectiva divină, se vede atotputernicie dumnezeiască. Iar acest lucru este valabil pentru orice persoană care duce o viață evlavioasă. Dacă ne-am însuşi mai bine această lecție şi am capitula la Tronul îndurării din toată inima şi fără rezerve, ne-am da seama cu siguranţă ce binecuvântare extraordinară este să locuieşti în fiecare dimineață, în fiecare ceas şi în fiecare clipă, împreună cu un Dumnezeu atotputernic. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Andrew Murray"
         },
         {
           "type": "scripture",
@@ -72,7 +80,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu poate exista o mai tristă îndepărtare de la spiritul autentic al rugăciunii decât s-o tratăm ca pe o pedeapsă. De multe ori deplângem milioanele de suflete care au dat înapoi ajungând să trăiască în întuneric şi în cazul cărora bucuria rugăciunii a fost preschimbată în tristețe din pricina a ceea ce ei socotesc a fi despotism sacerdotal. Dimpotrivă, toți aceia care, prin credința în Cristos, au îndrăzneală şi acces la Dumnezeu „se roagă cu bucurie”. <i>––Daniel Steele</i></p>"
+          "html": "<p>Nu poate exista o mai tristă îndepărtare de la spiritul autentic al rugăciunii decât s-o tratăm ca pe o pedeapsă. De multe ori deplângem milioanele de suflete care au dat înapoi ajungând să trăiască în întuneric şi în cazul cărora bucuria rugăciunii a fost preschimbată în tristețe din pricina a ceea ce ei socotesc a fi despotism sacerdotal. Dimpotrivă, toți aceia care, prin credința în Cristos, au îndrăzneală şi acces la Dumnezeu „se roagă cu bucurie”. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Daniel Steele"
         },
         {
           "type": "prose",
@@ -88,7 +100,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cel care iubeşte puțin, se roagă puțin; dar cel care iubeşte mult, se roagă mult. <i>––Sf. Augustin</i></p>"
+          "html": "<p>Cel care iubeşte puțin, se roagă puțin; dar cel care iubeşte mult, se roagă mult. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sf. Augustin"
         },
         {
           "type": "prose",
@@ -132,11 +148,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Porunca Domnului pentru voi, cei care stați pe scaune, este la fel de directă ca cea adresată mie, aici, la amvon: <i>„Duceți-vă şi propovăduiți Evanghelia!” </i>Porunca aceasta este dată fiecărui copil al harului transformator odată cu darul acestui har. Din momentul în care Domnul nostru, prin Duhul Său, ne face creştini, El ne cere să devenim şi câştigători de suflete. <i>„Şi cine aude, să zică: «Vino!»” </i>(Cf. Apocalipsa 22.17, n. red.). <i>––Theodore Cuyler</i></p>"
+          "html": "<p>Porunca Domnului pentru voi, cei care stați pe scaune, este la fel de directă ca cea adresată mie, aici, la amvon: <i>„Duceți-vă şi propovăduiți Evanghelia!” </i>Porunca aceasta este dată fiecărui copil al harului transformator odată cu darul acestui har. Din momentul în care Domnul nostru, prin Duhul Său, ne face creştini, El ne cere să devenim şi câştigători de suflete. <i>„Şi cine aude, să zică: «Vino!»” </i>(Cf. Apocalipsa 22.17, n. red.). </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
-          "html": "<p>Mărturisesc că nu-mi dau seama cum ar putea creştinismul să biruiască vreodată fără ca marea majoritate a membrilor bisericilor noastre să devină slujitori. Se poate ca cineva să fie un creştin autentic şi totuşi să nu facă nimic pentru ca şi alții să devină creştini? Cine ar vrea, dacă ar putea, să se târască spre Cer pe o cale pe care să nu încapă mai mult decât o singură persoană? <i>––Hitchcock</i></p>"
+          "html": "<p>Mărturisesc că nu-mi dau seama cum ar putea creştinismul să biruiască vreodată fără ca marea majoritate a membrilor bisericilor noastre să devină slujitori. Se poate ca cineva să fie un creştin autentic şi totuşi să nu facă nimic pentru ca şi alții să devină creştini? Cine ar vrea, dacă ar putea, să se târască spre Cer pe o cale pe care să nu încapă mai mult decât o singură persoană? </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hitchcock"
         },
         {
           "type": "prose",
@@ -232,7 +256,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nimic din lumea aceasta nu poate egala creştinismul, religia Domnului Isus Cristos, în special atunci când dragostea lui Dumnezeu devine farul călăuzitor al sufletului credinciosului. Este greu să lupți cu păcatul când acesta se manifestă în mod vizibil, este greu să lupți împotriva ascensiunii firii pământeşti; dar când sufletul nostru primeşte sângele atotcurățitor, când mintea noastră este luminată de prezenţa lui Dumnezeu în noi, când numai El domneşte asupra fiinţei noastre, atunci vedem limpede beneficiile acestei mântuiri mărețe. Totul este calm, totul este liniştit. Poţi sta neclintit. Apa, focul, duhurile rele, oamenii – nimic nu-ți mai poate tulbura liniştea. <i>––William Bramwell</i></p>"
+          "html": "<p>Nimic din lumea aceasta nu poate egala creştinismul, religia Domnului Isus Cristos, în special atunci când dragostea lui Dumnezeu devine farul călăuzitor al sufletului credinciosului. Este greu să lupți cu păcatul când acesta se manifestă în mod vizibil, este greu să lupți împotriva ascensiunii firii pământeşti; dar când sufletul nostru primeşte sângele atotcurățitor, când mintea noastră este luminată de prezenţa lui Dumnezeu în noi, când numai El domneşte asupra fiinţei noastre, atunci vedem limpede beneficiile acestei mântuiri mărețe. Totul este calm, totul este liniştit. Poţi sta neclintit. Apa, focul, duhurile rele, oamenii – nimic nu-ți mai poate tulbura liniştea. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—William Bramwell"
         },
         {
           "type": "prose",
@@ -304,7 +332,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă există un adevăr mai vrednic decât oricare altul pe care tinerii să-şi poată clădi viața, este acesta: ori de câte ori refuzi îndeplinirea unei sarcini spre care te îndeamnă conştiinţa ta, devii tot mai puțin capabil de a o duce la îndeplinire; pe de altă parte, fiecare efort făcut cu smerenie şi trudă pentru ceva bun reprezintă o nouă treapta�� în formarea unui caracter sănătos. <i>––Marcus Dods</i></p>"
+          "html": "<p>Dacă există un adevăr mai vrednic decât oricare altul pe care tinerii să-şi poată clădi viața, este acesta: ori de câte ori refuzi îndeplinirea unei sarcini spre care te îndeamnă conştiinţa ta, devii tot mai puțin capabil de a o duce la îndeplinire; pe de altă parte, fiecare efort făcut cu smerenie şi trudă pentru ceva bun reprezintă o nouă treapta�� în formarea unui caracter sănătos. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Marcus Dods"
         },
         {
           "type": "prose",
@@ -404,11 +436,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă mă întreabă cineva care este remediul pentru cel mai adânc sentiment de tristețe, trebuie să-i spun că este o veche poveste, scrisă într-o Carte veche şi predată într-o învățătură veche – cel mai bun şi mai mare dar oferit vreodată omenirii. <i>––William Gladstone</i></p>"
+          "html": "<p>Dacă mă întreabă cineva care este remediul pentru cel mai adânc sentiment de tristețe, trebuie să-i spun că este o veche poveste, scrisă într-o Carte veche şi predată într-o învățătură veche – cel mai bun şi mai mare dar oferit vreodată omenirii. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—William Gladstone"
         },
         {
           "type": "prose",
-          "html": "<p>Cei ce studiază Biblia de 50 de ani n-au ajuns niciodată la fundul izvorului veşnic viu. <i>––D.L. Moody</i></p>"
+          "html": "<p>Cei ce studiază Biblia de 50 de ani n-au ajuns niciodată la fundul izvorului veşnic viu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—D.L. Moody"
         }
       ]
     },
@@ -432,7 +472,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Oferta minunată a Dumnezeului harului este să ne uşureze povara luând-o asupra Lui. Acesta este un proces supranatural, iar întreaga noastră umblare prin credință nu înseamnă decât o încredere simplă dar sublimă într-un braț atotputernic, niciodată văzut dar mereu simțit. Astfel se explică de ce „încredere” este cuvântul-cheie al teologiei Vechiului Testament, iar „credință” este cuvântul-cheie al Noului Testament. Sensul celor două cuvinte este în mare parte identic. Iar când Tatăl nostru ceresc ne spune: „Aruncă-ți povara asupra Mea” şi când Răscumpărătorul nostru iubit ne spune: „Aruncă povara păcatelor tale asupra Mea”, Ei Se aşteaptă să Îi credem pe cuvânt. <i>––Theodore Cuyler</i></p>"
+          "html": "<p>Oferta minunată a Dumnezeului harului este să ne uşureze povara luând-o asupra Lui. Acesta este un proces supranatural, iar întreaga noastră umblare prin credință nu înseamnă decât o încredere simplă dar sublimă într-un braț atotputernic, niciodată văzut dar mereu simțit. Astfel se explică de ce „încredere” este cuvântul-cheie al teologiei Vechiului Testament, iar „credință” este cuvântul-cheie al Noului Testament. Sensul celor două cuvinte este în mare parte identic. Iar când Tatăl nostru ceresc ne spune: „Aruncă-ți povara asupra Mea” şi când Răscumpărătorul nostru iubit ne spune: „Aruncă povara păcatelor tale asupra Mea”, Ei Se aşteaptă să Îi credem pe cuvânt. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
@@ -472,7 +516,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Tu, fratele meu, pe cine reprezinți? Ce cred oamenii despre felul în care poartă Cristos de grijă familiei Sale când te văd pe tine mereu nemulțumit, neliniştit, nedormit şi neputincios? Pe tine – cel de la care nu se mai aude nici măcar o strofă de cântare, creştinul în care nu se mai vede nici măcar o scânteie de entuziasm, omul care seamănă prea bine cu un muc fumegând, gata să se stingă, lipsit de orice firicel de lumină: ce impresie îşi fac oamenii despre creştinism când te văd pe tine? <i>––Henry Ward Beecher</i></p>"
+          "html": "<p>Tu, fratele meu, pe cine reprezinți? Ce cred oamenii despre felul în care poartă Cristos de grijă familiei Sale când te văd pe tine mereu nemulțumit, neliniştit, nedormit şi neputincios? Pe tine – cel de la care nu se mai aude nici măcar o strofă de cântare, creştinul în care nu se mai vede nici măcar o scânteie de entuziasm, omul care seamănă prea bine cu un muc fumegând, gata să se stingă, lipsit de orice firicel de lumină: ce impresie îşi fac oamenii despre creştinism când te văd pe tine? </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Ward Beecher"
         },
         {
           "type": "prose",
@@ -496,7 +544,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cântarea de laudă ne eliberează duhul. Nu suntem pregătiți de luptă până când nu experimentăm această libertate lăuntrică. Aşa că, haideţi să prețuim întotdeauna cântarea! <i>––John Harrison</i></p>"
+          "html": "<p>Cântarea de laudă ne eliberează duhul. Nu suntem pregătiți de luptă până când nu experimentăm această libertate lăuntrică. Aşa că, haideţi să prețuim întotdeauna cântarea! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Harrison"
         }
       ]
     },
@@ -520,7 +572,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Sub presiunea unor dureri excesive, oamenii au făcut cele mai bune dar şi cele mai rele lucruri, cele mai nobile dar şi cele mai josnice lucruri văzute vreodată pe pământ. Totul depinde doar de direcția în care au căutat ajutor în momentele dramatice: în abisuri sau spre piscuri. <i>––Phillips Brooks</i></p>"
+          "html": "<p>Sub presiunea unor dureri excesive, oamenii au făcut cele mai bune dar şi cele mai rele lucruri, cele mai nobile dar şi cele mai josnice lucruri văzute vreodată pe pământ. Totul depinde doar de direcția în care au căutat ajutor în momentele dramatice: în abisuri sau spre piscuri. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Phillips Brooks"
         },
         {
           "type": "prose",
@@ -568,7 +624,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Scrisoare după scrisoare a pornit din vârful peniței sale peste graniță, spre oraşul în care scepticismul făcea ravagii în sufletul persoanei pe care o iubea. A scris, a argumentat, a pledat, a implorat – dar totul fusese în zadar. Atunci a apelat la credința ei cea mare. S-a izolat de tot şi de toate, în afară de Dumnezeu, şi şi-a pus la lucru toată credința pentru a obține ceea ce sufletul ei îşi dorea atât de mult. Câteva săptămâni mai târziu a primit o scrisoare în care persoana respectivă mărturisea: „De Crăciun am primit lumină. Acum văd lucrurile altfel.” <i>––W. Robertson Nicol</i></p>"
+          "html": "<p>Scrisoare după scrisoare a pornit din vârful peniței sale peste graniță, spre oraşul în care scepticismul făcea ravagii în sufletul persoanei pe care o iubea. A scris, a argumentat, a pledat, a implorat – dar totul fusese în zadar. Atunci a apelat la credința ei cea mare. S-a izolat de tot şi de toate, în afară de Dumnezeu, şi şi-a pus la lucru toată credința pentru a obține ceea ce sufletul ei îşi dorea atât de mult. Câteva săptămâni mai târziu a primit o scrisoare în care persoana respectivă mărturisea: „De Crăciun am primit lumină. Acum văd lucrurile altfel.” </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—W. Robertson Nicol"
         },
         {
           "type": "prose",
@@ -596,7 +656,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Fă-mă să văd răspunsuri reale la cereri concrete, ca o dovadă a legăturii existente între mine, omul de pe pământ, şi Tine, Mântuitorul meu aflat în ceruri. <i>––Thomas Chalmers</i></p>"
+          "html": "<p>Fă-mă să văd răspunsuri reale la cereri concrete, ca o dovadă a legăturii existente între mine, omul de pe pământ, şi Tine, Mântuitorul meu aflat în ceruri. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Thomas Chalmers"
         }
       ]
     },
@@ -624,7 +688,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>„Lasă viermele în pace şi îți va omorî copacul”, i-a spus cineva odată unui grădinar de la curtea unui nobil. Grădinarul n-a ţinut seama de avertismentul respectiv şi a ignorat micul parazit, dar în anul următor, frunzele îngălbenite au semnalat moartea lentă a copacului. <i>––Theodore Cuyler</i></p>"
+          "html": "<p>„Lasă viermele în pace şi îți va omorî copacul”, i-a spus cineva odată unui grădinar de la curtea unui nobil. Grădinarul n-a ţinut seama de avertismentul respectiv şi a ignorat micul parazit, dar în anul următor, frunzele îngălbenite au semnalat moartea lentă a copacului. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
@@ -660,11 +728,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nimic nu este mai vrednic de plâns ca atitudinea unui om care îşi iroseşte viața gândindu-se numai la el însuşi, chiar dacă nu se gândeşte la nimic altceva decât la propriul suflet. <i>––Canon Farrar</i></p>"
+          "html": "<p>Nimic nu este mai vrednic de plâns ca atitudinea unui om care îşi iroseşte viața gândindu-se numai la el însuşi, chiar dacă nu se gândeşte la nimic altceva decât la propriul suflet. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Canon Farrar"
         },
         {
           "type": "prose",
-          "html": "<p>Aproape toate controversele şi conflictele dintre noi izvorăsc din faptul că încercăm să obținem anumite lucruri unii de la alții. Nu vom cunoaşte pacea sufletească până când scopul nostru nu se va schimba, devenind din oameni egoişti persoane altruiste. Societatea va face un pas uriaş spre această pace socială atunci când va începe să evalueze cetățeanul după ceea ce produce, şi nu după ceea ce acumulează. <i>––W. J. Bryan</i></p>"
+          "html": "<p>Aproape toate controversele şi conflictele dintre noi izvorăsc din faptul că încercăm să obținem anumite lucruri unii de la alții. Nu vom cunoaşte pacea sufletească până când scopul nostru nu se va schimba, devenind din oameni egoişti persoane altruiste. Societatea va face un pas uriaş spre această pace socială atunci când va începe să evalueze cetățeanul după ceea ce produce, şi nu după ceea ce acumulează. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—W. J. Bryan"
         },
         {
           "type": "prose",
@@ -692,7 +768,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Oricine dăruieşte în felul acesta va primi cu siguranță, căci Cristos a spus: <i>„Dați şi vi se va da.” </i>(Cf. Luca 6.38, n. red.). Ni se va da – aceasta este o promisiune minunată, fără îndoială; dar cum ni se va da? Dacă vom dărui noi mai întâi. <i>––Episcopul Latimer</i></p>"
+          "html": "<p>Oricine dăruieşte în felul acesta va primi cu siguranță, căci Cristos a spus: <i>„Dați şi vi se va da.” </i>(Cf. Luca 6.38, n. red.). Ni se va da – aceasta este o promisiune minunată, fără îndoială; dar cum ni se va da? Dacă vom dărui noi mai întâi. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Episcopul Latimer"
         },
         {
           "type": "prose",
@@ -796,7 +876,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ba chiar mi-a arătat mărturiile unor clienți anteriori ai Firmei. Un tip bătrân, cu barba lungă şi fața aspră, spunea că o dată hrana de care avea nevoie i-a fost livrată de nişte corbi, iar altă dată de un înger cu aripi albe. Un alt bătrân mărunțel, cu pielea brăzdată de semne şi cicatrici, asemenea cojii de nucă, spunea că fusese salvat de nenumărate ori de la moarte, căci hotărâse să pună la încercare promisiunea cum că cel care îşi va pierde viața de dragul Firmei o va găsi. Mi-a povestit lucruri mai minunate decât orice roman sau orice poveste din <i>O mie şi una de nopți </i>– despre greutăți şi evadări, despre călătorii şi întemnițări, iar la sfârşit, cu foc în privire şi cu zâmbet în glas, a adăugat: „Dar din toate Partenerul m-a izbăvit.”<i>––C.T. Studd</i></p>"
+          "html": "<p>Ba chiar mi-a arătat mărturiile unor clienți anteriori ai Firmei. Un tip bătrân, cu barba lungă şi fața aspră, spunea că o dată hrana de care avea nevoie i-a fost livrată de nişte corbi, iar altă dată de un înger cu aripi albe. Un alt bătrân mărunțel, cu pielea brăzdată de semne şi cicatrici, asemenea cojii de nucă, spunea că fusese salvat de nenumărate ori de la moarte, căci hotărâse să pună la încercare promisiunea cum că cel care îşi va pierde viața de dragul Firmei o va găsi. Mi-a povestit lucruri mai minunate decât orice roman sau orice poveste din <i>O mie şi una de nopți </i>– despre greutăți şi evadări, despre călătorii şi întemnițări, iar la sfârşit, cu foc în privire şi cu zâmbet în glas, a adăugat: „Dar din toate Partenerul m-a izbăvit.”</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—C.T. Studd"
         }
       ]
     },
@@ -880,7 +964,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă măcar zece dintre noi ne-am strădui cu tot sufletul să facem binele, în scurt timp cei zece ar deveni douăzeci, douăzeci ar deveni cincizeci, cincizeci ar deveni o sută, o sută ar deveni o mie, iar cei o mie ar influența un întreg oraş. <i>––Ioan Gură de Aur</i></p>"
+          "html": "<p>Dacă măcar zece dintre noi ne-am strădui cu tot sufletul să facem binele, în scurt timp cei zece ar deveni douăzeci, douăzeci ar deveni cincizeci, cincizeci ar deveni o sută, o sută ar deveni o mie, iar cei o mie ar influența un întreg oraş. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Ioan Gură de Aur"
         },
         {
           "type": "prose",
@@ -919,7 +1007,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Suntem singuri, părăsiți şi îndurerați. Strigăm ca un copil rămas orfan în miez de noapte şi nu găsim pe nimeni care să ne ajute şi nimeni care să ne înțeleagă. Atunci Se apropie El, cu înțelegerea desăvârşită a suferinței, a oboselii şi a durerii noastre, şi cu mângâieri nespuse ne cuprinde în îmbrățişarea dragostei Sale. Ne aplecăm capul şi inima pe pieptul Lui, ne cuibărim aproape de El şi şoptim: <i>„Părintele veşniciilor, Domn al păcii!” ––Samuel Logan Brengle</i></p>"
+          "html": "<p>Suntem singuri, părăsiți şi îndurerați. Strigăm ca un copil rămas orfan în miez de noapte şi nu găsim pe nimeni care să ne ajute şi nimeni care să ne înțeleagă. Atunci Se apropie El, cu înțelegerea desăvârşită a suferinței, a oboselii şi a durerii noastre, şi cu mângâieri nespuse ne cuprinde în îmbrățişarea dragostei Sale. Ne aplecăm capul şi inima pe pieptul Lui, ne cuibărim aproape de El şi şoptim: <i>„Părintele veşniciilor, Domn al păcii!” </i></p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Logan Brengle"
         },
         {
           "type": "prose",
@@ -955,7 +1047,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dumnezeu lucrează în tine; deci şi tu poți lucra; altfel ar fi imposibil. Dumnezeu lucrează în tine; deci şi tu trebuie să lucrezi; altfel, El va înceta să lucreze. <i>––John Wesley</i></p>"
+          "html": "<p>Dumnezeu lucrează în tine; deci şi tu poți lucra; altfel ar fi imposibil. Dumnezeu lucrează în tine; deci şi tu trebuie să lucrezi; altfel, El va înceta să lucreze. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         },
         {
           "type": "prose",
@@ -963,7 +1059,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Să ne ferim de o credință fără fapte. <i>––Reader Harris</i></p>"
+          "html": "<p>Să ne ferim de o credință fără fapte. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Reader Harris"
         },
         {
           "type": "prose",
@@ -975,7 +1075,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Între credință şi fapte s-a operat o separare nefericită. Cu toate că la nivelul minţii pot face distincție între ele, aşa cum ştiu că într-o lumânare găsesc deopotrivă lumină şi căldură, totuşi, dacă sting lumânarea, au dispărut amândouă! Nu pot avea una fără de cealaltă; la fel stau lucrurile cu credința şi faptele. <i>––Selden</i></p>"
+          "html": "<p>Între credință şi fapte s-a operat o separare nefericită. Cu toate că la nivelul minţii pot face distincție între ele, aşa cum ştiu că într-o lumânare găsesc deopotrivă lumină şi căldură, totuşi, dacă sting lumânarea, au dispărut amândouă! Nu pot avea una fără de cealaltă; la fel stau lucrurile cu credința şi faptele. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Selden"
         },
         {
           "type": "prose",
@@ -1032,7 +1136,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Probabil că cine se luptă cel mai aprig cu Dumnezeu în odăița lui este credinciosul cel mai bine pregătit să se confrunte cu oamenii, fiind uns pentru misiunea lui. Hainele lui răspândesc miresmele Paradisului. Fața lui străluceşte ca fața unui înger şi el devine, inevitabil, în sfera lui de activitate, „lumina lumii”. <i>––Stephen Olin</i></p>"
+          "html": "<p>Probabil că cine se luptă cel mai aprig cu Dumnezeu în odăița lui este credinciosul cel mai bine pregătit să se confrunte cu oamenii, fiind uns pentru misiunea lui. Hainele lui răspândesc miresmele Paradisului. Fața lui străluceşte ca fața unui înger şi el devine, inevitabil, în sfera lui de activitate, „lumina lumii”. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Stephen Olin"
         },
         {
           "type": "prose",
@@ -1040,7 +1148,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu se poate ca un om să stea un timp îndelungat de vorbă cu Dumnezeu şi să nu fie afectat deloc de această conversaţie. Dacă suntem străini de Dumnezeu, nu-i de mirare că fețele noastre devin pământeşti, dar cel care se pune pe sine deoparte pentru Dumnezeu se va bucura de o măreţie şi de un respect deosebit din partea celorlalți. <i>––Episcopul Hall</i></p>"
+          "html": "<p>Nu se poate ca un om să stea un timp îndelungat de vorbă cu Dumnezeu şi să nu fie afectat deloc de această conversaţie. Dacă suntem străini de Dumnezeu, nu-i de mirare că fețele noastre devin pământeşti, dar cel care se pune pe sine deoparte pentru Dumnezeu se va bucura de o măreţie şi de un respect deosebit din partea celorlalți. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Episcopul Hall"
         },
         {
           "type": "prose",
@@ -1068,7 +1180,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Fii corect în odăița ta. Fii neclintit în rugăciune dacă vrei să fii calm în încercare. Începe alergarea de la tronul lui Dumnezeu dacă vrei să faci o cursă bună şi să câştigi cununa. <i>––Joseph Parker</i></p>"
+          "html": "<p>Fii corect în odăița ta. Fii neclintit în rugăciune dacă vrei să fii calm în încercare. Începe alergarea de la tronul lui Dumnezeu dacă vrei să faci o cursă bună şi să câştigi cununa. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Joseph Parker"
         }
       ]
     },
@@ -1096,7 +1212,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>În calitate de urmaş al lui Cristos, trăieşte în aşa fel încât să eviți pe cât posibil ca pe patul de moarte sau în veşnicie să fii măcinat de gânduri ca acestea: ,,Mântuitorul meu nu a pierdut nici o singură clipă. Pe când eu – vai, cât de mult din timpul pe care ar fi trebuit să-l petrec onorându-L pe El l-am risipit! Ce trepte mai înalte de sfinţenie aş fi putut atinge! Cum aş fi putut să-L slujesc mai bine pe Domnul! Cu cât mai multe lucruri bune aş fi putut face pentru Cel care a făcut atât de mult pentru mine, dacă aş fi ştiut să folosesc mai bine timpul pe care l-am risipit fără nici un rost.” <i>––J.G. Pike</i></p>"
+          "html": "<p>În calitate de urmaş al lui Cristos, trăieşte în aşa fel încât să eviți pe cât posibil ca pe patul de moarte sau în veşnicie să fii măcinat de gânduri ca acestea: ,,Mântuitorul meu nu a pierdut nici o singură clipă. Pe când eu – vai, cât de mult din timpul pe care ar fi trebuit să-l petrec onorându-L pe El l-am risipit! Ce trepte mai înalte de sfinţenie aş fi putut atinge! Cum aş fi putut să-L slujesc mai bine pe Domnul! Cu cât mai multe lucruri bune aş fi putut face pentru Cel care a făcut atât de mult pentru mine, dacă aş fi ştiut să folosesc mai bine timpul pe care l-am risipit fără nici un rost.” </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.G. Pike"
         },
         {
           "type": "prose",
@@ -1172,7 +1292,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Îți mulțumesc, Doamne, pentru alegerea Ta! <i>–-Josephine Butler</i></p>"
+          "html": "<p>Îți mulțumesc, Doamne, pentru alegerea Ta! <i>–</i></p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Josephine Butler"
         },
         {
           "type": "prose",
@@ -1236,7 +1360,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>În fiecare zi când te trezeşti, mulțumeşte-I lui Dumnezeu că ai ceva de făcut, ceva ce trebuie făcut, indiferent dacă îți place sau nu. Când eşti obligat să munceşti şi să oferi ce ai mai bun, faptul acesta dezvoltă în tine cumpătare şi autocontrol, sârguință şi voință puternică, bucurie şi mulțumire şi o sută de alte virtuți pe care cei leneşi nu le cunosc. <i>––Charles Kingsley</i></p>"
+          "html": "<p>În fiecare zi când te trezeşti, mulțumeşte-I lui Dumnezeu că ai ceva de făcut, ceva ce trebuie făcut, indiferent dacă îți place sau nu. Când eşti obligat să munceşti şi să oferi ce ai mai bun, faptul acesta dezvoltă în tine cumpătare şi autocontrol, sârguință şi voință puternică, bucurie şi mulțumire şi o sută de alte virtuți pe care cei leneşi nu le cunosc. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles Kingsley"
         },
         {
           "type": "prose",
@@ -1244,7 +1372,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Atunci când un singur om face prea multe pentru lume, într-un fel întreaga lume are de pierdut. Aşadar, este posibil ca Dumnezeu să-Şi retragă lucrătorii chiar în momentul în care mâinile le sunt pline şi sufletele gata să dea rod: şi asta pentru a umple golul lăsat cu oameni aflați încă în creştere şi să compenseze cu mai mulți pierderea unuia singur. <i>––Henry Drummond</i></p>"
+          "html": "<p>Atunci când un singur om face prea multe pentru lume, într-un fel întreaga lume are de pierdut. Aşadar, este posibil ca Dumnezeu să-Şi retragă lucrătorii chiar în momentul în care mâinile le sunt pline şi sufletele gata să dea rod: şi asta pentru a umple golul lăsat cu oameni aflați încă în creştere şi să compenseze cu mai mulți pierderea unuia singur. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Drummond"
         },
         {
           "type": "prose",
@@ -1252,7 +1384,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Şi astfel noi cu cei din Cer ne-asemuim:<br>\nCu cât slujim mai mult, cu-atât mai mult iubim. <i>––Charles Wesley</i></p>"
+          "html": "<p>Şi astfel noi cu cei din Cer ne-asemuim:<br>\nCu cât slujim mai mult, cu-atât mai mult iubim. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles Wesley"
         },
         {
           "type": "prose",
@@ -1292,7 +1428,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Apoi, El spune: <i>„Voi turna râuri pe pământul uscat” </i>(Isaia 44.3). Este vorba despre binecuvântarea cu o trezire spirituală. Râuri dumnezeieşti turnate acolo unde nimeni nu se aştepta; râuri curgând abundente acolo unde până acum nu s-a văzut deloc sau prea puțin lucrarea Duhului Sfânt al lui Dumnezeu; râuri prezente acolo unde până acum nu se văzuse decât deşert şi sălbăticie. <i>––Barclay Buxton</i></p>"
+          "html": "<p>Apoi, El spune: <i>„Voi turna râuri pe pământul uscat” </i>(Isaia 44.3). Este vorba despre binecuvântarea cu o trezire spirituală. Râuri dumnezeieşti turnate acolo unde nimeni nu se aştepta; râuri curgând abundente acolo unde până acum nu s-a văzut deloc sau prea puțin lucrarea Duhului Sfânt al lui Dumnezeu; râuri prezente acolo unde până acum nu se văzuse decât deşert şi sălbăticie. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Barclay Buxton"
         }
       ]
     },
@@ -1308,7 +1448,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Faptul de a iubi este ceva mai bun, mai nobil, mai înălțător şi mai sigur decât a fi iubit. A iubi înseamnă să găsim acel ceva care ne înalță mai presus de noi înşine; a descoperi ceea ce ne face capabili de sacrificiu; ceea ce poate să desferece forțele unei alte lumi. Cel care este iubit a dobândit cel mai înalt tribut posibil pe pământ; cel care iubeşte a pătruns în spiritul Cerului. Dragostea pe care o primim trebuie să fie întotdeauna amestecată cu tristețea propriei noastre nevrednicii. Dragostea pe care o dăruim trebuie să fie înfrumusețată de idealul către care este îndreptată. <i>––Episcopul Westcott</i></p>"
+          "html": "<p>Faptul de a iubi este ceva mai bun, mai nobil, mai înălțător şi mai sigur decât a fi iubit. A iubi înseamnă să găsim acel ceva care ne înalță mai presus de noi înşine; a descoperi ceea ce ne face capabili de sacrificiu; ceea ce poate să desferece forțele unei alte lumi. Cel care este iubit a dobândit cel mai înalt tribut posibil pe pământ; cel care iubeşte a pătruns în spiritul Cerului. Dragostea pe care o primim trebuie să fie întotdeauna amestecată cu tristețea propriei noastre nevrednicii. Dragostea pe care o dăruim trebuie să fie înfrumusețată de idealul către care este îndreptată. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Episcopul Westcott"
         },
         {
           "type": "prose",
@@ -1376,7 +1520,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>de creştini din țara aceasta, Cristos este izgonit din salon din prima până în ultima zi a anului. <i>––De Witt Talmage</i></p>"
+          "html": "<p>de creştini din țara aceasta, Cristos este izgonit din salon din prima până în ultima zi a anului. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—De Witt Talmage"
         },
         {
           "type": "prose",
@@ -1476,15 +1624,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>rebelă a omului nu se va supune din nou controlului voinței lui Dumnezeu şi până când voia Lui nu se va face precum în cer, aşa şi pe pământ. <i>––Edward Payson</i></p>"
+          "html": "<p>rebelă a omului nu se va supune din nou controlului voinței lui Dumnezeu şi până când voia Lui nu se va face precum în cer, aşa şi pe pământ. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Edward Payson"
         },
         {
           "type": "prose",
           "html": "<p>Ce minunată-i voia Ta, Stăpâne! În ea mă odihnesc şi azi şi mâine. Aş vrea să stau sub calda Ta aripă, Să fac ce-Ţi place-n fiecare clipă.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p><i>Prelucrare de C.M. a unui catren dintr-un poem compus de Paul Gerhardt</i></p>"
+          "type": "attribution",
+          "text": "Prelucrare de C.M. a unui catren dintr-un poem compus de Paul Gerhardt"
         },
         {
           "type": "scripture",
@@ -1529,7 +1681,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>O, sufletul meu, nu ai vrea şi tu să ai viața slăvită, înfrumusețată, transfigurată în ochii oamenilor? Du-te în locul acela tainic, în coliba lui Dumnezeu, unde ard flăcările dragostei. [...] Rugăciunile tale vor fi pline de lumină; îți vor lumina fața asemenea feței lui Moise când el nici nu ştia că străluceşte. Cuvintele tale vor arde; ele vor aprinde multe inimi aflate în drum spre Emaus. Cărarea ta va fi strălucitoare. Când te vei ruga în singurătate ca Ilie, vei avea parte de carul de foc al lui Ilie. <i>––George Matheson</i></p>"
+          "html": "<p>O, sufletul meu, nu ai vrea şi tu să ai viața slăvită, înfrumusețată, transfigurată în ochii oamenilor? Du-te în locul acela tainic, în coliba lui Dumnezeu, unde ard flăcările dragostei. [...] Rugăciunile tale vor fi pline de lumină; îți vor lumina fața asemenea feței lui Moise când el nici nu ştia că străluceşte. Cuvintele tale vor arde; ele vor aprinde multe inimi aflate în drum spre Emaus. Cărarea ta va fi strălucitoare. Când te vei ruga în singurătate ca Ilie, vei avea parte de carul de foc al lui Ilie. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Matheson"
         }
       ]
     },
@@ -1553,7 +1709,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Să îndrăznesc oare să-i invit pe tinerii cu studii superioare ca, atunci când îşi fac planuri de viitor, să ia în considerare şi viața de misionar? În ceea ce mă priveşte, nu încetez niciodată să mă bucur că Dumnezeu m-a chemat la această lucrare. <i>––David Livingstone</i></p>"
+          "html": "<p>Să îndrăznesc oare să-i invit pe tinerii cu studii superioare ca, atunci când îşi fac planuri de viitor, să ia în considerare şi viața de misionar? În ceea ce mă priveşte, nu încetez niciodată să mă bucur că Dumnezeu m-a chemat la această lucrare. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—David Livingstone"
         },
         {
           "type": "prose",

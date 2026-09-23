@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "en",
   "month": "05",
   "readings": [
@@ -543,7 +543,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Prayer is a safety-valve for the mind and the soul. If Christianity were practically applied to our everyday life, it would so purify and vitalize the race that at least one-half of our sickness and sorrow would disappear<i>.-Dr. William Sadler.</i></p>"
+          "html": "<p class=\"justify\">Prayer is a safety-valve for the mind and the soul. If Christianity were practically applied to our everyday life, it would so purify and vitalize the race that at least one-half of our sickness and sorrow would disappear<i>.</i></p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. William Sadler"
         },
         {
           "type": "poem",
@@ -605,7 +609,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">The filling of the Holy Ghost will bring us joy and fullness of joy. The fullness of the Spirit must crowd out pain, doubt, fear, and sorrow, and bring the joy of Christ to fill our being. What is it makes the melody in an organ? It is not the touch of skillful fingers only on the keys, but it is the filling of the pipes by the movement of the pedals. I may try in vain to play the most skillful tune, unless the organ is filled; and so our songs of praise are dead and cold until the breath of God fills all the channels of our being. Then comes the heart-song of praise and the overflowing fountain of gladness<i>.-A. B. Simpson.</i></p>"
+          "html": "<p class=\"justify\">The filling of the Holy Ghost will bring us joy and fullness of joy. The fullness of the Spirit must crowd out pain, doubt, fear, and sorrow, and bring the joy of Christ to fill our being. What is it makes the melody in an organ? It is not the touch of skillful fingers only on the keys, but it is the filling of the pipes by the movement of the pedals. I may try in vain to play the most skillful tune, unless the organ is filled; and so our songs of praise are dead and cold until the breath of God fills all the channels of our being. Then comes the heart-song of praise and the overflowing fountain of gladness<i>.</i></p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—A. B. Simpson"
         },
         {
           "type": "poem",
@@ -662,11 +670,19 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Not to be a Christian costs the sacrifice of the highest, deepest, purest, holiest, most overflowing joy that can be known right here on earth.<i>-Unknown.</i></p>"
+          "html": "<p class=\"justify\">Not to be a Christian costs the sacrifice of the highest, deepest, purest, holiest, most overflowing joy that can be known right here on earth.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">The only way to be constantly happy is to be constantly looking to and coming to a Crucified Savior; renouncing all our own worth; cleaving to Him for all; giving up everything that clashes with our fidelity to Him; receiving from His fullness “grace upon grace”; relying on His every promise, and guarding against aught that might for a moment bring distance and darkness between our souls and our Lord.<i>-Samuel Pearce.</i> </p>"
+          "html": "<p class=\"justify\">The only way to be constantly happy is to be constantly looking to and coming to a Crucified Savior; renouncing all our own worth; cleaving to Him for all; giving up everything that clashes with our fidelity to Him; receiving from His fullness “grace upon grace”; relying on His every promise, and guarding against aught that might for a moment bring distance and darkness between our souls and our Lord.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Pearce"
         }
       ]
     },
@@ -935,7 +951,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">A strange, mysterious life pervades the Bible, which makes it not only an inexplicable mystery, but an indestructible Book. It is also life-giving. Its Living Waters make everything to live, wherever the river of God cometh. The living Spirit of God here speaks to the responsive spirit of man.<i>-Dr. A. T. Pierson.</i> </p>"
+          "html": "<p class=\"justify\">A strange, mysterious life pervades the Bible, which makes it not only an inexplicable mystery, but an indestructible Book. It is also life-giving. Its Living Waters make everything to live, wherever the river of God cometh. The living Spirit of God here speaks to the responsive spirit of man.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. A. T. Pierson"
         }
       ]
     },
@@ -980,7 +1000,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">The beginning of anxiety is the end of faith, and the beginning of true faith is the end of anxiety.<i>-Unknown.</i></p>"
+          "html": "<p class=\"justify\">The beginning of anxiety is the end of faith, and the beginning of true faith is the end of anxiety.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         },
         {
           "type": "prose",

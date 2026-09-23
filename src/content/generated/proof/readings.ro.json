@@ -1,5 +1,5 @@
 {
-  "contentVersion": "edc4d46c2242e586",
+  "contentVersion": "a242907ac6fdd26d",
   "locale": "ro",
   "readings": [
     {
@@ -79,8 +79,12 @@
         },
         {
           "type": "prose",
-          "html": "<p>A fi nemulţumit de tine însuţi cu o nemulţumire divină şi a te ruşina de tine însuţi cu o ruşine nobilă este deopotrivă sămânţa şi prima roadă a oricărei virtuţi. <i>— Charles Kingsley</i></p>",
-          "text": "A fi nemulţumit de tine însuţi cu o nemulţumire divină şi a te ruşina de tine însuţi cu o ruşine nobilă este deopotrivă sămânţa şi prima roadă a oricărei virtuţi. — Charles Kingsley"
+          "html": "<p>A fi nemulţumit de tine însuţi cu o nemulţumire divină şi a te ruşina de tine însuţi cu o ruşine nobilă este deopotrivă sămânţa şi prima roadă a oricărei virtuţi. </p>",
+          "text": "A fi nemulţumit de tine însuţi cu o nemulţumire divină şi a te ruşina de tine însuţi cu o ruşine nobilă este deopotrivă sămânţa şi prima roadă a oricărei virtuţi."
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles Kingsley"
         }
       ],
       "plainText": "Şi Dumnezeu poate să vă umple cu orice har, pentru ca, având totdeauna în toate lucrurile din destul, să prisosiţi în orice faptă bună.” (2 Corinteni 9.8)\n\n„...să înflăcărezi darul lui Dumnezeu, care este în tine.” (2 Timotei 1.6)\n\nDe vreme ce Dumnezeu poate să ne umple cu orice har în toate lucrurile, atunci de ce mai există atât de mulţi creştini piperniciţi şi neputincioşi? Cu siguranţă, problema nu poate fi la Izvorul harului, aşa că trebuie căutată în incapacitatea creştinilor de a se alimenta din belşugul de har.\n\nÎn anul care ne stă în faţă, vă îndemnăm pe toţi să vă provocaţi singuri în legătură cu aceste posibilităţi minunate cuprinse în promisiunile lui Dumnezeu.\n\nNu înceta să te provoci singur!\n\nÎn momentul în care te declari mulţumit de tine însuţi şi de lucrarea ta, începi să aluneci înapoi.\n\nTocmai de aceea, stabileşte-ţi provocări pentru gândurile tale, pentru acţiunile tale şi pentru tot ceea ce vrei să realizezi.\n\nDezvoltarea vieţii interioare este cea mai importantă sarcină pe care o are de îndeplinit fiecare dintre noi. Nu aceea de a face bani. Nu aceea de a obţine faimă şi un anume statut social, sau aprobarea vremelnică a celor din jur. Trebuie să ne găsim satisfacţia în ceea ce reprezintă lăuntrul nostru. Trebuie să ne satisfacem foamea sufletească. Împotrivindu-ne forţelor potrivnice care se străduiesc să ne abată din drum, ne zidim caracterul!\n\nDorinţa este piatra de căpătâi a oricărei realizări. Dar fără o voinţă puternică şi un scop bine stabilit, dorinţa rămâne literă moartă.\n\nNu înceta să te provoci singur!\n\nPoţi pune pe fugă toţi pigmeii firii tale pământeşti dacă decizi să faci acest lucru!\n\nCu fiecare an ce trece,\n\nMă schimb din ce în ce mai mult; Nevoile nu pot să sece,\n\nCăci viaţa este un tumult.\n\nTu, bunul meu Stăpân, întruna Acelaşi sfânt şi mare eţti;\n\nCu harul, însă, nu-i tot una, Căci zi de zi Ţi-l îndulceşti.\n\nCondu-mi toţi paşii cu blândeţe, Lărgeşte-mi inima cât vrei,\n\nIar strălucirea Sfintei Feţe\n\nSă scalde-n har toţi anii mei.\n\n— F.W. Faber\n\nA fi nemulţumit de tine însuţi cu o nemulţumire divină şi a te ruşina de tine însuţi cu o ruşine nobilă este deopotrivă sămânţa şi prima roadă a oricărei virtuţi. — Charles Kingsley",
@@ -94,9 +98,9 @@
         "sourceDate": "2012-01-01",
         "rawChecksum": "bb043dcb00c102e51a2106487d99cb7188120d2321d6146fbf897b01457dead4",
         "correctionKeys": [],
-        "transformedChecksum": "e99ad5d0dc35c08856a30116d491032ac88eee6c7960b7a4d84f3fa30c235034"
+        "transformedChecksum": "19bfc21f5378abec7bb33b38278c3d4368976ae81d39279a4f6fa96386d9e1fa"
       },
-      "contentVersion": "edc4d46c2242e586"
+      "contentVersion": "a242907ac6fdd26d"
     },
     {
       "id": 19,
@@ -202,9 +206,9 @@
         "sourceDate": "2012-01-19",
         "rawChecksum": "4e312394388bb4ef202490cbaeb388ed31a05358daeffa3b524ccfd49ccf3244",
         "correctionKeys": [],
-        "transformedChecksum": "2934e7251fc5f57d25aaf6fe6dea1d3997a074ceb4a10f433a4ddcb460a9b672"
+        "transformedChecksum": "63e76ad1127afd33ddb10a6b3a01f317fabd017de46f757dc09ce60db6a17c3a"
       },
-      "contentVersion": "edc4d46c2242e586"
+      "contentVersion": "a242907ac6fdd26d"
     },
     {
       "id": 58,
@@ -263,9 +267,9 @@
         "sourceDate": "2012-02-27",
         "rawChecksum": "1968d8a8f295f004873563c443b0b5b90b6f0d4da68989d21c81c19a35e7ae2f",
         "correctionKeys": [],
-        "transformedChecksum": "2f070d5bbff856df65597f09399fd3a6174388c0f24649b7c0d1dc32411b4bc5"
+        "transformedChecksum": "6937a375dde50682bbbdf948a311ed14db6147b4ee4273f7946560690c9cc252"
       },
-      "contentVersion": "edc4d46c2242e586"
+      "contentVersion": "a242907ac6fdd26d"
     },
     {
       "id": 59,
@@ -286,8 +290,12 @@
         },
         {
           "type": "prose",
-          "html": "<p>„Domnule”, a spus grădinarul, „rodiul acesta a fost atât de frumos şi puternic, încât nu făcea decât frunze. Aşa că am fost obligat să-l tai în felul acesta, şi când tulpina i-a fost retezată aproape complet, atunci a început să facă o mulțime de fructe.” <i>––Denton</i></p>",
-          "text": "„Domnule”, a spus grădinarul, „rodiul acesta a fost atât de frumos şi puternic, încât nu făcea decât frunze. Aşa că am fost obligat să-l tai în felul acesta, şi când tulpina i-a fost retezată aproape complet, atunci a început să facă o mulțime de fructe.” ––Denton"
+          "html": "<p>„Domnule”, a spus grădinarul, „rodiul acesta a fost atât de frumos şi puternic, încât nu făcea decât frunze. Aşa că am fost obligat să-l tai în felul acesta, şi când tulpina i-a fost retezată aproape complet, atunci a început să facă o mulțime de fructe.” </p>",
+          "text": "„Domnule”, a spus grădinarul, „rodiul acesta a fost atât de frumos şi puternic, încât nu făcea decât frunze. Aşa că am fost obligat să-l tai în felul acesta, şi când tulpina i-a fost retezată aproape complet, atunci a început să facă o mulțime de fructe.”"
+        },
+        {
+          "type": "attribution",
+          "text": "—Denton"
         },
         {
           "type": "prose",
@@ -325,9 +333,9 @@
         "sourceDate": "2012-02-28",
         "rawChecksum": "60c9717f5b7e4ea49965a64e5810ab85d7eeb73c04bfd09d8a10a6d721ab6869",
         "correctionKeys": [],
-        "transformedChecksum": "293189f2282705759d42e32f510fcd6d1b9b0b31b62fbb3c44b32ce08af6936b"
+        "transformedChecksum": "8d49a05e491ecb4a2fa4c84c50dfb079345fea38516194bc24c4ec5118ab9d6e"
       },
-      "contentVersion": "edc4d46c2242e586"
+      "contentVersion": "a242907ac6fdd26d"
     },
     {
       "id": 60,
@@ -407,9 +415,9 @@
         "sourceDate": "2012-02-29",
         "rawChecksum": "4d82678ab4c72fb3c8c6a0ba69c202d491c73da8b789b78539147773bb83fdf4",
         "correctionKeys": [],
-        "transformedChecksum": "21965562f6e5b6ce2fd5a0bf055227601c9eda1ef6896330bccbf9277d29ca02"
+        "transformedChecksum": "0796a6c1f72d8c8487e6b11e6ae330e41758482d4f2af0f9f7df40c7577314d0"
       },
-      "contentVersion": "edc4d46c2242e586"
+      "contentVersion": "a242907ac6fdd26d"
     },
     {
       "id": 97,
@@ -440,8 +448,12 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă există un adevăr mai vrednic decât oricare altul pe care tinerii să-şi poată clădi viața, este acesta: ori de câte ori refuzi îndeplinirea unei sarcini spre care te îndeamnă conştiinţa ta, devii tot mai puțin capabil de a o duce la îndeplinire; pe de altă parte, fiecare efort făcut cu smerenie şi trudă pentru ceva bun reprezintă o nouă treapta�� în formarea unui caracter sănătos. <i>––Marcus Dods</i></p>",
-          "text": "Dacă există un adevăr mai vrednic decât oricare altul pe care tinerii să-şi poată clădi viața, este acesta: ori de câte ori refuzi îndeplinirea unei sarcini spre care te îndeamnă conştiinţa ta, devii tot mai puțin capabil de a o duce la îndeplinire; pe de altă parte, fiecare efort făcut cu smerenie şi trudă pentru ceva bun reprezintă o nouă treapta�� în formarea unui caracter sănătos. ––Marcus Dods"
+          "html": "<p>Dacă există un adevăr mai vrednic decât oricare altul pe care tinerii să-şi poată clădi viața, este acesta: ori de câte ori refuzi îndeplinirea unei sarcini spre care te îndeamnă conştiinţa ta, devii tot mai puțin capabil de a o duce la îndeplinire; pe de altă parte, fiecare efort făcut cu smerenie şi trudă pentru ceva bun reprezintă o nouă treapta�� în formarea unui caracter sănătos. </p>",
+          "text": "Dacă există un adevăr mai vrednic decât oricare altul pe care tinerii să-şi poată clădi viața, este acesta: ori de câte ori refuzi îndeplinirea unei sarcini spre care te îndeamnă conştiinţa ta, devii tot mai puțin capabil de a o duce la îndeplinire; pe de altă parte, fiecare efort făcut cu smerenie şi trudă pentru ceva bun reprezintă o nouă treapta�� în formarea unui caracter sănătos."
+        },
+        {
+          "type": "attribution",
+          "text": "—Marcus Dods"
         },
         {
           "type": "prose",
@@ -494,9 +506,9 @@
         "sourceDate": "2012-04-06",
         "rawChecksum": "04c9b81ac698a1a20fe89e61c34f26148d3ac119fa482f20cb27ef3b73cdbf1c",
         "correctionKeys": [],
-        "transformedChecksum": "d755605f1c1249c2c1a1a931b6a37bfd7a7f1e00833c5828043812dd182d59ee"
+        "transformedChecksum": "9a91c1ffe4f1d37ff329a08f9951d36265b118fa68bbac2c4f9fc498673d795b"
       },
-      "contentVersion": "edc4d46c2242e586"
+      "contentVersion": "a242907ac6fdd26d"
     },
     {
       "id": 100,
@@ -522,8 +534,12 @@
         },
         {
           "type": "prose",
-          "html": "<p>Tu, fratele meu, pe cine reprezinți? Ce cred oamenii despre felul în care poartă Cristos de grijă familiei Sale când te văd pe tine mereu nemulțumit, neliniştit, nedormit şi neputincios? Pe tine – cel de la care nu se mai aude nici măcar o strofă de cântare, creştinul în care nu se mai vede nici măcar o scânteie de entuziasm, omul care seamănă prea bine cu un muc fumegând, gata să se stingă, lipsit de orice firicel de lumină: ce impresie îşi fac oamenii despre creştinism când te văd pe tine? <i>––Henry Ward Beecher</i></p>",
-          "text": "Tu, fratele meu, pe cine reprezinți? Ce cred oamenii despre felul în care poartă Cristos de grijă familiei Sale când te văd pe tine mereu nemulțumit, neliniştit, nedormit şi neputincios? Pe tine – cel de la care nu se mai aude nici măcar o strofă de cântare, creştinul în care nu se mai vede nici măcar o scânteie de entuziasm, omul care seamănă prea bine cu un muc fumegând, gata să se stingă, lipsit de orice firicel de lumină: ce impresie îşi fac oamenii despre creştinism când te văd pe tine? ––Henry Ward Beecher"
+          "html": "<p>Tu, fratele meu, pe cine reprezinți? Ce cred oamenii despre felul în care poartă Cristos de grijă familiei Sale când te văd pe tine mereu nemulțumit, neliniştit, nedormit şi neputincios? Pe tine – cel de la care nu se mai aude nici măcar o strofă de cântare, creştinul în care nu se mai vede nici măcar o scânteie de entuziasm, omul care seamănă prea bine cu un muc fumegând, gata să se stingă, lipsit de orice firicel de lumină: ce impresie îşi fac oamenii despre creştinism când te văd pe tine? </p>",
+          "text": "Tu, fratele meu, pe cine reprezinți? Ce cred oamenii despre felul în care poartă Cristos de grijă familiei Sale când te văd pe tine mereu nemulțumit, neliniştit, nedormit şi neputincios? Pe tine – cel de la care nu se mai aude nici măcar o strofă de cântare, creştinul în care nu se mai vede nici măcar o scânteie de entuziasm, omul care seamănă prea bine cu un muc fumegând, gata să se stingă, lipsit de orice firicel de lumină: ce impresie îşi fac oamenii despre creştinism când te văd pe tine?"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Ward Beecher"
         },
         {
           "type": "prose",
@@ -551,8 +567,12 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cântarea de laudă ne eliberează duhul. Nu suntem pregătiți de luptă până când nu experimentăm această libertate lăuntrică. Aşa că, haideţi să prețuim întotdeauna cântarea! <i>––John Harrison</i></p>",
-          "text": "Cântarea de laudă ne eliberează duhul. Nu suntem pregătiți de luptă până când nu experimentăm această libertate lăuntrică. Aşa că, haideţi să prețuim întotdeauna cântarea! ––John Harrison"
+          "html": "<p>Cântarea de laudă ne eliberează duhul. Nu suntem pregătiți de luptă până când nu experimentăm această libertate lăuntrică. Aşa că, haideţi să prețuim întotdeauna cântarea! </p>",
+          "text": "Cântarea de laudă ne eliberează duhul. Nu suntem pregătiți de luptă până când nu experimentăm această libertate lăuntrică. Aşa că, haideţi să prețuim întotdeauna cântarea!"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Harrison"
         }
       ],
       "plainText": "„Robii Mei vor cânta, de veselă ce le va fi inima.” (Isaia 65.14)\n\nCe s-ar întâmpla dacă ar veni la mine un trimis al unei înalte case regale, îmbrăcat în haine din pânză de sac şi pline de praf, pretinzând că el este reprezentantul unui mare împărat? Evident că ar trebui să prezinte o explicație verosimilă – cum că a căzut în mâinile unor tâlhari şi că a avut de dus cu ei o luptă grea. Apoi ar trebui să-şi prezinte scrisorile de acreditare, şi abia după aceea aş putea crede că el este într-adevăr un ambasador.\n\nÎn mod normal, slujitorii unui împărat îşi reprezintă stăpânul prin înfățişarea lor, prin frumusețea îmbrăcămintei lor şi prin bogăția darurilor pe care le aduc.\n\nTu, fratele meu, pe cine reprezinți? Ce cred oamenii despre felul în care poartă Cristos de grijă familiei Sale când te văd pe tine mereu nemulțumit, neliniştit, nedormit şi neputincios? Pe tine – cel de la care nu se mai aude nici măcar o strofă de cântare, creştinul în care nu se mai vede nici măcar o scânteie de entuziasm, omul care seamănă prea bine cu un muc fumegând, gata să se stingă, lipsit de orice firicel de lumină: ce impresie îşi fac oamenii despre creştinism când te văd pe tine? ––Henry Ward Beecher\n\nC-au fost cu Domnul împreună ştiau prea bine cei din jur,\n\nCăci chiar în vreme de furtună, ei străluceau fără cusur.\n\nDa, gloria dumnezeiască\n\ndin sfânta Cameră de Sus Lor li s-a dat s-o oglindească, ca buni urmaşi ai lui Isus.\n\nO întrebare-mi pun şi mie: Contemporanii noştri ştiu C-avem şi noi toţi părtăşie întruna cu Cristos cel Viu?\n\nÎi reflectăm noi strălucirea iubirii Lui cu-adevărat?\n\nSau, poate, ne-am uitat menirea şi slava ei s-a estompat?\n\n––Alice E. Sherwood\n\nUnul dintre primele lucruri asupra cărora se năpusteşte Diavolul este cântarea de bucurie din inima creştinului. Uită-te cu atenţie, şi te vei convinge! De ce atacă Diavolul cântarea? De ce urăşte Satan cântarea de laudă? Pentru că el însuşi a căzut din corul ceresc. Citeşte Ezechiel 28.12-19. Fraza „timpanele şi flautele erau în slujba ta” ne arată poziția înaltă pe care o ocupa Lucifer, şi anume aceea de dirijor al corului ceresc! După ce a pierdut această poziție, acum el urăşte tot ce înseamnă cântare şi laudă.\n\nCântarea de laudă ne eliberează duhul. Nu suntem pregătiți de luptă până când nu experimentăm această libertate lăuntrică. Aşa că, haideţi să prețuim întotdeauna cântarea! ––John Harrison",
@@ -566,9 +586,9 @@
         "sourceDate": "2012-04-09",
         "rawChecksum": "de7b7d0120cbb2faebffba8f9770bfd9896796941e51acfb55cbf3cd48f1c21b",
         "correctionKeys": [],
-        "transformedChecksum": "f6ac3f03d2d29f662459a45c0f4452676a882f4fe894b96ca9dc2a4eb750214c"
+        "transformedChecksum": "ee8c86ed2960ad772156c3afabff2d4e651a8c1a8e9ce18e930f648ca20a1827"
       },
-      "contentVersion": "edc4d46c2242e586"
+      "contentVersion": "a242907ac6fdd26d"
     },
     {
       "id": 180,
@@ -604,8 +624,12 @@
         },
         {
           "type": "prose",
-          "html": "<p>Da, a fi un creştin credincios este mai important în ochii lui Dumnezeu decât să fii un om de stat aplaudat sau un împărat biruitor. <i>––Dean Farrar</i></p>",
-          "text": "Da, a fi un creştin credincios este mai important în ochii lui Dumnezeu decât să fii un om de stat aplaudat sau un împărat biruitor. ––Dean Farrar"
+          "html": "<p>Da, a fi un creştin credincios este mai important în ochii lui Dumnezeu decât să fii un om de stat aplaudat sau un împărat biruitor. </p>",
+          "text": "Da, a fi un creştin credincios este mai important în ochii lui Dumnezeu decât să fii un om de stat aplaudat sau un împărat biruitor."
+        },
+        {
+          "type": "attribution",
+          "text": "—Dean Farrar"
         },
         {
           "type": "prose",
@@ -623,8 +647,12 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu a existat niciodată vreun caracter mare şi frumos care să nu fi devenit mare şi frumos prin împlinirea cu succes a unor îndatoriri comune şi mărunte stabilite de Dumnezeu. <i>––Horace Bushnell</i></p>",
-          "text": "Nu a existat niciodată vreun caracter mare şi frumos care să nu fi devenit mare şi frumos prin împlinirea cu succes a unor îndatoriri comune şi mărunte stabilite de Dumnezeu. ––Horace Bushnell"
+          "html": "<p>Nu a existat niciodată vreun caracter mare şi frumos care să nu fi devenit mare şi frumos prin împlinirea cu succes a unor îndatoriri comune şi mărunte stabilite de Dumnezeu. </p>",
+          "text": "Nu a existat niciodată vreun caracter mare şi frumos care să nu fi devenit mare şi frumos prin împlinirea cu succes a unor îndatoriri comune şi mărunte stabilite de Dumnezeu."
+        },
+        {
+          "type": "attribution",
+          "text": "—Horace Bushnell"
         }
       ],
       "plainText": "„Cine este credincios în cele mai mici lucruri, este credincios şi în cele mari.” (Luca 16.10)\n\n„Şi dacă n-aţi fost credincioşi în lucrul altuia, cine vă va da ce este al vostru?” (Luca 16.12)\n\nVedem lămurit din cuvintele Mântuitorului că, iată, credincioşia în lucrurile mici nu constituie o pregătire pentru credincioşia în lucrurile mari, ci este în ea însăşi credincioşie în lucruri mari. Putem observa aici un lucru izbitor, şi anume că Domnul nu spune: „Cine este credincios în cele mai mici lucruri, va fi credincios şi în cele mari”, ci „Cine este credincios în cele mai mici lucruri, este credincios şi în cele mari.” Loialitatea fundamentală a unei inimi este unul şi acelaşi lucru, indiferent dacă este exercitată în legătură cu o punguță cu doi galbeni sau cu o vistierie împărătească; credincioşia autentică în viața unui om este la fel de frumoasă, indiferent cum se manifestă ea – în conducerea unui imperiu sau în scrierea unui exercițiu.\n\nCirculă printre creştini o povestioară veche care spune că, dacă Dumnezeu ar trimite doi îngeri pe pământ, unul să ocupe un tron, iar celălalt să curețe un drum, amândoi şi-ar considera sarcinile la fel de distinse şi la fel de plăcute.\n\nCu toții putem fi, aşa cum atât de elevat spunea apostolul Pavel, „împreună lucrători cu Dumnezeu”; şi cine este conlucrător cu Dumnezeu, fie el rob sau înger, nu poate fi nimic mai mult sau mai bun.\n\nDacă ai putea vedea cât de mic este pământul nostru în imensitatea spațiului, munții nu ți-ar mai părea uriaşi, şi nici valurile oceanelor maiestuoase. Întoarce numai telescopul credinței, îndreaptă-l spre Cer şi vei vedea cum dintr-o dată splendorile pământului îşi pierd însemnătatea, şi cele mai mărunte interese ale Cerului dobândesc dimensiuni eterne.\n\nDa, a fi un creştin credincios este mai important în ochii lui Dumnezeu decât să fii un om de stat aplaudat sau un împărat biruitor. ––Dean Farrar\n\nEu cred că nu contează prea mult dacă sarcina noastră este să strângem snopii sau să adunăm spicele căzute în urma secerătorului;\n\nstarea sufletului este aceea care stabileşte valoarea lucrării, şi nu lucrarea în sine; este suficient să-I aducem slavă lui Dumnezeu – în lucruri mari sau mici – potrivit cu măsura abilităților noastre şi a oportunităților care ni se prezintă. Haideți să încercăm să ne ațintim privirea asupra acestui țel şi să facem din el unicul nostru scop.\n\n––Catherine Booth\n\nNu a existat niciodată vreun caracter mare şi frumos care să nu fi devenit mare şi frumos prin împlinirea cu succes a unor îndatoriri comune şi mărunte stabilite de Dumnezeu. ––Horace Bushnell",
@@ -638,9 +666,9 @@
         "sourceDate": "2012-06-28",
         "rawChecksum": "5cfaabf176e3a6f391ad877f6b4a0ced6a0923376fd738d84a19b50b5ba71c33",
         "correctionKeys": [],
-        "transformedChecksum": "91f3917a74c9901371f5f13b1d3168a389b7ccf41fa97c7a8ca570ba0e17b904"
+        "transformedChecksum": "9ab8f6dd729c2d727ae328d6687fb3ec1e4cb0ad58efb23778a5e94c1372674d"
       },
-      "contentVersion": "edc4d46c2242e586"
+      "contentVersion": "a242907ac6fdd26d"
     },
     {
       "id": 237,
@@ -677,8 +705,12 @@
         },
         {
           "type": "prose",
-          "html": "<p>împlinirii lor, iar când ceasul care i-a fost acordat cu atâta bunăvo- ință se scurge, el este sigur că a obținut ceea ce a cerut, chiar dacă împlinirea tangibilă încă este departe. Ea va veni la momentul ho- tărât de Dumnezeu. <i>—Sora Eva</i></p>",
-          "text": "împlinirii lor, iar când ceasul care i-a fost acordat cu atâta bunăvo- ință se scurge, el este sigur că a obținut ceea ce a cerut, chiar dacă împlinirea tangibilă încă este departe. Ea va veni la momentul ho- tărât de Dumnezeu. —Sora Eva"
+          "html": "<p>împlinirii lor, iar când ceasul care i-a fost acordat cu atâta bunăvo- ință se scurge, el este sigur că a obținut ceea ce a cerut, chiar dacă împlinirea tangibilă încă este departe. Ea va veni la momentul ho- tărât de Dumnezeu. </p>",
+          "text": "împlinirii lor, iar când ceasul care i-a fost acordat cu atâta bunăvo- ință se scurge, el este sigur că a obținut ceea ce a cerut, chiar dacă împlinirea tangibilă încă este departe. Ea va veni la momentul ho- tărât de Dumnezeu."
+        },
+        {
+          "type": "attribution",
+          "text": "—Sora Eva"
         },
         {
           "type": "prose",
@@ -701,9 +733,9 @@
         "sourceDate": "2012-08-24",
         "rawChecksum": "45ac72fc0d95dd2e8b06004da65b34c4b204d314937d8d6dcb715028afcc96a3",
         "correctionKeys": [],
-        "transformedChecksum": "e48fbad58ca2e0c7a0d24338e312c7c47d8b71545339ef9d430796064110f55c"
+        "transformedChecksum": "8aae9fe77d6064fd59b68528b52bac9dcb7d52f4b0552fe60cdf2a302f6c4e56"
       },
-      "contentVersion": "edc4d46c2242e586"
+      "contentVersion": "a242907ac6fdd26d"
     },
     {
       "id": 293,
@@ -759,8 +791,12 @@
         },
         {
           "type": "prose",
-          "html": "<p>ore ale zilei în trei părți egale, spunând: „Opt ore pe zi sunt pentru somn şi recreere; opt ore pe zi sunt pentru afacerea mea; şi opt ore pe zi I le dau lui Dumnezeu.“ Când mă uit la viața lui Wesley şi văd câte predici a ținut, mă mir că a mai avut timp să călătorească; şi când mă uit la numărul de mile pe care le-a parcurs călare, mă mir că a mai avut timp să predice; iar când mă uit la numărul de cărți pe care le-a lăsat în urmă, mă întreb: „De unde a mai avut Wesley timp să scrie şi să predice?“ Întreaga viață a acestui om mare, cea mai laborioasă dintre toate de-a lungul secolelor, a fost atât de pli- nă de succes şi atât de cuprinzătoare pentru că el a ştiut să-şi îm- partă timpul corect cu Dumnezeu. <i>—S. Jones</i></p>",
-          "text": "ore ale zilei în trei părți egale, spunând: „Opt ore pe zi sunt pentru somn şi recreere; opt ore pe zi sunt pentru afacerea mea; şi opt ore pe zi I le dau lui Dumnezeu.“ Când mă uit la viața lui Wesley şi văd câte predici a ținut, mă mir că a mai avut timp să călătorească; şi când mă uit la numărul de mile pe care le-a parcurs călare, mă mir că a mai avut timp să predice; iar când mă uit la numărul de cărți pe care le-a lăsat în urmă, mă întreb: „De unde a mai avut Wesley timp să scrie şi să predice?“ Întreaga viață a acestui om mare, cea mai laborioasă dintre toate de-a lungul secolelor, a fost atât de pli- nă de succes şi atât de cuprinzătoare pentru că el a ştiut să-şi îm- partă timpul corect cu Dumnezeu. —S. Jones"
+          "html": "<p>ore ale zilei în trei părți egale, spunând: „Opt ore pe zi sunt pentru somn şi recreere; opt ore pe zi sunt pentru afacerea mea; şi opt ore pe zi I le dau lui Dumnezeu.“ Când mă uit la viața lui Wesley şi văd câte predici a ținut, mă mir că a mai avut timp să călătorească; şi când mă uit la numărul de mile pe care le-a parcurs călare, mă mir că a mai avut timp să predice; iar când mă uit la numărul de cărți pe care le-a lăsat în urmă, mă întreb: „De unde a mai avut Wesley timp să scrie şi să predice?“ Întreaga viață a acestui om mare, cea mai laborioasă dintre toate de-a lungul secolelor, a fost atât de pli- nă de succes şi atât de cuprinzătoare pentru că el a ştiut să-şi îm- partă timpul corect cu Dumnezeu. </p>",
+          "text": "ore ale zilei în trei părți egale, spunând: „Opt ore pe zi sunt pentru somn şi recreere; opt ore pe zi sunt pentru afacerea mea; şi opt ore pe zi I le dau lui Dumnezeu.“ Când mă uit la viața lui Wesley şi văd câte predici a ținut, mă mir că a mai avut timp să călătorească; şi când mă uit la numărul de mile pe care le-a parcurs călare, mă mir că a mai avut timp să predice; iar când mă uit la numărul de cărți pe care le-a lăsat în urmă, mă întreb: „De unde a mai avut Wesley timp să scrie şi să predice?“ Întreaga viață a acestui om mare, cea mai laborioasă dintre toate de-a lungul secolelor, a fost atât de pli- nă de succes şi atât de cuprinzătoare pentru că el a ştiut să-şi îm- partă timpul corect cu Dumnezeu."
+        },
+        {
+          "type": "attribution",
+          "text": "—S. Jones"
         }
       ],
       "plainText": "„Toate își au vremea lor, și fiecare lucru de sub ceruri își are ceasul lui.“ (Eclesiastul 3.1)\n\n„Nu sunt douăsprezece ceasuri în zi?“ (Ioan 11.9)\n\nCând Drexelius a fost întrebat de către prietenul său Fausti- nius cum a putut el realiza atât de multe lucruri, acesta i-a răspuns: „Anul are trei sute şaizeci şi cinci de zile, sau opt mii şapte sute şi şaizeci de ore; lucruri mari se pot face în atâtea ore; o broască țes- toasă parcurge un drum lung dacă nu-şi pierde timpul.“\n\nCine n-are timp să facă lucrurile care merită făcute, probabil că face nişte lucruri care nu ar merita să fie înfăptuite.\n\nLungimea unei vieți nu ar trebui evaluată după primăverile peste care s-a întins. Viața unor oameni este scurtă la şaptezeci de ani, fiindcă mărturia lor este ca o foaie goală şi pustie; pe când viața altora este una lungă la douăzeci şi cinci de ani, deoarece în spațiul acelor ani a fost comprimată o întreagă istorie.\n\nÎn fapte, viața noastră se măsoară,\n\nȘi nu în ani urcați pe-a vremii scară;\n\nNu-i dau valoare gândurile ’nalte,\n\nNici visuri ce fac dorul să tresalte,\n\nNici multe cifre strânse pe-un cadran,\n\nCi doar ce facem pentru Domnul an de an.\n\n—W. Morley Punshon\n\nAi stabilit vreodată nişte lucruri cu privire la timpul tău – ca, de exemplu, dacă o parte din el Îi aparține lui Dumnezeu? Și dacă da, cât Îi aparține lui Dumnezeu? Te-ai aşezat vreodată să faci o îm- părțire sinceră a timpului tău între tine şi Dumnezeu, astfel încât să spui concret: atât am să-I dau lui Dumnezeu în fiecare săptămână?\n\nJohn Wesley, un om cum nu a mai fost altul pe acest pământ, s-a aşezat la un moment dat şi a împărțit cele douăzeci şi patru de\n\nore ale zilei în trei părți egale, spunând: „Opt ore pe zi sunt pentru somn şi recreere; opt ore pe zi sunt pentru afacerea mea; şi opt ore pe zi I le dau lui Dumnezeu.“ Când mă uit la viața lui Wesley şi văd câte predici a ținut, mă mir că a mai avut timp să călătorească; şi când mă uit la numărul de mile pe care le-a parcurs călare, mă mir că a mai avut timp să predice; iar când mă uit la numărul de cărți pe care le-a lăsat în urmă, mă întreb: „De unde a mai avut Wesley timp să scrie şi să predice?“ Întreaga viață a acestui om mare, cea mai laborioasă dintre toate de-a lungul secolelor, a fost atât de pli- nă de succes şi atât de cuprinzătoare pentru că el a ştiut să-şi îm- partă timpul corect cu Dumnezeu. —S. Jones",
@@ -774,9 +810,9 @@
         "sourceDate": "2012-10-19",
         "rawChecksum": "2f6b49735233627e6c33e73d822adba047f882255ef4bfec376e1a9e63559863",
         "correctionKeys": [],
-        "transformedChecksum": "7e6dc79c010e309c432e7225ccdcf6155ec8b07384582291088f7b33f28044e7"
+        "transformedChecksum": "1cec7dbdef3352bbf6982dece5d8c01d41322c7fb435c10034e40b36525c4633"
       },
-      "contentVersion": "edc4d46c2242e586"
+      "contentVersion": "a242907ac6fdd26d"
     },
     {
       "id": 366,
@@ -809,8 +845,12 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dar vai! Unde îți este contabilul şi unde îți este casierul care fac inventarul sufletului tău, pentru ca să ştii dacă ai câştigat în cunoaştere sau ți-ai irosit timpul; dacă ai dobândit o conştiință mai stabilă, sau dacă ea seamănă cu o sfârlează, purtată încoace şi în- colo de obiceiuri sau de părerile oamenilor; dacă te-ai apropiat de oameni, şi ai cu ei relații mai pline de dragoste, sau dacă ai început să te dezintegrezi? <i>—Henry Ward Beecher</i></p>",
-          "text": "Dar vai! Unde îți este contabilul şi unde îți este casierul care fac inventarul sufletului tău, pentru ca să ştii dacă ai câştigat în cunoaştere sau ți-ai irosit timpul; dacă ai dobândit o conştiință mai stabilă, sau dacă ea seamănă cu o sfârlează, purtată încoace şi în- colo de obiceiuri sau de părerile oamenilor; dacă te-ai apropiat de oameni, şi ai cu ei relații mai pline de dragoste, sau dacă ai început să te dezintegrezi? —Henry Ward Beecher"
+          "html": "<p>Dar vai! Unde îți este contabilul şi unde îți este casierul care fac inventarul sufletului tău, pentru ca să ştii dacă ai câştigat în cunoaştere sau ți-ai irosit timpul; dacă ai dobândit o conştiință mai stabilă, sau dacă ea seamănă cu o sfârlează, purtată încoace şi în- colo de obiceiuri sau de părerile oamenilor; dacă te-ai apropiat de oameni, şi ai cu ei relații mai pline de dragoste, sau dacă ai început să te dezintegrezi? </p>",
+          "text": "Dar vai! Unde îți este contabilul şi unde îți este casierul care fac inventarul sufletului tău, pentru ca să ştii dacă ai câştigat în cunoaştere sau ți-ai irosit timpul; dacă ai dobândit o conştiință mai stabilă, sau dacă ea seamănă cu o sfârlează, purtată încoace şi în- colo de obiceiuri sau de părerile oamenilor; dacă te-ai apropiat de oameni, şi ai cu ei relații mai pline de dragoste, sau dacă ai început să te dezintegrezi?"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Ward Beecher"
         },
         {
           "type": "prose",
@@ -908,9 +948,9 @@
         "sourceDate": "2012-12-31",
         "rawChecksum": "33b89b51011b20935b58ff2dc940b56302db01c3da3834955bcf9992015fb432",
         "correctionKeys": [],
-        "transformedChecksum": "b581ec924fccb26824497b8db741a6549e52ca491473c1576d2be150acb99a05"
+        "transformedChecksum": "8d4131bef68e6a1beef9645d10c0c1326cc6eac8f228388ca8e29ef81468573b"
       },
-      "contentVersion": "edc4d46c2242e586"
+      "contentVersion": "a242907ac6fdd26d"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "ro",
   "month": "06",
   "readings": [
@@ -23,7 +23,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dovedim valoarea pe care o atribuim fiecărui lucru prin timpul pe care îl dedicăm lucrului respectiv. Împărăția lui Dumnezeu ne cere timpul nostru. Dumnezeu a împărțit viața noastră în zile şi nopți pentru ca noi să învățăm să trăim aşa cum se cuvine fiecare zi la rândul ei. Începe-ţi ziua cu Dumnezeu, şi atunci El Îşi va păstra Împărăția în inima ta. <i>––Andrew Murray</i></p>"
+          "html": "<p>Dovedim valoarea pe care o atribuim fiecărui lucru prin timpul pe care îl dedicăm lucrului respectiv. Împărăția lui Dumnezeu ne cere timpul nostru. Dumnezeu a împărțit viața noastră în zile şi nopți pentru ca noi să învățăm să trăim aşa cum se cuvine fiecare zi la rândul ei. Începe-ţi ziua cu Dumnezeu, şi atunci El Îşi va păstra Împărăția în inima ta. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Andrew Murray"
         },
         {
           "type": "prose",
@@ -71,7 +75,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Când Dumnezeu compune muzica vieții fiecăruia dintre noi, El are un plan. Sarcina noastră este să învățăm linia melodică şi să nu ne speriem de „opriri”. Acestea nu trebuie ignorate, nu trebuie omise; rolul lor nu este să distrugă melodia, şi nici să schimbe tema. Dacă ne vom ridica privirea spre Dumnezeu, vom observa că El ține măsura pentru noi. Dacă ne vom păstra privirea ațintită spre El, vom reuşi să atingem următoarea notă clar şi perfect. Dacă vom fi tentaţi să spunem cu tristețe: „Nu este muzică în «pauze»”, să nu uităm că „pauzele fac muzica.” <i>––John Ruskin</i></p>"
+          "html": "<p>Când Dumnezeu compune muzica vieții fiecăruia dintre noi, El are un plan. Sarcina noastră este să învățăm linia melodică şi să nu ne speriem de „opriri”. Acestea nu trebuie ignorate, nu trebuie omise; rolul lor nu este să distrugă melodia, şi nici să schimbe tema. Dacă ne vom ridica privirea spre Dumnezeu, vom observa că El ține măsura pentru noi. Dacă ne vom păstra privirea ațintită spre El, vom reuşi să atingem următoarea notă clar şi perfect. Dacă vom fi tentaţi să spunem cu tristețe: „Nu este muzică în «pauze»”, să nu uităm că „pauzele fac muzica.” </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Ruskin"
         },
         {
           "type": "prose",
@@ -119,11 +127,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Lăudat fie Numele Domnului! <i>––I. Lilias Trotter</i></p>"
+          "html": "<p>Lăudat fie Numele Domnului! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—I. Lilias Trotter"
         },
         {
           "type": "prose",
-          "html": "<p>Când Dumnezeu Se pregăteşte să facă ceva extraordinar, începe cu o dificultate. Dacă Se pregăteşte să facă ceva cu totul şi cu totul excepțional, începe cu o imposibilitate. <i>––Charles Inwood</i></p>"
+          "html": "<p>Când Dumnezeu Se pregăteşte să facă ceva extraordinar, începe cu o dificultate. Dacă Se pregăteşte să facă ceva cu totul şi cu totul excepțional, începe cu o imposibilitate. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles Inwood"
         },
         {
           "type": "prose",
@@ -131,19 +147,35 @@
         },
         {
           "type": "prose",
-          "html": "<p>Haideți, aşadar, să privim dificultățile ca pe nişte promisiuni deghizate în sarcini. Sunt comori ascunse sub înfățişarea unor eforturi serioase. Dar dacă vom reuşi să le deschidem, comoara este a noastră. Cei ce îndrăznesc câştigă! <i>––J.H. Jowett</i></p>"
+          "html": "<p>Haideți, aşadar, să privim dificultățile ca pe nişte promisiuni deghizate în sarcini. Sunt comori ascunse sub înfățişarea unor eforturi serioase. Dar dacă vom reuşi să le deschidem, comoara este a noastră. Cei ce îndrăznesc câştigă! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.H. Jowett"
         },
         {
           "type": "prose",
-          "html": "<p>Indiferent în ce situație ne-am afla, aceasta nu poate fi numită niciodată „situație imposibilă” câtă vreme Dumnezeul imposibilului este de partea noastră şi locuieşte în noi. <i>––John Harrison</i></p>"
+          "html": "<p>Indiferent în ce situație ne-am afla, aceasta nu poate fi numită niciodată „situație imposibilă” câtă vreme Dumnezeul imposibilului este de partea noastră şi locuieşte în noi. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Harrison"
         },
         {
           "type": "prose",
-          "html": "<p>Niciodată nu am încerca să facem nimic dacă am aştepta mai întâi să depăşim toate obiecțiunile posibile. <i>––Dr. Samuel Johnson</i></p>"
+          "html": "<p>Niciodată nu am încerca să facem nimic dacă am aştepta mai întâi să depăşim toate obiecțiunile posibile. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. Samuel Johnson"
         },
         {
           "type": "prose",
-          "html": "<p>Dacă Domnul are de executat o operă gigantică, atunci credința va fi cea care o acceptă. <i>––Autor necunoscut</i></p>"
+          "html": "<p>Dacă Domnul are de executat o operă gigantică, atunci credința va fi cea care o acceptă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         }
       ]
     },
@@ -171,7 +203,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Umblă în lumină şi vei avea părtăşie cu El, iar sângele Lui te va curăți de orice păcat. Duhul te va învăța cum să te rogi şi pentru ce să te rogi – lucruri despre care marea majoritate a profesorilor nu ştiu nimic. <i>––Catherine Booth</i></p>"
+          "html": "<p>Umblă în lumină şi vei avea părtăşie cu El, iar sângele Lui te va curăți de orice păcat. Duhul te va învăța cum să te rogi şi pentru ce să te rogi – lucruri despre care marea majoritate a profesorilor nu ştiu nimic. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Catherine Booth"
         },
         {
           "type": "prose",
@@ -183,7 +219,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ceasul rugăciunii stă înaintea lui Dumnezeu până când celelalte ceasuri vin şi ele să i se alăture; atunci, dacă sunt găsite în armonie, rugăciunea primeşte răspuns. <i>––George Bowen</i></p>"
+          "html": "<p>Ceasul rugăciunii stă înaintea lui Dumnezeu până când celelalte ceasuri vin şi ele să i se alăture; atunci, dacă sunt găsite în armonie, rugăciunea primeşte răspuns. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Bowen"
         }
       ]
     },
@@ -203,7 +243,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ar trebui ca până şi oamenii lumii să ne simtă lipsa. Ei ar trebui să se simtă obligați să vorbească despre noi în felul următor: „Dacă se poate spune despre vreun om că a fost un creştin adevărat, el este acela.”<i>––George Müller</i></p>"
+          "html": "<p>Ar trebui ca până şi oamenii lumii să ne simtă lipsa. Ei ar trebui să se simtă obligați să vorbească despre noi în felul următor: „Dacă se poate spune despre vreun om că a fost un creştin adevărat, el este acela.”</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Müller"
         },
         {
           "type": "prose",
@@ -251,7 +295,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu! Pune capăt lipsei de răbdare! Înăbuşă invidia care îți roade inima când vezi că situația ta e diferită de a altora. Supune-ți sufletul, sau, mai bine zis, înalță-ți sufletul deasupra frustrărilor pentru a putea accepta cu bucurie voia lui Dumnezeu şi pentru a face cum se cuvine lucrarea Lui. Şi aceasta chiar în situația în care te afli, în sfera ta de influență, în anonimatul în care îți duci zilele, împotriva ispitelor cu care te confrunți. Şi atunci vei descoperi că situația în care te afli nu este nicidecum în opoziție, ci, de fapt, în armonie deplină cu binele tău. <i>––Horace Bushnell</i></p>"
+          "html": "<p>Nu! Pune capăt lipsei de răbdare! Înăbuşă invidia care îți roade inima când vezi că situația ta e diferită de a altora. Supune-ți sufletul, sau, mai bine zis, înalță-ți sufletul deasupra frustrărilor pentru a putea accepta cu bucurie voia lui Dumnezeu şi pentru a face cum se cuvine lucrarea Lui. Şi aceasta chiar în situația în care te afli, în sfera ta de influență, în anonimatul în care îți duci zilele, împotriva ispitelor cu care te confrunți. Şi atunci vei descoperi că situația în care te afli nu este nicidecum în opoziție, ci, de fapt, în armonie deplină cu binele tău. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Horace Bushnell"
         },
         {
           "type": "prose",
@@ -266,8 +314,8 @@
           "html": "<p>Un fluierat stângaci – în simfonie<br>\nŞi punga goală-n mare avuţie.<br>\nUn nume dat din Cer i-arată firea:<br>\nSe cheamă, pur şi simplu, MULŢUMIREA...</p>"
         },
         {
-          "type": "prose",
-          "html": "<p><i>Prelucrare de C.M. a unui fragment dintr-un poem compus de H.W. Longfellow</i></p>"
+          "type": "attribution",
+          "text": "Prelucrare de C.M. a unui fragment dintr-un poem compus de H.W. Longfellow"
         }
       ]
     },
@@ -335,7 +383,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>pitici din punct de vedere spiritual. În lipsa unor rădăcini adânci, credința lor se veştejeşte. <i>––Theodore Cuyler</i></p>"
+          "html": "<p>pitici din punct de vedere spiritual. În lipsa unor rădăcini adânci, credința lor se veştejeşte. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
@@ -343,7 +395,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă am face aceste lucruri, atunci Dumnezeu ar avea ocazia să ne învețe, să ne corecteze, să ne inspire, să ne mângâie, să ne descopere tainele Lui şi să ne transforme în nişte uriaşi spirituali. Dar dacă nu vom proceda cum am spus mai sus, vom rămâne slăbănogi din punct de vedere spiritual pentru tot restul zilelor noastre, oricât de mult ne-am dori să fim puternici. <i>––Samuel Logan Brengle</i></p>"
+          "html": "<p>Dacă am face aceste lucruri, atunci Dumnezeu ar avea ocazia să ne învețe, să ne corecteze, să ne inspire, să ne mângâie, să ne descopere tainele Lui şi să ne transforme în nişte uriaşi spirituali. Dar dacă nu vom proceda cum am spus mai sus, vom rămâne slăbănogi din punct de vedere spiritual pentru tot restul zilelor noastre, oricât de mult ne-am dori să fim puternici. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Logan Brengle"
         }
       ]
     },
@@ -384,7 +440,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Când eram tânăr, eram foarte sigur de orice lucru; câțiva ani mai târziu, după ce am greşit de câteva mii de ori, nu mai eram nici pe jumătate la fel de sigur de majoritatea lucrurilor cum fusesem înainte. Acum nu mai sunt sigur de nimic în afară de ceea ce a descoperit Dumnezeu omului. <i>––John Wesley</i></p>"
+          "html": "<p>Când eram tânăr, eram foarte sigur de orice lucru; câțiva ani mai târziu, după ce am greşit de câteva mii de ori, nu mai eram nici pe jumătate la fel de sigur de majoritatea lucrurilor cum fusesem înainte. Acum nu mai sunt sigur de nimic în afară de ceea ce a descoperit Dumnezeu omului. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         }
       ]
     },
@@ -465,7 +525,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Credința este singura poartă pe care poate intra Dumnezeu în sufletul omului, în fruntea unei procesiuni binecuvântate de fericire alcătuită din dragoste, bucurie şi pace. Cât de mulți sunt aceia care încearcă zadarnic să le facă să intre pe poarta rațiunii! Cu toate că adevărul Lui intră pe această poartă, El Însuşi nu poate intra decât pe poarta credinței. El este prea mare pentru logica noastră, dar nu şi pentru credința noastră. <i>––Daniel Steele</i></p>"
+          "html": "<p>Credința este singura poartă pe care poate intra Dumnezeu în sufletul omului, în fruntea unei procesiuni binecuvântate de fericire alcătuită din dragoste, bucurie şi pace. Cât de mulți sunt aceia care încearcă zadarnic să le facă să intre pe poarta rațiunii! Cu toate că adevărul Lui intră pe această poartă, El Însuşi nu poate intra decât pe poarta credinței. El este prea mare pentru logica noastră, dar nu şi pentru credința noastră. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Daniel Steele"
         },
         {
           "type": "prose",
@@ -473,7 +537,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>De ce oare atât de mulți creştini sunt înghețați şi neîmpliniți? Nu cumva pentru că trăiesc departe de Cer? Şi de ce oare atâția alți creştini îşi duc viața în căldură şi împlinire? Nu cumva pentru că vin frecvent în prezența lui Dumnezeu? <i>––Richard Baxter</i></p>"
+          "html": "<p>De ce oare atât de mulți creştini sunt înghețați şi neîmpliniți? Nu cumva pentru că trăiesc departe de Cer? Şi de ce oare atâția alți creştini îşi duc viața în căldură şi împlinire? Nu cumva pentru că vin frecvent în prezența lui Dumnezeu? </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Richard Baxter"
         },
         {
           "type": "prose",
@@ -541,7 +609,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Atunci va putea Dumnezeu să evanghelizeze lumea – când fiecare copil al Său va spune: „Nu vreau să am mai multă mobilă, mai mulți bani, mai multe lucruri; vreau numai ceea ce este de strictă necesitate. Voi cheltui cât mai puţin cu putinţă, ca să-mi rămână cât mai mult pentru Dumnezeu. Am o singură viață de trăit, şi tocmai de aceea trebuie s-o pun pe toată la dispoziția lui Dumnezeu, pentru lucrarea Lui.” <i>––Norman Grubb</i></p>"
+          "html": "<p>Atunci va putea Dumnezeu să evanghelizeze lumea – când fiecare copil al Său va spune: „Nu vreau să am mai multă mobilă, mai mulți bani, mai multe lucruri; vreau numai ceea ce este de strictă necesitate. Voi cheltui cât mai puţin cu putinţă, ca să-mi rămână cât mai mult pentru Dumnezeu. Am o singură viață de trăit, şi tocmai de aceea trebuie s-o pun pe toată la dispoziția lui Dumnezeu, pentru lucrarea Lui.” </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Norman Grubb"
         }
       ]
     },
@@ -565,7 +637,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Domnul Isus nu precizează cât timp trebuie să petrecem în odăiță, dar este limpede că rugăciunea aceasta tainică trebuie să aibă loc într-o atmosferă de intimitate totală şi concentrare deplină. Este imposibil să facem acest lucru în grabă, în câteva minute; e nevoie de timp în care să aşteptăm în tăcere înaintea lui Dumnezeu şi să stăm de vorbă cu El. Dacă avem nevoie de dovezi suplimentare privitor la importanța timpului de părtăşie, avem exemplul Domnului nostru, care a avut astfel de momente de veghe pe munte sau în pustie, fie în răcoarea dimineții, fie în liniştea nopții. Dacă El, Fiul lui Dumnezeu, a simțit nevoia să Se retragă în singurătate, El care niciodată nu S-a lăsat tulburat sau influențat de ceea ce se întâmpla în jurul Lui, cu cât mai mult avem noi nevoie de asemenea momente de părtăşie intimă şi tăcută cu Dumnezeu! <i>––Sora Eva</i></p>"
+          "html": "<p>Domnul Isus nu precizează cât timp trebuie să petrecem în odăiță, dar este limpede că rugăciunea aceasta tainică trebuie să aibă loc într-o atmosferă de intimitate totală şi concentrare deplină. Este imposibil să facem acest lucru în grabă, în câteva minute; e nevoie de timp în care să aşteptăm în tăcere înaintea lui Dumnezeu şi să stăm de vorbă cu El. Dacă avem nevoie de dovezi suplimentare privitor la importanța timpului de părtăşie, avem exemplul Domnului nostru, care a avut astfel de momente de veghe pe munte sau în pustie, fie în răcoarea dimineții, fie în liniştea nopții. Dacă El, Fiul lui Dumnezeu, a simțit nevoia să Se retragă în singurătate, El care niciodată nu S-a lăsat tulburat sau influențat de ceea ce se întâmpla în jurul Lui, cu cât mai mult avem noi nevoie de asemenea momente de părtăşie intimă şi tăcută cu Dumnezeu! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sora Eva"
         },
         {
           "type": "prose",
@@ -597,7 +673,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ori de câte ori eşti convins care îţi sunt îndatoririle, dar totuşi te împotriveşti acestei încredințări şi refuzi să acționezi în sensul îndeplinirii lor, devii din ce în ce mai neajutorat; te supui din ce în ce mai mult controlului stăpânului tău cu inima de piatră. Fiecare moment de încercare te transformă într-un rob din ce în ce mai neajutorat. <i>––Charles G. Finney</i></p>"
+          "html": "<p>Ori de câte ori eşti convins care îţi sunt îndatoririle, dar totuşi te împotriveşti acestei încredințări şi refuzi să acționezi în sensul îndeplinirii lor, devii din ce în ce mai neajutorat; te supui din ce în ce mai mult controlului stăpânului tău cu inima de piatră. Fiecare moment de încercare te transformă într-un rob din ce în ce mai neajutorat. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles G. Finney"
         },
         {
           "type": "prose",
@@ -649,11 +729,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>O conştiință curată este un palat pentru Cristos, un templu pentru Duhul Sfânt, un paradis al încântării şi un Sabat veşnic pentru sfinți. <i>––Sfântul Augustin</i></p>"
+          "html": "<p>O conştiință curată este un palat pentru Cristos, un templu pentru Duhul Sfânt, un paradis al încântării şi un Sabat veşnic pentru sfinți. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sfântul Augustin"
         },
         {
           "type": "prose",
-          "html": "<p>Dacă un om nu are nimic să-şi reproşeze, poate îndura orice suferinţă. <i>––Phillips Brooks</i></p>"
+          "html": "<p>Dacă un om nu are nimic să-şi reproşeze, poate îndura orice suferinţă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Phillips Brooks"
         },
         {
           "type": "prose",
@@ -664,8 +752,12 @@
           "html": "<p>greşit;</p>"
         },
         {
-          "type": "attribution",
-          "text": "– atât de corectă, încât să nu poată fi niciodată coruptă;\n\n– care se bucură atât de mult de bine, încât are un motiv"
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "– atât de corectă, încât să nu poată fi niciodată coruptă;",
+            "– care se bucură atât de mult de bine, încât are un motiv"
+          ]
         },
         {
           "type": "prose",
@@ -677,7 +769,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>nu va accepta nimic din ceea ce este rău. <i>––John Hunt</i></p>"
+          "html": "<p>nu va accepta nimic din ceea ce este rău. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Hunt"
         },
         {
           "type": "prose",
@@ -722,7 +818,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Din momentul în care un om îşi stabileşte drept ţinta supremă a vieţii sale faptul de a se integra în planul lui Dumnezeu cu privire la sine însuşi, el va avea pentru totdeauna înaintea ochilor o Stea a Nordului care să-l călăuzească fără greş pe toată întinderea mării, oricât ar părea aceasta de nesfârşită. Omul acela va dispune de o busolă care să-i indice direcția corectă, oricât ar fi de densă ceața, oricât ar fi de aprigă furtuna şi oricât de multe roci magnetice ar fi în jur. <i>––S.D. Gordon</i></p>"
+          "html": "<p>Din momentul în care un om îşi stabileşte drept ţinta supremă a vieţii sale faptul de a se integra în planul lui Dumnezeu cu privire la sine însuşi, el va avea pentru totdeauna înaintea ochilor o Stea a Nordului care să-l călăuzească fără greş pe toată întinderea mării, oricât ar părea aceasta de nesfârşită. Omul acela va dispune de o busolă care să-i indice direcția corectă, oricât ar fi de densă ceața, oricât ar fi de aprigă furtuna şi oricât de multe roci magnetice ar fi în jur. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—S.D. Gordon"
         },
         {
           "type": "prose",
@@ -754,7 +854,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Când Dumnezeu cheamă un om să facă o anumită lucrare, El îl va ajuta s-o şi ducă la îndeplinire. M-aş angaja să conduc o jumătate de duzină de lumi dacă Dumnezeu Însuşi m-ar chema s-o fac, dar nu m-aş angaja să conduc o jumătate de duzină de oi decât dacă El m-ar chema să fac acest lucru. <i>––Edward Payson</i></p>"
+          "html": "<p>Când Dumnezeu cheamă un om să facă o anumită lucrare, El îl va ajuta s-o şi ducă la îndeplinire. M-aş angaja să conduc o jumătate de duzină de lumi dacă Dumnezeu Însuşi m-ar chema s-o fac, dar nu m-aş angaja să conduc o jumătate de duzină de oi decât dacă El m-ar chema să fac acest lucru. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Edward Payson"
         }
       ]
     },
@@ -783,7 +887,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Sfaturile greşite, provenite de la o persoană incompetentă, chiar şi în probleme de ştiință, literatură sau artă pot avea efecte serioase. Dar ce sunt toate acestea în comparație cu pericolele cauzate de o călăuzire greşită a sufletelor omeneşti în privinţa relației lor cu Dumnezeu. <i>––G.H. Knight</i></p>"
+          "html": "<p>Sfaturile greşite, provenite de la o persoană incompetentă, chiar şi în probleme de ştiință, literatură sau artă pot avea efecte serioase. Dar ce sunt toate acestea în comparație cu pericolele cauzate de o călăuzire greşită a sufletelor omeneşti în privinţa relației lor cu Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—G.H. Knight"
         },
         {
           "type": "prose",
@@ -794,8 +902,8 @@
           "html": "<p>Te rog dă-mi Tu înţelepciune, Tată, Să-Ţi pot pătrunde mai adânc misterul Şi, fascinat de dragostea-Ţi curată,<br>\nSă-mi strălucească-n ochi puternic Cerul.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p><i>Prelucrare de C.M. a confesiunilor unui misionar în drum spre câmpul său de misiune</i></p>"
+          "type": "attribution",
+          "text": "Prelucrare de C.M. a confesiunilor unui misionar în drum spre câmpul său de misiune"
         }
       ]
     },
@@ -823,7 +931,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>O mărturie constă în redarea unor fapte, fie prin viu grai, fie în scris, de către cei care cunosc personal aceste fapte, pentru cei care nu le cunosc. <i>––I. Taylor</i></p>"
+          "html": "<p>O mărturie constă în redarea unor fapte, fie prin viu grai, fie în scris, de către cei care cunosc personal aceste fapte, pentru cei care nu le cunosc. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—I. Taylor"
         },
         {
           "type": "prose",
@@ -891,7 +1003,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Chiar dacă ar fi să trăiesc cât Metusala, şi chiar de-aş ajunge să mă confrunt cu cea mai dificilă situație posibilă, întotdeauna aş găsi în Biblie lumina şi călăuzirea de care am trebuinţă. <i>––Phoebe Palmer</i></p>"
+          "html": "<p>Chiar dacă ar fi să trăiesc cât Metusala, şi chiar de-aş ajunge să mă confrunt cu cea mai dificilă situație posibilă, întotdeauna aş găsi în Biblie lumina şi călăuzirea de care am trebuinţă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Phoebe Palmer"
         }
       ]
     },
@@ -987,7 +1103,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>S-ar putea să nu devenim niciodată nişte persoane faimoase sau puternice; s-ar putea să nu fim chemați să suportăm nişte suferințe eroice sau să înfăptuim nişte acte de lepădare de sine care să marcheze istoria; s-ar putea să nu ne fie dat să fim apostoli, sau misionari, sau martiri. S-ar putea ca menirea noastră să fie aceea de a fi oameni obişnuiți, care locuiesc în case obişnuite şi îşi petrec zilele în birouri obişnuite sau în bucătării obişnuite. Însă, atâta vreme cât facem voia lui Dumnezeu acolo unde ne aflăm, realizăm la fel de mult ca un apostol, un misionar sau un martir şi, la sfârşitul vieții noastre, vom putea da socoteală Domnului cu tot atâta realism, credincioşie şi biruință ca şi ei. <i>––Henry Drummond</i></p>"
+          "html": "<p>S-ar putea să nu devenim niciodată nişte persoane faimoase sau puternice; s-ar putea să nu fim chemați să suportăm nişte suferințe eroice sau să înfăptuim nişte acte de lepădare de sine care să marcheze istoria; s-ar putea să nu ne fie dat să fim apostoli, sau misionari, sau martiri. S-ar putea ca menirea noastră să fie aceea de a fi oameni obişnuiți, care locuiesc în case obişnuite şi îşi petrec zilele în birouri obişnuite sau în bucătării obişnuite. Însă, atâta vreme cât facem voia lui Dumnezeu acolo unde ne aflăm, realizăm la fel de mult ca un apostol, un misionar sau un martir şi, la sfârşitul vieții noastre, vom putea da socoteală Domnului cu tot atâta realism, credincioşie şi biruință ca şi ei. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Drummond"
         }
       ]
     },
@@ -1011,7 +1131,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Omul care se roagă este personajul cel mai important din Împărăția lui Dumnezeu şi din Biserica lui Cristos. Este ca un operator radio, care în fiecare zi ia legătura cu Cineva pe care nu-L vede şi trimite mesaje, uneori chiar mesaje SOS, menite să aducă ajutor şi salvare poate chiar unui oraş întreg. <i>––Barclay Buxton</i></p>"
+          "html": "<p>Omul care se roagă este personajul cel mai important din Împărăția lui Dumnezeu şi din Biserica lui Cristos. Este ca un operator radio, care în fiecare zi ia legătura cu Cineva pe care nu-L vede şi trimite mesaje, uneori chiar mesaje SOS, menite să aducă ajutor şi salvare poate chiar unui oraş întreg. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Barclay Buxton"
         },
         {
           "type": "prose",
@@ -1043,7 +1167,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Rugăciunea este puterea prin care se întâmplă lucruri care altfel nu s-ar fi întâmplat. <i>––Autor necunoscut</i></p>"
+          "html": "<p>Rugăciunea este puterea prin care se întâmplă lucruri care altfel nu s-ar fi întâmplat. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         }
       ]
     },
@@ -1075,7 +1203,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>paralizante de Dumnezeu. Du-te la crucea Domnului Isus Cristos cu toate păcatele tale! El le va da în întregime la o parte, fiindcă numai El poate face acest lucru. Îşi va pune mâna peste tine, aşa cum a făcut şi în vechime, şi va rosti cuvintele aducătoare de mângâiere şi speranţă care i-au ieşit de atâtea ori de pe buze şi pe care numai El are competența de a le rosti în sensul lor cel mai profund: „Eu sunt, nu te teme de nimic!” <i>––Alexander Maclaren</i></p>"
+          "html": "<p>paralizante de Dumnezeu. Du-te la crucea Domnului Isus Cristos cu toate păcatele tale! El le va da în întregime la o parte, fiindcă numai El poate face acest lucru. Îşi va pune mâna peste tine, aşa cum a făcut şi în vechime, şi va rosti cuvintele aducătoare de mângâiere şi speranţă care i-au ieşit de atâtea ori de pe buze şi pe care numai El are competența de a le rosti în sensul lor cel mai profund: „Eu sunt, nu te teme de nimic!” </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Alexander Maclaren"
         }
       ]
     },
@@ -1107,7 +1239,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Prin urmare, fii tare, şi astfel vei putea trece prin orice furtună declanşată de oameni sau de forţe diabolice. <i>––James Caughey</i></p>"
+          "html": "<p>Prin urmare, fii tare, şi astfel vei putea trece prin orice furtună declanşată de oameni sau de forţe diabolice. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—James Caughey"
         },
         {
           "type": "prose",
@@ -1115,7 +1251,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ungerea cu Duhul Sfânt este dată credincioşilor tocmai în acest scop – să-i ajute să facă distincție (lucru care altfel ar fi imposibil) între păcat şi ispită. Şi acest lucru se face nu printr-o regulă generală, ci ascultându-L pe El în toate lucrurile şi sfătuindu-te cu cei care au experiență în umblarea cu Dumnezeu. <i>––John Wesley</i></p>"
+          "html": "<p>Ungerea cu Duhul Sfânt este dată credincioşilor tocmai în acest scop – să-i ajute să facă distincție (lucru care altfel ar fi imposibil) între păcat şi ispită. Şi acest lucru se face nu printr-o regulă generală, ci ascultându-L pe El în toate lucrurile şi sfătuindu-te cu cei care au experiență în umblarea cu Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         },
         {
           "type": "prose",
@@ -1221,7 +1361,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>În ziua aceea, cât de mare ar fi mâhnirea mea şi a ta dacă pe străzile de aur ale Cerului se va spune că în lumea aceasta nu am făcut decât să ne ferim de orice efort, de orice greutate, de orice osteneală? Nu vom avea nici un semn dobândit în bătălie pe care să-l arătăm celor glorificați; nu vom avea nici măcar o adâncitură în palmă, care să arate că, măcar o dată în această mare bătălie pentru Dumnezeu şi pentru adevăr, am strâns atât de tare şi am lovit atât de puternic, încât ni s-a lipit mâna de sabie. <i>––De Witt Talmage</i></p>"
+          "html": "<p>În ziua aceea, cât de mare ar fi mâhnirea mea şi a ta dacă pe străzile de aur ale Cerului se va spune că în lumea aceasta nu am făcut decât să ne ferim de orice efort, de orice greutate, de orice osteneală? Nu vom avea nici un semn dobândit în bătălie pe care să-l arătăm celor glorificați; nu vom avea nici măcar o adâncitură în palmă, care să arate că, măcar o dată în această mare bătălie pentru Dumnezeu şi pentru adevăr, am strâns atât de tare şi am lovit atât de puternic, încât ni s-a lipit mâna de sabie. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—De Witt Talmage"
         },
         {
           "type": "prose",
@@ -1261,7 +1405,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Da, a fi un creştin credincios este mai important în ochii lui Dumnezeu decât să fii un om de stat aplaudat sau un împărat biruitor. <i>––Dean Farrar</i></p>"
+          "html": "<p>Da, a fi un creştin credincios este mai important în ochii lui Dumnezeu decât să fii un om de stat aplaudat sau un împărat biruitor. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dean Farrar"
         },
         {
           "type": "prose",
@@ -1277,7 +1425,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu a existat niciodată vreun caracter mare şi frumos care să nu fi devenit mare şi frumos prin împlinirea cu succes a unor îndatoriri comune şi mărunte stabilite de Dumnezeu. <i>––Horace Bushnell</i></p>"
+          "html": "<p>Nu a existat niciodată vreun caracter mare şi frumos care să nu fi devenit mare şi frumos prin împlinirea cu succes a unor îndatoriri comune şi mărunte stabilite de Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Horace Bushnell"
         }
       ]
     },
@@ -1293,7 +1445,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Mulți dintre cei care se declară creştini nu ştiu nimic altceva despre religie decât că aceasta ar fi mijlocul prin care ei pot ajunge în Cer după ce mor. Cât despre datoria de a face şi ei ceva pentru Dumnezeu cât timp sunt în viață, asta nu intră în planurile lor. Vă spun sincer, frații mei, nu cred că măcar unul din cinci sute de astfel de creştini declarați va ajunge în Cer; pentru că religia autentică are o noblețe care o situează mai presus de astfel de răutăți vrednice de dispreț. <i>––L. Beecher</i></p>"
+          "html": "<p>Mulți dintre cei care se declară creştini nu ştiu nimic altceva despre religie decât că aceasta ar fi mijlocul prin care ei pot ajunge în Cer după ce mor. Cât despre datoria de a face şi ei ceva pentru Dumnezeu cât timp sunt în viață, asta nu intră în planurile lor. Vă spun sincer, frații mei, nu cred că măcar unul din cinci sute de astfel de creştini declarați va ajunge în Cer; pentru că religia autentică are o noblețe care o situează mai presus de astfel de răutăți vrednice de dispreț. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—L. Beecher"
         },
         {
           "type": "prose",

@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "en",
   "month": "08",
   "readings": [
@@ -184,7 +184,7 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">We walk by faith. Do we? What record is there on high of things that by faith we have obtained? Is each step each day an act of faith? Do we, as children of God, really believe the Bible?</p>"
+          "html": "<p class=\"justify\">We walk by faith. Do we? What record is there on high of things that by faith we have obtained? Is each step each day an act of faith? Do we, as children of God, really believe the Bible? </p>"
         },
         {
           "type": "attribution",
@@ -1252,7 +1252,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">If He has given us all things, have we any business to live as spiritual paupers? Half the reason why we don’t praise Him as we ought is because we don’t really believe what great things He has given us. Oh, “consider what great things he hath done for you” (1 Sam. 12:24).<i>-Frances Ridley Havergal.</i></p>"
+          "html": "<p class=\"justify\">If He has given us all things, have we any business to live as spiritual paupers? Half the reason why we don’t praise Him as we ought is because we don’t really believe what great things He has given us. Oh, “consider what great things he hath done for you” (1 Sam. 12:24).</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Frances Ridley Havergal"
         }
       ]
     },
@@ -1288,7 +1292,7 @@
         },
         {
           "type": "attribution",
-          "text": "—Elizabeth S.\nBrengle"
+          "text": "—Elizabeth S. Brengle"
         },
         {
           "type": "prose",

@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "en",
   "month": "10",
   "readings": [
@@ -2332,7 +2332,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Oh! what will it be to spend an eternity in seeing and praising Jesus! To see Him as He is, to be satisfied with His likeness! Oh, I long, I pant, I faint with desire to be singing, “Worthy is the Lamb!”—to be extolling the riches of sovereign grace—to be casting the crown at the feet of Christ! And why may we not do all this on earth?—<i>Edward</i> <i>Payson</i>.</p>"
+          "html": "<p class=\"justify\">Oh! what will it be to spend an eternity in seeing and praising Jesus! To see Him as He is, to be satisfied with His likeness! Oh, I long, I pant, I faint with desire to be singing, “Worthy is the Lamb!”—to be extolling the riches of sovereign grace—to be casting the crown at the feet of Christ! And why may we not do all this on earth?</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Edward Payson"
         },
         {
           "type": "poem",

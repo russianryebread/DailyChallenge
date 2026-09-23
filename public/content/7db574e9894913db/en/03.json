@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "en",
   "month": "03",
   "readings": [
@@ -20,7 +20,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Through whatever I am to live, I live Christ; I set upon everything the imprint of my Lord! Nothing is allowed to become an alien minister. No circumstance is allowed to raise the flag of revolt. Bengel made every circumstance in his life pay tribute to Christ. Let me quote a little extract from an exquisite little book of Thomas Boston’s, whose life was abounding in labors: “Learn that heavenly chemistry of extracting some spiritual thing out of earthly things. To this end endeavor after a heavenly frame, which will, as is recorded of the philosopher’s stone, turn every metal into gold. When the soul is heavenly, it will even scrape jewels out of a dunghill.” All of which means that a man in Christ can make his adverse environment ideal. He can make his disappointments his ministers. He can make his adversities the King’s witnesses.”•<i>J. H. Jowett.</i> </p>"
+          "html": "<p class=\"justify\">Through whatever I am to live, I live Christ; I set upon everything the imprint of my Lord! Nothing is allowed to become an alien minister. No circumstance is allowed to raise the flag of revolt. Bengel made every circumstance in his life pay tribute to Christ. Let me quote a little extract from an exquisite little book of Thomas Boston’s, whose life was abounding in labors: “Learn that heavenly chemistry of extracting some spiritual thing out of earthly things. To this end endeavor after a heavenly frame, which will, as is recorded of the philosopher’s stone, turn every metal into gold. When the soul is heavenly, it will even scrape jewels out of a dunghill.” All of which means that a man in Christ can make his adverse environment ideal. He can make his disappointments his ministers. He can make his adversities the King’s witnesses.”</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J. H. Jowett"
         },
         {
           "type": "poem",
@@ -196,7 +200,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Little of the Word with little Prayer is death to the spiritual life. Much of the Word with little Prayer gives a sickly life. Much Prayer with little of the Word gives emotional life. But a full measure of the Word and Prayer each day gives a healthy and powerful life.—<i>Andrew Murray.</i> <i> </i> </p>"
+          "html": "<p class=\"justify\">Little of the Word with little Prayer is death to the spiritual life. Much of the Word with little Prayer gives a sickly life. Much Prayer with little of the Word gives emotional life. But a full measure of the Word and Prayer each day gives a healthy and powerful life.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Andrew Murray"
         },
         {
           "type": "poem",
@@ -1662,7 +1670,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">The most of the difficulties of trying to live the Christian life arise from attempting to half live it.<i>-Henry Drummond.</i></p>"
+          "html": "<p class=\"justify\">The most of the difficulties of trying to live the Christian life arise from attempting to half live it.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Drummond"
         },
         {
           "type": "poem",

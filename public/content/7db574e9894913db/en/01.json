@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "en",
   "month": "01",
   "readings": [
@@ -235,12 +235,12 @@
             {
               "text": "Give us a Year of Prayer.",
               "indent": true
-            },
-            {
-              "text": "—A. B. Simpson.",
-              "indent": true
             }
           ]
+        },
+        {
+          "type": "attribution",
+          "text": "—A. B. Simpson"
         },
         {
           "type": "prose",
@@ -293,12 +293,12 @@
             {
               "text": "And great that seeks God’s will.",
               "indent": true
-            },
-            {
-              "text": "—Unknown.",
-              "indent": true
             }
           ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         },
         {
           "type": "prose",
@@ -465,12 +465,12 @@
             {
               "text": "Your portion of labor, and problems, and care?",
               "indent": false
-            },
-            {
-              "text": "—Ella Wheeler Wilcox.",
-              "indent": true
             }
           ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Ella Wheeler Wilcox"
         }
       ]
     },
@@ -612,12 +612,12 @@
             {
               "text": "I am on earth to fill a need.",
               "indent": false
-            },
-            {
-              "text": "—Unknown.",
-              "indent": true
             }
           ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         }
       ]
     },
@@ -756,12 +756,12 @@
             {
               "text": "And walk beside Thee and rejoice.",
               "indent": false
-            },
-            {
-              "text": "—Lord Alfred Tennyson.",
-              "indent": true
             }
           ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Lord Alfred Tennyson"
         },
         {
           "type": "prose",
@@ -964,12 +964,12 @@
             {
               "text": "My Lord to glorify.",
               "indent": true
-            },
-            {
-              "text": "—Unknown.",
-              "indent": true
             }
           ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         },
         {
           "type": "prose",
@@ -1141,7 +1141,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">We cannot walk with Christ and have small hearts, for His heart embraced the world and broke for its redemption. We cannot walk with Christ and have cold, hard hearts, for His love constrains us and fills us with tender sympathy and pity.<i>-Unknown.</i></p>"
+          "html": "<p class=\"justify\">We cannot walk with Christ and have small hearts, for His heart embraced the world and broke for its redemption. We cannot walk with Christ and have cold, hard hearts, for His love constrains us and fills us with tender sympathy and pity.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         },
         {
           "type": "prose",
@@ -1149,7 +1153,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">The feet of Jesus were ever hasting towards lost men. His mighty heart was ever yearning over the spiritually blind and dead. It is natural that the fullness of love to Christ should bring us into sympathy with this dominant passion of His holy soul, and that our footsteps should ever be toward the perishing. There is a grave mistake somewhere when a person imagines that he has mounted up to the plane of the “higher life” and feels no quickened impulse towards sinners dying in their sins around him. That ecstasy of delight must be spurious which inclines its possessor to sit still and selfishly enjoy the raptures of divine love, instead of going forth to communicate and widely diffuse the joy.—<i>Daniel Steele</i><i>.</i></p>"
+          "html": "<p class=\"justify\">The feet of Jesus were ever hasting towards lost men. His mighty heart was ever yearning over the spiritually blind and dead. It is natural that the fullness of love to Christ should bring us into sympathy with this dominant passion of His holy soul, and that our footsteps should ever be toward the perishing. There is a grave mistake somewhere when a person imagines that he has mounted up to the plane of the “higher life” and feels no quickened impulse towards sinners dying in their sins around him. That ecstasy of delight must be spurious which inclines its possessor to sit still and selfishly enjoy the raptures of divine love, instead of going forth to communicate and widely diffuse the joy.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Daniel Steele"
         },
         {
           "type": "poem",
@@ -1379,7 +1387,7 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Then there is the drive of our modern life which crowds out the Word. Get up a quarter of an hour earlier and you will have time to read your Bibles. It will be well worth the sacrifice, if it is a sacrifice. I do not mean by reading the Bible what, I am afraid, is far too common, reading a scrap of Scripture as if it were a kind of charm. But I would most earnestly press upon you that muscle and fiber will distinctly atrophy and become enfeebled, if Christian people neglect the first plain way of hiding the Word in their heart, which is to make the utterances of Scripture as if incorporated with their very being, and part of their very selves.</p>"
+          "html": "<p class=\"justify\">Then there is the drive of our modern life which crowds out the Word. Get up a quarter of an hour earlier and you will have time to read your Bibles. It will be well worth the sacrifice, if it is a sacrifice. I do not mean by reading the Bible what, I am afraid, is far too common, reading a scrap of Scripture as if it were a kind of charm. But I would most earnestly press upon you that muscle and fiber will distinctly atrophy and become enfeebled, if Christian people neglect the first plain way of hiding the Word in their heart, which is to make the utterances of Scripture as if incorporated with their very being, and part of their very selves. </p>"
         },
         {
           "type": "attribution",
@@ -2297,7 +2305,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">The orderly arrangement of time is like a ray of light which darts itself through all our occupations.<i>-Unknown.</i> </p>"
+          "html": "<p class=\"justify\">The orderly arrangement of time is like a ray of light which darts itself through all our occupations.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         }
       ]
     },
@@ -2371,7 +2383,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">A good day begins with God. A wise merchant would no more think of going to the store without communion with Christ, than without coat or hat or shoes. I used to have a very poor watch, and I had to set it every morning in order that I might make from it a guess about the time of day. Our souls are poor timepieces, utterly disordered and every morning we need to set them by the Sun of Righteousness.<i>-De Witt Talmage.</i> </p>"
+          "html": "<p class=\"justify\">A good day begins with God. A wise merchant would no more think of going to the store without communion with Christ, than without coat or hat or shoes. I used to have a very poor watch, and I had to set it every morning in order that I might make from it a guess about the time of day. Our souls are poor timepieces, utterly disordered and every morning we need to set them by the Sun of Righteousness.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—De Witt Talmage"
         }
       ]
     },

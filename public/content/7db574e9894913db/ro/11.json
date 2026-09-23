@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "ro",
   "month": "11",
   "readings": [
@@ -40,7 +40,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Privind în urmă pe firul vieții mele, îmi pot da seama că une- le din cele mai bogate binecuvântări de care mi-a făcut vreodată parte Tatăl ceresc au venit sub forma unor dezamăgiri crunte. S-a spus, pe bună dreptate, că „dezamăgirea nu înseamnă niciodată o cădere atunci când în spatele ei se află mâna lui Dumnezeu. Dese- ori, ceea ce părea o grea lovitură se dovedeşte a fi un impuls pentru a face un pas înainte.“ Dezamăgirea, asemenea focului, poate avea două efecte: poate arde, carboniza şi distruge un om, sau îi poate dezgheța sângele, readucându-l la viață. <i>—Theodore Cuyler</i></p>"
+          "html": "<p>Privind în urmă pe firul vieții mele, îmi pot da seama că une- le din cele mai bogate binecuvântări de care mi-a făcut vreodată parte Tatăl ceresc au venit sub forma unor dezamăgiri crunte. S-a spus, pe bună dreptate, că „dezamăgirea nu înseamnă niciodată o cădere atunci când în spatele ei se află mâna lui Dumnezeu. Dese- ori, ceea ce părea o grea lovitură se dovedeşte a fi un impuls pentru a face un pas înainte.“ Dezamăgirea, asemenea focului, poate avea două efecte: poate arde, carboniza şi distruge un om, sau îi poate dezgheța sângele, readucându-l la viață. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         }
       ]
     },
@@ -72,7 +76,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu prin prisma unor stări de spirit, a felului în care mă simt azi sau a felului în care m-am simțit ieri, pot eu să-mi dau seama dacă trăiesc cu adevărat o viață plăcută lui Dumnezeu, ci numai prin prisma faptului că ştiu că Dumnezeu mă foloseşte pentru a-i ajuta pe alții. Nici o stare de spirit nu este suficient de convingă- toare pentru a nu mai avea nevoie de garanția aceasta. Nici o stare de spirit nu este atât de neagră încât, având această garanție, să se alunece pe panta disperării. Ar fi bine să considerăm că nici un har şi nici o binecuvântare nu ne aparțin cu adevărat înainte de a ne da seama că Dumnezeu a mai binecuvântat pe cineva cu acel har sau cu acea binecuvântare prin intermediul nostru. <i>—Phillips Brooks</i></p>"
+          "html": "<p>Nu prin prisma unor stări de spirit, a felului în care mă simt azi sau a felului în care m-am simțit ieri, pot eu să-mi dau seama dacă trăiesc cu adevărat o viață plăcută lui Dumnezeu, ci numai prin prisma faptului că ştiu că Dumnezeu mă foloseşte pentru a-i ajuta pe alții. Nici o stare de spirit nu este suficient de convingă- toare pentru a nu mai avea nevoie de garanția aceasta. Nici o stare de spirit nu este atât de neagră încât, având această garanție, să se alunece pe panta disperării. Ar fi bine să considerăm că nici un har şi nici o binecuvântare nu ne aparțin cu adevărat înainte de a ne da seama că Dumnezeu a mai binecuvântat pe cineva cu acel har sau cu acea binecuvântare prin intermediul nostru. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Phillips Brooks"
         },
         {
           "type": "prose",
@@ -190,11 +198,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cât de mult mi-aş dori ca cititorii mei să creadă în Dumnezeu în aşa măsură încât să se sprijine pe El în toate problemele vieții! Această atitudine i-ar transporta într-o lume nouă şi le-ar aduce atât de multe dovezi care să confirme adevărul sfintei noastre cre- dințe, încât ar putea să le râdă în față tuturor scepticilor. Credin- ța copilărească în Dumnezeu asigură inimilor sincere o prudență practică, pe care mie îmi place să o numesc bun simț sanctificat. Credinciosul simplu, chiar dacă este ținta batjocurii celor care îl consideră slab de înger, are o înțelepciune care vine de Sus şi re- uşeşte să facă de ocară şiretenia celor răi. Nimic nu zăpăceşte mai mult un vrăjmaş răuvoitor decât candoarea neprefăcută a unui cre- dincios dedicat. <i>—C.H. Spurgeon</i></p>"
+          "html": "<p>Cât de mult mi-aş dori ca cititorii mei să creadă în Dumnezeu în aşa măsură încât să se sprijine pe El în toate problemele vieții! Această atitudine i-ar transporta într-o lume nouă şi le-ar aduce atât de multe dovezi care să confirme adevărul sfintei noastre cre- dințe, încât ar putea să le râdă în față tuturor scepticilor. Credin- ța copilărească în Dumnezeu asigură inimilor sincere o prudență practică, pe care mie îmi place să o numesc bun simț sanctificat. Credinciosul simplu, chiar dacă este ținta batjocurii celor care îl consideră slab de înger, are o înțelepciune care vine de Sus şi re- uşeşte să facă de ocară şiretenia celor răi. Nimic nu zăpăceşte mai mult un vrăjmaş răuvoitor decât candoarea neprefăcută a unui cre- dincios dedicat. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—C.H. Spurgeon"
         },
         {
           "type": "prose",
-          "html": "<p>Rugăciunea poate obține orice. Ea poate deschide ferestrele Cerului şi poate închide porțile Iadului. Ea poate domoli o acțiu- ne a lui Dumnezeu şi poate reține un înger până când acesta lasă o binecuvântare. Ea poate deschide zăgazurile cerurilor ca să dea ploaie şi poate înmuia inima de cremene a stâncilor ca să dea iz- voare de apă. Ea poate desface cingătoarea Nordului; ea poate opri soarele din cursul lui şi vânturile din mersul lor. Ce lucru le poate fi refuzat sfinților atunci când îl cer? <i>—Jeremy Taylor</i></p>"
+          "html": "<p>Rugăciunea poate obține orice. Ea poate deschide ferestrele Cerului şi poate închide porțile Iadului. Ea poate domoli o acțiu- ne a lui Dumnezeu şi poate reține un înger până când acesta lasă o binecuvântare. Ea poate deschide zăgazurile cerurilor ca să dea ploaie şi poate înmuia inima de cremene a stâncilor ca să dea iz- voare de apă. Ea poate desface cingătoarea Nordului; ea poate opri soarele din cursul lui şi vânturile din mersul lor. Ce lucru le poate fi refuzat sfinților atunci când îl cer? </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Jeremy Taylor"
         },
         {
           "type": "prose",
@@ -242,7 +258,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Fă bine lucrurile mici! Orice faci, fă cât poți de bine – cu sim- plitate, cu blândețe, în linişte şi repede; nu fă pentru tine, ci pentru Domnul. Nu tânji după lucruri mari, nici după lucruri care denotă iubire de sine şi dorință după aplauze – lucruri care nu sunt plăcute lui Dumnezeu. <i>—Stephen Merritt</i></p>"
+          "html": "<p>Fă bine lucrurile mici! Orice faci, fă cât poți de bine – cu sim- plitate, cu blândețe, în linişte şi repede; nu fă pentru tine, ci pentru Domnul. Nu tânji după lucruri mari, nici după lucruri care denotă iubire de sine şi dorință după aplauze – lucruri care nu sunt plăcute lui Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Stephen Merritt"
         },
         {
           "type": "prose",
@@ -298,7 +318,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu există metodă mai sigură de a-ți înmulți avuțiile decât să împrumuți sau să dăruieşti Celui care este Proprietarul tuturor lucrurilor. <i>—Episcopul Hall</i></p>"
+          "html": "<p>Nu există metodă mai sigură de a-ți înmulți avuțiile decât să împrumuți sau să dăruieşti Celui care este Proprietarul tuturor lucrurilor. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Episcopul Hall"
         },
         {
           "type": "prose",
@@ -351,7 +375,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Deseori sub învelişul resemnării se ascunde o falsă evlavie – poate inconştientă, dar cât se poate de reală. Frances Havergal spu- nea că, la un moment dat, voia lui Dumnezeu a fost pentru ea un suspin, însă acum devenise o cântare. <i>—E.C.W. Boulton</i></p>"
+          "html": "<p>Deseori sub învelişul resemnării se ascunde o falsă evlavie – poate inconştientă, dar cât se poate de reală. Frances Havergal spu- nea că, la un moment dat, voia lui Dumnezeu a fost pentru ea un suspin, însă acum devenise o cântare. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—E.C.W. Boulton"
         }
       ]
     },
@@ -384,7 +412,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>sufletul acelei persoane. Am văzut cu ochii mei ilustrații dramatice ale acestui fapt. <i>—Charles G. Finney</i></p>"
+          "html": "<p>sufletul acelei persoane. Am văzut cu ochii mei ilustrații dramatice ale acestui fapt. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles G. Finney"
         },
         {
           "type": "prose",
@@ -470,7 +502,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Atunci când este mişcat, clopotul nu emite sunete pentru că alege să facă acest lucru, ci pentru că nu poate să nu facă acest lu- cru. Iar atunci când un om priveşte o trăsătură nobilă de caracter, o admiră nu pentru că aşa vrea el, ci din cauză că aşa este structurată ființa omenească. <i>—Henry Ward Beecher</i></p>"
+          "html": "<p>Atunci când este mişcat, clopotul nu emite sunete pentru că alege să facă acest lucru, ci pentru că nu poate să nu facă acest lu- cru. Iar atunci când un om priveşte o trăsătură nobilă de caracter, o admiră nu pentru că aşa vrea el, ci din cauză că aşa este structurată ființa omenească. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Ward Beecher"
         },
         {
           "type": "prose",
@@ -562,7 +598,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>jumătate de oră şi ne tocăm mărunt pastorii sau ne vorbim de rău vecinii. De câte ori se întâmplă ca activitatea aceasta să fie şi dis- tracția de duminică! Ar fi mult mai bine dacă am spune: „Dragul meu, citează-mi o promisiune“, iar celălalt să răspundă: „Și apoi tu să spui una la rândul tău.“ <i>—C.H. Spurgeon</i></p>"
+          "html": "<p>jumătate de oră şi ne tocăm mărunt pastorii sau ne vorbim de rău vecinii. De câte ori se întâmplă ca activitatea aceasta să fie şi dis- tracția de duminică! Ar fi mult mai bine dacă am spune: „Dragul meu, citează-mi o promisiune“, iar celălalt să răspundă: „Și apoi tu să spui una la rândul tău.“ </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—C.H. Spurgeon"
         },
         {
           "type": "prose",
@@ -599,7 +639,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Să nu uităm că Dumnezeu este glorificat atunci când noi Îi consacrăm deplin ceea ce avem, indiferent dacă avem mai puțin sau mai mult. El nu Se aşteaptă să-I aducem cinci talanți câştigați cu unul pe care ni l-a dat, ci Se aşteaptă să consacrăm acel unic talant în mod deplin şi desăvârşit spre slava Lui; iar celui care face acest lucru, El îi spune un „Bine, rob bun şi credincios!“ la fel de entuziast ca şi celui căruia i-a dat zece talanți. Adesea am greşit în domeniul acesta. Voi încerca să-mi amintesc pe viitor că tot ce am este tot ce aşteaptă El de la mine. <i>—Catherine Booth</i></p>"
+          "html": "<p>Să nu uităm că Dumnezeu este glorificat atunci când noi Îi consacrăm deplin ceea ce avem, indiferent dacă avem mai puțin sau mai mult. El nu Se aşteaptă să-I aducem cinci talanți câştigați cu unul pe care ni l-a dat, ci Se aşteaptă să consacrăm acel unic talant în mod deplin şi desăvârşit spre slava Lui; iar celui care face acest lucru, El îi spune un „Bine, rob bun şi credincios!“ la fel de entuziast ca şi celui căruia i-a dat zece talanți. Adesea am greşit în domeniul acesta. Voi încerca să-mi amintesc pe viitor că tot ce am este tot ce aşteaptă El de la mine. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Catherine Booth"
         },
         {
           "type": "prose",
@@ -667,7 +711,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ereticii de ieri devin adesea sfinții de azi. <i>—Autor necunoscut</i></p>"
+          "html": "<p>Ereticii de ieri devin adesea sfinții de azi. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         }
       ]
     },
@@ -711,7 +759,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Domnul mai cu râvnă, cu atât ai nevoie de mai mult timp în care ceea ce faci pentru El să-ți iasă complet din minte şi să ajungi la concluzia că singurul lucru la care merită să te gândeşti este ceea ce face El pentru tine. <i>—Phillips Brooks</i></p>"
+          "html": "<p>Domnul mai cu râvnă, cu atât ai nevoie de mai mult timp în care ceea ce faci pentru El să-ți iasă complet din minte şi să ajungi la concluzia că singurul lucru la care merită să te gândeşti este ceea ce face El pentru tine. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Phillips Brooks"
         },
         {
           "type": "prose",
@@ -740,11 +792,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Știm cu toții – cel puțin într-un sens general – că acest cu- vânt, „necaz“ (în limba engleză tribulation – n.tr.), care apare destul de des în Sfânta Scriptură şi este preluat în predici, înseam- nă durere, întristare, nelinişte; însă, ar fi bine să ştim şi de ce are aceste semnificații şi să examinăm acest cuvânt mai îndeaproape. Este derivat din latinescul tribulum – care denotă unealta de tre- ierat folosită de romani pentru a separa boabele de grâu de restul plantei; iar sensul principal al cuvântului tribulatio era acest act de separare. Însă, un scrib de origine latină din Biserica Creştină şi-a însuşit cuvântul şi imaginea din spatele lui şi l-a folosit pen- tru a exprima un adevăr mai înalt; şi pentru că durerea, necazul şi adversitățile reprezintă mijloacele folosite de Dumnezeu pentru a separa în oameni roadele de pleavă, ceea ce este uşor, trivial şi slab de ceea ce este solid şi bun, scribul respectiv a numit aceste întristări şi dureri „necazuri“. Este vorba, aşadar, de o treierare a omului spiritual, lăuntric. <i>—Richard Chenevix Trench</i></p>"
+          "html": "<p>Știm cu toții – cel puțin într-un sens general – că acest cu- vânt, „necaz“ (în limba engleză tribulation – n.tr.), care apare destul de des în Sfânta Scriptură şi este preluat în predici, înseam- nă durere, întristare, nelinişte; însă, ar fi bine să ştim şi de ce are aceste semnificații şi să examinăm acest cuvânt mai îndeaproape. Este derivat din latinescul tribulum – care denotă unealta de tre- ierat folosită de romani pentru a separa boabele de grâu de restul plantei; iar sensul principal al cuvântului tribulatio era acest act de separare. Însă, un scrib de origine latină din Biserica Creştină şi-a însuşit cuvântul şi imaginea din spatele lui şi l-a folosit pen- tru a exprima un adevăr mai înalt; şi pentru că durerea, necazul şi adversitățile reprezintă mijloacele folosite de Dumnezeu pentru a separa în oameni roadele de pleavă, ceea ce este uşor, trivial şi slab de ceea ce este solid şi bun, scribul respectiv a numit aceste întristări şi dureri „necazuri“. Este vorba, aşadar, de o treierare a omului spiritual, lăuntric. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Richard Chenevix Trench"
         },
         {
           "type": "prose",
-          "html": "<p>Cei trei tineri evrei au fost feriți în mod miraculos nu doar de moarte, ci până şi de mirosul de foc, care nu s-a prins de hainele lor. Tot ce au pierdut au fost hainele cu care fuseseră legați. Exact în acelaşi fel cei care Îi aparțin lui Cristos sunt păziți prin har de puterea nimicitoare a vrăjmaşilor lor. Fiul lui Dumnezeu este cu ei aşa cum a fost cu tinerii aceia vrednici. Ei nu pierd nimic în afa- ră de relele din firea lor pământească, lucruri care şi până în acel moment nu au făcut altceva decât să-i încurce. Ei ies din încercări curați şi liberi să-L slujească pe Dumnezeu, fie pe pământ, fie în Cer. <i>—John Bate</i></p>"
+          "html": "<p>Cei trei tineri evrei au fost feriți în mod miraculos nu doar de moarte, ci până şi de mirosul de foc, care nu s-a prins de hainele lor. Tot ce au pierdut au fost hainele cu care fuseseră legați. Exact în acelaşi fel cei care Îi aparțin lui Cristos sunt păziți prin har de puterea nimicitoare a vrăjmaşilor lor. Fiul lui Dumnezeu este cu ei aşa cum a fost cu tinerii aceia vrednici. Ei nu pierd nimic în afa- ră de relele din firea lor pământească, lucruri care şi până în acel moment nu au făcut altceva decât să-i încurce. Ei ies din încercări curați şi liberi să-L slujească pe Dumnezeu, fie pe pământ, fie în Cer. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Bate"
         },
         {
           "type": "prose",
@@ -810,7 +870,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Iacov, este timpul să laşi totul în seama lui Dumnezeu, să pui totul în mâinile Lui. Dacă vei face astfel, vei auzi zgomotul cara- vanei care se întoarce cu vestea că Iosif nu a murit, ci este isprav- nic peste toată țara Egiptului; că Simeon este găzduit într-una din camerele de oaspeți ale palatului; că Beniamin a fost aşezat la loc de cinste; şi că este pregătit un loc bun şi cald pentru un bătrân ca tine. <i>—Reader Harris</i></p>"
+          "html": "<p>Iacov, este timpul să laşi totul în seama lui Dumnezeu, să pui totul în mâinile Lui. Dacă vei face astfel, vei auzi zgomotul cara- vanei care se întoarce cu vestea că Iosif nu a murit, ci este isprav- nic peste toată țara Egiptului; că Simeon este găzduit într-una din camerele de oaspeți ale palatului; că Beniamin a fost aşezat la loc de cinste; şi că este pregătit un loc bun şi cald pentru un bătrân ca tine. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Reader Harris"
         },
         {
           "type": "prose",
@@ -834,7 +898,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă Domnul Îşi va înălța Fața peste tine aşa cum Și-a înăl- țat-o peste mine în dimineața aceasta, toți munții din calea ta se vor preface în muşuroaie. <i>—Samuel Pearce</i></p>"
+          "html": "<p>Dacă Domnul Îşi va înălța Fața peste tine aşa cum Și-a înăl- țat-o peste mine în dimineața aceasta, toți munții din calea ta se vor preface în muşuroaie. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Pearce"
         }
       ]
     },
@@ -893,7 +961,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>posibil să ne încredem prea mult în Dumnezeu. El este cea mai mare certitudine care a existat şi care ar putea exista vreodată. A crede Cuvântul Lui înseamnă a crede ceea ce nimeni nu poate pune în mod legitim sub semnul întrebării. A spus Dumnezeu un lucru? Atunci aşa trebuie să fie. Cerul şi pământul vor trece, dar Cuvântul lui Dumnezeu nu va trece niciodată. Legile naturii pot fi suspendate; focul poate înceta să ardă şi apa poate înceta să înece, căci aceste lucruri nu presupun o lipsă de credincioşie din partea lui Dumnezeu. Însă, orice faliment al Cuvântului Său ar presupune o variabilitate dezonorantă în caracterul şi în natura Divinității, iar acest lucru este imposibil. Să stabilim că Dumnezeu este adevărat şi să nu îngăduim să ne treacă prin minte nici măcar o urmă de suspiciune cu privire la veridicitatea Lui. <i>—C.H. Spurgeon</i></p>"
+          "html": "<p>posibil să ne încredem prea mult în Dumnezeu. El este cea mai mare certitudine care a existat şi care ar putea exista vreodată. A crede Cuvântul Lui înseamnă a crede ceea ce nimeni nu poate pune în mod legitim sub semnul întrebării. A spus Dumnezeu un lucru? Atunci aşa trebuie să fie. Cerul şi pământul vor trece, dar Cuvântul lui Dumnezeu nu va trece niciodată. Legile naturii pot fi suspendate; focul poate înceta să ardă şi apa poate înceta să înece, căci aceste lucruri nu presupun o lipsă de credincioşie din partea lui Dumnezeu. Însă, orice faliment al Cuvântului Său ar presupune o variabilitate dezonorantă în caracterul şi în natura Divinității, iar acest lucru este imposibil. Să stabilim că Dumnezeu este adevărat şi să nu îngăduim să ne treacă prin minte nici măcar o urmă de suspiciune cu privire la veridicitatea Lui. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—C.H. Spurgeon"
         },
         {
           "type": "prose",
@@ -965,7 +1037,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Imaginați-vă reacția lui Pavel la primirea unei asemenea in- vitații! Desigur că acele zile întunecate au apus de mult! Acum suntem considerați „de modă veche“ dacă nu suntem dispuşi să zâmbim superior când auzim cuvintele solemne ale lui Pavel, cum că ceea ce jertfesc Neamurile jertfesc dracilor şi nu lui Dumnezeu. O, dacă ar porni o vijelie din Cer care să spulbere aceste compro- misuri mârşave! <i>—Paget Wilkes</i></p>"
+          "html": "<p>Imaginați-vă reacția lui Pavel la primirea unei asemenea in- vitații! Desigur că acele zile întunecate au apus de mult! Acum suntem considerați „de modă veche“ dacă nu suntem dispuşi să zâmbim superior când auzim cuvintele solemne ale lui Pavel, cum că ceea ce jertfesc Neamurile jertfesc dracilor şi nu lui Dumnezeu. O, dacă ar porni o vijelie din Cer care să spulbere aceste compro- misuri mârşave! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Paget Wilkes"
         },
         {
           "type": "scripture",
@@ -974,7 +1050,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Oamenii care schimbă lumea sunt aceia care nu-i permit lumii să-i schimbe pe ei. <i>—Autor necunoscut</i></p>"
+          "html": "<p>Oamenii care schimbă lumea sunt aceia care nu-i permit lumii să-i schimbe pe ei. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         }
       ]
     },
@@ -1011,7 +1091,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Legătura dintre tot ce am spus şi supunere o reprezintă fap- tul că disponibilitatea este cea mai înaltă formă de supunere. Este spiritul şi esența supunerii. Există în lume un fel de supunere care nu este de fapt supunere, pentru că actul supunerii este pre- zent, însă spiritul de supunere lipseşte. <i>—Henry Drummond</i></p>"
+          "html": "<p>Legătura dintre tot ce am spus şi supunere o reprezintă fap- tul că disponibilitatea este cea mai înaltă formă de supunere. Este spiritul şi esența supunerii. Există în lume un fel de supunere care nu este de fapt supunere, pentru că actul supunerii este pre- zent, însă spiritul de supunere lipseşte. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Drummond"
         }
       ]
     },
@@ -1056,7 +1140,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>înălțate din pieptul a sute de credincioşi. Dacă sunetul unei singure trâmbițe este atât de puternic în auzul urechilor lui Dumnezeu, cu cât mai puternic se aude muzica tuturor trâmbițelor de argint din Sion când îşi înalță cântul la unison! Când atât de multe mâini se înalță spre Dumnezeu, cât de multe binecuvântări pot ele să smul- gă din partea Cerului!“ <i>—James Caughey</i></p>"
+          "html": "<p>înălțate din pieptul a sute de credincioşi. Dacă sunetul unei singure trâmbițe este atât de puternic în auzul urechilor lui Dumnezeu, cu cât mai puternic se aude muzica tuturor trâmbițelor de argint din Sion când îşi înalță cântul la unison! Când atât de multe mâini se înalță spre Dumnezeu, cât de multe binecuvântări pot ele să smul- gă din partea Cerului!“ </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—James Caughey"
         }
       ]
     },
@@ -1093,7 +1181,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>O, dacă am înceta să-I spunem lui Dumnezeu ceea ce nouă ni se pare că ar fi dorințele şi aspirațiile bune ale inimii noastre, şi să începem să-I spunem fără teamă lucrurile rele şi greu de stăpânit din ea. Cât de repede am fi eliberați! <i>—Paget Wilkes</i></p>"
+          "html": "<p>O, dacă am înceta să-I spunem lui Dumnezeu ceea ce nouă ni se pare că ar fi dorințele şi aspirațiile bune ale inimii noastre, şi să începem să-I spunem fără teamă lucrurile rele şi greu de stăpânit din ea. Cât de repede am fi eliberați! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Paget Wilkes"
         },
         {
           "type": "scripture",
@@ -1318,11 +1410,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Orice chemare de a face voia lui Dumnezeu este o lectură ne- plăcută atunci când refuzăm să facem voia lui Dumnezeu. Și este cea mai binecuvântată şi mai prețioasă chemare de pe pământ atunci când noi ne-am supus Lui şi voia Lui a devenit voia noastră. Ce-ar fi să stabilim acum? <i>—Sunday School Times</i></p>"
+          "html": "<p>Orice chemare de a face voia lui Dumnezeu este o lectură ne- plăcută atunci când refuzăm să facem voia lui Dumnezeu. Și este cea mai binecuvântată şi mai prețioasă chemare de pe pământ atunci când noi ne-am supus Lui şi voia Lui a devenit voia noastră. Ce-ar fi să stabilim acum? </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sunday School Times"
         },
         {
           "type": "prose",
-          "html": "<p>Secretul din spatele unei vieți lipsite de satisfacție este adesea o voință care nu a fost predată Domnului. <i>—Hudson Taylor</i></p>"
+          "html": "<p>Secretul din spatele unei vieți lipsite de satisfacție este adesea o voință care nu a fost predată Domnului. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hudson Taylor"
         },
         {
           "type": "prose",
@@ -1386,7 +1486,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ei bine, creştine, nu crezi că aşa se explică totul? Oare nu prin modalitatea aceasta îți pune Domnul în evidență abilitățile tale şi apoi le dezvoltă? Oare nu cultivă El în tine calități de soldat arun- cându-te în vâltoarea luptei? Și nu ar trebui să foloseşti orice mijloc pentru a ieşi învingător? <i>—C.H. Spurgeon</i></p>"
+          "html": "<p>Ei bine, creştine, nu crezi că aşa se explică totul? Oare nu prin modalitatea aceasta îți pune Domnul în evidență abilitățile tale şi apoi le dezvoltă? Oare nu cultivă El în tine calități de soldat arun- cându-te în vâltoarea luptei? Și nu ar trebui să foloseşti orice mijloc pentru a ieşi învingător? </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—C.H. Spurgeon"
         },
         {
           "type": "prose",
@@ -1427,7 +1531,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Aşa ne atrage Dumnezeu: arătându-ne dragostea Lui şi Cuvân- tul Său, şi aducându-ne la El; şi face asta ademenindu-ne, nu certân- du-ne. Dumnezeu nu ne ceartă, ci ne ademeneşte, ne trage spre Sine, ne atrage. Aşa a procedat cu fiecare suflet în parte (Ieremia 31.3). Pen- tru că ne iubeşte, ne atrage la Sine. Când ne uităm în urmă la trecutul nostru, s-ar putea să observăm că uneori am fost înconjurați de spini (Osea 2.6), şi am trecut prin greutăți, încercări şi necazuri, pentru că L-am uitat şi am mers după alte lucruri. Însă, Dumnezeu ne-a atras la Sine. A vrut să simțim cât sunt de deşarte toate celelalte lucruri în care am sperat să găsim plăcere şi satisfacție. <i>—Barclay Buxton</i></p>"
+          "html": "<p>Aşa ne atrage Dumnezeu: arătându-ne dragostea Lui şi Cuvân- tul Său, şi aducându-ne la El; şi face asta ademenindu-ne, nu certân- du-ne. Dumnezeu nu ne ceartă, ci ne ademeneşte, ne trage spre Sine, ne atrage. Aşa a procedat cu fiecare suflet în parte (Ieremia 31.3). Pen- tru că ne iubeşte, ne atrage la Sine. Când ne uităm în urmă la trecutul nostru, s-ar putea să observăm că uneori am fost înconjurați de spini (Osea 2.6), şi am trecut prin greutăți, încercări şi necazuri, pentru că L-am uitat şi am mers după alte lucruri. Însă, Dumnezeu ne-a atras la Sine. A vrut să simțim cât sunt de deşarte toate celelalte lucruri în care am sperat să găsim plăcere şi satisfacție. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Barclay Buxton"
         },
         {
           "type": "prose",
@@ -1447,7 +1555,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Întotdeauna mi s-a părut că este mai periculos să pluteşti pe ape liniştite. Când bate vântul şi marea mugeşte, până şi cei ador- miți se trezesc şi-L cheamă în ajutor pe Dumnezeu. <i>—John Wesley</i></p>"
+          "html": "<p>Întotdeauna mi s-a părut că este mai periculos să pluteşti pe ape liniştite. Când bate vântul şi marea mugeşte, până şi cei ador- miți se trezesc şi-L cheamă în ajutor pe Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         }
       ]
     },
@@ -1471,7 +1583,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Rugați pe Domnul secerişului să trimită lucrători la secerişul Său! Da, lucrători! Adică nişte oameni care îşi dau haina jos, îşi suflecă mânecile şi – cu bunăvoință, hotărâre şi curaj – fac ceea ce trebuie făcut pentru Stăpân! <i>—John Harrison</i></p>"
+          "html": "<p>Rugați pe Domnul secerişului să trimită lucrători la secerişul Său! Da, lucrători! Adică nişte oameni care îşi dau haina jos, îşi suflecă mânecile şi – cu bunăvoință, hotărâre şi curaj – fac ceea ce trebuie făcut pentru Stăpân! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Harrison"
         },
         {
           "type": "prose",

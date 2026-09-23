@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "en",
   "month": "11",
   "readings": [
@@ -1525,7 +1525,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">A strange, mysterious life pervades the Bible, which makes it not only an inexplicable mystery, but an indestructible Book. It is also life-giving. Its Living Waters make everything to live, wherever the river of God cometh. The living Spirit of God here speaks to the responsive spirit of man. And so down through the ages this Book continues to go, a mighty miracle worker, forever undying in itself, and carrying to the nations a message and a power which are both Divine.<i>-Dr. A. T. Pierson.</i></p>"
+          "html": "<p class=\"justify\">A strange, mysterious life pervades the Bible, which makes it not only an inexplicable mystery, but an indestructible Book. It is also life-giving. Its Living Waters make everything to live, wherever the river of God cometh. The living Spirit of God here speaks to the responsive spirit of man. And so down through the ages this Book continues to go, a mighty miracle worker, forever undying in itself, and carrying to the nations a message and a power which are both Divine.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. A. T. Pierson"
         },
         {
           "type": "poem",
@@ -2283,7 +2287,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Each heart must pass through the furnace for itself. To hear of the refining of others has no lasting effect on the heart’s own alloy.<i>-Florence Barclay.</i></p>"
+          "html": "<p class=\"justify\">Each heart must pass through the furnace for itself. To hear of the refining of others has no lasting effect on the heart’s own alloy.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Florence Barclay"
         }
       ]
     },

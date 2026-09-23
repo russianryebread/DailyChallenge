@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "ro",
   "month": "01",
   "readings": [
@@ -66,7 +66,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>A fi nemulţumit de tine însuţi cu o nemulţumire divină şi a te ruşina de tine însuţi cu o ruşine nobilă este deopotrivă sămânţa şi prima roadă a oricărei virtuţi. <i>— Charles Kingsley</i></p>"
+          "html": "<p>A fi nemulţumit de tine însuţi cu o nemulţumire divină şi a te ruşina de tine însuţi cu o ruşine nobilă este deopotrivă sămânţa şi prima roadă a oricărei virtuţi. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles Kingsley"
         }
       ]
     },
@@ -138,7 +142,7 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nicidecum şi niciodată nu ne vom simţi bine în mod real înainte de a face din Univers odăiţa noastră de rugăciune şi de a umbla pretutindeni sub călăuzirea Duhului Sfânt.</p>"
+          "html": "<p>Nicidecum şi niciodată nu ne vom simţi bine în mod real înainte de a face din Univers odăiţa noastră de rugăciune şi de a umbla pretutindeni sub călăuzirea Duhului Sfânt. </p>"
         },
         {
           "type": "attribution",
@@ -194,7 +198,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Domnul nostru a trăit vreme de treizeci de ani în mijlocul evenimentelor mărunte ale vieţii de zi cu zi din micul Nazaret. Micile oraşe îşi spun povestea în evenimente mărunte. Iar El, viitorul Mare Preot al slavei, şi-a petrecut viaţa în atelierul unui tâmplar. Şi-a dus zilele printre sarcini monotone, griji mărunte, bârfe locale şi tranzacţii neînsemnate – şi a fost credincios în cele mai mici lucruri. Înainte de a Se reîntoarce pe tron la dreapta Tatălui ceresc, Şi-a purtat coroana şi în circumstanţe lipsite de glorie. Niciodată nu a pus-o jos. <i>—J.H. Jowett</i></p>"
+          "html": "<p>Domnul nostru a trăit vreme de treizeci de ani în mijlocul evenimentelor mărunte ale vieţii de zi cu zi din micul Nazaret. Micile oraşe îşi spun povestea în evenimente mărunte. Iar El, viitorul Mare Preot al slavei, şi-a petrecut viaţa în atelierul unui tâmplar. Şi-a dus zilele printre sarcini monotone, griji mărunte, bârfe locale şi tranzacţii neînsemnate – şi a fost credincios în cele mai mici lucruri. Înainte de a Se reîntoarce pe tron la dreapta Tatălui ceresc, Şi-a purtat coroana şi în circumstanţe lipsite de glorie. Niciodată nu a pus-o jos. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.H. Jowett"
         }
       ]
     },
@@ -306,7 +314,7 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cât de multe poveri poate pune Domnul pe umerii tăi? Care este punctul tău de sarcină maximă – punctul în care te prăbuşeşti sub greutatea poverii? Vei scânci, vei bombăni şi te vei plânge, sau vei accepta totul în linişte. Ba, şi încă ceva pe deasupra, şi vei vorbi, asemenea lui Pavel, despre <i>„întristările noastre uşoare de o clipă” </i>(2 Corinteni 4.17, n.red.)?</p>"
+          "html": "<p>Cât de multe poveri poate pune Domnul pe umerii tăi? Care este punctul tău de sarcină maximă – punctul în care te prăbuşeşti sub greutatea poverii? Vei scânci, vei bombăni şi te vei plânge, sau vei accepta totul în linişte. Ba, şi încă ceva pe deasupra, şi vei vorbi, asemenea lui Pavel, despre <i>„întristările noastre uşoare de o clipă” </i>(2 Corinteni 4.17, n.red.)? </p>"
         },
         {
           "type": "attribution",
@@ -418,7 +426,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Să pot spune-ntruna şi fără ocol<br>\nCă, dacă mă laşi pe pământ, am un rol. <i>––Autor necunoscut</i></p>"
+          "html": "<p>Să pot spune-ntruna şi fără ocol<br>\nCă, dacă mă laşi pe pământ, am un rol. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         }
       ]
     },
@@ -450,7 +462,7 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"p6\">El vine cu blândeţe. El vine cu dragoste. El vine într-o misiune a bunăvoinţei infinite, a îndurării, a păcii, a ajutorării şi a bucuriei. El este Avocatul care mijloceşte între Tatăl şi Fiul pe de o parte şi noi, oamenii, de cealaltă parte. El reprezintă şi execută planurile şi scopurile răscumpărătoare ale Dumnezeului Triunic. Aşa cum spunea unul dintre foştii mei profesori, Daniel Steele, «El este Directorul Executiv al Divinităţii»“. –</p>"
+          "html": "<p class=\"p6\">El vine cu blândeţe. El vine cu dragoste. El vine într-o misiune a bunăvoinţei infinite, a îndurării, a păcii, a ajutorării şi a bucuriei. El este Avocatul care mijloceşte între Tatăl şi Fiul pe de o parte şi noi, oamenii, de cealaltă parte. El reprezintă şi execută planurile şi scopurile răscumpărătoare ale Dumnezeului Triunic. Aşa cum spunea unul dintre foştii mei profesori, Daniel Steele, «El este Directorul Executiv al Divinităţii»“. </p>"
         },
         {
           "type": "attribution",
@@ -490,7 +502,7 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"p6\">Oare ne vom putea plăti noi vreodată datoria faţă de Cristos? Într-o mică măsură da. Cum anume? Lăsând ca Vestea Bună să treacă prin noi spre alţii care nu au auzit-o niciodată. –</p>"
+          "html": "<p class=\"p6\">Oare ne vom putea plăti noi vreodată datoria faţă de Cristos? Într-o mică măsură da. Cum anume? Lăsând ca Vestea Bună să treacă prin noi spre alţii care nu au auzit-o niciodată. </p>"
         },
         {
           "type": "attribution",
@@ -498,7 +510,7 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"p6\">Când oare va putea Dumnezeu să-i spună lui Satan: „I-ai văzut pe creştinii Mei? Nu mai caută aur sau plăceri, onoruri sau o viaţă tihnită; de acum înainte creştinii Mei vor fi gata să-şi verse sângele cu dragoste, pentru cauza Fiului Meu preaiubit şi pentru mântuirea celor mai nevoiaşi dintre oameni.” –</p>"
+          "html": "<p class=\"p6\">Când oare va putea Dumnezeu să-i spună lui Satan: „I-ai văzut pe creştinii Mei? Nu mai caută aur sau plăceri, onoruri sau o viaţă tihnită; de acum înainte creştinii Mei vor fi gata să-şi verse sângele cu dragoste, pentru cauza Fiului Meu preaiubit şi pentru mântuirea celor mai nevoiaşi dintre oameni.” </p>"
         },
         {
           "type": "attribution",
@@ -541,8 +553,8 @@
           "html": "<p>Nu trist accept eu, Doamne, ce-mi alegi, Nu temător ţin calea sfintei legi,<br>\nCi mâna mea-n a Ta cu drag mi-o pun Şi bucuros duc jugul Tău cel bun.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p><i>Prelucrare de C.M. a unui catren dintr-un poem scris de lordul Alfred Tennyson</i></p>"
+          "type": "attribution",
+          "text": "Prelucrare de C.M. a unui catren dintr-un poem scris de lordul Alfred Tennyson"
         },
         {
           "type": "prose",
@@ -554,7 +566,7 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dar jertfa aceasta nu trebuie să vină doar de pe buze, ci viaţa noastră întreagă trebuie să fie predată Domnului cu bucurie. Da, cu bucurie şi cu recunoştinţă, nu cu ezitări şi stinghereală. Fiecare părticică a personalităţii noastre trebuie să fie închinată Lui şi orice lucru pe care-l facem să fie un act de slujire plină de bucurie, pentru că Domnul (Iehova) este pricina cântării şi desfătării noastre, mântuirea şi tăria noastră. –</p>"
+          "html": "<p>Dar jertfa aceasta nu trebuie să vină doar de pe buze, ci viaţa noastră întreagă trebuie să fie predată Domnului cu bucurie. Da, cu bucurie şi cu recunoştinţă, nu cu ezitări şi stinghereală. Fiecare părticică a personalităţii noastre trebuie să fie închinată Lui şi orice lucru pe care-l facem să fie un act de slujire plină de bucurie, pentru că Domnul (Iehova) este pricina cântării şi desfătării noastre, mântuirea şi tăria noastră. </p>"
         },
         {
           "type": "attribution",
@@ -598,7 +610,7 @@
         },
         {
           "type": "prose",
-          "html": "<p>ce ţine de firea noastră pământească, tot egoismul nostru subtil – care se poate manifesta sub atâtea forme – este cercetat şi alungat din sufletul nostru pentru că nu poate supravieţui în prezenţa Lui. Laudele oamenilor devin asemenea prafului de sub tălpile noastre şi tremurăm efectiv la gândul de a fi cinstiţi de oameni sau de a ni se acorda o oarecare vrednicie în lumea aceasta. –</p>"
+          "html": "<p>ce ţine de firea noastră pământească, tot egoismul nostru subtil – care se poate manifesta sub atâtea forme – este cercetat şi alungat din sufletul nostru pentru că nu poate supravieţui în prezenţa Lui. Laudele oamenilor devin asemenea prafului de sub tălpile noastre şi tremurăm efectiv la gândul de a fi cinstiţi de oameni sau de a ni se acorda o oarecare vrednicie în lumea aceasta. </p>"
         },
         {
           "type": "attribution",
@@ -718,7 +730,7 @@
         },
         {
           "type": "prose",
-          "html": "<p>Îndoielile scepticilor se nasc nu neapărat din lectura unor cărţi rele, cât mai ales din cauza acelor creştini care nu se aseamănă cu Domnul Isus Cristos. Multe din prejudecăţile oamenilor faţă de religie îşi au rădăcinile în modul de viaţă aspru şi lipsit de bunătate al creştinilor; sau, chiar în indiferenţa lor condamnabilă faţă de aspectele mărunte ale vieţii de zi cu zi. Oricât de mult ne-am gândi noi la „lucrurile de sus”, această atitudine nu va compensa niciodată lipsa de acurateţe a vorbelor noastre sau lipsa de corectitudine a faptelor noastre. –</p>"
+          "html": "<p>Îndoielile scepticilor se nasc nu neapărat din lectura unor cărţi rele, cât mai ales din cauza acelor creştini care nu se aseamănă cu Domnul Isus Cristos. Multe din prejudecăţile oamenilor faţă de religie îşi au rădăcinile în modul de viaţă aspru şi lipsit de bunătate al creştinilor; sau, chiar în indiferenţa lor condamnabilă faţă de aspectele mărunte ale vieţii de zi cu zi. Oricât de mult ne-am gândi noi la „lucrurile de sus”, această atitudine nu va compensa niciodată lipsa de acurateţe a vorbelor noastre sau lipsa de corectitudine a faptelor noastre. </p>"
         },
         {
           "type": "attribution",
@@ -726,7 +738,7 @@
         },
         {
           "type": "prose",
-          "html": "<p>Lasă ca viaţa ta să predice! –</p>"
+          "html": "<p>Lasă ca viaţa ta să predice! </p>"
         },
         {
           "type": "attribution",
@@ -806,7 +818,7 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cu toate acestea, vulturul, şi nu stridia, este emblema Statelor Unite ale Americii. –</p>"
+          "html": "<p>Cu toate acestea, vulturul, şi nu stridia, este emblema Statelor Unite ale Americii. </p>"
         },
         {
           "type": "attribution",
@@ -826,7 +838,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu putem umbla cu Cristos şi în acelaşi timp să avem inimile mici, deoarece inima Lui a îmbrățişat lumea întreagă şi s-a frânt pentru răscumpărarea ei. Nu putem umbla cu Cristos şi, totodată, să avem inimi reci şi împietrite, deoarece dragostea Lui ne obligă şi ne umple sufletul de simpatie şi milă. <i>––Autor necunoscut</i></p>"
+          "html": "<p>Nu putem umbla cu Cristos şi în acelaşi timp să avem inimile mici, deoarece inima Lui a îmbrățişat lumea întreagă şi s-a frânt pentru răscumpărarea ei. Nu putem umbla cu Cristos şi, totodată, să avem inimi reci şi împietrite, deoarece dragostea Lui ne obligă şi ne umple sufletul de simpatie şi milă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         },
         {
           "type": "prose",
@@ -842,7 +858,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Este o greşeală gravă să-şi imagineze cineva că a atins un înalt nivel de viaţă spirituală câtă vreme respectivul nu simte impulsul de a întinde mâna spre păcătoşii care mor în păcatele lor în preajma lui. Extazul şi încântarea care îl determină pe un muritor să stea liniştit şi să se bucure în mod egoist de euforia dragostei divine în loc să se implice pentru a transmite şi altor persoane bucuria respectivă nu sunt decât reale contrafaceri. <i>––Daniel Steele</i></p>"
+          "html": "<p>Este o greşeală gravă să-şi imagineze cineva că a atins un înalt nivel de viaţă spirituală câtă vreme respectivul nu simte impulsul de a întinde mâna spre păcătoşii care mor în păcatele lor în preajma lui. Extazul şi încântarea care îl determină pe un muritor să stea liniştit şi să se bucure în mod egoist de euforia dragostei divine în loc să se implice pentru a transmite şi altor persoane bucuria respectivă nu sunt decât reale contrafaceri. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Daniel Steele"
         },
         {
           "type": "prose",
@@ -858,7 +878,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Să nu-mi imaginez vreodată că am râvna Evangheliei înainte ca inima mea să nu fi ajuns plină până la refuz de dragoste pentru toți oamenii din lume. <i>––Henry Martyn</i></p>"
+          "html": "<p>Să nu-mi imaginez vreodată că am râvna Evangheliei înainte ca inima mea să nu fi ajuns plină până la refuz de dragoste pentru toți oamenii din lume. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Martyn"
         },
         {
           "type": "prose",
@@ -1010,7 +1034,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Când eu vorbesc despre citirea Bibliei, nu mă refer la ceea ce mă tem că a devenit o practică mult prea generală, şi anume aceea de a citi un fragment din Sfânta Scriptură de parcă ar fi vorba despre un talisman aducător de noroc. Ci ceea ce vreau să transmit eu este că muşchii şi țesuturile spirituale vor slăbi şi se vor atrofia dacă creştinii vor neglija acest mod elementar de a strânge Cuvântul în inima lor – şi anume practica de a-şi însuşi cuvintele Scripturii de parcă ar face parte din însăşi ființa lor. <i>––Alexander Maclaren</i></p>"
+          "html": "<p>Când eu vorbesc despre citirea Bibliei, nu mă refer la ceea ce mă tem că a devenit o practică mult prea generală, şi anume aceea de a citi un fragment din Sfânta Scriptură de parcă ar fi vorba despre un talisman aducător de noroc. Ci ceea ce vreau să transmit eu este că muşchii şi țesuturile spirituale vor slăbi şi se vor atrofia dacă creştinii vor neglija acest mod elementar de a strânge Cuvântul în inima lor – şi anume practica de a-şi însuşi cuvintele Scripturii de parcă ar face parte din însăşi ființa lor. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Alexander Maclaren"
         },
         {
           "type": "prose",
@@ -1122,7 +1150,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Pe de altă parte, cei care nu sunt dedicați lui Dumnezeu în rugăciune, orice necaz şi suferinţă le provoacă o stare de dezorientare şi le răpeşte puțina dragoste şi răbdare de care mai dispuneau. S-ar putea spune că a-I aparţine în întregime lui Dumnezeu este ca şi cum ai experimenta Cerul de două ori; pe când a nu fi statornic şi dedicat în totalitate Domnului este ca şi cum ai experimenta Iadul de două ori. <i>––William Bramwell</i></p>"
+          "html": "<p>Pe de altă parte, cei care nu sunt dedicați lui Dumnezeu în rugăciune, orice necaz şi suferinţă le provoacă o stare de dezorientare şi le răpeşte puțina dragoste şi răbdare de care mai dispuneau. S-ar putea spune că a-I aparţine în întregime lui Dumnezeu este ca şi cum ai experimenta Cerul de două ori; pe când a nu fi statornic şi dedicat în totalitate Domnului este ca şi cum ai experimenta Iadul de două ori. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—William Bramwell"
         },
         {
           "type": "prose",
@@ -1154,7 +1186,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Aş face bine să aloc zilnic mai mult timp exercițiilor spirituale – să zicem două ore sau măcar o oră şi jumătate – ca să văd dacă nu cumva reuşesc să întrețin mai constant o stare de spirit devoțională, să cultiv un sentiment mai profund al lucrurilor nevăzute, să am o dragoste mai caldă pentru Dumnezeu, să manifest o mai puternică foame şi o mai vie sete după neprihănire, să-mi fie inima mai puțin predispusă la a fi murdărită de preocupări, planuri, pasiuni şi temeri lumeşti, şi să fiu copleşit de un dor real, nedisimulat, după Cer, după desfătările şi puritatea lui. <i>––William Wilberforce</i></p>"
+          "html": "<p>Aş face bine să aloc zilnic mai mult timp exercițiilor spirituale – să zicem două ore sau măcar o oră şi jumătate – ca să văd dacă nu cumva reuşesc să întrețin mai constant o stare de spirit devoțională, să cultiv un sentiment mai profund al lucrurilor nevăzute, să am o dragoste mai caldă pentru Dumnezeu, să manifest o mai puternică foame şi o mai vie sete după neprihănire, să-mi fie inima mai puțin predispusă la a fi murdărită de preocupări, planuri, pasiuni şi temeri lumeşti, şi să fiu copleşit de un dor real, nedisimulat, după Cer, după desfătările şi puritatea lui. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—William Wilberforce"
         }
       ]
     },
@@ -1190,7 +1226,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cea mai acută nevoie a lumii în zilele noastre este nevoia de mai mulți bărbați şi femei după chipul şi asemănarea lui Cristos. Lumea are nevoie de predici trăite. <i>––Theodore Cuyler</i></p>"
+          "html": "<p>Cea mai acută nevoie a lumii în zilele noastre este nevoia de mai mulți bărbați şi femei după chipul şi asemănarea lui Cristos. Lumea are nevoie de predici trăite. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
@@ -1254,7 +1294,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>marele adevăr că putem fi consideraţi fără nici o vină, chiar dacă nu trăim nici măcar o singură zi neînvinovățiți. <i>––Dean Farrar</i></p>"
+          "html": "<p>marele adevăr că putem fi consideraţi fără nici o vină, chiar dacă nu trăim nici măcar o singură zi neînvinovățiți. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dean Farrar"
         },
         {
           "type": "prose",
@@ -1320,7 +1364,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Viața ta duhovnicească trebuie să fie în fiecare zi o dovadă a faptului că Dumnezeu poate face imposibilul. Viața ta duhovnicească trebuie să se constituie dintr-o serie de imposibilități devenite posibile şi reale prin atotputernicia lui Dumnezeu. De asta au nevoie creştinii. Te închini unui Dumnezeu atotputernic şi trebuie să ajungi să înțelegi un lucru: nu vrei puțin din puterea lui Dumnezeu, ci vrei – spunând asta cu toată reverența – toată atotputernicia lui Dumnezeu, ca să te păstreze pe cale şi ca să poți trăi ca un creştin veritabil. <i>––Andrew Murray</i></p>"
+          "html": "<p>Viața ta duhovnicească trebuie să fie în fiecare zi o dovadă a faptului că Dumnezeu poate face imposibilul. Viața ta duhovnicească trebuie să se constituie dintr-o serie de imposibilități devenite posibile şi reale prin atotputernicia lui Dumnezeu. De asta au nevoie creştinii. Te închini unui Dumnezeu atotputernic şi trebuie să ajungi să înțelegi un lucru: nu vrei puțin din puterea lui Dumnezeu, ci vrei – spunând asta cu toată reverența – toată atotputernicia lui Dumnezeu, ca să te păstreze pe cale şi ca să poți trăi ca un creştin veritabil. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Andrew Murray"
         },
         {
           "type": "prose",
@@ -1328,7 +1376,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Epuizează în orice situație posibilitățile omeneşti şi apoi încrede-te în Dumnezeu să facă ceea ce din punct de vedere omenesc este absolut imposibil. <i>––I. Lilias Trotter</i></p>"
+          "html": "<p>Epuizează în orice situație posibilitățile omeneşti şi apoi încrede-te în Dumnezeu să facă ceea ce din punct de vedere omenesc este absolut imposibil. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—I. Lilias Trotter"
         },
         {
           "type": "prose",
@@ -1360,7 +1412,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Rodul muncii mele se dusese pe copcă şi eforturile mele se dovediseră zadarnice. Dar am învățat o lecție care a meritat prețul pe care l-am plătit, şi anume că, înainte de a putea fi umpluți, trebuie să ne golim. Dumnezeu nu poate transmite mesajul Său unor urechi pline. Duhul Sfânt nu-Şi poate revărsa plinătatea în oameni care sunt deja plini. <i>––A.B. Simpson</i></p>"
+          "html": "<p>Rodul muncii mele se dusese pe copcă şi eforturile mele se dovediseră zadarnice. Dar am învățat o lecție care a meritat prețul pe care l-am plătit, şi anume că, înainte de a putea fi umpluți, trebuie să ne golim. Dumnezeu nu poate transmite mesajul Său unor urechi pline. Duhul Sfânt nu-Şi poate revărsa plinătatea în oameni care sunt deja plini. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—A.B. Simpson"
         },
         {
           "type": "prose",
@@ -1380,7 +1436,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>De nimic nu trebuie să-ți fie atât de teamă în viață încât sufletul să-şi piardă sensibilitatea la vocea lui Dumnezeu; încât Dumnezeu să-ţi vorbească şi să descopere că eşti aşa de tare de urechi şi nu auzi ceea ce îți spune; încât Dumnezeu să vrea cu tot dinadinsul ca voința ta să facă un anumit lucru, şi inima ta să nu fie prima dispusă să se supună. <i>––Henry Drummond</i></p>"
+          "html": "<p>De nimic nu trebuie să-ți fie atât de teamă în viață încât sufletul să-şi piardă sensibilitatea la vocea lui Dumnezeu; încât Dumnezeu să-ţi vorbească şi să descopere că eşti aşa de tare de urechi şi nu auzi ceea ce îți spune; încât Dumnezeu să vrea cu tot dinadinsul ca voința ta să facă un anumit lucru, şi inima ta să nu fie prima dispusă să se supună. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Drummond"
         }
       ]
     },
@@ -1488,8 +1548,8 @@
           "html": "<p>Zărind acele clipe minunate<br>\nCând Dumnezeu va fi El totu-n toate.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p><i>Prelucrare de C.M. după un poem publicat în Medalii religioase</i></p>"
+          "type": "attribution",
+          "text": "Prelucrare de C.M. după un poem publicat în Medalii religioase"
         },
         {
           "type": "prose",
@@ -1501,7 +1561,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Aceia care văd cu ochii credinței pe Dumnezeul invizibil şi Cetatea Cerească nu iau în seamă pierderile şi costurile actuale ale umblării pe drumul crucii. <i>––Samuel Rutherford</i></p>"
+          "html": "<p>Aceia care văd cu ochii credinței pe Dumnezeul invizibil şi Cetatea Cerească nu iau în seamă pierderile şi costurile actuale ale umblării pe drumul crucii. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Rutherford"
         }
       ]
     },
@@ -1581,7 +1645,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Oamenii se plâng că zilele lor sunt puține, dar se poartă de parcă numărul lor nu ar avea sfârşit. <i>––Addison</i></p>"
+          "html": "<p>Oamenii se plâng că zilele lor sunt puține, dar se poartă de parcă numărul lor nu ar avea sfârşit. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Addison"
         },
         {
           "type": "prose",
@@ -1609,7 +1677,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu-ți irosi timpul în nici o activitate pe care ştii că, într-o zi, s-ar putea s-o regreţi. Nu-ți investi timpul în nici o activitate peste care să nu poți cere binecuvântarea lui Dumnezeu. Nu-ți petrece timpul în nici o activitate spre care să nu poți privi în urmă cu o conştiință împăcată atunci când te vei afla pe patul de moarte. Nu-ți petrece timpul în nici o activitate pe care să nu simți că o poți face în deplină siguranță şi decență, dacă ar fi ca moartea să te surprindă în timpul săvârşirii ei. <i>––Richard Baxter</i></p>"
+          "html": "<p>Nu-ți irosi timpul în nici o activitate pe care ştii că, într-o zi, s-ar putea s-o regreţi. Nu-ți investi timpul în nici o activitate peste care să nu poți cere binecuvântarea lui Dumnezeu. Nu-ți petrece timpul în nici o activitate spre care să nu poți privi în urmă cu o conştiință împăcată atunci când te vei afla pe patul de moarte. Nu-ți petrece timpul în nici o activitate pe care să nu simți că o poți face în deplină siguranță şi decență, dacă ar fi ca moartea să te surprindă în timpul săvârşirii ei. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Richard Baxter"
         },
         {
           "type": "prose",
@@ -1673,11 +1745,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Diavolul ştie prea bine că o oră de părtăşie strânsă şi de conversație intimă cu Dumnezeu în rugăciune poate culca la pământ tot ce a uneltit şi a construit el de-a lungul multor ani. <i>––Flavel</i></p>"
+          "html": "<p>Diavolul ştie prea bine că o oră de părtăşie strânsă şi de conversație intimă cu Dumnezeu în rugăciune poate culca la pământ tot ce a uneltit şi a construit el de-a lungul multor ani. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Flavel"
         },
         {
           "type": "prose",
-          "html": "<p>Cel care face economie de timp la rugăciune îl va pierde, iar cel care îşi petrece timpul în părtăşie cu Dumnezeu îl va recăpăta îmbogățit cu binecuvântare, putere şi rodnicie. <i>––J. H. Stumpf</i></p>"
+          "html": "<p>Cel care face economie de timp la rugăciune îl va pierde, iar cel care îşi petrece timpul în părtăşie cu Dumnezeu îl va recăpăta îmbogățit cu binecuvântare, putere şi rodnicie. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J. H. Stumpf"
         },
         {
           "type": "prose",
@@ -1685,7 +1765,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Am avut odată un ceas foarte şubred, pe care trebuia să-l fixez în fiecare dimineață ca să pot aprecia măcar cu aproximaţie ce oră din zi este. Sufletele noastre sunt ca nişte ceasuri defecte, date peste cap, pe care trebuie să le fixăm în fiecare dimineață după Soarele Neprihănirii. <i>––De Witt Talmage</i></p>"
+          "html": "<p>Am avut odată un ceas foarte şubred, pe care trebuia să-l fixez în fiecare dimineață ca să pot aprecia măcar cu aproximaţie ce oră din zi este. Sufletele noastre sunt ca nişte ceasuri defecte, date peste cap, pe care trebuie să le fixăm în fiecare dimineață după Soarele Neprihănirii. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—De Witt Talmage"
         }
       ]
     },
@@ -1740,7 +1824,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Duhul Sfânt este unul din darurile cele mai alese ale lui Dumnezeu, pe care El le-a rezervat pentru slujitorii Lui aleşi, adică aceia care Îl slujesc pe El din toată inima. <i>––Catherine Booth</i></p>"
+          "html": "<p>Duhul Sfânt este unul din darurile cele mai alese ale lui Dumnezeu, pe care El le-a rezervat pentru slujitorii Lui aleşi, adică aceia care Îl slujesc pe El din toată inima. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Catherine Booth"
         }
       ]
     },
@@ -1788,7 +1876,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>În lipsa unor asemenea revelații, bezna şi chinurile ar fi inexplicabile, zadarnice şi hidoase. Dar revelațiile acestea se bazează pe felul în care ochii sufletului caută după ajutor. <i>––Phillips Brooks</i></p>"
+          "html": "<p>În lipsa unor asemenea revelații, bezna şi chinurile ar fi inexplicabile, zadarnice şi hidoase. Dar revelațiile acestea se bazează pe felul în care ochii sufletului caută după ajutor. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Phillips Brooks"
         },
         {
           "type": "prose",

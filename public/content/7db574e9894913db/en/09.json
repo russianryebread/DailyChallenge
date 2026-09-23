@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "en",
   "month": "09",
   "readings": [
@@ -1024,12 +1024,12 @@
             {
               "text": "Into the princely temple of Thy love.",
               "indent": true
-            },
-            {
-              "text": "—Nathaniel Krum.",
-              "indent": true
             }
           ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Nathaniel Krum"
         },
         {
           "type": "prose",
@@ -1724,7 +1724,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\"> Don’t waste life in doubts and fears; spend yourself on the work before you, well assured that the right performance of this hour’s duties will be the best preparation for the hours or ages that follow it.—<i>R. W.</i> <i>Emerson.</i></p>"
+          "html": "<p class=\"justify\"> Don’t waste life in doubts and fears; spend yourself on the work before you, well assured that the right performance of this hour’s duties will be the best preparation for the hours or ages that follow it.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—R. W. Emerson"
         },
         {
           "type": "poem",
@@ -1869,7 +1873,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Thus infectious is the gladness of a life wholly harmonized with God. Surely this acceptance of the will of God was the yoke which the Son of Man carried and which He invites us to bear with Him. In the will of God He found rest, and He promises that rest to those who bear the same yoke. For the yoke on the ox, which looks so heavy, in reality makes light the hard toil of the plow or laden cart. In that yoke Christ found joy and satisfaction, even when the will of God brought to Him base ingratitude, callous rejection, bitter opposition from the very cities He had most graced with His presence and blessed with His gifts.<i>-Unknown.</i></p>"
+          "html": "<p class=\"justify\">Thus infectious is the gladness of a life wholly harmonized with God. Surely this acceptance of the will of God was the yoke which the Son of Man carried and which He invites us to bear with Him. In the will of God He found rest, and He promises that rest to those who bear the same yoke. For the yoke on the ox, which looks so heavy, in reality makes light the hard toil of the plow or laden cart. In that yoke Christ found joy and satisfaction, even when the will of God brought to Him base ingratitude, callous rejection, bitter opposition from the very cities He had most graced with His presence and blessed with His gifts.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         }
       ]
     },

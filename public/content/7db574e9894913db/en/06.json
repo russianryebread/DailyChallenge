@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "en",
   "month": "06",
   "readings": [
@@ -89,7 +89,7 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Not without design does God write the music of our lives. Be it ours to learn the tune, and not be dismayed at the “rests.” They are not to be slurred over, not to be omitted, not to destroy the melody, not to change the keynote. If we look up, God Himself will beat the time for us. With the eye on Him, we shall strike the next note full and clear. If we sadly say to ourselves, “There is no music in a ‘rest,’” let us not forget “there is the making of music in it.”</p>"
+          "html": "<p class=\"justify\">Not without design does God write the music of our lives. Be it ours to learn the tune, and not be dismayed at the “rests.” They are not to be slurred over, not to be omitted, not to destroy the melody, not to change the keynote. If we look up, God Himself will beat the time for us. With the eye on Him, we shall strike the next note full and clear. If we sadly say to ourselves, “There is no music in a ‘rest,’” let us not forget “there is the making of music in it.” </p>"
         },
         {
           "type": "attribution",
@@ -1801,7 +1801,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Prayer is the power by which that comes to pass which would not otherwise take place.<i>-Unknown.</i> </p>"
+          "html": "<p class=\"justify\">Prayer is the power by which that comes to pass which would not otherwise take place.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         }
       ]
     },

@@ -1,44 +1,44 @@
 {
   "generatorVersion": 2,
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "correctionManifestChecksum": "7c1051f6e2bc3943b7c1dbe4da229694455681b8875a346c99279e555edb733f",
   "readingCount": 366,
   "translationCount": 732,
   "files": [
     {
       "name": "readings.en.json",
-      "bytes": 2809442,
-      "sha256": "8c6754d4d8a4223f8701e74c7b4a61b8e51d2ea88cbc5e9ff61ac67d86111f33"
+      "bytes": 2820538,
+      "sha256": "01f84aff3d3c0cb8de2ef7eb8b4aac0fada648cc978311f72173b9f823717617"
     },
     {
       "name": "readings.ro.json",
-      "bytes": 3402312,
-      "sha256": "902430a5a70c218f074f23174b9dac68f4f93d90550a4c6699f836779fe6586e"
+      "bytes": 3425037,
+      "sha256": "1beedf270fefcfd559e6adf399d7e1ddad5676aa22317844bfae74177fbb0689"
     },
     {
       "name": "catalog.en.json",
       "bytes": 35733,
-      "sha256": "4b978136e89f2da954425314d89a817cb77c4c771cc47a9f78e1536da1f9f7b4"
+      "sha256": "e8e56f44690eb0053aab4c470bfd4bbb2186b2ba62f96df47d1e90d6e77713ee"
     },
     {
       "name": "catalog.ro.json",
       "bytes": 38514,
-      "sha256": "46334613d130f917e3cf279d06289cb4daf6c6e1e985e64e6f6949d4b6272bde"
+      "sha256": "012f1105d7ae0237835aea9a8017385c3a832283d1d733f4f173728ff195a45e"
     },
     {
       "name": "search.en.json",
-      "bytes": 748883,
-      "sha256": "f24adc89c507d29c9ac8caed3ace17f7cb490b0ed9f2dd8c9466721b788b084a"
+      "bytes": 757818,
+      "sha256": "be08e5768aae38eca0efc217e41947fe4f114a69c8824cdb3148922bc4644578"
     },
     {
       "name": "search.ro.json",
-      "bytes": 978280,
-      "sha256": "345c69e4a8222ee794e0172c99c6ae626a2aa3c3fc56b605eac99e972bc48308"
+      "bytes": 978477,
+      "sha256": "8217238959332a15649234ff87391ddd9014647c71eb1d4280ed75cf9c971d75"
     },
     {
       "name": "report.json",
-      "bytes": 337270,
-      "sha256": "aca4256e481dc57f6b1b7187207c2d7feabd95501e7adb6276b7c3d4d794f0d5"
+      "bytes": 337333,
+      "sha256": "719d831b25019ddc1efa397b48e05a07a24fe5b77a13911c82b7b3ed70895f40"
     }
   ]
 }

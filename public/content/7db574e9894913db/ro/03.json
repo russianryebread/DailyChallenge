@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "ro",
   "month": "03",
   "readings": [
@@ -135,7 +135,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Asta ar trebui să fie şi experiența ta: să simți că Mâna care face rana o şi vindecă, oferind şi mângâierea, şi că Cel care ți-a golit inima a umplut golul cu Sine Însuşi. <i>––Hudson Taylor</i></p>"
+          "html": "<p>Asta ar trebui să fie şi experiența ta: să simți că Mâna care face rana o şi vindecă, oferind şi mângâierea, şi că Cel care ți-a golit inima a umplut golul cu Sine Însuşi. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hudson Taylor"
         },
         {
           "type": "prose",
@@ -176,7 +180,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dar trebuie să ne luăm şi Biblia cu noi în odăiță. În timp ce vorbim cu Dumnezeu, trebuie să-L lăsăm şi pe El să ne vorbească nouă. Dumnezeu ne hrăneşte prin Cuvântul Său. Duhul Sfânt îi călăuzeşte pe ucenicii lui Cristos <i>în tot adevărul</i>. Momentele de rugăciune fără meditație asupra unui anumit pasaj din Cuvântul lui Dumnezeu nu ne pot aduce binecuvântarea deplină de care avem aşa de multă nevoie. <i>––J.R. Miller</i></p>"
+          "html": "<p>Dar trebuie să ne luăm şi Biblia cu noi în odăiță. În timp ce vorbim cu Dumnezeu, trebuie să-L lăsăm şi pe El să ne vorbească nouă. Dumnezeu ne hrăneşte prin Cuvântul Său. Duhul Sfânt îi călăuzeşte pe ucenicii lui Cristos <i>în tot adevărul</i>. Momentele de rugăciune fără meditație asupra unui anumit pasaj din Cuvântul lui Dumnezeu nu ne pot aduce binecuvântarea deplină de care avem aşa de multă nevoie. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.R. Miller"
         },
         {
           "type": "prose",
@@ -248,7 +256,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Să facă Dumnezeu şi din noi înşine astfel de oameni şi să trăim în aşa fel încât cei care ne cunosc cel mai bine să poată spune despre fiecare dintre noi după ce vom fi plecat la Domnul: „I-a mântuit pe alții, pe sine nu s-a putut salva.” <i>––Griffith John</i></p>"
+          "html": "<p>Să facă Dumnezeu şi din noi înşine astfel de oameni şi să trăim în aşa fel încât cei care ne cunosc cel mai bine să poată spune despre fiecare dintre noi după ce vom fi plecat la Domnul: „I-a mântuit pe alții, pe sine nu s-a putut salva.” </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Griffith John"
         },
         {
           "type": "prose",
@@ -361,11 +373,7 @@
         },
         {
           "type": "prose",
-          "html": "<p>Prin urmare, dragul meu, trăieşte în aşa fel încât acesta să fie rezultatul slujirii tale. Trăieşte în aşa fel încât slujirea ta să devină un antrenament pentru acea stare glorioasă în care slujirea nu va fi altceva decât închinare şi odihnă; în care slujitorul nu va pleca niciodată de la templu şi nici închinătorul nu va pleca de la locul de slujire, fiindcă – declară apostolul Domnului</p>"
-        },
-        {
-          "type": "attribution",
-          "text": "—„în cetate n-am văzut"
+          "html": "<p>Prin urmare, dragul meu, trăieşte în aşa fel încât acesta să fie rezultatul slujirii tale. Trăieşte în aşa fel încât slujirea ta să devină un antrenament pentru acea stare glorioasă în care slujirea nu va fi altceva decât închinare şi odihnă; în care slujitorul nu va pleca niciodată de la templu şi nici închinătorul nu va pleca de la locul de slujire, fiindcă – declară apostolul Domnului – <i>„în cetate n-am văzut</i></p>"
         },
         {
           "type": "prose",
@@ -412,20 +420,28 @@
           "text": "––John Hunt"
         },
         {
-          "type": "attribution",
-          "text": "– Ce am eu, Doamne, să-Ţi ofer?\n\nPriveşte-mă, Te rog, din Cer!\n\nÎn faţa Ta smerit eu stau:\n\nTe rog să-mi spui ce vrei să-Ţi dau?"
+          "type": "prose",
+          "html": "<p>– Ce am eu, Doamne, să-Ţi ofer?<br>\nPriveşte-mă, Te rog, din Cer!<br>\nÎn faţa Ta smerit eu stau:<br>\nTe rog să-mi spui ce vrei să-Ţi dau?</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>– Mă-ntrebi ce ai, copilul Meu? Destule daruri ţi-am dat Eu. Acum ce ai, dă-Mi totul Mie: Le voi primi cu bucurie.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>– Am o voinţă murdărită; Mai am o inimă-mpietrită. Astfel de daruri Ţi-ar aduce Un suflet mântuit la Cruce?</p>"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "– Copile, tu pricepi cam greu: Nu poţi pătrunde gândul Meu. Nu vreau nimic din tot ce ai, Pe tine-aştept să te predai.",
+            "– O, Domnul meu, acum pricep Şi voia Ta, s-o fac, încep:\n\nCa altădată Avraam,\n\nMă dau cu tot ce sunt şi am."
+          ]
         },
         {
           "type": "attribution",
-          "text": "– Mă-ntrebi ce ai, copilul Meu? Destule daruri ţi-am dat Eu. Acum ce ai, dă-Mi totul Mie: Le voi primi cu bucurie"
-        },
-        {
-          "type": "attribution",
-          "text": "– Am o voinţă murdărită; Mai am o inimă-mpietrită. Astfel de daruri Ţi-ar aduce Un suflet mântuit la Cruce?"
-        },
-        {
-          "type": "attribution",
-          "text": "– Copile, tu pricepi cam greu: Nu poţi pătrunde gândul Meu. Nu vreau nimic din tot ce ai, Pe tine-aştept să te predai.\n\n– O, Domnul meu, acum pricep Şi voia Ta, s-o fac, încep:\n\nCa altădată Avraam,\n\nMă dau cu tot ce sunt şi am.\n\n––Christina Rossetti"
+          "text": "—Christina Rossetti"
         }
       ]
     },
@@ -466,7 +482,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Voi, cei care lăsați inima unui prieten să tânjească după un cuvânt de apreciere sau simpatie, pe care intenționaţi să i-l oferiţi cândva – ah, dacă ați şti, dacă ați vedea şi dacă ați simți dintr-odată că „timpul s-a scurtat”, cum s-ar mai rupe vraja! Cum v-ați mai duce imediat să faceți lucrul pe care poate nu veți mai avea niciodată ocazia să-l faceți. <i>––Phillips Brooks</i></p>"
+          "html": "<p>Voi, cei care lăsați inima unui prieten să tânjească după un cuvânt de apreciere sau simpatie, pe care intenționaţi să i-l oferiţi cândva – ah, dacă ați şti, dacă ați vedea şi dacă ați simți dintr-odată că „timpul s-a scurtat”, cum s-ar mai rupe vraja! Cum v-ați mai duce imediat să faceți lucrul pe care poate nu veți mai avea niciodată ocazia să-l faceți. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Phillips Brooks"
         },
         {
           "type": "prose",
@@ -566,7 +586,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>În Numele Lui şi de dragul Lui, <i>fă ceva ca să rezolvi problema! </i><i>––Arrows</i></p>"
+          "html": "<p>În Numele Lui şi de dragul Lui, <i>fă ceva ca să rezolvi problema! </i></p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Arrows"
         },
         {
           "type": "prose",
@@ -618,7 +642,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Revelația biblică a voii lui Dumnezeu trebuie să fie firul cu plumb pentru toate acțiunile noastre şi steaua călăuzitoare a vieții noastre. Fiecare problemă – fie ea mică sau mare – trebuie soluționată în lumina Cuvântului lui Dumnezeu şi fiecare circumstanță a vieții noastre să-şi găsească interpretarea aici. <i>––Sora Eva</i></p>"
+          "html": "<p>Revelația biblică a voii lui Dumnezeu trebuie să fie firul cu plumb pentru toate acțiunile noastre şi steaua călăuzitoare a vieții noastre. Fiecare problemă – fie ea mică sau mare – trebuie soluționată în lumina Cuvântului lui Dumnezeu şi fiecare circumstanță a vieții noastre să-şi găsească interpretarea aici. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sora Eva"
         },
         {
           "type": "prose",
@@ -670,7 +698,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Apostolul Pavel şi-a întărit, prin comportamentul său, toate scrierile sale inspirate; „epistola vie” ne mişcă la fel de profund ca şi cuvintele pe care le-a scris celor din biserica din Roma sau din Corint. <i>––Theodore Cuyler</i></p>"
+          "html": "<p>Apostolul Pavel şi-a întărit, prin comportamentul său, toate scrierile sale inspirate; „epistola vie” ne mişcă la fel de profund ca şi cuvintele pe care le-a scris celor din biserica din Roma sau din Corint. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
@@ -710,7 +742,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ei bine, tu trebuie să ajungi acolo unde te vrea Dumnezeu cu inima ta, şi apoi urechile tale nu vor mai putea fi împiedicate să distingă glasul Lui de alte voci străine. <i>––Elizabeth S. Brengle</i></p>"
+          "html": "<p>Ei bine, tu trebuie să ajungi acolo unde te vrea Dumnezeu cu inima ta, şi apoi urechile tale nu vor mai putea fi împiedicate să distingă glasul Lui de alte voci străine. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Elizabeth S. Brengle"
         },
         {
           "type": "prose",
@@ -722,7 +758,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Când o acțiune sfântă este sugerată unui suflet sfânt, sufletul respectiv vede imediat frumusețea faptei respective şi o îmbrățişează. Dimpotrivă, dacă îi este sugerată o acțiune lipsită de sfințenie, gustul fățarnic îi produce greață. Aşa este condus de Duhul Domnului un om sfânt. <i>––Jonathan Edwards</i></p>"
+          "html": "<p>Când o acțiune sfântă este sugerată unui suflet sfânt, sufletul respectiv vede imediat frumusețea faptei respective şi o îmbrățişează. Dimpotrivă, dacă îi este sugerată o acțiune lipsită de sfințenie, gustul fățarnic îi produce greață. Aşa este condus de Duhul Domnului un om sfânt. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Jonathan Edwards"
         },
         {
           "type": "prose",
@@ -734,7 +774,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dimpotrivă, când mi-a lipsit sinceritatea inimii şi onestitatea înaintea lui Dumnezeu, sau când nu am aşteptat răbdător instrucțiunile Domnului, sau dacă am preferat sfatul semenilor mei declarațiilor Cuvântului Dumnezeului celui Viu, atunci am făcut greşeli mari. <i>––George Müller</i></p>"
+          "html": "<p>Dimpotrivă, când mi-a lipsit sinceritatea inimii şi onestitatea înaintea lui Dumnezeu, sau când nu am aşteptat răbdător instrucțiunile Domnului, sau dacă am preferat sfatul semenilor mei declarațiilor Cuvântului Dumnezeului celui Viu, atunci am făcut greşeli mari. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Müller"
         }
       ]
     },
@@ -774,7 +818,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>La fel stau lucrurile şi cu bucuriile; nu te mulțumi să le priveşti doar ca pe nişte simple bucurii. Şi acestea ascund daruri divine. Viața este atât de plină de semnificație şi scop, atât de plină de frumusețe sub ceea ce se vede la suprafață, încât vei descoperi că pământul nu face decât să-ți acopere cerul. Fă-ți curaj să-l revendici: asta e totul! Dar ai curaj şi conştientizează faptul că suntem împreună călători, pelerini care îşi croiesc, printr-un ținut necunoscut, drumul lor către casă. <i>––Fratele Giovanni</i></p>"
+          "html": "<p>La fel stau lucrurile şi cu bucuriile; nu te mulțumi să le priveşti doar ca pe nişte simple bucurii. Şi acestea ascund daruri divine. Viața este atât de plină de semnificație şi scop, atât de plină de frumusețe sub ceea ce se vede la suprafață, încât vei descoperi că pământul nu face decât să-ți acopere cerul. Fă-ți curaj să-l revendici: asta e totul! Dar ai curaj şi conştientizează faptul că suntem împreună călători, pelerini care îşi croiesc, printr-un ținut necunoscut, drumul lor către casă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Fratele Giovanni"
         },
         {
           "type": "prose",
@@ -838,7 +886,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă ai urma exemplul lui, acelaşi lucru ți s-ar întâmpla şi ție. Oamenii ți-ar vedea fața strălucind şi ar spune: „Cu siguranță omul acesta a fost cu Dumnezeu.” <i>––Richard Baxter</i></p>"
+          "html": "<p>Dacă ai urma exemplul lui, acelaşi lucru ți s-ar întâmpla şi ție. Oamenii ți-ar vedea fața strălucind şi ar spune: „Cu siguranță omul acesta a fost cu Dumnezeu.” </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Richard Baxter"
         },
         {
           "type": "prose",
@@ -874,7 +926,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>A sosit momentul să încercăm a pune acest principiu în practică. Să-I cerem Domnului să ne facă exact aşa: „independenți faţă de circumstanțe”. Şi aceasta datorită faptului că noi suntem atât de dependenți de El! <i>––John Harrison</i></p>"
+          "html": "<p>A sosit momentul să încercăm a pune acest principiu în practică. Să-I cerem Domnului să ne facă exact aşa: „independenți faţă de circumstanțe”. Şi aceasta datorită faptului că noi suntem atât de dependenți de El! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Harrison"
         },
         {
           "type": "prose",
@@ -902,7 +958,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Pacea nu provine din lucrurile care ne sunt exterioare, ci din adâncul sufletului nostru. O putem păstra chiar şi în mijlocul celor mai amare suferințe, dacă voința noastră rămâne neclintită şi supusă voii lui Dumnezeu. În viața aceasta, pacea izvorăşte din acceptare – chiar şi a lucrurilor dezagreabile – şi nu dintr-o eventuală scutire de a le îndura. <i>––Fénelon</i></p>"
+          "html": "<p>Pacea nu provine din lucrurile care ne sunt exterioare, ci din adâncul sufletului nostru. O putem păstra chiar şi în mijlocul celor mai amare suferințe, dacă voința noastră rămâne neclintită şi supusă voii lui Dumnezeu. În viața aceasta, pacea izvorăşte din acceptare – chiar şi a lucrurilor dezagreabile – şi nu dintr-o eventuală scutire de a le îndura. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Fénelon"
         }
       ]
     },
@@ -918,7 +978,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu-i neapărat o greşeală să te concentrezi, la un moment dat, asupra unui singur lucru. Capacitatea de a face aşa ceva, de a-ți concentra toată puterea minții asupra lucrului respectiv, poate sluji unor scopuri deosebite. Trebuie doar să fii foarte precaut, ca nu cumva ţinta pe care o urmăreşti să fie una greşită. Mai întâi asigură-te nu numai că este vorba despre un lucru bun, ci că este şi cel mai bun lucru pentru tine la momentul respectiv; apoi, tot ce găseşte mâna ta să facă, fă cu toată puterea ta! <i>––John Wesley</i></p>"
+          "html": "<p>Nu-i neapărat o greşeală să te concentrezi, la un moment dat, asupra unui singur lucru. Capacitatea de a face aşa ceva, de a-ți concentra toată puterea minții asupra lucrului respectiv, poate sluji unor scopuri deosebite. Trebuie doar să fii foarte precaut, ca nu cumva ţinta pe care o urmăreşti să fie una greşită. Mai întâi asigură-te nu numai că este vorba despre un lucru bun, ci că este şi cel mai bun lucru pentru tine la momentul respectiv; apoi, tot ce găseşte mâna ta să facă, fă cu toată puterea ta! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         },
         {
           "type": "prose",
@@ -954,7 +1018,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>În felul acesta atenția acordată în primul rând lucrurilor de maximă importanță va dobândi forța irezistibilă a obiceiului şi va deveni o regulă de viață. Nici o altă regulă nu este mai indispensabilă succesului. <i>––Caracter şi conduită</i></p>"
+          "html": "<p>În felul acesta atenția acordată în primul rând lucrurilor de maximă importanță va dobândi forța irezistibilă a obiceiului şi va deveni o regulă de viață. Nici o altă regulă nu este mai indispensabilă succesului. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Caracter şi conduită"
         }
       ]
     },
@@ -1070,7 +1138,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Omul este singura creatură din lumea aceasta care nu ştie ce este bine pentru el – nu îşi cunoaşte propriul mediu. Peştele se zbate să scape din cârligul care l-ar scoate din apă. Pasărea încearcă să scape din lațul vânătorului. Dar omul este atât de uşor de ademenit de la apa vieții, de la aerul său nativ. El renunță la apa adevărată pentru o imitație palidă, la aerul adevărat pentru o bucată de spațiu colorat. De aceea, dintre toate creaturile, omul este cea mai nefericită făptură. <i>––George Matheson</i></p>"
+          "html": "<p>Omul este singura creatură din lumea aceasta care nu ştie ce este bine pentru el – nu îşi cunoaşte propriul mediu. Peştele se zbate să scape din cârligul care l-ar scoate din apă. Pasărea încearcă să scape din lațul vânătorului. Dar omul este atât de uşor de ademenit de la apa vieții, de la aerul său nativ. El renunță la apa adevărată pentru o imitație palidă, la aerul adevărat pentru o bucată de spațiu colorat. De aceea, dintre toate creaturile, omul este cea mai nefericită făptură. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Matheson"
         },
         {
           "type": "prose",
@@ -1110,7 +1182,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu are nici un rost să încerci să alungi prin puterea voinței patimile furioase din viața ta. Cine nu a luat o astfel de hotărâre de mii de ori, pentru ca apoi să vadă umilit cum se duce pe apa sâmbetei la prima ispită? Sufletul trebuie îndulcit nu scoțând din el fluidele acide, ci punând ceva în el – o mare dragoste, dragostea imensă a lui Dumnezeu. Aceasta va opera o schimbare de ordin chimic în suflet, îl va înnoi şi îl va regenera, dizolvând fluidele acelea în substanța sa bogată şi parfumată. Dacă un om îngăduie să se întâmple acest eveniment în viața sa, el va ajunge complet vindecat; dacă nu, nu există pentru el nici o altă speranță. <i>––Henry Drummond</i></p>"
+          "html": "<p>Nu are nici un rost să încerci să alungi prin puterea voinței patimile furioase din viața ta. Cine nu a luat o astfel de hotărâre de mii de ori, pentru ca apoi să vadă umilit cum se duce pe apa sâmbetei la prima ispită? Sufletul trebuie îndulcit nu scoțând din el fluidele acide, ci punând ceva în el – o mare dragoste, dragostea imensă a lui Dumnezeu. Aceasta va opera o schimbare de ordin chimic în suflet, îl va înnoi şi îl va regenera, dizolvând fluidele acelea în substanța sa bogată şi parfumată. Dacă un om îngăduie să se întâmple acest eveniment în viața sa, el va ajunge complet vindecat; dacă nu, nu există pentru el nici o altă speranță. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Drummond"
         },
         {
           "type": "prose",
@@ -1125,8 +1201,8 @@
           "html": "<p>Aceasta este puterea de eliminare a răului pe care o exercită o afecțiune curată. Biruința asupra păcatului nu se dobândeşte prin eforturi proprii, ci deschizându-ți inima pentru dragostea lui Cristos. Când pătrunde în inimă dragostea Lui, ea alungă orice afecțiuni rele şi ridică întreaga ființă la un nivel de pace şi biruință.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p><i>James Burns</i></p>"
+          "type": "attribution",
+          "text": "James Burns"
         }
       ]
     },
@@ -1142,11 +1218,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Toate învățăturile noastre despre consacrare vor fi zadarnice dacă nu se ajunge la punctul în care Dumnezeu să fie <i>totul </i>în noi înşine. Ce înseamnă când spunem că trebuie să ne dăruim pe noi înşine ca pe nişte jertfe vii? Nu înseamnă nimic dacă acest lucru nu este adevărat în viața noastră – dacă Dumnezeu nu este <i>totul</i>. De ce ne plângem atât de mult de slăbiciune, de eşecuri, de binecuvântări pierdute, de umblare în întuneric? Singura explicaţie valabilă este următoarea: Dumnezeu nu Şi-a primit locul cuvenit în inima noastră. <i>––Andrew Murray</i></p>"
+          "html": "<p>Toate învățăturile noastre despre consacrare vor fi zadarnice dacă nu se ajunge la punctul în care Dumnezeu să fie <i>totul </i>în noi înşine. Ce înseamnă când spunem că trebuie să ne dăruim pe noi înşine ca pe nişte jertfe vii? Nu înseamnă nimic dacă acest lucru nu este adevărat în viața noastră – dacă Dumnezeu nu este <i>totul</i>. De ce ne plângem atât de mult de slăbiciune, de eşecuri, de binecuvântări pierdute, de umblare în întuneric? Singura explicaţie valabilă este următoarea: Dumnezeu nu Şi-a primit locul cuvenit în inima noastră. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Andrew Murray"
         },
         {
           "type": "prose",
-          "html": "<p>Cele mai multe dificultăți în încercarea de a trăi viața creştină provin din încercarea de a o trăi pe jumătate. <i>––Henry Drummond</i></p>"
+          "html": "<p>Cele mai multe dificultăți în încercarea de a trăi viața creştină provin din încercarea de a o trăi pe jumătate. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Drummond"
         },
         {
           "type": "prose",
@@ -1170,7 +1254,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Am renunțat la toate lucrurile pentru Cristos, şi ce am găsit? Am găsit totul în Cristos! <i>––John Calvin</i></p>"
+          "html": "<p>Am renunțat la toate lucrurile pentru Cristos, şi ce am găsit? Am găsit totul în Cristos! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Calvin"
         }
       ]
     },
@@ -1299,7 +1387,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu, dacă vrem să trăim cu adevărat, trebuie să ne facem timp pentru cel mai înalt dintre exerciții – meditația la lucrurile veşnice ale lui Dumnezeu. <i>––J.H. Jowett</i></p>"
+          "html": "<p>Nu, dacă vrem să trăim cu adevărat, trebuie să ne facem timp pentru cel mai înalt dintre exerciții – meditația la lucrurile veşnice ale lui Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.H. Jowett"
         }
       ]
     },
@@ -1327,7 +1419,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Aşa că haideți să fim cu toții blânzi şi iubitori, dar cât se poate de serioşi când vine vorba să ducem la bun sfârşit lucrarea pe care ne-a încredințat-o Dumnezeu. Timpul este scurt. Veşnicia va fi lungă. Nu avem timp de pierdut. <i>––Reader Harris</i></p>"
+          "html": "<p>Aşa că haideți să fim cu toții blânzi şi iubitori, dar cât se poate de serioşi când vine vorba să ducem la bun sfârşit lucrarea pe care ne-a încredințat-o Dumnezeu. Timpul este scurt. Veşnicia va fi lungă. Nu avem timp de pierdut. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Reader Harris"
         },
         {
           "type": "prose",
@@ -1343,7 +1439,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cu siguranță, poţi îmbina blândețea şi bunătatea cu abilitatea de a spune lucrurilor pe nume. Dar mesajul va fi de fiecare dată pus sub semnul durității de către cei care nu-l vor primi cu dragoste. Şi dacă ei ne vor răspunde cu ură la bunăvoința noastră, aceasta este însăşi crucea pe care suntem chemați s-o purtăm noi. <i>––John Wesley</i></p>"
+          "html": "<p>Cu siguranță, poţi îmbina blândețea şi bunătatea cu abilitatea de a spune lucrurilor pe nume. Dar mesajul va fi de fiecare dată pus sub semnul durității de către cei care nu-l vor primi cu dragoste. Şi dacă ei ne vor răspunde cu ură la bunăvoința noastră, aceasta este însăşi crucea pe care suntem chemați s-o purtăm noi. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         }
       ]
     },
@@ -1366,28 +1466,28 @@
           "html": "<p>„Eram într-o groapă adâncă, pe jumătate scufundat în mocirlă, şi strigam după ajutor. Când m-am uitat în sus am văzut un bărbat venerabil, cu părul cărunt, uitându-se în jos la mine.</p>"
         },
         {
-          "type": "attribution",
-          "text": "– Fiule, a zis el, locul acesta este cumplit.\n\n– Da, i-am răspuns eu, am căzut aici. Poți să mă ajuți să ies?\n\n– Fiul meu, a fost răspunsul lui, eu sunt Confucius. Dacă ai"
+          "type": "prose",
+          "html": "<p>– Fiule, a zis el, locul acesta este cumplit.<br>\n– Da, i-am răspuns eu, am căzut aici. Poți să mă ajuți să ies?<br>\n– Fiul meu, a fost răspunsul lui, eu sunt Confucius. Dacă ai</p>"
         },
         {
           "type": "prose",
           "html": "<p>fi citit cărțile mele şi ai fi urmat învățăturile mele nu ai fi ajuns niciodată aici.</p>"
         },
         {
-          "type": "attribution",
-          "text": "– Bine, părinte, am zis eu, dar poți să mă ajuți să ies?\n\nCând am ridicat din nou privirea, dispăruse.\n\nNu după mult timp am văzut o altă siluetă apropiindu-se, şi"
+          "type": "prose",
+          "html": "<p>– Bine, părinte, am zis eu, dar poți să mă ajuți să ies?<br>\nCând am ridicat din nou privirea, dispăruse.<br>\nNu după mult timp am văzut o altă siluetă apropiindu-se, şi</p>"
         },
         {
           "type": "prose",
           "html": "<p>un alt bărbat s-a aplecat spre mine. Acesta avea ochii închişi, brațele încrucişate şi părea că se uită undeva departe.</p>"
         },
         {
-          "type": "attribution",
-          "text": "– Fiule, a zis Buddha, închide ochii, încrucişează brațele şi uită de tine. Intră într-o stare de odihnă. Nu te gândi la nimic ce te-ar putea tulbura. Stai nemişcat, ca nimic să nu te poată muta de la locul tău. Atunci, fiul meu, vei fi într-o stare de odihnă la fel de plăcută ca aceea în care mă aflu eu"
+          "type": "prose",
+          "html": "<p>– Fiule, a zis Buddha, închide ochii, încrucişează brațele şi uită de tine. Intră într-o stare de odihnă. Nu te gândi la nimic ce te-ar putea tulbura. Stai nemişcat, ca nimic să nu te poată muta de la locul tău. Atunci, fiul meu, vei fi într-o stare de odihnă la fel de plăcută ca aceea în care mă aflu eu.</p>"
         },
         {
-          "type": "attribution",
-          "text": "– Bine, părinte, am răspuns eu. Aşa am să fac când am să ajung la suprafață. Poți să mă ajuți să ies?"
+          "type": "prose",
+          "html": "<p>– Bine, părinte, am răspuns eu. Aşa am să fac când am să ajung la suprafață. Poți să mă ajuți să ies?</p>"
         },
         {
           "type": "prose",
@@ -1398,8 +1498,8 @@
           "html": "<p>Începusem să disper când am văzut o altă siluetă aplecată asupra mea, una diferită de celelalte. Fața Îi era brăzdată de urmele suferinței. Am strigat către El:</p>"
         },
         {
-          "type": "attribution",
-          "text": "– Părinte, mă poți ajuta?\n\n– Copilul Meu, a zis El, care este problema?\n\nÎnainte de a apuca eu să-i răspund, Se lăsase jos în mocirlă,"
+          "type": "prose",
+          "html": "<p>– Părinte, mă poți ajuta?<br>\n– Copilul Meu, a zis El, care este problema?<br>\nÎnainte de a apuca eu să-i răspund, Se lăsase jos în mocirlă,</p>"
         },
         {
           "type": "prose",
@@ -1411,7 +1511,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Aşa a înțeles să descrie un chinez sărman dragostea plină de compasiune şi ajutorul Domnului Isus. <i>––D.L. Moody</i></p>"
+          "html": "<p>Aşa a înțeles să descrie un chinez sărman dragostea plină de compasiune şi ajutorul Domnului Isus. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—D.L. Moody"
         }
       ]
     },
@@ -1475,7 +1579,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Gândindu-mă la binecuvântările primite de-a lungul anului, mi-am dat seama că nici una nu se compară cu boala mea: ea conferă atâta viață, atâta realism şi aprobare perspectivei mele asupra viitorului! Ea îmi spune în termeni perfect conclusivi şi inteligibili că nu aceasta este cetatea în care voi rămâne. <i>––Sir Thomas F. Buxton</i></p>"
+          "html": "<p>Gândindu-mă la binecuvântările primite de-a lungul anului, mi-am dat seama că nici una nu se compară cu boala mea: ea conferă atâta viață, atâta realism şi aprobare perspectivei mele asupra viitorului! Ea îmi spune în termeni perfect conclusivi şi inteligibili că nu aceasta este cetatea în care voi rămâne. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sir Thomas F. Buxton"
         },
         {
           "type": "prose",
@@ -1515,7 +1623,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Când nu mai rămâne nimic decât plânsul unui copilaş care se agață de mâna Tatălui, nimic decât zgomotul surd al pumnului care loveşte pieptul vameşului care strigă: <i>„Doamne, ai milă de mine, păcătosul!” </i>(cf. Luca 18.13, n.red.), nimic decât decizia ultimă: <i>„Chiar de mă va ucide, mă voi încrede în El” </i>(cf. Iov 13.15 şi contextul, n.red.), nu s-a pierdut nimic – dimpotrivă, inima smerită a obținut o mare biruință. <i>––C.H. Spurgeon</i></p>"
+          "html": "<p>Când nu mai rămâne nimic decât plânsul unui copilaş care se agață de mâna Tatălui, nimic decât zgomotul surd al pumnului care loveşte pieptul vameşului care strigă: <i>„Doamne, ai milă de mine, păcătosul!” </i>(cf. Luca 18.13, n.red.), nimic decât decizia ultimă: <i>„Chiar de mă va ucide, mă voi încrede în El” </i>(cf. Iov 13.15 şi contextul, n.red.), nu s-a pierdut nimic – dimpotrivă, inima smerită a obținut o mare biruință. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—C.H. Spurgeon"
         }
       ]
     },
@@ -1551,7 +1663,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Biblia este manualul de medicină al lui Dumnezeu, prin care El le arată oamenilor cum să scape de bolile sufleteşti. Trebuie să-i studiezi cu atenție simptomele şi metodele de tratament profilactic dacă vrei să ai un suflet sănătos. <i>––Samuel Logan Brengle</i></p>"
+          "html": "<p>Biblia este manualul de medicină al lui Dumnezeu, prin care El le arată oamenilor cum să scape de bolile sufleteşti. Trebuie să-i studiezi cu atenție simptomele şi metodele de tratament profilactic dacă vrei să ai un suflet sănătos. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Logan Brengle"
         },
         {
           "type": "prose",
@@ -1563,7 +1679,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Îşi clădeşte singur zidul, spre blocarea sfintei căi. <i>––James Montgomery</i></p>"
+          "html": "<p>Îşi clădeşte singur zidul, spre blocarea sfintei căi. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—James Montgomery"
         }
       ]
     },
@@ -1587,7 +1707,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ridică sus steagul eliberării şi stai cu bărbăţie lângă el. Într-un timp cât se poate de scurt, toate secretele vor fi dezvăluite. Aşa că, dacă eşti judecat greşit, de ce să te oboseşti să schimbi părerea oamenilor? Nu ai idee de cât efort vei fi scutit. <i>––Generalul Gordon</i></p>"
+          "html": "<p>Ridică sus steagul eliberării şi stai cu bărbăţie lângă el. Într-un timp cât se poate de scurt, toate secretele vor fi dezvăluite. Aşa că, dacă eşti judecat greşit, de ce să te oboseşti să schimbi părerea oamenilor? Nu ai idee de cât efort vei fi scutit. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Generalul Gordon"
         },
         {
           "type": "prose",
@@ -1599,19 +1723,35 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă există pe pământ un anumit element pe care oamenii să-l îndrăgească şi să-l admire mai mult decât pe oricare altul, acela este un om curajos – un om care îndrăzneşte să-l privească pe Satan în față şi să-i spună pe nume, fără nici o teamă. <i>––James A. Garfield</i></p>"
+          "html": "<p>Dacă există pe pământ un anumit element pe care oamenii să-l îndrăgească şi să-l admire mai mult decât pe oricare altul, acela este un om curajos – un om care îndrăzneşte să-l privească pe Satan în față şi să-i spună pe nume, fără nici o teamă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—James A. Garfield"
         },
         {
           "type": "prose",
-          "html": "<p>Un om curajos este acela care se teme de Domnul, dar nu se teme nici de om şi nici de Satan. <i>––Dr. Arnold</i></p>"
+          "html": "<p>Un om curajos este acela care se teme de Domnul, dar nu se teme nici de om şi nici de Satan. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. Arnold"
         },
         {
           "type": "prose",
-          "html": "<p>A păcătui prin tăcere atunci când ar trebui să protesteze face din cetăţeni nişte oameni laşi. <i>––Abraham Lincoln</i></p>"
+          "html": "<p>A păcătui prin tăcere atunci când ar trebui să protesteze face din cetăţeni nişte oameni laşi. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Abraham Lincoln"
         },
         {
           "type": "prose",
-          "html": "<p>O, Doamne, dă-mi curajul echilibrat al lui Isus, care a mers înainte în tăcere, netulburat de nimeni şi nimic şi fără teamă, chiar dacă la capătul drumului Îl aştepta dezastrul. În definitiv, eu nu trebuie să reuşesc. Trebuie să fiu credincios cu orice preț, indiferent dacă reuşesc sau falimentez. Dă-mi curajul să falimentez, dacă este nevoie, încercând să duc o viață sfântă. Amin. <i>––S. Jones</i></p>"
+          "html": "<p>O, Doamne, dă-mi curajul echilibrat al lui Isus, care a mers înainte în tăcere, netulburat de nimeni şi nimic şi fără teamă, chiar dacă la capătul drumului Îl aştepta dezastrul. În definitiv, eu nu trebuie să reuşesc. Trebuie să fiu credincios cu orice preț, indiferent dacă reuşesc sau falimentez. Dă-mi curajul să falimentez, dacă este nevoie, încercând să duc o viață sfântă. Amin. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—S. Jones"
         }
       ]
     },
@@ -1631,7 +1771,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Indiferent care este sfera pe care o umpli tu, ceea ce trebuie să faci este s-o umpli cu o inimă sfântă, şi atunci vei radia în jurul tău viață şi putere, şi vei lăsa în urma ta o influență pozitivă, sfântă şi benefică. <i>––The Royal Path of Life [Calea împărătească a vieții]</i></p>"
+          "html": "<p>Indiferent care este sfera pe care o umpli tu, ceea ce trebuie să faci este s-o umpli cu o inimă sfântă, şi atunci vei radia în jurul tău viață şi putere, şi vei lăsa în urma ta o influență pozitivă, sfântă şi benefică. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—The Royal Path of Life [Calea împărătească a vieții]"
         },
         {
           "type": "prose",

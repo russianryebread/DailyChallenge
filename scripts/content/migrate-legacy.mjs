@@ -1,5 +1,5 @@
 import { createHash } from 'node:crypto';
-import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { DatabaseSync } from 'node:sqlite';
 import { parseFragment, serialize } from 'parse5';
@@ -307,57 +307,84 @@ function isScriptureParagraph(node, text) {
   return Boolean(reference && /\d/.test(reference));
 }
 
-// Detach a trailing "—<i>Author</i>" credit baked onto the end of a prose
-// paragraph so it renders as its own attribution block. Mutates the node to
-// drop the credit and returns the normalized attribution text, or null when the
-// paragraph does not end with an italic citation.
+// Detach a credit at the end of a prose paragraph. In the source, the dash and
+// name may be inside one italic element, split across several italic elements,
+// or plain text. Only accept a plain-text credit after sentence punctuation.
 function extractTrailingAttribution(node) {
-  const children = node.childNodes ?? [];
-
-  let lastIndex = -1;
-  for (let index = children.length - 1; index >= 0; index -= 1) {
-    const child = children[index];
-    if (child.nodeName === '#text' && child.value.trim() === '') {
-      continue;
+  const textNodes = [];
+  let rawText = '';
+  const collect = (current, italic = false) => {
+    if (current.nodeName === '#text') {
+      const start = rawText.length;
+      rawText += current.value;
+      textNodes.push({ node: current, start, end: rawText.length, italic });
+      return;
     }
-    lastIndex = index;
-    break;
-  }
-  if (lastIndex < 0 || !['i', 'em'].includes(getTagName(children[lastIndex]))) {
-    return null;
-  }
+    const childItalic = italic || ['i', 'em'].includes(getTagName(current));
+    for (const child of current.childNodes ?? []) collect(child, childItalic);
+  };
+  collect(node);
 
-  let precedingText = null;
-  let precedingIndex = -1;
-  for (let index = lastIndex - 1; index >= 0; index -= 1) {
-    const child = children[index];
-    if (child.nodeName !== '#text') {
-      return null;
-    }
-    if (child.value.trim() === '') {
-      continue;
-    }
-    precedingText = child;
-    precedingIndex = index;
-    break;
-  }
-  if (!precedingText) {
-    return null;
-  }
+  const match = /[—–•-]\s*([\p{Lu}][\p{L}\p{M}.’'&\[\]\s]{0,95})\.?\s*$/u.exec(rawText);
+  if (!match) return null;
+  const name = stripTrailingPeriod(match[1].trim().replace(/\s+/g, ' '));
+  if (!name || name.split(/\s+/).length > 14) return null;
 
-  const trimmedEnd = precedingText.value.replace(/\s+$/, '');
-  if (!/[—–]$/.test(trimmedEnd)) {
-    return null;
-  }
+  const creditStart = match.index > 0 && rawText[match.index - 1] === rawText[match.index]
+    ? match.index - 1
+    : match.index;
+  const hasItalicName = textNodes.some(
+    ({ start, end, italic }) => italic && end > creditStart + 1 && start < rawText.length,
+  );
+  const beforeCredit = rawText.slice(0, creditStart);
+  if (!hasItalicName && (
+    name.split(/\s+/).length > 6 ||
+    !/[.!?…”’]\s+$/.test(beforeCredit)
+  )) return null;
+  if (!beforeCredit.trim()) return null;
 
-  const name = stripTrailingPeriod(plainText(children[lastIndex]).trim());
-  if (!name) {
-    return null;
+  for (const item of textNodes) {
+    if (item.start >= creditStart) item.node.value = '';
+    else if (item.end > creditStart) item.node.value = item.node.value.slice(0, creditStart - item.start);
   }
-
-  precedingText.value = trimmedEnd.replace(/[—–]\s*$/, '').replace(/\s+$/, '');
-  node.childNodes = children.slice(0, precedingIndex + 1);
+  const removeEmpty = (current) => {
+    current.childNodes = (current.childNodes ?? []).filter((child) => {
+      if (child.nodeName === '#text') return child.value.length > 0;
+      removeEmpty(child);
+      return !['i', 'em'].includes(getTagName(child)) || child.childNodes.length > 0;
+    });
+  };
+  removeEmpty(node);
   return `—${name}`;
+}
+
+function isStandaloneItalicCredit(node, text) {
+  const meaningful = (node.childNodes ?? []).filter(
+    (child) => child.nodeName !== '#text' || child.value.trim(),
+  );
+  if (meaningful.length !== 1 || !['i', 'em'].includes(getTagName(meaningful[0]))) {
+    return false;
+  }
+  return /^Prelucrare de\b/u.test(text) ||
+    (/^[\p{Lu}][\p{L}.']+(?:\s+[\p{Lu}][\p{L}.']+){1,3}$/u.test(text) && text.length < 80);
+}
+
+function standaloneDashCredit(text) {
+  const match = /^[-—–•]{1,2}\s*(.+?)\.?\s*$/u.exec(text.trim());
+  if (!match) return null;
+  const name = stripTrailingPeriod(match[1].trim().replace(/\s+/g, ' '));
+  if (name.length > 95 || !name) return null;
+  if (/^From the [\p{Lu}\p{L}\s]+$/u.test(name)) return `—${name}`;
+  const words = name.split(/\s+/);
+  if (words.length > 7 || !words.every((word) =>
+    /^[\p{Lu}][\p{L}\p{M}.’'\[\]]*\.?$/u.test(word) || /^[\p{Lu}]\.$/u.test(word)
+  )) return null;
+  return `—${name}`;
+}
+
+function italicDashCredit(node) {
+  if (!['i', 'em'].includes(getTagName(node))) return null;
+  return standaloneDashCredit(plainText(node));
 }
 
 function toBlocks(fragment) {
@@ -366,7 +393,17 @@ function toBlocks(fragment) {
 
   const flushPoem = () => {
     if (poemLines.length > 0) {
-      blocks.push({ type: 'poem', lines: poemLines });
+      let attribution = standaloneDashCredit(poemLines.at(-1).text);
+      if (attribution) {
+        poemLines.pop();
+      } else {
+        const last = poemLines.at(-1);
+        const match = /^(.*[.!?])([—–•-][^—–•-]{2,95})$/u.exec(last.text);
+        attribution = match ? standaloneDashCredit(match[2]) : null;
+        if (attribution) last.text = match[1];
+      }
+      if (poemLines.length) blocks.push({ type: 'poem', lines: poemLines });
+      if (attribution) blocks.push({ type: 'attribution', text: attribution });
       poemLines = [];
     }
   };
@@ -397,7 +434,8 @@ function toBlocks(fragment) {
     } else if (
       (tagName === 'p' &&
         classNames.some((name) => ['author', 'c4', 'c8', 'c10'].includes(name))) ||
-      /^[—–-]/.test(text)
+      /^(?:—|––|-(?!\s))/u.test(text) ||
+      (tagName === 'p' && isStandaloneItalicCredit(node, text))
     ) {
       blocks.push({ type: 'attribution', text: stripTrailingPeriod(text) });
     } else if (tagName === 'p') {
@@ -409,13 +447,40 @@ function toBlocks(fragment) {
     } else if (tagName === 'blockquote') {
       blocks.push({ type: 'quotation', html: serializeNode(node), text });
     } else if (tagName === 'ul' || tagName === 'ol') {
-      blocks.push({
-        type: 'list',
-        ordered: tagName === 'ol',
-        items: (node.childNodes ?? [])
-          .filter((child) => getTagName(child) === 'li')
-          .map((child) => plainText(child)),
-      });
+      let items = [];
+      const flushList = () => {
+        if (items.length) blocks.push({ type: 'list', ordered: tagName === 'ol', items });
+        items = [];
+      };
+      for (const item of (node.childNodes ?? []).filter((child) => getTagName(child) === 'li')) {
+        let segment = [];
+        let afterCredit = false;
+        const flushSegment = () => {
+          const fragment = { nodeName: '#document-fragment', childNodes: segment };
+          const segmentText = plainText(fragment);
+          if (segmentText) {
+            if (afterCredit) {
+              blocks.push({ type: 'prose', html: `<p>${serialize(fragment)}</p>`, text: segmentText });
+            } else {
+              items.push(segmentText);
+            }
+          }
+          segment = [];
+        };
+        for (const child of item.childNodes ?? []) {
+          const credit = italicDashCredit(child);
+          if (credit) {
+            flushSegment();
+            flushList();
+            blocks.push({ type: 'attribution', text: credit });
+            afterCredit = true;
+          } else {
+            segment.push(child);
+          }
+        }
+        flushSegment();
+      }
+      flushList();
     } else {
       blocks.push({ type: 'unknown', html: serializeNode(node), text });
     }
@@ -507,11 +572,12 @@ function convertRow(sourceRow, database, locale, correctionManifest) {
   const sourceVisibleText = comparisonText(rawFragment);
   const transformedVisibleText = comparisonText(sanitized.fragment);
   const textMatches = sourceVisibleText === transformedVisibleText;
+  const readingPlainText = plainText(sanitized.fragment);
 
   const translation = {
     title: normalizedTitle,
     blocks: toBlocks(sanitized.fragment),
-    plainText: plainText(sanitized.fragment),
+    plainText: readingPlainText,
     searchAliases: row.tags?.split(/\s+/).filter(Boolean) ?? [],
     source: {
       database,
@@ -589,6 +655,10 @@ function runtimeBlock(block) {
 }
 
 function writeRuntimeLibrary(root, readings, contentVersion) {
+  const previousManifestPath = resolve(root, 'manifest.json');
+  const previousVersion = existsSync(previousManifestPath)
+    ? JSON.parse(readFileSync(previousManifestPath, 'utf8')).contentVersion
+    : null;
   const versionRoot = resolve(root, contentVersion);
   const documents = {};
 
@@ -657,6 +727,9 @@ function writeRuntimeLibrary(root, readings, contentVersion) {
   writeFileSync(resolve(versionRoot, 'manifest.json'), manifestDocument);
   mkdirSync(root, { recursive: true });
   writeFileSync(resolve(root, 'manifest.json'), manifestDocument);
+  if (previousVersion && previousVersion !== contentVersion && /^[a-f0-9]{16}$/.test(previousVersion)) {
+    rmSync(resolve(root, previousVersion), { recursive: true, force: true });
+  }
 
   return { maxFileBytes, totalBytes, fileCount: files.length };
 }

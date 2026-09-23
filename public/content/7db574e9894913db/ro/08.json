@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "ro",
   "month": "08",
   "readings": [
@@ -37,7 +37,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Marile ocazii nu transformă laşii în eroi; ele doar îi revelează celor din jur. <i>—Canon Westcott</i></p>"
+          "html": "<p>Marile ocazii nu transformă laşii în eroi; ele doar îi revelează celor din jur. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Canon Westcott"
         },
         {
           "type": "prose",
@@ -159,7 +163,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Noi spunem că umblăm prin credință. Aşa să fie oare? Există în ceruri o listă de lucruri pe care le-am obținut prin credință? Este fiecare pas, în fiecare zi, un act de credință? Chiar credem noi, în calitate de copii ai lui Dumnezeu, Biblia? <i>—Hudson Taylor</i></p>"
+          "html": "<p>Noi spunem că umblăm prin credință. Aşa să fie oare? Există în ceruri o listă de lucruri pe care le-am obținut prin credință? Este fiecare pas, în fiecare zi, un act de credință? Chiar credem noi, în calitate de copii ai lui Dumnezeu, Biblia? </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hudson Taylor"
         },
         {
           "type": "prose",
@@ -259,7 +267,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Mulți dintre noi am reuşi să facem față propriei suferințe fără să ne plângem, dacă ni s-ar îngădui să ne facem timp pentru acest lucru. Partea dificilă este că cei mai mulți suntem chemați să ne exercităm răbdarea pe stradă, nu în pat. Suntem chemați să ne în- gropăm tristețea nu în relaxare letargică, ci în slujire activă – la centrala telefonică, în biroul de contabilitate, în atelier, în momen- te de interacțiune socială, în contribuția la bucuria altuia. Nu există un act mai dificil de îngropare a tristeții decât acesta; asta înseam- nă „să alergăm cu răbdare“. <i>—George Matheson</i></p>"
+          "html": "<p>Mulți dintre noi am reuşi să facem față propriei suferințe fără să ne plângem, dacă ni s-ar îngădui să ne facem timp pentru acest lucru. Partea dificilă este că cei mai mulți suntem chemați să ne exercităm răbdarea pe stradă, nu în pat. Suntem chemați să ne în- gropăm tristețea nu în relaxare letargică, ci în slujire activă – la centrala telefonică, în biroul de contabilitate, în atelier, în momen- te de interacțiune socială, în contribuția la bucuria altuia. Nu există un act mai dificil de îngropare a tristeții decât acesta; asta înseam- nă „să alergăm cu răbdare“. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Matheson"
         },
         {
           "type": "prose",
@@ -275,7 +287,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>O, Stăpâne divin, ajută-mă să nu caut neapărat să fiu mângâiat pe cât să mângâi; sau să fiu înțeles de alții pe cât să-i înțeleg eu; ori să fiu iubit tot atâta cât să iubesc. <i>—Sfântul Francisc de Assisi</i></p>"
+          "html": "<p>O, Stăpâne divin, ajută-mă să nu caut neapărat să fiu mângâiat pe cât să mângâi; sau să fiu înțeles de alții pe cât să-i înțeleg eu; ori să fiu iubit tot atâta cât să iubesc. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sfântul Francisc de Assisi"
         }
       ]
     },
@@ -291,7 +307,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Domnul m-a umplut de dorința aceasta şi m-a făcut să-mi dau seama că trebuie să petrec tot atât de mult timp singur cu El cât acord părtăşiei cu alte persoane în public. <i>—Andrew Bonar</i></p>"
+          "html": "<p>Domnul m-a umplut de dorința aceasta şi m-a făcut să-mi dau seama că trebuie să petrec tot atât de mult timp singur cu El cât acord părtăşiei cu alte persoane în public. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Andrew Bonar"
         },
         {
           "type": "prose",
@@ -387,7 +407,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cel ce neglijează un lucru pe care bănuieşte că ar trebui să-l facă, deoarece i se pare prea neînsemnat, se înşală singur. Nu este prea mărunt, ci prea mare pentru el: de aceea nu-l face. <i>—E. P.</i></p>"
+          "html": "<p>Cel ce neglijează un lucru pe care bănuieşte că ar trebui să-l facă, deoarece i se pare prea neînsemnat, se înşală singur. Nu este prea mărunt, ci prea mare pentru el: de aceea nu-l face. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—E. P."
         },
         {
           "type": "prose",
@@ -557,11 +581,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Am pierdut, undeva între răsărit şi apus, două ceasuri de aur, fiecare bătut în şaizeci de minute de diamant. Nu se oferă recom- pensă, căci sunt pierdute pe vecie. <i>—Horace Mann</i></p>"
+          "html": "<p>Am pierdut, undeva între răsărit şi apus, două ceasuri de aur, fiecare bătut în şaizeci de minute de diamant. Nu se oferă recom- pensă, căci sunt pierdute pe vecie. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Horace Mann"
         },
         {
           "type": "prose",
-          "html": "<p>Oare de ce sunt picioarele Timpului atât de iuți şi ale noastre atât de lente?! <i>—Autor necunoscut</i></p>"
+          "html": "<p>Oare de ce sunt picioarele Timpului atât de iuți şi ale noastre atât de lente?! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         }
       ]
     },
@@ -590,7 +622,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu numai natura ne învață că trebuie să fie voia Tatălui ca fiii şi fiicele Lui să fie o familie plină de bucurie, dar şi Vechiul şi Noul Testament sunt pline de îndemnuri, ba chiar porunci, să du- cem o viață plină de bucurie. În renaşterea națiunii evreieşti, fapt consemnat în cartea Neemia, vedem că poporul a fost copleşit de discrepanța dintre viața lor – ca indivizi şi ca națiune – şi ceea ce le cerea Dumnezeu. Însă cei care învățau poporul au spus: „Ziua aceasta este închinată Domnului, Dumnezeului vostru; să nu vă bociți şi să nu plângeți [...] Duceți-vă de mâncați cărnuri grase şi beți băuturi dulci, şi trimiteți câte o parte şi celor ce n-au nimic pregătit.“ Și tot poporul s-a dus şi s-a veselit, aşa cum li se spusese. Bucuria vine de la Dumnezeu. <i>—Hudson Taylor</i></p>"
+          "html": "<p>Nu numai natura ne învață că trebuie să fie voia Tatălui ca fiii şi fiicele Lui să fie o familie plină de bucurie, dar şi Vechiul şi Noul Testament sunt pline de îndemnuri, ba chiar porunci, să du- cem o viață plină de bucurie. În renaşterea națiunii evreieşti, fapt consemnat în cartea Neemia, vedem că poporul a fost copleşit de discrepanța dintre viața lor – ca indivizi şi ca națiune – şi ceea ce le cerea Dumnezeu. Însă cei care învățau poporul au spus: „Ziua aceasta este închinată Domnului, Dumnezeului vostru; să nu vă bociți şi să nu plângeți [...] Duceți-vă de mâncați cărnuri grase şi beți băuturi dulci, şi trimiteți câte o parte şi celor ce n-au nimic pregătit.“ Și tot poporul s-a dus şi s-a veselit, aşa cum li se spusese. Bucuria vine de la Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hudson Taylor"
         }
       ]
     },
@@ -609,7 +645,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>De îndată ce un om încearcă să-şi lărgească orizontul, creşte şi numărul piedicilor puse în calea lui. Dacă îşi smulge din suflet interesul meschin şi egoist şi pune în locul lui un interes global, şi anume interesul lui Cristos, suferința îl va înconjura din toate păr- țile. Orice adaos în sfera ambiției spirituale creşte expunerea sufle- tului şi îi ascute percepția asupra debilității acestei lumi, precum şi asupra propriilor limite. <i>—J.H. Jowett</i></p>"
+          "html": "<p>De îndată ce un om încearcă să-şi lărgească orizontul, creşte şi numărul piedicilor puse în calea lui. Dacă îşi smulge din suflet interesul meschin şi egoist şi pune în locul lui un interes global, şi anume interesul lui Cristos, suferința îl va înconjura din toate păr- țile. Orice adaos în sfera ambiției spirituale creşte expunerea sufle- tului şi îi ascute percepția asupra debilității acestei lumi, precum şi asupra propriilor limite. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.H. Jowett"
         },
         {
           "type": "prose",
@@ -629,7 +669,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Este cât se poate de logic ca, dacă Diavolul există, el să lupte cu disperare împotriva celor care se vede că vor fi folosiți de Dumne- zeu. Dacă ai fi în locul Diavolului şi ai ține morțiş să dejoci planu- rile lui Dumnezeu, cum ai proceda? Nu ai acționa împotriva celor decişi să-I zidească Împărăția? Poți fi sigur că va încerca ispitirea din pustie pe fiecare fiu autentic al Tatălui. El speră să ne alunge de pe câmpul de bătălie folosindu-se de sânge, foc, fum şi ceață. Însă Căpetenia noastră a luptat şi a biruit pentru noi, aşa că noi nu tre- buie să mai facem altceva decât să rămânem pe poziție suficient de mult timp, şi victoria ne va fi asigurată. <i>—Catherine Booth</i></p>"
+          "html": "<p>Este cât se poate de logic ca, dacă Diavolul există, el să lupte cu disperare împotriva celor care se vede că vor fi folosiți de Dumne- zeu. Dacă ai fi în locul Diavolului şi ai ține morțiş să dejoci planu- rile lui Dumnezeu, cum ai proceda? Nu ai acționa împotriva celor decişi să-I zidească Împărăția? Poți fi sigur că va încerca ispitirea din pustie pe fiecare fiu autentic al Tatălui. El speră să ne alunge de pe câmpul de bătălie folosindu-se de sânge, foc, fum şi ceață. Însă Căpetenia noastră a luptat şi a biruit pentru noi, aşa că noi nu tre- buie să mai facem altceva decât să rămânem pe poziție suficient de mult timp, şi victoria ne va fi asigurată. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Catherine Booth"
         }
       ]
     },
@@ -659,7 +703,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Prin plinătatea lui Dumnezeu înțelegem toate darurile şi ha- rurile pe care El a promis să le dea omului pentru a-i face mântu- irea deplină aici pe pământ şi pentru a-l pregăti pe deplin pentru bucuria slavei eterne. Locul pe care îl umple Dumnezeu nu poate fi umplut sau ocupat de păcat sau de Satan. Pentru că, dacă un vas este umplut cu o substanță în stare lichidă, nici un strop şi nici o particulă dintr-o altă substanță nu pot pătrunde în acel vas fără a disloca o cantitate egală din substanța inițială. <i>—William Bramwell</i></p>"
+          "html": "<p>Prin plinătatea lui Dumnezeu înțelegem toate darurile şi ha- rurile pe care El a promis să le dea omului pentru a-i face mântu- irea deplină aici pe pământ şi pentru a-l pregăti pe deplin pentru bucuria slavei eterne. Locul pe care îl umple Dumnezeu nu poate fi umplut sau ocupat de păcat sau de Satan. Pentru că, dacă un vas este umplut cu o substanță în stare lichidă, nici un strop şi nici o particulă dintr-o altă substanță nu pot pătrunde în acel vas fără a disloca o cantitate egală din substanța inițială. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—William Bramwell"
         },
         {
           "type": "prose",
@@ -706,7 +754,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Aşadar, faptul că dacă vei alege să fii un creştin după chipul lui Cristos te vei pomeni în minoritate, reprezintă un motiv temeinic să fii un creştin după chipul lui Cristos. <i>—Alexander Maclaren</i></p>"
+          "html": "<p>Aşadar, faptul că dacă vei alege să fii un creştin după chipul lui Cristos te vei pomeni în minoritate, reprezintă un motiv temeinic să fii un creştin după chipul lui Cristos. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Alexander Maclaren"
         },
         {
           "type": "scripture",
@@ -715,11 +767,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Când ai dreptate, apără-ți punctul de vedere chiar dacă ar fi să cadă cerul; dacă îți vei pierde toți prietenii, Dumnezeu îți va da în locul lor alții mai buni. <i>—D.L. Moody</i></p>"
+          "html": "<p>Când ai dreptate, apără-ți punctul de vedere chiar dacă ar fi să cadă cerul; dacă îți vei pierde toți prietenii, Dumnezeu îți va da în locul lor alții mai buni. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—D.L. Moody"
         },
         {
           "type": "prose",
-          "html": "<p>Nu sunt obligat să câştig, dar sunt obligat să fiu cinstit. Nu sunt obligat să am succes, dar sunt obligat să trăiesc potrivit cu lumina care mi-a fost dată. Trebuie să stau alături de oricine este de partea dreptății – să stau alături de el când are dreptate, şi să mă despart de el când apucă pe o cale greşită. <i>—Abraham Lincoln</i></p>"
+          "html": "<p>Nu sunt obligat să câştig, dar sunt obligat să fiu cinstit. Nu sunt obligat să am succes, dar sunt obligat să trăiesc potrivit cu lumina care mi-a fost dată. Trebuie să stau alături de oricine este de partea dreptății – să stau alături de el când are dreptate, şi să mă despart de el când apucă pe o cale greşită. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Abraham Lincoln"
         },
         {
           "type": "prose",
@@ -751,7 +811,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>De foarte multe ori ceea ce Îi oferim noi lui Dumnezeu nu este ceea ce ne cere El să-I dăm. De multe ori ceea ce ne cere El este lucrul la care ținem cel mai mult; ne porunceşte să renunțăm la Isaac, la unicul fiu, la preaiubitul inimii noastre. Voia Lui este să-I predăm ceea ce iubim cel mai mult, iar dacă nu ne supunem, nu vom avea tihnă. „Cine I s-a împotrivit Celui Atotputernic şi a avut parte de pace?“ Pune tot ce ai în mâna Lui şi Dumnezeul păcii va fi cu tine. <i>—Fénelon</i></p>"
+          "html": "<p>De foarte multe ori ceea ce Îi oferim noi lui Dumnezeu nu este ceea ce ne cere El să-I dăm. De multe ori ceea ce ne cere El este lucrul la care ținem cel mai mult; ne porunceşte să renunțăm la Isaac, la unicul fiu, la preaiubitul inimii noastre. Voia Lui este să-I predăm ceea ce iubim cel mai mult, iar dacă nu ne supunem, nu vom avea tihnă. „Cine I s-a împotrivit Celui Atotputernic şi a avut parte de pace?“ Pune tot ce ai în mâna Lui şi Dumnezeul păcii va fi cu tine. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Fénelon"
         },
         {
           "type": "prose",
@@ -844,7 +908,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dumnezeu aude inima fără cuvinte, dar niciodată nu aude cu- vintele care nu vin din inimă. <i>—Autor necunoscut</i></p>"
+          "html": "<p>Dumnezeu aude inima fără cuvinte, dar niciodată nu aude cu- vintele care nu vin din inimă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         }
       ]
     },
@@ -901,7 +969,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă El ne-a dat toate lucrurile, ce motive am avea să trăim ca nişte calici spirituali? O mare parte din motivul pentru care nu-L lăudăm aşa cum ar trebui îl reprezintă faptul că nu credem cu ade- vărat ce lucruri minunate ne-a dat. „Vedeți ce lucruri mari face El pentru voi“ (1 Samuel 12:24, KJV). <i>—Frances Ridley Havergal</i></p>"
+          "html": "<p>Dacă El ne-a dat toate lucrurile, ce motive am avea să trăim ca nişte calici spirituali? O mare parte din motivul pentru care nu-L lăudăm aşa cum ar trebui îl reprezintă faptul că nu credem cu ade- vărat ce lucruri minunate ne-a dat. „Vedeți ce lucruri mari face El pentru voi“ (1 Samuel 12:24, KJV). </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Frances Ridley Havergal"
         }
       ]
     },
@@ -946,7 +1018,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>decizie pe care am luat-o vreodată, dar Mântuitorul meu are pute- rea să mă ajute s-o duc la îndeplinire. <i>—Elizabeth S. Brengle</i></p>"
+          "html": "<p>decizie pe care am luat-o vreodată, dar Mântuitorul meu are pute- rea să mă ajute s-o duc la îndeplinire. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Elizabeth S. Brengle"
         },
         {
           "type": "prose",
@@ -1003,7 +1079,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>A te încrede în Dumnezeu nu înseamnă să-I ceri tot felul de beneficii, ci este ceva premergător. A te încrede în Dumnezeu în- seamnă să fii mereu conştient de prezența Lui. În felul acesta îşi înnoiesc puterea cei ce se încred în Domnul. Medicamentul forti- fiant este El Însuşi. „Pe cine altul am eu în cer în afară de Tine? Și pe pământ nu-mi găsesc plăcerea în nimeni decât în Tine.“ Atunci când, în zilele cele mai grele, reuşim să rămânem conştienți că în El avem viața, mişcarea şi ființa, sufletul nostru scapă ca o pasăre din lațul păsărarului. <i>—G.H. Morrison</i></p>"
+          "html": "<p>A te încrede în Dumnezeu nu înseamnă să-I ceri tot felul de beneficii, ci este ceva premergător. A te încrede în Dumnezeu în- seamnă să fii mereu conştient de prezența Lui. În felul acesta îşi înnoiesc puterea cei ce se încred în Domnul. Medicamentul forti- fiant este El Însuşi. „Pe cine altul am eu în cer în afară de Tine? Și pe pământ nu-mi găsesc plăcerea în nimeni decât în Tine.“ Atunci când, în zilele cele mai grele, reuşim să rămânem conştienți că în El avem viața, mişcarea şi ființa, sufletul nostru scapă ca o pasăre din lațul păsărarului. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—G.H. Morrison"
         },
         {
           "type": "prose",
@@ -1067,12 +1147,22 @@
           "html": "<p>Regula de aur este să ne cercetăm inima, cu cea mai mare sinceritate, atunci când nu ne aflăm în focul ispitei. Dacă în urma acestei cercetări descoperi că inima ta:</p>"
         },
         {
-          "type": "attribution",
-          "text": "– iubeşte anonimatul şi tăcerea;\n\n– evită aplauzele şi scoaterea în evidență;\n\n– respectă virtuțile altora şi dă dovadă de blândețe,\n\nscuzându-le greşelile;\n\n– iartă cu uşurință greşelile care i se fac;\n\n– îi pasă din ce în ce mai puțin de disprețul altora;\n\n– consideră că mândria este caracterizată de falsita-\n\nte şi josnicie, pe când smerenia vorbeşte despre no-\n\nblețe şi măreție;\n\n– cunoaşte şi onorează bogățiile inestimabile ale Crucii\n\nşi ale umilințelor suportate de Isus Cristos;\n\n– se fereşte cu teamă de strălucirea virtuților admirate de\n\noameni şi le prețuieşte pe cele mai tainice;"
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "– iubeşte anonimatul şi tăcerea;",
+            "– evită aplauzele şi scoaterea în evidență;",
+            "– respectă virtuțile altora şi dă dovadă de blândețe,\n\nscuzându-le greşelile;",
+            "– iartă cu uşurință greşelile care i se fac;",
+            "– îi pasă din ce în ce mai puțin de disprețul altora;",
+            "– consideră că mândria este caracterizată de falsita-\n\nte şi josnicie, pe când smerenia vorbeşte despre no-\n\nblețe şi măreție;",
+            "– cunoaşte şi onorează bogățiile inestimabile ale Crucii\n\nşi ale umilințelor suportate de Isus Cristos;",
+            "– se fereşte cu teamă de strălucirea virtuților admirate de\n\noameni şi le prețuieşte pe cele mai tainice;"
+          ]
         },
         {
-          "type": "attribution",
-          "text": "– îşi găseşte alinare chiar şi în propriile defecte, pentru că acestea îi dau ocazia să se smerească"
+          "type": "prose",
+          "html": "<p>– îşi găseşte alinare chiar şi în propriile defecte, pentru că acestea îi dau ocazia să se smerească.</p>"
         },
         {
           "type": "prose",
@@ -1097,7 +1187,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Am cunoscut durerea, dar am găsit în ea de fiecare dată o compensație şi o plăcere ascunsă. Tristețea şi pierderile pe care le- am suferit m-au aruncat în brațele lui Dumnezeu, mi-au adâncit şi mi-au purificat bucuria în El. Agonia – fizică şi mentală – a dus la neaşteptate biruințe ale harului şi credinței, la o creştere a dragostei pentru alții şi a puterii de a-i înțelege şi de a-i binecuvânta. Lucru- rile pe care le-am pierdut şi cele pe care le-am câştigat, momentele de singurătate şi cele pline de dragoste, lumina şi întunericul, în- cercările şi lucrurile greu sau imposibil de înțeles – toate acestea au avut ca rezultat binecuvântări extraordinare atunci când sufletul meu s-a aplecat în fața Domnului Isus, a acceptat jugul Lui, refu- zând să se plângă sau să cârtească, ci privind întâmplările zilnice ca pe nişte lecții prin care Dumnezeu mă învață credința, răbdarea, statornicia şi dragostea. <i>—Samuel Logan Brengle</i></p>"
+          "html": "<p>Am cunoscut durerea, dar am găsit în ea de fiecare dată o compensație şi o plăcere ascunsă. Tristețea şi pierderile pe care le- am suferit m-au aruncat în brațele lui Dumnezeu, mi-au adâncit şi mi-au purificat bucuria în El. Agonia – fizică şi mentală – a dus la neaşteptate biruințe ale harului şi credinței, la o creştere a dragostei pentru alții şi a puterii de a-i înțelege şi de a-i binecuvânta. Lucru- rile pe care le-am pierdut şi cele pe care le-am câştigat, momentele de singurătate şi cele pline de dragoste, lumina şi întunericul, în- cercările şi lucrurile greu sau imposibil de înțeles – toate acestea au avut ca rezultat binecuvântări extraordinare atunci când sufletul meu s-a aplecat în fața Domnului Isus, a acceptat jugul Lui, refu- zând să se plângă sau să cârtească, ci privind întâmplările zilnice ca pe nişte lecții prin care Dumnezeu mă învață credința, răbdarea, statornicia şi dragostea. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Logan Brengle"
         },
         {
           "type": "prose",
@@ -1154,7 +1248,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Opririle unui om bun, la fel ca paşii lui, sunt poruncite de Domnul. <i>—George Müller</i></p>"
+          "html": "<p>Opririle unui om bun, la fel ca paşii lui, sunt poruncite de Domnul. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Müller"
         },
         {
           "type": "prose",
@@ -1170,7 +1268,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu cârti, aşadar, dacă la un moment dat pe cărările impre- vizibile ale Providenței eşti chemat să rabzi, şi nu să faci. Mun- ca îşi are vremea ei, dar şi odihna îşi are vremea ei. Un caracter creştin desăvârşit presupune să munceşti cu sârguință atunci când acest lucru este realizabil şi să aştepți în supunere atunci când acest lucru este necesar. <i>—W. Morley Punshon</i></p>"
+          "html": "<p>Nu cârti, aşadar, dacă la un moment dat pe cărările impre- vizibile ale Providenței eşti chemat să rabzi, şi nu să faci. Mun- ca îşi are vremea ei, dar şi odihna îşi are vremea ei. Un caracter creştin desăvârşit presupune să munceşti cu sârguință atunci când acest lucru este realizabil şi să aştepți în supunere atunci când acest lucru este necesar. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—W. Morley Punshon"
         },
         {
           "type": "prose",
@@ -1332,7 +1434,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>împlinirii lor, iar când ceasul care i-a fost acordat cu atâta bunăvo- ință se scurge, el este sigur că a obținut ceea ce a cerut, chiar dacă împlinirea tangibilă încă este departe. Ea va veni la momentul ho- tărât de Dumnezeu. <i>—Sora Eva</i></p>"
+          "html": "<p>împlinirii lor, iar când ceasul care i-a fost acordat cu atâta bunăvo- ință se scurge, el este sigur că a obținut ceea ce a cerut, chiar dacă împlinirea tangibilă încă este departe. Ea va veni la momentul ho- tărât de Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sora Eva"
         },
         {
           "type": "prose",
@@ -1393,7 +1499,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu-i mare lucru să te încrezi în Dumnezeu atâta vreme cât Îl vezi, atâta vreme cât drumul este deschis înaintea ta. Dar dacă te încrezi în El şi când eşti încolțit din toate părțile şi nu vezi nici o cale de scăpare, acesta este un lucru bun şi plăcut înaintea lui Dumnezeu. <i>—John Wesley</i></p>"
+          "html": "<p>Nu-i mare lucru să te încrezi în Dumnezeu atâta vreme cât Îl vezi, atâta vreme cât drumul este deschis înaintea ta. Dar dacă te încrezi în El şi când eşti încolțit din toate părțile şi nu vezi nici o cale de scăpare, acesta este un lucru bun şi plăcut înaintea lui Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         }
       ]
     },
@@ -1424,7 +1534,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ei bine, dacă aşa stau lucrurile cu tine, atunci dragostea ta este deplină, iar biruința Mea desăvârşită. Atunci pot să spun că am atins apogeul slavei umane; deoarece tu M-ai ales pur şi simplu de dragul Meu şi fără nici o contribuție din partea pământenilor, am atras inima ta către Cer.“ <i>—George Matheson</i></p>"
+          "html": "<p>Ei bine, dacă aşa stau lucrurile cu tine, atunci dragostea ta este deplină, iar biruința Mea desăvârşită. Atunci pot să spun că am atins apogeul slavei umane; deoarece tu M-ai ales pur şi simplu de dragul Meu şi fără nici o contribuție din partea pământenilor, am atras inima ta către Cer.“ </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Matheson"
         },
         {
           "type": "prose",
@@ -1489,7 +1603,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă am avea o plantă care se menține în viață, dar nu creşte în frumusețe şi simetrie, fără îndoială am arunca-o pe un maldăr de gunoi. Dacă am auzi despre o organizație pusă pe picioare, dar care nu realizează niciodată obiectivele în vederea cărora a fost în- temeiată, cu siguranță am trata-o cu dispreț. <i>—The King’s Highway</i></p>"
+          "html": "<p>Dacă am avea o plantă care se menține în viață, dar nu creşte în frumusețe şi simetrie, fără îndoială am arunca-o pe un maldăr de gunoi. Dacă am auzi despre o organizație pusă pe picioare, dar care nu realizează niciodată obiectivele în vederea cărora a fost în- temeiată, cu siguranță am trata-o cu dispreț. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—The King’s Highway"
         }
       ]
     },
@@ -1513,15 +1631,27 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă proclam cât pot eu de tare şi de clar fiecare părticică din adevărul lui Dumnezeu, cu excepția aspectului – fie el cât de mă- runt – pe care lumea şi Diavolul îl atacă în momentul respectiv, de fapt, eu nu-L proclam pe Cristos, indiferent de câtă îndrăzneală aş da dovadă în proclamarea lui Cristos. Loialitatea oricărui soldat este pusă la încercare în focul bătăliei, şi dacă el bate în retragere în acest moment crucial, toată bravura lui pe celelalte fronturi nu înseamnă nimic mai mult decât fugă şi ruşine. <i>—Martin Luther</i></p>"
+          "html": "<p>Dacă proclam cât pot eu de tare şi de clar fiecare părticică din adevărul lui Dumnezeu, cu excepția aspectului – fie el cât de mă- runt – pe care lumea şi Diavolul îl atacă în momentul respectiv, de fapt, eu nu-L proclam pe Cristos, indiferent de câtă îndrăzneală aş da dovadă în proclamarea lui Cristos. Loialitatea oricărui soldat este pusă la încercare în focul bătăliei, şi dacă el bate în retragere în acest moment crucial, toată bravura lui pe celelalte fronturi nu înseamnă nimic mai mult decât fugă şi ruşine. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Martin Luther"
         },
         {
           "type": "prose",
-          "html": "<p>Indiferent pe cine aş mulțumi şi pe cine aş nemulțumi, eu voi rămâne credincios lui Dumnezeu, oamenilor şi propriului meu suflet. <i>—Francis Asbury</i></p>"
+          "html": "<p>Indiferent pe cine aş mulțumi şi pe cine aş nemulțumi, eu voi rămâne credincios lui Dumnezeu, oamenilor şi propriului meu suflet. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Francis Asbury"
         },
         {
           "type": "prose",
-          "html": "<p>Laşitatea întreabă: „Este prudent?“ Spiritul practic întreabă: „Este chibzuit?“ Vanitatea întreabă: „Este la modă?“ Dar conştiința întreabă: „Este drept?“ <i>—Autor necunoscut</i></p>"
+          "html": "<p>Laşitatea întreabă: „Este prudent?“ Spiritul practic întreabă: „Este chibzuit?“ Vanitatea întreabă: „Este la modă?“ Dar conştiința întreabă: „Este drept?“ </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         },
         {
           "type": "prose",
@@ -1592,11 +1722,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nici un creştin nu poate să-şi facă provizii de har pentru viitor, aşa după cum nu poate să mănânce azi atâta cât să-i ajungă pentru următoarele şase luni, sau să inspire suficient aer în plămâni ca să-i ajungă toată săptămâna viitoare. Trebuie să ne alimentăm zi de zi, potrivit nevoilor noastre, din rezervele inepuizabile ale harului lui Dumnezeu. <i>—D.L. Moody</i></p>"
+          "html": "<p>Nici un creştin nu poate să-şi facă provizii de har pentru viitor, aşa după cum nu poate să mănânce azi atâta cât să-i ajungă pentru următoarele şase luni, sau să inspire suficient aer în plămâni ca să-i ajungă toată săptămâna viitoare. Trebuie să ne alimentăm zi de zi, potrivit nevoilor noastre, din rezervele inepuizabile ale harului lui Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—D.L. Moody"
         },
         {
           "type": "prose",
-          "html": "<p>Ziua de mâine nu-i a ta. Furi dacă încerci să te atingi de ea. Ziua de mâine este a lui Dumnezeu. Fiecare zi este destul de încăr- cată ca să țină orice om ocupat, fără a fi nevoie să se gândească la ce urmează dincolo de limitele ei. <i>—Henry Ward Beecher</i></p>"
+          "html": "<p>Ziua de mâine nu-i a ta. Furi dacă încerci să te atingi de ea. Ziua de mâine este a lui Dumnezeu. Fiecare zi este destul de încăr- cată ca să țină orice om ocupat, fără a fi nevoie să se gândească la ce urmează dincolo de limitele ei. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Ward Beecher"
         }
       ]
     },
@@ -1606,8 +1744,8 @@
       "title": "CUVÂNTUL DOMNULUI",
       "blocks": [
         {
-          "type": "attribution",
-          "text": "– O ARMĂ PLINĂ DE PUTERE"
+          "type": "unknown",
+          "html": "– O ARMĂ PLINĂ DE PUTERE\n"
         },
         {
           "type": "scripture",
@@ -1673,7 +1811,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cei care se amăgesc singuri pot fi identificați de fiecare dată cu ajutorul acestui element specific: ei trăiesc pentru propria lor plă- cere. Acesta este scopul principal al religiei lor. Toate eforturile şi activitățile lor religioase sunt îndreptate spre acest unic țel. Dacă îşi pot asigura propria convertire într-o asemenea măsură încât să fie suficient de siguri pe ea, ei se declară mulțumiți. Uneori legăturile simpatiei fireşti îi cuprind pe cei care sunt apropiați de ei, însă de obicei egoismul lor nu merge mai departe, cu excepția cazului în care au ei înşişi ceva de câştigat. <i>—Charles G. Finney</i></p>"
+          "html": "<p>Cei care se amăgesc singuri pot fi identificați de fiecare dată cu ajutorul acestui element specific: ei trăiesc pentru propria lor plă- cere. Acesta este scopul principal al religiei lor. Toate eforturile şi activitățile lor religioase sunt îndreptate spre acest unic țel. Dacă îşi pot asigura propria convertire într-o asemenea măsură încât să fie suficient de siguri pe ea, ei se declară mulțumiți. Uneori legăturile simpatiei fireşti îi cuprind pe cei care sunt apropiați de ei, însă de obicei egoismul lor nu merge mai departe, cu excepția cazului în care au ei înşişi ceva de câştigat. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles G. Finney"
         },
         {
           "type": "prose",
@@ -1681,7 +1823,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>o viață consacrată „lucrării celei mai grele şi oamenilor cu cele mai întunecate păcate“. <i>—I. Lilias Trotter</i></p>"
+          "html": "<p>o viață consacrată „lucrării celei mai grele şi oamenilor cu cele mai întunecate păcate“. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—I. Lilias Trotter"
         },
         {
           "type": "prose",

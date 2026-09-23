@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "ro",
   "month": "07",
   "readings": [
@@ -116,7 +116,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Sare presărată cu discernământ peste toate felurile de mânca- re, pentru a le da gust şi savoare – iată ce doreşte Stăpânul ceresc să facă din noi. <i>—Mark Guy Pearse</i></p>"
+          "html": "<p>Sare presărată cu discernământ peste toate felurile de mânca- re, pentru a le da gust şi savoare – iată ce doreşte Stăpânul ceresc să facă din noi. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Mark Guy Pearse"
         }
       ]
     },
@@ -147,7 +151,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dar omul care se ridică deasupra lumii se înalță deasupra acestei stări de anxietate permanentă şi corozivă. Există un duh lumesc şi există un duh ceresc; unul sau altul dintre aceste duhuri sălăşluieşte în inima fiecărui om şi îi controlează întreaga ființă. Desigur că cei care se află sub controlul lumii nu au biruit lumea. Nici un om nu biruieşte lumea până când inima lui nu este umplu- tă de Duhul ceresc. <i>—Charles G. Finney</i></p>"
+          "html": "<p>Dar omul care se ridică deasupra lumii se înalță deasupra acestei stări de anxietate permanentă şi corozivă. Există un duh lumesc şi există un duh ceresc; unul sau altul dintre aceste duhuri sălăşluieşte în inima fiecărui om şi îi controlează întreaga ființă. Desigur că cei care se află sub controlul lumii nu au biruit lumea. Nici un om nu biruieşte lumea până când inima lui nu este umplu- tă de Duhul ceresc. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles G. Finney"
         },
         {
           "type": "prose",
@@ -183,7 +191,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ar trebui să pui deoparte cel puțin o jumătate de oră pe zi, când mintea îți este mai limpede. O minte obosită nu absoarbe prea bine. Și trebuie să perseverezi în această practică până când îți vei forma obiceiul de a petrece măcar o jumătate de oră pe zi citind Biblia cu un duh liniştit, desprins total de ce este în jurul tău, pentru ca mesajul Scripturii să te poată pătrunde. În timpul acesta concentrează-te asupra Cărții în sine. Dacă vrei să citeşti sau să consulți şi alte cărți, fă acest lucru după ce ai citit din Biblie. Lasă-L pe Dumnezeu să-ți vorbească direct, şi nu prin intermediul altei persoane. Dă-I ocazia să-ți vorbească El primul, înaintea oricui. Cartea aceasta trebuie să ocupe locul de cinste la masa ta, şi toți ceilalți să stea în jurul ei. Oferă-i Bibliei locul de cinste şi atunci când vine vorba despre timpul tău. <i>—S.D. Gordon</i></p>"
+          "html": "<p>Ar trebui să pui deoparte cel puțin o jumătate de oră pe zi, când mintea îți este mai limpede. O minte obosită nu absoarbe prea bine. Și trebuie să perseverezi în această practică până când îți vei forma obiceiul de a petrece măcar o jumătate de oră pe zi citind Biblia cu un duh liniştit, desprins total de ce este în jurul tău, pentru ca mesajul Scripturii să te poată pătrunde. În timpul acesta concentrează-te asupra Cărții în sine. Dacă vrei să citeşti sau să consulți şi alte cărți, fă acest lucru după ce ai citit din Biblie. Lasă-L pe Dumnezeu să-ți vorbească direct, şi nu prin intermediul altei persoane. Dă-I ocazia să-ți vorbească El primul, înaintea oricui. Cartea aceasta trebuie să ocupe locul de cinste la masa ta, şi toți ceilalți să stea în jurul ei. Oferă-i Bibliei locul de cinste şi atunci când vine vorba despre timpul tău. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—S.D. Gordon"
         },
         {
           "type": "prose",
@@ -272,8 +284,22 @@
           "html": "<p>O, ce minunat este să ai sufletul udat de Duhul Sfânt:</p>"
         },
         {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "– în mod uniform = fiecare colț al grădinii să-şi\n\naibă izvorul lui;",
+            "– din abundență = fiecare copac şi fiecare fir de iarbă să\n\nbeneficieze de suficientă înviorare, oricât de dornic de\n\napă ar fi prin natura sa;",
+            "– în mod continuu = fiecare ceas să aducă nu doar căldu-\n\nră, ci şi înviorare;",
+            "– cu înțelepciune = fiecare plantă să primească exact\n\nceea ce onoare nevoie!\n\nÎntr-o grădină îți poți da seama după verdeață unde curge apa; la fel de repede îți poți da seama unde este prezent Duhul lui Dumnezeu."
+          ]
+        },
+        {
           "type": "attribution",
-          "text": "– în mod uniform = fiecare colț al grădinii să-şi\n\naibă izvorul lui;\n\n– din abundență = fiecare copac şi fiecare fir de iarbă să\n\nbeneficieze de suficientă înviorare, oricât de dornic de\n\napă ar fi prin natura sa;\n\n– în mod continuu = fiecare ceas să aducă nu doar căldu-\n\nră, ci şi înviorare;\n\n– cu înțelepciune = fiecare plantă să primească exact\n\nceea ce onoare nevoie!\n\nÎntr-o grădină îți poți da seama după verdeață unde curge apa; la fel de repede îți poți da seama unde este prezent Duhul lui Dumnezeu.\n\n—C. H. Spurgeon\n\nUn izvor de prospețime, loc de-odihnă am aflat Unde apa curge-n clocot pentru sufletu-nsetat. Pomi de viață poartă-n ramuri rod îmbelşugat şi rar; Sufletul mi-i plin de pace, inima se scaldă-n har"
+          "text": "—C. H. Spurgeon"
+        },
+        {
+          "type": "prose",
+          "html": "<p><br>\nUn izvor de prospețime, loc de-odihnă am aflat Unde apa curge-n clocot pentru sufletu-nsetat. Pomi de viață poartă-n ramuri rod îmbelşugat şi rar; Sufletul mi-i plin de pace, inima se scaldă-n har. <br>\n</p>"
         },
         {
           "type": "prose",
@@ -313,7 +339,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>O viață sfântă şi în armonie cu voia lui Dumnezeu constituie o mustrare continuă pentru conştiința păcătoşilor din jurul vostru şi un îndemn presant de a porni pe o altă cale. — Richard Baxter</p>"
+          "html": "<p>O viață sfântă şi în armonie cu voia lui Dumnezeu constituie o mustrare continuă pentru conştiința păcătoşilor din jurul vostru şi un îndemn presant de a porni pe o altă cale. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Richard Baxter"
         },
         {
           "type": "prose",
@@ -321,19 +351,35 @@
         },
         {
           "type": "prose",
-          "html": "<p>„Nici un om nu trăieşte pentru sine“! Cuvintele rostite astăzi de cineva într-o doară ar putea determina destinul multor inşi care nici măcar nu i-au auzit vreodată numele. De aceea este imposibil să exagerezi importanța convertirii unui singur suflet la Cristos sau a împietririi unei inimi în păcat. În ambele cazuri s-au declanşat o serie de influențe ale căror vibrații vor ajunge până la capătul lumii şi până la sfârşitul timpului. <i>—W. Morley Punshon</i></p>"
+          "html": "<p>„Nici un om nu trăieşte pentru sine“! Cuvintele rostite astăzi de cineva într-o doară ar putea determina destinul multor inşi care nici măcar nu i-au auzit vreodată numele. De aceea este imposibil să exagerezi importanța convertirii unui singur suflet la Cristos sau a împietririi unei inimi în păcat. În ambele cazuri s-au declanşat o serie de influențe ale căror vibrații vor ajunge până la capătul lumii şi până la sfârşitul timpului. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—W. Morley Punshon"
         },
         {
           "type": "prose",
-          "html": "<p>Trebuie să depunem eforturi mai mari în aplicarea învățături- lor Bibliei decât pentru apărarea lor. <i>—Autor necunoscut</i></p>"
+          "html": "<p>Trebuie să depunem eforturi mai mari în aplicarea învățături- lor Bibliei decât pentru apărarea lor. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         },
         {
           "type": "prose",
-          "html": "<p>Dacă vorbeşti bine, semeni cu un țimbal, dar dacă faci bine semeni cu un înger. <i>—Phillips Brooks</i></p>"
+          "html": "<p>Dacă vorbeşti bine, semeni cu un țimbal, dar dacă faci bine semeni cu un înger. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Phillips Brooks"
         },
         {
           "type": "prose",
-          "html": "<p>Dacă vrei să convingi pe cineva că face răul, fă tu binele. Oa- menii cred mai degrabă ceea ce văd cu proprii ochi. <i>—Thoreau</i></p>"
+          "html": "<p>Dacă vrei să convingi pe cineva că face răul, fă tu binele. Oa- menii cred mai degrabă ceea ce văd cu proprii ochi. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Thoreau"
         }
       ]
     },
@@ -366,7 +412,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cu cât mă voi afla de mai multe ori în postura de a fi încercat în credința mea – în ce priveşte trupul meu, familia mea, lucrarea pe care o fac pentru Domnul, afacerea mea etc. – cu atât voi avea mai multe oportunități de a experimenta ajutorul şi izbăvirea lui Dumnezeu; şi fiecare moment în care mă va ajuta şi mă va izbăvi va duce la creşterea credinței mele. <i>—George Müller</i></p>"
+          "html": "<p>Cu cât mă voi afla de mai multe ori în postura de a fi încercat în credința mea – în ce priveşte trupul meu, familia mea, lucrarea pe care o fac pentru Domnul, afacerea mea etc. – cu atât voi avea mai multe oportunități de a experimenta ajutorul şi izbăvirea lui Dumnezeu; şi fiecare moment în care mă va ajuta şi mă va izbăvi va duce la creşterea credinței mele. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Müller"
         },
         {
           "type": "prose",
@@ -418,15 +468,27 @@
         },
         {
           "type": "prose",
-          "html": "<p>Apoi stai şi gândeşte-te dacă bucuria ta este sau nu la fel ca a acestor personaje biblice. Și dacă nu, de ce nu? Dacă tu cârteşti acolo unde ei Îl laudă pe Domnul, dacă tu întâmpini persecuția, încercările, greutățile, privațiunile, nevoile şi tristețile cu îndârjire, cu o perseverență înverşunată şi cu un sentiment încrâncenat al datoriei, sau cu orice altceva în afară de harul şi bucuria Duhului Sfânt, cu toate roadele desăvârşite ale neprihănirii pe care le pro- duce El, cel mai bun lucru pe care l-ai putea face cu restul zilelor tale ar fi să înveți să lauzi pe Domnul. Dacă eşti un om plin de Duhul Sfânt, atunci trebuie să fii plin de bucurie – şi vei fi plin de bucurie – în orice împrejurare. <i>—Elizabeth S. Brengle</i></p>"
+          "html": "<p>Apoi stai şi gândeşte-te dacă bucuria ta este sau nu la fel ca a acestor personaje biblice. Și dacă nu, de ce nu? Dacă tu cârteşti acolo unde ei Îl laudă pe Domnul, dacă tu întâmpini persecuția, încercările, greutățile, privațiunile, nevoile şi tristețile cu îndârjire, cu o perseverență înverşunată şi cu un sentiment încrâncenat al datoriei, sau cu orice altceva în afară de harul şi bucuria Duhului Sfânt, cu toate roadele desăvârşite ale neprihănirii pe care le pro- duce El, cel mai bun lucru pe care l-ai putea face cu restul zilelor tale ar fi să înveți să lauzi pe Domnul. Dacă eşti un om plin de Duhul Sfânt, atunci trebuie să fii plin de bucurie – şi vei fi plin de bucurie – în orice împrejurare. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Elizabeth S. Brengle"
         },
         {
           "type": "prose",
-          "html": "<p>După cum lăcrămioarele îşi răspândesc în jurul lor parfumul, tot astfel o inimă bună transmite în jurul ei o atmosferă de mul- țumire. Nici un har nu-i prea mărunt pentru a-l provoca, şi nici o încercare prea grea pentru a o împiedica. Aşa cum Samson a găsit miere în hoitul leului pe care l-a ucis, şi aşa cum Moise a băut apă din stâncă, cei cu inima curată par să dețină o formulă de alchimie cerească, un secret divin prin care ştiu să scoată binecuvântări din orice lucru şi să mulțumească pentru ele. <i>—Samuel Logan Brengle</i></p>"
+          "html": "<p>După cum lăcrămioarele îşi răspândesc în jurul lor parfumul, tot astfel o inimă bună transmite în jurul ei o atmosferă de mul- țumire. Nici un har nu-i prea mărunt pentru a-l provoca, şi nici o încercare prea grea pentru a o împiedica. Aşa cum Samson a găsit miere în hoitul leului pe care l-a ucis, şi aşa cum Moise a băut apă din stâncă, cei cu inima curată par să dețină o formulă de alchimie cerească, un secret divin prin care ştiu să scoată binecuvântări din orice lucru şi să mulțumească pentru ele. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Logan Brengle"
         },
         {
           "type": "prose",
-          "html": "<p>Tristețea face săpături în inima omului, dar ea este un lucră- tor iscusit. Întristarea adânceşte canalele prin care intră fericirea, şi sapă încăperi noi unde să poată locui bucuria după ce ea [tristețea] va fi plecat. <i>—Mary Cholmondeley</i></p>"
+          "html": "<p>Tristețea face săpături în inima omului, dar ea este un lucră- tor iscusit. Întristarea adânceşte canalele prin care intră fericirea, şi sapă încăperi noi unde să poată locui bucuria după ce ea [tristețea] va fi plecat. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Mary Cholmondeley"
         }
       ]
     },
@@ -468,7 +530,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Acesta este miracolul vieții astfel binecuvântate: cel ce pier- de găseşte, cel ce moare trăieşte, cel ce se smereşte este înălțat, cel ce renunță cu smerenie la drepturile sale este înălțat într-o poziție divină de autoritate, cel ce nu posedă nimic are toate lucrurile şi orice lucru la care renunțăm de dragul lui Cristos îl primim înapoi, transformat şi slăvit în El. <i>—Sora Eva</i></p>"
+          "html": "<p>Acesta este miracolul vieții astfel binecuvântate: cel ce pier- de găseşte, cel ce moare trăieşte, cel ce se smereşte este înălțat, cel ce renunță cu smerenie la drepturile sale este înălțat într-o poziție divină de autoritate, cel ce nu posedă nimic are toate lucrurile şi orice lucru la care renunțăm de dragul lui Cristos îl primim înapoi, transformat şi slăvit în El. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sora Eva"
         }
       ]
     },
@@ -502,7 +568,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Tragedia religiei profesionale este că nu lasă loc de surprize; Îl an- corăm atât de bine pe Dumnezeu în legile Lui, în doctrine denomi- naționale şi în programe de biserică, încât Îl pierdem cu totul din vedere. Nu putem să-L prindem pe Dumnezeu la colț şi nu putem prinde nici viața spirituală la colț; a crede că putem face asta repre- zintă un blestem al credinței denominaționale: ne socotim stăpânii adevărului absolut şi credem că nimeni nu poate ajunge la el decât aşa cum spunem noi. Isus Cristos a spus: „Dacă nu vă veți face ca nişte copilaşi...“ Copilaşul are o singură certitudine: părinții lui. În rest, totul e incertitudine. Drept urmare duce o viață cât se poate de sănătoasă şi de plină de încântare. <i>—Oswald Chambers</i></p>"
+          "html": "<p>Tragedia religiei profesionale este că nu lasă loc de surprize; Îl an- corăm atât de bine pe Dumnezeu în legile Lui, în doctrine denomi- naționale şi în programe de biserică, încât Îl pierdem cu totul din vedere. Nu putem să-L prindem pe Dumnezeu la colț şi nu putem prinde nici viața spirituală la colț; a crede că putem face asta repre- zintă un blestem al credinței denominaționale: ne socotim stăpânii adevărului absolut şi credem că nimeni nu poate ajunge la el decât aşa cum spunem noi. Isus Cristos a spus: „Dacă nu vă veți face ca nişte copilaşi...“ Copilaşul are o singură certitudine: părinții lui. În rest, totul e incertitudine. Drept urmare duce o viață cât se poate de sănătoasă şi de plină de încântare. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Oswald Chambers"
         }
       ]
     },
@@ -611,7 +681,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>slujbei sale speciale şi bine definite. Am în buzunar un stilou, şi stiloul acesta este pe deplin dedicat scrisului; el trebuie să fie com- plet predat în mâna mea dacă trebuie să scriu bine cu el. Desigur că dacă ar prinde şi altcineva de stiloul meu odată cu mine, nu voi putea să scriu bine. Și atunci cum crezi că Îşi poate face Dumnezeu lucrarea Lui zi de zi şi ceas cu ceas, în ființa ta nemuritoare, în firea ta dumnezeiască pe care ai primit-o prin naştere din nou, dacă tu nu eşti pe deplin predat Lui? <i>—Andrew Murray</i></p>"
+          "html": "<p>slujbei sale speciale şi bine definite. Am în buzunar un stilou, şi stiloul acesta este pe deplin dedicat scrisului; el trebuie să fie com- plet predat în mâna mea dacă trebuie să scriu bine cu el. Desigur că dacă ar prinde şi altcineva de stiloul meu odată cu mine, nu voi putea să scriu bine. Și atunci cum crezi că Îşi poate face Dumnezeu lucrarea Lui zi de zi şi ceas cu ceas, în ființa ta nemuritoare, în firea ta dumnezeiască pe care ai primit-o prin naştere din nou, dacă tu nu eşti pe deplin predat Lui? </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Andrew Murray"
         },
         {
           "type": "prose",
@@ -697,7 +771,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>pentru citirea zilnică, dar parcurgeți întreg Cuvântul în ordine, de la început până la sfârşit. <i>—Hudson Taylor</i></p>"
+          "html": "<p>pentru citirea zilnică, dar parcurgeți întreg Cuvântul în ordine, de la început până la sfârşit. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hudson Taylor"
         },
         {
           "type": "prose",
@@ -835,7 +913,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Întrebarea nu este „Ce poți tu să faci?“, ci „Ce puteți face îm- preună, tu şi Dumnezeu?“ <i>—Abbott</i></p>"
+          "html": "<p>Întrebarea nu este „Ce poți tu să faci?“, ci „Ce puteți face îm- preună, tu şi Dumnezeu?“ </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Abbott"
         }
       ]
     },
@@ -860,7 +942,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Un duşman inteligent este mai valoros decât un prieten neştiutor. <i>—Autor necunoscut</i></p>"
+          "html": "<p>Un duşman inteligent este mai valoros decât un prieten neştiutor. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         },
         {
           "type": "prose",
@@ -941,11 +1027,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>În definitiv, Dumnezeu vorbeşte prin Cuvântul Său. Cea mai mare parte din ceea ce ştim despre El poate fi găsit aici. [...] Ceea ce spune El va schimba complet ceea ce ai tu de spus. <i>—S.D. Gordon</i></p>"
+          "html": "<p>În definitiv, Dumnezeu vorbeşte prin Cuvântul Său. Cea mai mare parte din ceea ce ştim despre El poate fi găsit aici. [...] Ceea ce spune El va schimba complet ceea ce ai tu de spus. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—S.D. Gordon"
         },
         {
           "type": "prose",
-          "html": "<p>În sufletul nostru aproape niciodată nu este linişte deplină. Dumnezeu ne şopteşte câte ceva aproape în fiecare clipă. Atunci când zgomotele lumii încetează sau se potolesc în sufletul nostru, putem auzi şoapta lui Dumnezeu. El ne vorbeşte în şoaptă aproa- pe de fiecare dată, însă noi nu-L auzim întotdeauna, din pricina zgomotului, a tumultului şi a confuziei care sunt prezente în viața noastră, care aleargă fără oprire. <i>—F. Faber</i></p>"
+          "html": "<p>În sufletul nostru aproape niciodată nu este linişte deplină. Dumnezeu ne şopteşte câte ceva aproape în fiecare clipă. Atunci când zgomotele lumii încetează sau se potolesc în sufletul nostru, putem auzi şoapta lui Dumnezeu. El ne vorbeşte în şoaptă aproa- pe de fiecare dată, însă noi nu-L auzim întotdeauna, din pricina zgomotului, a tumultului şi a confuziei care sunt prezente în viața noastră, care aleargă fără oprire. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—F. Faber"
         },
         {
           "type": "prose",
@@ -1050,7 +1144,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Domnul nostru îmi dă harul care mă păstrează în pacea Sa. Am descoperit ceva interesant: cu cât plănuiesc şi organizez să fac mai multe lucruri într-un loc sau altul, mă pomenesc realizând cu atât mai puțin. Dar dacă Îi încredințez lui Dumnezeu toate planu- rile mele, atunci reuşesc să fac mult mai multe lucruri. Aşa că am să-L las pe El să lucreze. <i>—Marchizul de Renty</i></p>"
+          "html": "<p>Domnul nostru îmi dă harul care mă păstrează în pacea Sa. Am descoperit ceva interesant: cu cât plănuiesc şi organizez să fac mai multe lucruri într-un loc sau altul, mă pomenesc realizând cu atât mai puțin. Dar dacă Îi încredințez lui Dumnezeu toate planu- rile mele, atunci reuşesc să fac mult mai multe lucruri. Aşa că am să-L las pe El să lucreze. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Marchizul de Renty"
         }
       ]
     },
@@ -1082,7 +1180,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Aşa cum din adâncurile cele mai întunecate se scot nestema- tele care împodobesc coroanele monarhilor, în adâncurile unei religii care la început părea întunecată se găsesc acele haruri care te gătesc „ca o mireasă împodobită pentru bărbatul ei“, şi care te transformă într-o fiică de împărat, „plină de strălucire înăuntrul casei împărăteşti“. <i>—John Bate</i></p>"
+          "html": "<p>Aşa cum din adâncurile cele mai întunecate se scot nestema- tele care împodobesc coroanele monarhilor, în adâncurile unei religii care la început părea întunecată se găsesc acele haruri care te gătesc „ca o mireasă împodobită pentru bărbatul ei“, şi care te transformă într-o fiică de împărat, „plină de strălucire înăuntrul casei împărăteşti“. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Bate"
         },
         {
           "type": "prose",
@@ -1166,7 +1268,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Uitați-vă mai degrabă la scopul lui Dumnezeu în suferință de- cât la măsura şi gradul suferințelor voastre. — Autor necunoscut</p>"
+          "html": "<p>Uitați-vă mai degrabă la scopul lui Dumnezeu în suferință de- cât la măsura şi gradul suferințelor voastre. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         },
         {
           "type": "prose",
@@ -1198,7 +1304,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Există, aşadar, după cum ne putem da seama, între oameni două tipuri de influență: influența activă sau voluntară, şi influența inconştientă, involuntară. Influența pe care o exercităm cu bună ştiință, în încercarea de a schimba părerea cuiva – prin învățătură, prin argumentație, prin persuasiune, prin amenințări, prin oferte şi promisiuni – şi influența care emană din noi fără a fi conştienți de ea – acel gen de influență pe care a exercitat-o Petru asupra lui Ioan când l-a condus în mormânt. <i>—Horace Bushnell</i></p>"
+          "html": "<p>Există, aşadar, după cum ne putem da seama, între oameni două tipuri de influență: influența activă sau voluntară, şi influența inconştientă, involuntară. Influența pe care o exercităm cu bună ştiință, în încercarea de a schimba părerea cuiva – prin învățătură, prin argumentație, prin persuasiune, prin amenințări, prin oferte şi promisiuni – şi influența care emană din noi fără a fi conştienți de ea – acel gen de influență pe care a exercitat-o Petru asupra lui Ioan când l-a condus în mormânt. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Horace Bushnell"
         },
         {
           "type": "prose",
@@ -1235,7 +1345,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Tristă va fi, în viața oricărui om, ziua aceea când el va ajunge să se declare satisfăcut de modul în care trăieşte, de gândurile pe care le are şi de faptele pe care le face; dureroasă va fi ziua când la uşa sufletului său nu va mai bate dorința de a înfăptui ceva mai mult – ceva ce ştie că i-a fost menit să facă, pentru că este un copil al lui Dumnezeu. <i>—Phillips Brooks</i></p>"
+          "html": "<p>Tristă va fi, în viața oricărui om, ziua aceea când el va ajunge să se declare satisfăcut de modul în care trăieşte, de gândurile pe care le are şi de faptele pe care le face; dureroasă va fi ziua când la uşa sufletului său nu va mai bate dorința de a înfăptui ceva mai mult – ceva ce ştie că i-a fost menit să facă, pentru că este un copil al lui Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Phillips Brooks"
         },
         {
           "type": "prose",
@@ -1243,7 +1357,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Iar dacă ne uităm la cei ale căror aspirații sunt şi mai înalte, vom vedea oameni care nu se arată satisfăcuți de rezultatele obți- nute deja pe tărâm spiritual, şi nu se mulțumesc numai cu dorința de a lua o decizie. Ei sunt acel tip de oameni a căror viață constă într-o alternanță strânsă şi constantă de decizii şi acțiuni, cele din- tâi atrăgând mereu după sine pe cele din urmă. Ei fac binele mânați de dorința de a descoperi metode de a face şi mai mult bine, ceea ce duce la realizări mai mari decât şi-au imaginat vreodată. Dar ei sunt prea smeriți pentru a-şi îngădui momente de exaltare vizavi de realizările lor, prea credincioşi îndatoririlor lor pentru a-şi per- mite luxul remuşcărilor, şi prea conştiincioşi pentru a se culca pe laurii reuşitelor anterioare. Ei se închină lui Dumnezeu prin acți- unile lor, iar în centrul acțiunilor lor este o atitudine de aspirație necurmată. <i>—James Martineau</i></p>"
+          "html": "<p>Iar dacă ne uităm la cei ale căror aspirații sunt şi mai înalte, vom vedea oameni care nu se arată satisfăcuți de rezultatele obți- nute deja pe tărâm spiritual, şi nu se mulțumesc numai cu dorința de a lua o decizie. Ei sunt acel tip de oameni a căror viață constă într-o alternanță strânsă şi constantă de decizii şi acțiuni, cele din- tâi atrăgând mereu după sine pe cele din urmă. Ei fac binele mânați de dorința de a descoperi metode de a face şi mai mult bine, ceea ce duce la realizări mai mari decât şi-au imaginat vreodată. Dar ei sunt prea smeriți pentru a-şi îngădui momente de exaltare vizavi de realizările lor, prea credincioşi îndatoririlor lor pentru a-şi per- mite luxul remuşcărilor, şi prea conştiincioşi pentru a se culca pe laurii reuşitelor anterioare. Ei se închină lui Dumnezeu prin acți- unile lor, iar în centrul acțiunilor lor este o atitudine de aspirație necurmată. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—James Martineau"
         },
         {
           "type": "prose",
@@ -1293,7 +1411,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ar fi o crimă cumplită să dormi într-o astfel de perioadă a istoriei omenirii. Este de-a dreptul un păcat împotriva Cerului să nu-ți tresalte inima în piept când te gândeşti că trăieşti într-o lume care se cutremură sub paşii tot mai apropiați ai unui Dumnezeu care vine la noi. <i>—Theodore Cuyler</i></p>"
+          "html": "<p>Ar fi o crimă cumplită să dormi într-o astfel de perioadă a istoriei omenirii. Este de-a dreptul un păcat împotriva Cerului să nu-ți tresalte inima în piept când te gândeşti că trăieşti într-o lume care se cutremură sub paşii tot mai apropiați ai unui Dumnezeu care vine la noi. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
@@ -1365,11 +1487,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Sarcina noastră este să ne ridicăm; de restul Se va ocupa Dumnezeu pentru a ne ține în picioare. <i>—Catherine Booth</i></p>"
+          "html": "<p>Sarcina noastră este să ne ridicăm; de restul Se va ocupa Dumnezeu pentru a ne ține în picioare. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Catherine Booth"
         },
         {
           "type": "prose",
-          "html": "<p>Dintr-o sută de oameni leneşi, nici măcar unul singur nu va deveni creştin. Nu prea există speranță pentru cel care nu are nimic de făcut. <i>—De Witt Talmage</i></p>"
+          "html": "<p>Dintr-o sută de oameni leneşi, nici măcar unul singur nu va deveni creştin. Nu prea există speranță pentru cel care nu are nimic de făcut. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—De Witt Talmage"
         }
       ]
     },
@@ -1397,11 +1527,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Jugul lui Cristos este pur şi simplu secretul Lui pentru a face o viață omenească mai uşoară, rețeta Lui pentru cel mai bun şi mai fericit mod de viață. <i>—Henry Drummond</i></p>"
+          "html": "<p>Jugul lui Cristos este pur şi simplu secretul Lui pentru a face o viață omenească mai uşoară, rețeta Lui pentru cel mai bun şi mai fericit mod de viață. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Drummond"
         },
         {
           "type": "prose",
-          "html": "<p>Oricât de copleşitoare ar fi o povară, ea constituie totuşi o bi- necuvântare câtă vreme Dumnezeu Însuşi Se apleacă să ți-o pună pe umeri cu propria Lui mână. <i>—F.W. Faber</i></p>"
+          "html": "<p>Oricât de copleşitoare ar fi o povară, ea constituie totuşi o bi- necuvântare câtă vreme Dumnezeu Însuşi Se apleacă să ți-o pună pe umeri cu propria Lui mână. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—F.W. Faber"
         }
       ]
     },
@@ -1426,7 +1564,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>De aceea, pe temeiul Cuvântului adevărat al lui Dumnezeu, îndrăznesc să promit tuturor că, indiferent de severitatea necazu- lui, de durata lui, de disperarea oamenilor din jur, indiferent de teama, pericolul, tulburarea şi chinul propriului suflet, dacă stri- găm stăruitor la Dumnezeu, El va răspunde şi ne va da izbăvire mai presus de toate aşteptările omeneşti. <i>—John Knox</i></p>"
+          "html": "<p>De aceea, pe temeiul Cuvântului adevărat al lui Dumnezeu, îndrăznesc să promit tuturor că, indiferent de severitatea necazu- lui, de durata lui, de disperarea oamenilor din jur, indiferent de teama, pericolul, tulburarea şi chinul propriului suflet, dacă stri- găm stăruitor la Dumnezeu, El va răspunde şi ne va da izbăvire mai presus de toate aşteptările omeneşti. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Knox"
         },
         {
           "type": "prose",
@@ -1703,7 +1845,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Sfânta Scriptură şi-a făcut loc în cele mai dragi visuri ale noas- tre; de aceea dragostea, prietenia, simpatia, devotamentul, aminti- rea, speranța – toate îmbracă haina atât de frumoasă a cuvintelor prețioase ale Bibliei. Nici un om care posedă această inestimabilă comoară nu poate fi socotit sărac sau nefericit. <i>—Henry Van Dyke</i></p>"
+          "html": "<p>Sfânta Scriptură şi-a făcut loc în cele mai dragi visuri ale noas- tre; de aceea dragostea, prietenia, simpatia, devotamentul, aminti- rea, speranța – toate îmbracă haina atât de frumoasă a cuvintelor prețioase ale Bibliei. Nici un om care posedă această inestimabilă comoară nu poate fi socotit sărac sau nefericit. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Van Dyke"
         }
       ]
     }

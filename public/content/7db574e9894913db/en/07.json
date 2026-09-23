@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "en",
   "month": "07",
   "readings": [
@@ -1496,7 +1496,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Look rather to God’s end in afflicting than at the measure and degree of thy afflictions.<i>-Unknown.</i> </p>"
+          "html": "<p class=\"justify\">Look rather to God’s end in afflicting than at the measure and degree of thy afflictions.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         },
         {
           "type": "prose",

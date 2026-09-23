@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "ro",
   "month": "12",
   "readings": [
@@ -18,11 +18,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Rugăciunea este cupa în care aducem apă din stâncă. Este sca- ra pe care urcăm pentru a culege strugurii care atârnă peste gardul Cerului. Este focul care încălzeşte sufletul înghețat. Este corabia care duce spre Cer dorințele noastre şi la întoarcere aduce o încăr- cătură de ajutor divin. Arhimede spunea că dacă ar găsi un punct de sprijin pentru pârghia sa, ar putea mişca pământul. Noi am găsit acest punct! Rugăciunea este pârghia. Promisiunile divine repre- zintă punctul de sprijin. Apăsând această pârghie, noi punem în mişcare nu doar pământul, ci şi Cerul. <i>—De Witt Talmage</i></p>"
+          "html": "<p>Rugăciunea este cupa în care aducem apă din stâncă. Este sca- ra pe care urcăm pentru a culege strugurii care atârnă peste gardul Cerului. Este focul care încălzeşte sufletul înghețat. Este corabia care duce spre Cer dorințele noastre şi la întoarcere aduce o încăr- cătură de ajutor divin. Arhimede spunea că dacă ar găsi un punct de sprijin pentru pârghia sa, ar putea mişca pământul. Noi am găsit acest punct! Rugăciunea este pârghia. Promisiunile divine repre- zintă punctul de sprijin. Apăsând această pârghie, noi punem în mişcare nu doar pământul, ci şi Cerul. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—De Witt Talmage"
         },
         {
           "type": "prose",
-          "html": "<p>Rugăciunea este atingerea unui copil – însă pe brațul Celui Atotputernic. <i>—Thomas Scott</i></p>"
+          "html": "<p>Rugăciunea este atingerea unui copil – însă pe brațul Celui Atotputernic. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Thomas Scott"
         },
         {
           "type": "prose",
@@ -211,7 +219,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Indiferent ce ne-ar lua dragostea Lui, întotdeauna ne va lăsa persoana Lui; şi întrucât El este Dumnezeul oricărei mângâieri, al speranței, al consolării şi al păcii, El ne poate umple întotdeauna de bucurie atâta vreme cât avem credință. — Elizabeth S. Brengle</p>"
+          "html": "<p>Indiferent ce ne-ar lua dragostea Lui, întotdeauna ne va lăsa persoana Lui; şi întrucât El este Dumnezeul oricărei mângâieri, al speranței, al consolării şi al păcii, El ne poate umple întotdeauna de bucurie atâta vreme cât avem credință. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Elizabeth S. Brengle"
         },
         {
           "type": "prose",
@@ -313,15 +325,27 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cei care au biruit lumea nu mai sunt preocupați nici să-i ob- țină favorurile, şi nici să-i evite dezaprobarea. Părerea bună sau proastă pe care o are lumea despre ei nu-i interesează absolut de- loc. „Pe mine,“ spune Pavel, „prea puțin mă interesează dacă sunt judecat de o instanță omenească.“ Aceeaşi atitudine trebuie s-o ad- opte orice creştin autentic; preocuparea lui trebuie să fie aceea de a obține aprobarea lui Dumnezeu. Aceasta trebuie să fie principala lui grijă: să-I fie plăcut lui Dumnezeu şi propriei sale conştiințe. Nimeni nu a biruit lumea fără să fi adoptat mai întâi această atitu- dine. Aproape că nici o trăsătură a caracterului creştin nu este mai izbitoare şi mai decisivă decât aceasta: indiferența față de opiniile oamenilor din jur. <i>—Charles G. Finney</i></p>"
+          "html": "<p>Cei care au biruit lumea nu mai sunt preocupați nici să-i ob- țină favorurile, şi nici să-i evite dezaprobarea. Părerea bună sau proastă pe care o are lumea despre ei nu-i interesează absolut de- loc. „Pe mine,“ spune Pavel, „prea puțin mă interesează dacă sunt judecat de o instanță omenească.“ Aceeaşi atitudine trebuie s-o ad- opte orice creştin autentic; preocuparea lui trebuie să fie aceea de a obține aprobarea lui Dumnezeu. Aceasta trebuie să fie principala lui grijă: să-I fie plăcut lui Dumnezeu şi propriei sale conştiințe. Nimeni nu a biruit lumea fără să fi adoptat mai întâi această atitu- dine. Aproape că nici o trăsătură a caracterului creştin nu este mai izbitoare şi mai decisivă decât aceasta: indiferența față de opiniile oamenilor din jur. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles G. Finney"
         },
         {
           "type": "prose",
-          "html": "<p>Nu există pericol mai frecvent ca acela de a socoti standardele societății în care trăim drept literă de lege. <i>—Episcopul Temple</i></p>"
+          "html": "<p>Nu există pericol mai frecvent ca acela de a socoti standardele societății în care trăim drept literă de lege. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Episcopul Temple"
         },
         {
           "type": "prose",
-          "html": "<p>Străduieşte-te toată viața să eliberezi oamenii din robia obice- iurilor şi a Eului – cele două mari elemente ale lumii căzute pradă răutății. <i>—Charles Kingsley</i></p>"
+          "html": "<p>Străduieşte-te toată viața să eliberezi oamenii din robia obice- iurilor şi a Eului – cele două mari elemente ale lumii căzute pradă răutății. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles Kingsley"
         },
         {
           "type": "prose",
@@ -358,7 +382,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu am suficientă înțelepciune ca să înfrunt aceste dificultăți ştiind mai dinainte ce paşi trebuie să fac; însă, El poate să mă că- lăuzească. Aşadar, ceea ce trebuie să fac este să-mi expun cât mai simplu problema înaintea Tatălui meu ceresc şi a lui Isus, Domnul meu. Apoi trebuie să cred că Dumnezeu va face ceea ce L-am rugat, şi eu voi căuta să-mi continui drumul plin de îndrăzneală, aştep- tând ajutorul Lui în următoarea problemă pe care o voi întâmpina. Trebuie să caut călăuzire, trebuie să aştept sfatul Domnului, şi pot fi sigur că le voi primi. Voi descoperi că mă aflu într-un parteneriat real, nu nominal, cu Tatăl şi cu Fiul. <i>—George Müller</i></p>"
+          "html": "<p>Nu am suficientă înțelepciune ca să înfrunt aceste dificultăți ştiind mai dinainte ce paşi trebuie să fac; însă, El poate să mă că- lăuzească. Aşadar, ceea ce trebuie să fac este să-mi expun cât mai simplu problema înaintea Tatălui meu ceresc şi a lui Isus, Domnul meu. Apoi trebuie să cred că Dumnezeu va face ceea ce L-am rugat, şi eu voi căuta să-mi continui drumul plin de îndrăzneală, aştep- tând ajutorul Lui în următoarea problemă pe care o voi întâmpina. Trebuie să caut călăuzire, trebuie să aştept sfatul Domnului, şi pot fi sigur că le voi primi. Voi descoperi că mă aflu într-un parteneriat real, nu nominal, cu Tatăl şi cu Fiul. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Müller"
         },
         {
           "type": "prose",
@@ -419,7 +447,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Prânzul împreună cu surorile de la biserică nu a fost chiar atât de elaborat cum planificase. La un moment dat a simțit îndemnul să le vorbească despre experiența ei din dimineața aceea, dar inițial a avut o anumită reținere. I se părea că era vorba despre ceva sacru şi se temea că poate celelalte femei nu ar fi înțeles-o. Însă, gândul nu i-a dat pace; aşa că în cele din urmă s-a supus şi le-a povestit cazul în cuvinte simple. Și în timp ce o ascultau, prezența Duhului Sfânt s-a pogorât peste adunarea lor. Și astfel ziua aceea a fost una binecuvântată. Seara, soțul ei s-a întors acasă şi, când ea i-a ieşit în întâmpinare, a întrebat-o blând: „Draga mea, mi-ai ascultat sfatul, nu-i aşa? Nu mai ai febră.“ <i>—S.D. Gordon</i></p>"
+          "html": "<p>Prânzul împreună cu surorile de la biserică nu a fost chiar atât de elaborat cum planificase. La un moment dat a simțit îndemnul să le vorbească despre experiența ei din dimineața aceea, dar inițial a avut o anumită reținere. I se părea că era vorba despre ceva sacru şi se temea că poate celelalte femei nu ar fi înțeles-o. Însă, gândul nu i-a dat pace; aşa că în cele din urmă s-a supus şi le-a povestit cazul în cuvinte simple. Și în timp ce o ascultau, prezența Duhului Sfânt s-a pogorât peste adunarea lor. Și astfel ziua aceea a fost una binecuvântată. Seara, soțul ei s-a întors acasă şi, când ea i-a ieşit în întâmpinare, a întrebat-o blând: „Draga mea, mi-ai ascultat sfatul, nu-i aşa? Nu mai ai febră.“ </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—S.D. Gordon"
         },
         {
           "type": "prose",
@@ -567,7 +599,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Femeia care a dăruit doi bănuți în vistieria Templului încă este un factor de influență în istoria umanității. Sir John Kelynge – ați auzit vreodată de el? – judecătorul acela brutal şi cinic care l-a aruncat pe John Bunyan în temnița Bedford pentru 12 ani – până şi numele lui este astăzi o enigmă! John Bunyan, martirul care a fost gata să se jertfească pentru Domnul, fertilizează şi acum ogorul vieții omeneşti cu energia unei inspirații bogate. Cârcotaşii au pierdut. Cei care păreau să piardă sunt acum la linia de final! Cei care se jertfesc sunt cei care se bucură de biruință. <i>—J.H. Jowett</i></p>"
+          "html": "<p>Femeia care a dăruit doi bănuți în vistieria Templului încă este un factor de influență în istoria umanității. Sir John Kelynge – ați auzit vreodată de el? – judecătorul acela brutal şi cinic care l-a aruncat pe John Bunyan în temnița Bedford pentru 12 ani – până şi numele lui este astăzi o enigmă! John Bunyan, martirul care a fost gata să se jertfească pentru Domnul, fertilizează şi acum ogorul vieții omeneşti cu energia unei inspirații bogate. Cârcotaşii au pierdut. Cei care păreau să piardă sunt acum la linia de final! Cei care se jertfesc sunt cei care se bucură de biruință. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.H. Jowett"
         },
         {
           "type": "prose",
@@ -604,7 +640,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Iar acum, iubiți prieteni creştini, trebuie să vă întrebați dacă v-ați format obiceiul acesta de a vă încrede – în adâncul sufletu- lui vostru – în ceea ce a spus Dumnezeu în Cuvântul Său şi dacă sunteți sinceri când căutați să aflați dacă ceea ce vă doriți este în conformitate cu ceea ce a spus El în Cuvântul Său. <i>—George Müller</i></p>"
+          "html": "<p>Iar acum, iubiți prieteni creştini, trebuie să vă întrebați dacă v-ați format obiceiul acesta de a vă încrede – în adâncul sufletu- lui vostru – în ceea ce a spus Dumnezeu în Cuvântul Său şi dacă sunteți sinceri când căutați să aflați dacă ceea ce vă doriți este în conformitate cu ceea ce a spus El în Cuvântul Său. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Müller"
         },
         {
           "type": "prose",
@@ -637,7 +677,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Este evident că slujirea lui Dumnezeu într-un mod comod, care nu presupune nici un efort, nu este un test potrivit al spiri- tualității omului respectiv; aşadar, acesta este rolul crucilor – să întindă şi să încordeze muşchii morali, să dovedească puterea afecțiunii inimii pentru Cristos. Pur şi simplu explicația este ur- mătoarea: un creştin autentic trece de bunăvoie prin „greutăți“ de dragul lui Cristos şi, asemenea Căpeteniei sale, este „desăvârşit“ prin suferință. <i>—Howard B. Bitzer</i></p>"
+          "html": "<p>Este evident că slujirea lui Dumnezeu într-un mod comod, care nu presupune nici un efort, nu este un test potrivit al spiri- tualității omului respectiv; aşadar, acesta este rolul crucilor – să întindă şi să încordeze muşchii morali, să dovedească puterea afecțiunii inimii pentru Cristos. Pur şi simplu explicația este ur- mătoarea: un creştin autentic trece de bunăvoie prin „greutăți“ de dragul lui Cristos şi, asemenea Căpeteniei sale, este „desăvârşit“ prin suferință. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Howard B. Bitzer"
         },
         {
           "type": "prose",
@@ -645,7 +689,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>am şansa să dovedesc din ce material sunt făcut.“ Credinciosul tre- buie să nu uite niciodată – şi să se simtă încurajat gândindu-se la acest lucru – că răsplata lui va fi potrivită nu cu măsura succesului său vizibil, ci cu caracterul luptei lui. <i>—Generalul William Booth</i></p>"
+          "html": "<p>am şansa să dovedesc din ce material sunt făcut.“ Credinciosul tre- buie să nu uite niciodată – şi să se simtă încurajat gândindu-se la acest lucru – că răsplata lui va fi potrivită nu cu măsura succesului său vizibil, ci cu caracterul luptei lui. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Generalul William Booth"
         },
         {
           "type": "prose",
@@ -818,7 +866,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Trebuie să insistăm pentru o activitate imediată. Avem nevoie de mai puțină paradă, de mai puține analize şi de mai multe rezul- tate. Rugina ucide cu zecile de mii. Via suferă din lipsa lucrătorilor. Secerişul are nevoie de secerători. Avem o mie de persoane dori- toare de bine la douăzeci de inşi care lucrează efectiv la mântuirea semenilor. <i>—Reader Harris</i></p>"
+          "html": "<p>Trebuie să insistăm pentru o activitate imediată. Avem nevoie de mai puțină paradă, de mai puține analize şi de mai multe rezul- tate. Rugina ucide cu zecile de mii. Via suferă din lipsa lucrătorilor. Secerişul are nevoie de secerători. Avem o mie de persoane dori- toare de bine la douăzeci de inşi care lucrează efectiv la mântuirea semenilor. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Reader Harris"
         },
         {
           "type": "prose",
@@ -826,7 +878,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Sunt mulți oameni buni, dar nu am găsit nici unul care să lupte cu Dumnezeu. <i>—William Bramwell</i></p>"
+          "html": "<p>Sunt mulți oameni buni, dar nu am găsit nici unul care să lupte cu Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—William Bramwell"
         },
         {
           "type": "prose",
@@ -846,11 +902,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>un om care se dăruieşte pe sine în fapte de credință, în răbdarea speranței şi în lucrarea dragostei. <i>—John Wesley</i></p>"
+          "html": "<p>un om care se dăruieşte pe sine în fapte de credință, în răbdarea speranței şi în lucrarea dragostei. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         },
         {
           "type": "prose",
-          "html": "<p>Ce procentaj din populația lumii credeți că au încercat de-a lungul secolelor să ia în serios învățăturile lui Cristos? Eu bănuiesc că foarte puțini. Majoritatea celor care s-au străduit să cunoască ce a spus şi a făcut Isus nu fac mai nimic cu ceea ce au aflat. Atunci de ce ne-ar surprinde rezultatele atât de slabe? Creştinismul – cel au- tentic – nu a eşuat niciodată. Însă, cei mai mulți oameni nu-i acor- dă şansa să funcționeze. Nu dați vina pe creştinism pentru starea deplorabilă în care este lumea. Dați vina pe oameni – poate chiar pe voi înşivă. <i>—J.B. Phillips</i></p>"
+          "html": "<p>Ce procentaj din populația lumii credeți că au încercat de-a lungul secolelor să ia în serios învățăturile lui Cristos? Eu bănuiesc că foarte puțini. Majoritatea celor care s-au străduit să cunoască ce a spus şi a făcut Isus nu fac mai nimic cu ceea ce au aflat. Atunci de ce ne-ar surprinde rezultatele atât de slabe? Creştinismul – cel au- tentic – nu a eşuat niciodată. Însă, cei mai mulți oameni nu-i acor- dă şansa să funcționeze. Nu dați vina pe creştinism pentru starea deplorabilă în care este lumea. Dați vina pe oameni – poate chiar pe voi înşivă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.B. Phillips"
         }
       ]
     },
@@ -875,7 +939,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ce ne arată Scripturile dacă nu că Dumnezeu Se îngrijeşte în mod particular de fiecare om, că Se interesează personal de orice făptură omenească şi că Îi pasă de viața sa şi de încercările prin care trece? Dumnezeu îl urmăreşte cu aceeaşi atenție şi bunătate pe cel care îşi foloseşte singurul talant primit, şi îl aprobă din toată inima atunci când îl foloseşte aşa cum trebuie, ca şi pe cel care a primit zece talanți. <i>—Horace Bushnell</i></p>"
+          "html": "<p>Ce ne arată Scripturile dacă nu că Dumnezeu Se îngrijeşte în mod particular de fiecare om, că Se interesează personal de orice făptură omenească şi că Îi pasă de viața sa şi de încercările prin care trece? Dumnezeu îl urmăreşte cu aceeaşi atenție şi bunătate pe cel care îşi foloseşte singurul talant primit, şi îl aprobă din toată inima atunci când îl foloseşte aşa cum trebuie, ca şi pe cel care a primit zece talanți. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Horace Bushnell"
         },
         {
           "type": "prose",
@@ -895,7 +963,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Și atunci, ai cui robi suntem noi? Cine ne-a chemat la această lu- crare creştină? Suntem chemați de Dumnezeu, nu de oameni, şi tre- buie să primim ordinele din Cer, nu de pe pământ. <i>—Joseph Parker</i></p>"
+          "html": "<p>Și atunci, ai cui robi suntem noi? Cine ne-a chemat la această lu- crare creştină? Suntem chemați de Dumnezeu, nu de oameni, şi tre- buie să primim ordinele din Cer, nu de pe pământ. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Joseph Parker"
         }
       ]
     },
@@ -920,7 +992,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă încă nu eşti dispus să fii taxat din perspectiva lumii ca o persoană greu de perceput şi greşit înțeleasă – dintr-un sentiment de compătimire – precum şi să fii socotit o enigmă de către cei mai apropiați prieteni care nu au experiența locuirii lăuntrice a Duhu- lui Sfânt, eu te sfătuiesc să aştepți până vei fi biruit lumea într-o măsură suficientă astfel încât să poți trăi liniştit fără a te bucura de părerea ei bună despre tine. Prin harul lui Dumnezeu, acest lucru este posibil. „Îndrăzniți“, spune marele nostru Mijlocitor şi Model, „Eu am biruit lumea“. <i>—Daniel Steele</i></p>"
+          "html": "<p>Dacă încă nu eşti dispus să fii taxat din perspectiva lumii ca o persoană greu de perceput şi greşit înțeleasă – dintr-un sentiment de compătimire – precum şi să fii socotit o enigmă de către cei mai apropiați prieteni care nu au experiența locuirii lăuntrice a Duhu- lui Sfânt, eu te sfătuiesc să aştepți până vei fi biruit lumea într-o măsură suficientă astfel încât să poți trăi liniştit fără a te bucura de părerea ei bună despre tine. Prin harul lui Dumnezeu, acest lucru este posibil. „Îndrăzniți“, spune marele nostru Mijlocitor şi Model, „Eu am biruit lumea“. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Daniel Steele"
         },
         {
           "type": "prose",
@@ -932,11 +1008,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cum se vor sfârşi? Ei bine, cu slavă pentru Dumnezeu în locu- rile preaînalte şi cu pace şi bună învoire între oameni. <i>—John Wesley</i></p>"
+          "html": "<p>Cum se vor sfârşi? Ei bine, cu slavă pentru Dumnezeu în locu- rile preaînalte şi cu pace şi bună învoire între oameni. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         },
         {
           "type": "prose",
-          "html": "<p>Nu cei mulți reformează lumea, ci cei puțini care se ridică deasupra opiniei publice care L-a crucificat pe Domnul nostru cu mulți ani în urmă. <i>—Charles Kingsley</i></p>"
+          "html": "<p>Nu cei mulți reformează lumea, ci cei puțini care se ridică deasupra opiniei publice care L-a crucificat pe Domnul nostru cu mulți ani în urmă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles Kingsley"
         }
       ]
     },
@@ -984,7 +1068,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cândva credeam că lucrurile rele care ni se întâmplă în viață sunt nişte mesaje de răzbunare – tunetele unui Dumnezeu răzbu- nător. Însă, de când Cristos S-a înscăunat pe tronul inimii mele, tunetele s-au transformat în muzică. Văd în moarte trăsura trimisă de Tatăl ca să mă ducă Acasă. Durerea nu-i altceva decât o operație menită să vindece boala. Pierderea nu-i decât o mutare a comorilor mele într-o bancă mai sigură. Sărăcia nu-i decât un test al iubirii mele. Norii nu sunt decât o încercare a credinței mele. Surprizele sunt dovezi ale răbdării mele. Focul din viața mea nu face decât să curețe lanțul de aur. <i>—George Matheson</i></p>"
+          "html": "<p>Cândva credeam că lucrurile rele care ni se întâmplă în viață sunt nişte mesaje de răzbunare – tunetele unui Dumnezeu răzbu- nător. Însă, de când Cristos S-a înscăunat pe tronul inimii mele, tunetele s-au transformat în muzică. Văd în moarte trăsura trimisă de Tatăl ca să mă ducă Acasă. Durerea nu-i altceva decât o operație menită să vindece boala. Pierderea nu-i decât o mutare a comorilor mele într-o bancă mai sigură. Sărăcia nu-i decât un test al iubirii mele. Norii nu sunt decât o încercare a credinței mele. Surprizele sunt dovezi ale răbdării mele. Focul din viața mea nu face decât să curețe lanțul de aur. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Matheson"
         },
         {
           "type": "scripture",
@@ -1072,7 +1160,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Un istoric a consemnat că armata cotropitoare a lui Hanibal s-a retras la auzul hohotelor de râs care zguduiau Roma. La fel şi bucuria care se revarsă nestăpânită din sufletul unui creştin are pu- terea de a sili orice forțe infernale de asediu să bată în retragere. Șobolanilor le plac locurile întunecate, iar lui Satan îi place să se ascundă în sufletele posomorâte. <i>—De Witt Talmage</i></p>"
+          "html": "<p>Un istoric a consemnat că armata cotropitoare a lui Hanibal s-a retras la auzul hohotelor de râs care zguduiau Roma. La fel şi bucuria care se revarsă nestăpânită din sufletul unui creştin are pu- terea de a sili orice forțe infernale de asediu să bată în retragere. Șobolanilor le plac locurile întunecate, iar lui Satan îi place să se ascundă în sufletele posomorâte. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—De Witt Talmage"
         },
         {
           "type": "prose",
@@ -1096,7 +1188,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă religia ta este lipsită de soare, să nu te surprindă faptul că nimeni nu va dori să şi-o însuşească. <i>—Autor necunoscut</i></p>"
+          "html": "<p>Dacă religia ta este lipsită de soare, să nu te surprindă faptul că nimeni nu va dori să şi-o însuşească. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         }
       ]
     },
@@ -1125,7 +1221,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Există nenumărate persoane care au ajuns la un punct critic în viața lor; sunt „albe acum, gata pentru seceriş“. Le vedem peste tot, nu numai pe ogoarele de peste hotare, ci şi între cei care tră- iesc lângă noi, şi le putem deosebi nu cu ajutorul minții sau al su- gestiilor, ci prin rugăciune. Gândiți-vă numai la numărul nesfârşit de crize prin care trec oamenii în aceste zile; omenirea se află la o răscruce. „Nu ziceți voi că mai sunt patru luni până la seceriş? Iată, Eu vă spun: «Ridicați-vă ochii, şi priviți holdele, care sunt albe acum, gata pentru seceriş.»“ „Rugați, deci, pe Domnul secerişului să scoată lucrători la secerişul Lui.“ <i>—Oswald Chambers</i></p>"
+          "html": "<p>Există nenumărate persoane care au ajuns la un punct critic în viața lor; sunt „albe acum, gata pentru seceriş“. Le vedem peste tot, nu numai pe ogoarele de peste hotare, ci şi între cei care tră- iesc lângă noi, şi le putem deosebi nu cu ajutorul minții sau al su- gestiilor, ci prin rugăciune. Gândiți-vă numai la numărul nesfârşit de crize prin care trec oamenii în aceste zile; omenirea se află la o răscruce. „Nu ziceți voi că mai sunt patru luni până la seceriş? Iată, Eu vă spun: «Ridicați-vă ochii, şi priviți holdele, care sunt albe acum, gata pentru seceriş.»“ „Rugați, deci, pe Domnul secerişului să scoată lucrători la secerişul Lui.“ </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Oswald Chambers"
         },
         {
           "type": "prose",
@@ -1170,7 +1270,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Domnul nostru Îşi încheie predica cu pilda celor doi construc- tori: cel care aude şi face şi cel care aude şi nu face. Imaginea aceas- ta continuă mesajul Său anterior pildei. Fiecare casă este o lucrare – un efort depus. Probabil că zidirea unei case pe nisip presupune un efort mai mic decât zidirea ei pe stâncă. Însă, înțeleptul depune eforturi pentru a ajunge pe Stâncă. Din momentul în care şi-a asi- gurat fundația, Stânca împrumută puterea ei întregii zidiri. Fiecare piatră stă tare pentru că fundația este tare. STÂNCA ACEEA ESTE CRISTOS. <i>—Mark Guy Pearse</i></p>"
+          "html": "<p>Domnul nostru Îşi încheie predica cu pilda celor doi construc- tori: cel care aude şi face şi cel care aude şi nu face. Imaginea aceas- ta continuă mesajul Său anterior pildei. Fiecare casă este o lucrare – un efort depus. Probabil că zidirea unei case pe nisip presupune un efort mai mic decât zidirea ei pe stâncă. Însă, înțeleptul depune eforturi pentru a ajunge pe Stâncă. Din momentul în care şi-a asi- gurat fundația, Stânca împrumută puterea ei întregii zidiri. Fiecare piatră stă tare pentru că fundația este tare. STÂNCA ACEEA ESTE CRISTOS. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Mark Guy Pearse"
         },
         {
           "type": "prose",
@@ -1186,7 +1290,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>toate acestea nici un păcătos să nu fie mişcat din păcatele lui, iar Biserica să nu crească mai deloc în sfințenie. Când ne mişcăm, ar trebui să ne mişcăm cu un scop clar în minte şi mişcarea noastră să realizeze ceva! <i>—James Caughey</i></p>"
+          "html": "<p>toate acestea nici un păcătos să nu fie mişcat din păcatele lui, iar Biserica să nu crească mai deloc în sfințenie. Când ne mişcăm, ar trebui să ne mişcăm cu un scop clar în minte şi mişcarea noastră să realizeze ceva! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—James Caughey"
         }
       ]
     },
@@ -1262,7 +1370,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Pe lângă toate acestea, avem de-a face cu un paradox ciudat: cei cărora le sunt adresate sfaturile nu se arată deloc deranjați de lucruri care ar trebui să-i deranjeze şi sunt teribil de ofensați de lucruri care n-ar trebui să-i supere. Nu-i supără deloc faptul că au comis o greşeală, dar sunt deranjați la culme de faptul că sunt mus- trați pentru greşeala lor. <i>—Cicero</i></p>"
+          "html": "<p>Pe lângă toate acestea, avem de-a face cu un paradox ciudat: cei cărora le sunt adresate sfaturile nu se arată deloc deranjați de lucruri care ar trebui să-i deranjeze şi sunt teribil de ofensați de lucruri care n-ar trebui să-i supere. Nu-i supără deloc faptul că au comis o greşeală, dar sunt deranjați la culme de faptul că sunt mus- trați pentru greşeala lor. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Cicero"
         }
       ]
     },
@@ -1286,7 +1398,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu mă tem să scot la lumină cele mai ascunse gânduri ale ini- mii mele înaintea unor oameni sinceri şi rezonabili. Iată ce gân- desc: sunt o făptură de o zi, care trece prin viață aşa cum trece săgeata prin aer. Sunt un spirit venit de la Dumnezeu şi care se întoarce la Dumnezeu, un duh care pluteşte deasupra acestei mari prăpăstii care este lumea până când, doar peste câteva clipe, nu voi mai fi văzut! Voi coborî într-o eternitate neschimbătoare. Vreau să ştiu un singur lucru: calea către Cer! Și anume, cum să aterizez în siguranță pe țărmul acela fericit. Dumnezeu Însuşi a găsit de cu- viință să mă învețe calea; tocmai de aceea a venit din Cer. A scris totul într-o Carte. Dați-mi Cartea lui Dumnezeu, cu orice preț! O am; în ea e suficientă cunoaştere pentru mine. <i>—John Wesley</i></p>"
+          "html": "<p>Nu mă tem să scot la lumină cele mai ascunse gânduri ale ini- mii mele înaintea unor oameni sinceri şi rezonabili. Iată ce gân- desc: sunt o făptură de o zi, care trece prin viață aşa cum trece săgeata prin aer. Sunt un spirit venit de la Dumnezeu şi care se întoarce la Dumnezeu, un duh care pluteşte deasupra acestei mari prăpăstii care este lumea până când, doar peste câteva clipe, nu voi mai fi văzut! Voi coborî într-o eternitate neschimbătoare. Vreau să ştiu un singur lucru: calea către Cer! Și anume, cum să aterizez în siguranță pe țărmul acela fericit. Dumnezeu Însuşi a găsit de cu- viință să mă învețe calea; tocmai de aceea a venit din Cer. A scris totul într-o Carte. Dați-mi Cartea lui Dumnezeu, cu orice preț! O am; în ea e suficientă cunoaştere pentru mine. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         },
         {
           "type": "prose",
@@ -1306,7 +1422,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Vom asculta noi de glasul Duhului lui Dumnezeu şi numai de El? Da! Dar unde? Nu le-a vorbit El chiar celor care au alcătuit cărțile? Și nu are fiecare om propriul său dar? Nu este fiecare prota- gonist martorul desemnat al unui anumit adevăr? Aşadar, trebuie să ne avântăm din nou în oceanul vast, tulbure, întunecat şi contra- dictoriu de cărți? Nu! Nu există o carte unică şi imuabilă? O carte în care să fie consemnată înțelepciunea pură? Biblia, adevărul lui Dumnezeu rostit în cuvinte care îmi sunt adresate mie. S-ar putea să existe în Cartea aceasta şi alte semnificații, în afară de cele clare. Dar iată ce cred eu: că indiferent ce elemente mistice ar găsi în ea misticii, omul simplu, cel care îşi iubeşte soția, cel care este tată pentru copiii săi, cel care iubeşte pământul creat de Dumnezeu, cel care se bucură de lucruri şi de oameni nu pentru ceea ce sunt, ci pentru ceea ce ar trebui să fie şi vor fi, acela va găsi în Biblie re- zolvarea oricărui mister – un răspuns la orice enigmă, o călăuză în orice problemă. <i>—Charles Kingsley</i></p>"
+          "html": "<p>Vom asculta noi de glasul Duhului lui Dumnezeu şi numai de El? Da! Dar unde? Nu le-a vorbit El chiar celor care au alcătuit cărțile? Și nu are fiecare om propriul său dar? Nu este fiecare prota- gonist martorul desemnat al unui anumit adevăr? Aşadar, trebuie să ne avântăm din nou în oceanul vast, tulbure, întunecat şi contra- dictoriu de cărți? Nu! Nu există o carte unică şi imuabilă? O carte în care să fie consemnată înțelepciunea pură? Biblia, adevărul lui Dumnezeu rostit în cuvinte care îmi sunt adresate mie. S-ar putea să existe în Cartea aceasta şi alte semnificații, în afară de cele clare. Dar iată ce cred eu: că indiferent ce elemente mistice ar găsi în ea misticii, omul simplu, cel care îşi iubeşte soția, cel care este tată pentru copiii săi, cel care iubeşte pământul creat de Dumnezeu, cel care se bucură de lucruri şi de oameni nu pentru ceea ce sunt, ci pentru ceea ce ar trebui să fie şi vor fi, acela va găsi în Biblie re- zolvarea oricărui mister – un răspuns la orice enigmă, o călăuză în orice problemă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles Kingsley"
         }
       ]
     },
@@ -1575,7 +1695,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Fiecare om este conlucrător cu Dumnezeu la făurirea propriu- lui său viitor. Dumnezeu creează capacitatea, omul creează carac- terul. Nu poți deveni un om de caracter visând la asta, ci caracterul este ceva pe care trebuie să ți-l construieşti singur. <i>—J.G. Carter</i></p>"
+          "html": "<p>Fiecare om este conlucrător cu Dumnezeu la făurirea propriu- lui său viitor. Dumnezeu creează capacitatea, omul creează carac- terul. Nu poți deveni un om de caracter visând la asta, ci caracterul este ceva pe care trebuie să ți-l construieşti singur. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.G. Carter"
         }
       ]
     },
@@ -1624,7 +1748,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Numai dacă m-aş fi rugat mai mult! O, dacă m-aş fi rugat de o sută de ori mai mult! <i>—Andrew Bonar</i></p>"
+          "html": "<p>Numai dacă m-aş fi rugat mai mult! O, dacă m-aş fi rugat de o sută de ori mai mult! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Andrew Bonar"
         }
       ]
     },
@@ -1649,7 +1777,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cultivă negația, şi atunci porțiuni semnificative din univers vor înceta să existe. De pildă, cultivă surzenia, şi vei scăpa de oroa- rea certurilor. Cultivă orbirea, şi vei scăpa de atacurile urâțeniei. Amorțeşte un simț, şi vei închide uşa unei lumi întregi. Este cât se poate de adevărat – în cel mai literal sens – că dacă vrei să treci prin lume cu cât mai puține probleme, trebuie să te reduci pe tine însuți la cele mai mici dimensiuni. De aceea atât de mulți oameni – şi atât de mulți oameni care se declară creştini – trec prin viață cu atâta uşurință, având prea puțin de-a face cu necazul. Și-au redus sufle- tele la minimum, şi din acest motiv drumul lor de-a lungul anilor nu este trecerea unui om, ci mai degrabă alunecarea unei amibe. Aceşti oameni nu au un sistem nervos bine pus la punct, pentru că au amorțit şi au oprit creşterea nervilor, unul după altul; au retezat legăturile sensibile care leagă individul de rasa umană şi se simt bine în autosuficiența lor, pentru că fiorul durerii lumii nu-i atinge în izolarea lor. <i>—J.H. Jowett</i></p>"
+          "html": "<p>Cultivă negația, şi atunci porțiuni semnificative din univers vor înceta să existe. De pildă, cultivă surzenia, şi vei scăpa de oroa- rea certurilor. Cultivă orbirea, şi vei scăpa de atacurile urâțeniei. Amorțeşte un simț, şi vei închide uşa unei lumi întregi. Este cât se poate de adevărat – în cel mai literal sens – că dacă vrei să treci prin lume cu cât mai puține probleme, trebuie să te reduci pe tine însuți la cele mai mici dimensiuni. De aceea atât de mulți oameni – şi atât de mulți oameni care se declară creştini – trec prin viață cu atâta uşurință, având prea puțin de-a face cu necazul. Și-au redus sufle- tele la minimum, şi din acest motiv drumul lor de-a lungul anilor nu este trecerea unui om, ci mai degrabă alunecarea unei amibe. Aceşti oameni nu au un sistem nervos bine pus la punct, pentru că au amorțit şi au oprit creşterea nervilor, unul după altul; au retezat legăturile sensibile care leagă individul de rasa umană şi se simt bine în autosuficiența lor, pentru că fiorul durerii lumii nu-i atinge în izolarea lor. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.H. Jowett"
         },
         {
           "type": "prose",
@@ -1692,7 +1824,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>acea carte este Biblia, forța este irezistibilă. <i>—W.M. Taylor</i></p>"
+          "html": "<p>acea carte este Biblia, forța este irezistibilă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—W.M. Taylor"
         },
         {
           "type": "prose",
@@ -1750,7 +1886,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dar vai! Unde îți este contabilul şi unde îți este casierul care fac inventarul sufletului tău, pentru ca să ştii dacă ai câştigat în cunoaştere sau ți-ai irosit timpul; dacă ai dobândit o conştiință mai stabilă, sau dacă ea seamănă cu o sfârlează, purtată încoace şi în- colo de obiceiuri sau de părerile oamenilor; dacă te-ai apropiat de oameni, şi ai cu ei relații mai pline de dragoste, sau dacă ai început să te dezintegrezi? <i>—Henry Ward Beecher</i></p>"
+          "html": "<p>Dar vai! Unde îți este contabilul şi unde îți este casierul care fac inventarul sufletului tău, pentru ca să ştii dacă ai câştigat în cunoaştere sau ți-ai irosit timpul; dacă ai dobândit o conştiință mai stabilă, sau dacă ea seamănă cu o sfârlează, purtată încoace şi în- colo de obiceiuri sau de părerile oamenilor; dacă te-ai apropiat de oameni, şi ai cu ei relații mai pline de dragoste, sau dacă ai început să te dezintegrezi? </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Ward Beecher"
         },
         {
           "type": "prose",

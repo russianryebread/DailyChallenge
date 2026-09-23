@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "en",
   "month": "02",
   "readings": [
@@ -211,12 +211,12 @@
             {
               "text": "And draw again tomorrow.",
               "indent": true
-            },
-            {
-              "text": "—Unknown.",
-              "indent": true
             }
           ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Unknown"
         }
       ]
     },
@@ -371,12 +371,12 @@
             {
               "text": "Alike through love and loss, through weal and woe.",
               "indent": true
-            },
-            {
-              "text": "—From the German Hymn.",
-              "indent": true
             }
           ]
+        },
+        {
+          "type": "attribution",
+          "text": "—From the German Hymn"
         },
         {
           "type": "prose",
@@ -1601,7 +1601,7 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Holy love is a consuming fire for evil. It strikes with sorrow, and what it strikes it breaks, but breaks to save. The anathemas against the Pharisee proceed from the same heart as the Beatitudes.</p>"
+          "html": "<p class=\"justify\">Holy love is a consuming fire for evil. It strikes with sorrow, and what it strikes it breaks, but breaks to save. The anathemas against the Pharisee proceed from the same heart as the Beatitudes. </p>"
         },
         {
           "type": "attribution",
@@ -1609,7 +1609,7 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">There is often severity in kindness, often kindness in severity.</p>"
+          "html": "<p class=\"justify\">There is often severity in kindness, often kindness in severity. </p>"
         },
         {
           "type": "attribution",
@@ -2159,7 +2159,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">It is\n    said that when Mr. Cecil was once walking, in deep dejection of\n    spirit, in the Botanical Gardens at Oxford, his attention was\n    arrested by a fine pomegranate cut almost through the\n    stem. On asking the gardener the reason, he got an\n    answer which explained the wounds of his own bleeding\n    spirit. “Sir,” he\n    said, “this tree used to shoot so strong that\n    it bore nothing but leaves. I was, therefore,\n    obliged to cut it in this manner, and when it was almost cut\n    through then it began to bear plenty of\n    fruit.”—<i>Denton.</i><br>\n    </p>"
+          "html": "<p class=\"justify\">It is\n    said that when Mr. Cecil was once walking, in deep dejection of\n    spirit, in the Botanical Gardens at Oxford, his attention was\n    arrested by a fine pomegranate cut almost through the\n    stem. On asking the gardener the reason, he got an\n    answer which explained the wounds of his own bleeding\n    spirit. “Sir,” he\n    said, “this tree used to shoot so strong that\n    it bore nothing but leaves. I was, therefore,\n    obliged to cut it in this manner, and when it was almost cut\n    through then it began to bear plenty of\n    fruit.”<br></p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Denton"
         },
         {
           "type": "poem",
@@ -2273,7 +2277,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">How is\n    it when you go into your closet? Do you go there to\n    seek and find God? Do you in fact find there a\n    present God, and do you hold communion there as friend with\n    Friend? How is this?—<i>Charles\n    G. Finney.</i><br></p>"
+          "html": "<p class=\"justify\">How is\n    it when you go into your closet? Do you go there to\n    seek and find God? Do you in fact find there a\n    present God, and do you hold communion there as friend with\n    Friend? How is this?<br></p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Charles G. Finney"
         },
         {
           "type": "poem",

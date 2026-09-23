@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "en",
   "month": "12",
   "readings": [
@@ -20,7 +20,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">Prayer is the chalice in which we fetch the water from the rock. It is the ladder on which we climb up to pick the grapes hanging over the wall of Heaven. It is the fire that warms the frigid soul. It is the ship that carries away our wants, and comes back with a return cargo of divine help. Archimedes said if he could only find a fulcrum for his lever, he could move the world. Ah! we have found it! Prayer is the lever. The divine promise is the fulcrum. Pushing down on such a lever, we move not only earth, but also Heaven.—<i>De Witt</i> <i>Talmage.</i></p>"
+          "html": "<p class=\"justify\">Prayer is the chalice in which we fetch the water from the rock. It is the ladder on which we climb up to pick the grapes hanging over the wall of Heaven. It is the fire that warms the frigid soul. It is the ship that carries away our wants, and comes back with a return cargo of divine help. Archimedes said if he could only find a fulcrum for his lever, he could move the world. Ah! we have found it! Prayer is the lever. The divine promise is the fulcrum. Pushing down on such a lever, we move not only earth, but also Heaven.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—De Witt Talmage"
         },
         {
           "type": "prose",
@@ -267,10 +271,14 @@
               "indent": false
             },
             {
-              "text": "Prayerful about everything.—S. D. Gordon.",
+              "text": "Prayerful about everything.",
               "indent": false
             }
           ]
+        },
+        {
+          "type": "attribution",
+          "text": "—S. D. Gordon"
         },
         {
           "type": "prose",
@@ -752,12 +760,12 @@
             {
               "text": "Ah! who that loves can love enough?”",
               "indent": false
-            },
-            {
-              "text": "—Daniel Steele.",
-              "indent": true
             }
           ]
+        },
+        {
+          "type": "attribution",
+          "text": "—Daniel Steele"
         }
       ]
     },

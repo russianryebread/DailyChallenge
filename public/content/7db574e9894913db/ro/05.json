@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7efb5e9c7afc08f1",
+  "contentVersion": "7db574e9894913db",
   "locale": "ro",
   "month": "05",
   "readings": [
@@ -19,11 +19,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Când noi intrăm în contact cu oamenii, nu avem cum să ştim ce amprente vor lăsa ei asupra noastră. Când păianjenii îşi țes pânzele în tufişuri, nu se vede nimic ziua în amiaza mare. Dar a doua zi, picăturile de rouă care se prind în ele le dau la iveală, şi se poate vedea că tufişurile sunt împânzite de opera păianjenilor. La fel stau lucrurile când vine vorba de influența pe care o au cei din jur asupra ta – de cele mai multe ori nici nu-ți dai seama când şi cum se întâmplă una ca asta. Dar după ce aceste influențe sunt scoase la lumină în viața ta, devii conştient de existenţa lor. <i>––Spicuiri</i></p>"
+          "html": "<p>Când noi intrăm în contact cu oamenii, nu avem cum să ştim ce amprente vor lăsa ei asupra noastră. Când păianjenii îşi țes pânzele în tufişuri, nu se vede nimic ziua în amiaza mare. Dar a doua zi, picăturile de rouă care se prind în ele le dau la iveală, şi se poate vedea că tufişurile sunt împânzite de opera păianjenilor. La fel stau lucrurile când vine vorba de influența pe care o au cei din jur asupra ta – de cele mai multe ori nici nu-ți dai seama când şi cum se întâmplă una ca asta. Dar după ce aceste influențe sunt scoase la lumină în viața ta, devii conştient de existenţa lor. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Spicuiri"
         },
         {
           "type": "prose",
-          "html": "<p>Aşa după cum diamantele se şlefuiesc cel mai bine în propria lor pulbere, la fel şi omul este cel mai bine modelat de către alți oameni. <i>––Henry Ward Beecher</i></p>"
+          "html": "<p>Aşa după cum diamantele se şlefuiesc cel mai bine în propria lor pulbere, la fel şi omul este cel mai bine modelat de către alți oameni. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Henry Ward Beecher"
         },
         {
           "type": "prose",
@@ -35,11 +43,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Fiecare om exercită o influență asupra celor din jurul său şi este influențat de ei; iar dacă ceea ce oferă cineva nu este mai mult decât ceea ce primeşte, un asemenea individ nu este decât o biată făptură aflată la cheremul împrejurărilor. <i>––Alexander Maclaren</i></p>"
+          "html": "<p>Fiecare om exercită o influență asupra celor din jurul său şi este influențat de ei; iar dacă ceea ce oferă cineva nu este mai mult decât ceea ce primeşte, un asemenea individ nu este decât o biată făptură aflată la cheremul împrejurărilor. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Alexander Maclaren"
         },
         {
           "type": "prose",
-          "html": "<p>Însoţirea noastră cu oameni nesfințiți va avea unul din următoarele efecte: ori îi va face pe ei să dorească să fie sfinți, ori ne va face pe noi să dorim să renunţăm la sfinţenie. <i>––Autor necunoscut</i></p>"
+          "html": "<p>Însoţirea noastră cu oameni nesfințiți va avea unul din următoarele efecte: ori îi va face pe ei să dorească să fie sfinți, ori ne va face pe noi să dorim să renunţăm la sfinţenie. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         }
       ]
     },
@@ -111,7 +127,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>erau inscripționate cuvintele „Se apropie noaptea”. Ori de câte ori se uita la ceas, îşi amintea cât de scurtă este viața şi cât de urgentă este nevoia de a manifesta sârguință în îndeplinirea îndatoririlor. Cu toții ar trebui să învățăm lecția aceasta. <i>––J.R. Miller</i></p>"
+          "html": "<p>erau inscripționate cuvintele „Se apropie noaptea”. Ori de câte ori se uita la ceas, îşi amintea cât de scurtă este viața şi cât de urgentă este nevoia de a manifesta sârguință în îndeplinirea îndatoririlor. Cu toții ar trebui să învățăm lecția aceasta. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—J.R. Miller"
         },
         {
           "type": "prose",
@@ -135,7 +155,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Există o pace care vine <i>înaintea </i>curăției, şi aceasta <i>nu </i>este prea frumoasă. Vorbim despre caracterul blajin al unei firi superficiale. Însă, există o diferență imensă între calmul unui lac din interiorul unui teritoriu şi calmul unui ocean. Cel dintâi este calm pentru că este ferit de furtuni, cel de-al doilea pentru că a domolit vântul şi l-a convins să i se culce pe valuri. La fel stau lucrurile şi cu inima omului. Există oameni a căror viață nu e cu nimic diferită de un lac din interiorul teritoriului. Ei nu se zbat, nu se zbuciumă; şi totuşi, nu vedem nimic frumos în ei. Ne gândim că pacea aceasta nu i-a costat nimic; sunt calmi pentru că nu pot fi altfel. Dar există alții, a căror viață tumultuoasă se asemănă cu un ocean. Pacea lor nu este calmul lipsei de pasiune, ci al pasiunii şi al curăției care poartă numele de dragoste. <i>––George Matheson</i></p>"
+          "html": "<p>Există o pace care vine <i>înaintea </i>curăției, şi aceasta <i>nu </i>este prea frumoasă. Vorbim despre caracterul blajin al unei firi superficiale. Însă, există o diferență imensă între calmul unui lac din interiorul unui teritoriu şi calmul unui ocean. Cel dintâi este calm pentru că este ferit de furtuni, cel de-al doilea pentru că a domolit vântul şi l-a convins să i se culce pe valuri. La fel stau lucrurile şi cu inima omului. Există oameni a căror viață nu e cu nimic diferită de un lac din interiorul teritoriului. Ei nu se zbat, nu se zbuciumă; şi totuşi, nu vedem nimic frumos în ei. Ne gândim că pacea aceasta nu i-a costat nimic; sunt calmi pentru că nu pot fi altfel. Dar există alții, a căror viață tumultuoasă se asemănă cu un ocean. Pacea lor nu este calmul lipsei de pasiune, ci al pasiunii şi al curăției care poartă numele de dragoste. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Matheson"
         },
         {
           "type": "prose",
@@ -159,7 +183,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cristos a coborât la noi, într-o lume reală a necazului şi durerii, dar nu pentru a ne scoate, ca prin minune, din mijlocul adversităţilor vieții, ci pentru a revărsa pacea Lui în inimile noastre. Şi astfel, păziţi de pacea Lui care întrece orice pricepere, să putem sta calmi şi neclintiți în mijlocul conflictelor, transmiţând totodată unei lumi chinuite şi sfâşiate vindecarea pe care o aduce această pace dumnezeiască. <i>––William Temple</i></p>"
+          "html": "<p>Cristos a coborât la noi, într-o lume reală a necazului şi durerii, dar nu pentru a ne scoate, ca prin minune, din mijlocul adversităţilor vieții, ci pentru a revărsa pacea Lui în inimile noastre. Şi astfel, păziţi de pacea Lui care întrece orice pricepere, să putem sta calmi şi neclintiți în mijlocul conflictelor, transmiţând totodată unei lumi chinuite şi sfâşiate vindecarea pe care o aduce această pace dumnezeiască. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—William Temple"
         }
       ]
     },
@@ -294,7 +322,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Adevărata măreție a inimii se vede întotdeauna cel mai bine în recunoaşterea greşelii. <i>––Autor necunoscut</i></p>"
+          "html": "<p>Adevărata măreție a inimii se vede întotdeauna cel mai bine în recunoaşterea greşelii. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         },
         {
           "type": "prose",
@@ -302,7 +334,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Aşadar, fii deschis şi sincer când eşti învinuit de ceva; nu căuta nici să te justifici apelând la scuze, nici să-ți acoperi faptele, ci lasă să se vadă lucrurile aşa cum sunt ele în realitate. Procedând astfel, nu numai că nu vei pune piedici în calea Evangheliei, dar o vei ajuta să înainteze. <i>––John Wesley</i></p>"
+          "html": "<p>Aşadar, fii deschis şi sincer când eşti învinuit de ceva; nu căuta nici să te justifici apelând la scuze, nici să-ți acoperi faptele, ci lasă să se vadă lucrurile aşa cum sunt ele în realitate. Procedând astfel, nu numai că nu vei pune piedici în calea Evangheliei, dar o vei ajuta să înainteze. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Wesley"
         },
         {
           "type": "prose",
@@ -314,7 +350,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nimănui nu trebuie să-i fie vreodată ruşine să-şi recunoască o oarecare greşeală, pentru că în felul acesta nu face altceva decât să arate că azi este mai înțelept decât ieri. <i>––Alexander Pope</i></p>"
+          "html": "<p>Nimănui nu trebuie să-i fie vreodată ruşine să-şi recunoască o oarecare greşeală, pentru că în felul acesta nu face altceva decât să arate că azi este mai înțelept decât ieri. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Alexander Pope"
         },
         {
           "type": "prose",
@@ -373,20 +413,20 @@
           "html": "<p>Într-o seară, mama a două fetițe a trebuit să plece de acasă la ora de culcare a celor două, aşa că le-a lăsat să se descurce singure.</p>"
         },
         {
-          "type": "attribution",
-          "text": "– Eu n-am să mă rog în seara asta, a zis Lillian când a fost gata de culcare"
+          "type": "prose",
+          "html": "<p>– Eu n-am să mă rog în seara asta, a zis Lillian când a fost gata de culcare.</p>"
         },
         {
-          "type": "attribution",
-          "text": "– Oh, Lillian! a exclamat Amy, cu ochii mari de uimire.\n\n– Nu-mi pasă; nu vreau să mă rog. Nu are niciun rost.\n\nAşa că s-a trântit în pat, în timp ce Amy a îngenuncheat şi s-a"
+          "type": "prose",
+          "html": "<p>– Oh, Lillian! a exclamat Amy, cu ochii mari de uimire.<br>\n– Nu-mi pasă; nu vreau să mă rog. Nu are niciun rost.<br>\nAşa că s-a trântit în pat, în timp ce Amy a îngenuncheat şi s-a</p>"
         },
         {
           "type": "prose",
           "html": "<p>rugat. După ce şi-a terminat rugăciunea şi a stins lumina, Amy s-a strecurat şi ea în pat. A urmat o tăcere lungă; după un timp Lillian a început să se răsucească de pe o parte pe alta, lovindu-şi perna cu putere şi întrebându-se îmbufnată:</p>"
         },
         {
-          "type": "attribution",
-          "text": "– Oare ce are perna asta?\n\nDinspre pătuțul lui Amy s-a auzit o voce mică şi dulce:\n\n– Cred că problema e că nu are rugăciune în ea.\n\nDupă alte câteva minute de nelinişte, Lillian s-a dat jos din pat"
+          "type": "prose",
+          "html": "<p>– Oare ce are perna asta?<br>\nDinspre pătuțul lui Amy s-a auzit o voce mică şi dulce:<br>\n– Cred că problema e că nu are rugăciune în ea.<br>\nDupă alte câteva minute de nelinişte, Lillian s-a dat jos din pat</p>"
         },
         {
           "type": "prose",
@@ -402,7 +442,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>umană încât cel puțin jumătate din bolile şi suferințele noastre ar dispărea. <i>––Dr. William Sadler</i></p>"
+          "html": "<p>umană încât cel puțin jumătate din bolile şi suferințele noastre ar dispărea. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. William Sadler"
         },
         {
           "type": "prose",
@@ -434,7 +478,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cântările noastre de laudă sunt reci şi fără viaţă până când suflarea Duhului Domnului nu umple toate vasele ființei noastre. Apoi din inima noastră se revarsă cântări de laudă, iar fântâna bucuriei noastre dă pe dinafară. <i>––A.B. Simpson</i></p>"
+          "html": "<p>Cântările noastre de laudă sunt reci şi fără viaţă până când suflarea Duhului Domnului nu umple toate vasele ființei noastre. Apoi din inima noastră se revarsă cântări de laudă, iar fântâna bucuriei noastre dă pe dinafară. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—A.B. Simpson"
         },
         {
           "type": "prose",
@@ -454,11 +502,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>A nu fi creştin înseamnă a sacrifica bucuria cea mai înaltă, cea mai profundă, cea mai pură, cea mai sfântă şi cea mai abundentă care poate fi cunoscută undeva pe acest pământ. <i>––Autor necunoscut</i></p>"
+          "html": "<p>A nu fi creştin înseamnă a sacrifica bucuria cea mai înaltă, cea mai profundă, cea mai pură, cea mai sfântă şi cea mai abundentă care poate fi cunoscută undeva pe acest pământ. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         },
         {
           "type": "prose",
-          "html": "<p>Singura metodă pentru a fi mereu fericit este să ai necurmat privirea îndreptată spre Mântuitorul care a fost răstignit pe Golgota; să renunți definitiv la propria ta valoare; să stai strâns lipit de El în orice împrejurare; să renunți la orice lucru care ar putea vătăma credincioşia ta față de El; să primeşti necurmat de la Tronul Său „har peste har”; să te bazezi pe toate promisiunile Lui şi să te fereşti de tot ce ar putea – fie şi pentru o singură clipă – să creeze o oarecare distanță sau să permită pătrunderea întunericului între inima ta şi Domnul tău. <i>––Samuel Pearce</i></p>"
+          "html": "<p>Singura metodă pentru a fi mereu fericit este să ai necurmat privirea îndreptată spre Mântuitorul care a fost răstignit pe Golgota; să renunți definitiv la propria ta valoare; să stai strâns lipit de El în orice împrejurare; să renunți la orice lucru care ar putea vătăma credincioşia ta față de El; să primeşti necurmat de la Tronul Său „har peste har”; să te bazezi pe toate promisiunile Lui şi să te fereşti de tot ce ar putea – fie şi pentru o singură clipă – să creeze o oarecare distanță sau să permită pătrunderea întunericului între inima ta şi Domnul tău. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Samuel Pearce"
         }
       ]
     },
@@ -542,7 +598,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cu toate acestea, când un creştin ajunge acolo, are impresia că traversează unul dintre cele mai grele momente ale încercării, şi i se pare, cel puțin pentru o vreme, că Dumnezeu l-a abandonat. <i>––Cecil</i></p>"
+          "html": "<p>Cu toate acestea, când un creştin ajunge acolo, are impresia că traversează unul dintre cele mai grele momente ale încercării, şi i se pare, cel puțin pentru o vreme, că Dumnezeu l-a abandonat. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Cecil"
         },
         {
           "type": "prose",
@@ -690,7 +750,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Biblia este pătrunsă de un suflu neobişnuit şi misterios, ceea ce o face să fie nu numai un mister inexplicabil, ci şi o Carte indestructibilă. Şi culmea, ea este dătătoare de viață. Pe oriunde trece acest râu al lui Dumnezeu, apa lui aduce totul la viaţă. Prin Cartea Sfântă, Duhul viu al lui Dumnezeu vorbeşte duhului sensibil al omului. <i>––Dr. A. T. Pierson</i></p>"
+          "html": "<p>Biblia este pătrunsă de un suflu neobişnuit şi misterios, ceea ce o face să fie nu numai un mister inexplicabil, ci şi o Carte indestructibilă. Şi culmea, ea este dătătoare de viață. Pe oriunde trece acest râu al lui Dumnezeu, apa lui aduce totul la viaţă. Prin Cartea Sfântă, Duhul viu al lui Dumnezeu vorbeşte duhului sensibil al omului. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. A. T. Pierson"
         }
       ]
     },
@@ -729,15 +793,27 @@
         },
         {
           "type": "prose",
-          "html": "<p>Oamenii credinței şi nu oamenii de ştiinţă au fost aceia care au schimbat faţa lumii. <i>––Sir Wilfred Grenfell</i></p>"
+          "html": "<p>Oamenii credinței şi nu oamenii de ştiinţă au fost aceia care au schimbat faţa lumii. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Sir Wilfred Grenfell"
         },
         {
           "type": "prose",
-          "html": "<p>Credința este o sursă de putere, o lege a mişcării, un principiu al acțiunii. Oamenii credinței au fost întotdeauna oameni de acțiune. Acolo unde este credință, trebuie să fie şi ceva care este vrednic de crezare. <i>––Graham Scroggie</i></p>"
+          "html": "<p>Credința este o sursă de putere, o lege a mişcării, un principiu al acțiunii. Oamenii credinței au fost întotdeauna oameni de acțiune. Acolo unde este credință, trebuie să fie şi ceva care este vrednic de crezare. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Graham Scroggie"
         },
         {
           "type": "prose",
-          "html": "<p>Începutul neliniştii înseamnă sfârşitul credinței, iar începutul credinței adevărate este sfârşitul neliniştii. <i>––Autor necunoscut</i></p>"
+          "html": "<p>Începutul neliniştii înseamnă sfârşitul credinței, iar începutul credinței adevărate este sfârşitul neliniştii. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         },
         {
           "type": "prose",
@@ -773,7 +849,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Credinţa străluceşte precum un curcubeu:<br>\nConduşi prin ea noi suntem conduşi de Dumnezeu <i>––Thomas Upham</i></p>"
+          "html": "<p>Credinţa străluceşte precum un curcubeu:<br>\nConduşi prin ea noi suntem conduşi de Dumnezeu </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Thomas Upham"
         }
       ]
     },
@@ -817,7 +897,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>El a spus: <i>„Veţi primi o putere, când Se va pogorî Duhul Sfânt peste voi, şi-Mi veţi fi martori.” </i>(Vezi Fapte 1.8, n.red.). Şi aici textul grecesc sună ca mai înainte: „Veți primi în mod continuu putere după ce Se va pogorî Duhul Sfânt peste voi.” Primirea şi transmiterea mai departe în mod continuu a puterii lui Dumnezeu este privilegiul oamenilor sfinți ai lui Dumnezeu. Un asemenea privilegiu atrage după sine o responsabilitate la fel de mare. Promisiunea îți este făcută şi ȚIE. <i>––Reader Harris</i></p>"
+          "html": "<p>El a spus: <i>„Veţi primi o putere, când Se va pogorî Duhul Sfânt peste voi, şi-Mi veţi fi martori.” </i>(Vezi Fapte 1.8, n.red.). Şi aici textul grecesc sună ca mai înainte: „Veți primi în mod continuu putere după ce Se va pogorî Duhul Sfânt peste voi.” Primirea şi transmiterea mai departe în mod continuu a puterii lui Dumnezeu este privilegiul oamenilor sfinți ai lui Dumnezeu. Un asemenea privilegiu atrage după sine o responsabilitate la fel de mare. Promisiunea îți este făcută şi ȚIE. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Reader Harris"
         },
         {
           "type": "prose",
@@ -861,7 +945,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Tot ce-ai să faci e doar harababură, De nu vei fi cu Domnu-n legătură! <i>––Jean H. Watson</i></p>"
+          "html": "<p>Tot ce-ai să faci e doar harababură, De nu vei fi cu Domnu-n legătură! </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Jean H. Watson"
         }
       ]
     },
@@ -901,7 +989,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dumnezeu dă Duhul Său nu celor care tânjesc după El, nu celor care se roagă să-L primească, nu celor care îşi doresc să fie mereu umpluți de Duh, ci El le dă Duhul Său cel Sfânt numai acelora care ascultă de El. <i>––Hudson Taylor</i></p>"
+          "html": "<p>Dumnezeu dă Duhul Său nu celor care tânjesc după El, nu celor care se roagă să-L primească, nu celor care îşi doresc să fie mereu umpluți de Duh, ci El le dă Duhul Său cel Sfânt numai acelora care ascultă de El. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hudson Taylor"
         }
       ]
     },
@@ -929,19 +1021,35 @@
         },
         {
           "type": "prose",
-          "html": "<p>Fie ca Dumnezeu să ne deschidă ochii să vedem că am fost puşi deoparte, ca o preoție sfântă a Lui, pentru slujba sfântă a mijlocirii. Fie ca El să ne dea fiecăruia o inimă mare şi puternică, să putem crede ce influență extraordinară poate exercita rugăciunea noastră. Şi fie ca orice temere legată de capacitatea noastră de a ne împlini menirea să dispară în timp ce privim ţintă la Domnul Isus, Cel care trăieşte veşnic ca să Se roage, care trăieşte în noi ca să Se roage şi care stă chezaş pentru viața noastră de rugăciune. <i>––Andrew Murray</i></p>"
+          "html": "<p>Fie ca Dumnezeu să ne deschidă ochii să vedem că am fost puşi deoparte, ca o preoție sfântă a Lui, pentru slujba sfântă a mijlocirii. Fie ca El să ne dea fiecăruia o inimă mare şi puternică, să putem crede ce influență extraordinară poate exercita rugăciunea noastră. Şi fie ca orice temere legată de capacitatea noastră de a ne împlini menirea să dispară în timp ce privim ţintă la Domnul Isus, Cel care trăieşte veşnic ca să Se roage, care trăieşte în noi ca să Se roage şi care stă chezaş pentru viața noastră de rugăciune. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Andrew Murray"
         },
         {
           "type": "prose",
-          "html": "<p>Oamenii care nu primesc din partea lui Dumnezeu răspuns la rugăciunile lor nu pot fi reprezentanți ai Lui. <i>––E.M. Bounds</i></p>"
+          "html": "<p>Oamenii care nu primesc din partea lui Dumnezeu răspuns la rugăciunile lor nu pot fi reprezentanți ai Lui. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—E.M. Bounds"
         },
         {
           "type": "prose",
-          "html": "<p>Orice mare mişcare a lui Dumnezeu a fost declanşată de o siluetă îngenuncheată. <i>––D.L. Moody</i></p>"
+          "html": "<p>Orice mare mişcare a lui Dumnezeu a fost declanşată de o siluetă îngenuncheată. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—D.L. Moody"
         },
         {
           "type": "prose",
-          "html": "<p>Dacă îți vei petrece mai multe ore din zi în rugăciune, vei putea să vezi lucruri mari şi minunate. <i>––John Nelson</i></p>"
+          "html": "<p>Dacă îți vei petrece mai multe ore din zi în rugăciune, vei putea să vezi lucruri mari şi minunate. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Nelson"
         }
       ]
     },
@@ -957,11 +1065,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ucenicii nu s-au oprit pentru a căuta să se organizeze în conferințe sau consilii, în sinoade sau adunări generale. Fiecare spunea ceea ce Duhul Sfânt îi punea pe inimă. Petru vorbeşte lui Corneliu şi membrilor familiei lui, după care Duhul Sfânt Se pogoară peste ei şi sunt convertiți şi botezați. Pavel îi predică temnicerului din Filipi şi rezumă esența Evangheliei într-o singură frază. Filip ajunge din urmă carul în care se află un nobil străin şi improvizează pe loc un curs de cateheză. Aceasta este predicarea – învățătura adevărului – în forma ei cea mai elementară. Acuila şi Priscila devin apologeți ai noii Evanghelii, avându-l ca elev pe talentatul Apolo. În Iope, Dorca cea harnică predică şi ea la rândul ei, dar alege să folosească acul ca instrument în lucrarea Domnului. Faptele sale vorbesc mai tare decât cuvintele. Stupul freamătă. Toți cei care au un mesaj de transmis, îl transmit; toți cei care pot să vindece un bolnav sau să tămăduiască un mădular zdrobit săvârşesc un miracol al iubirii; oricine are un felinar, îl lasă să strălucească. Domnul şi Stăpânul lor este glorificat prin faptul că ei „aduc multă roadă”. <i>––Theodore Cuyler</i></p>"
+          "html": "<p>Ucenicii nu s-au oprit pentru a căuta să se organizeze în conferințe sau consilii, în sinoade sau adunări generale. Fiecare spunea ceea ce Duhul Sfânt îi punea pe inimă. Petru vorbeşte lui Corneliu şi membrilor familiei lui, după care Duhul Sfânt Se pogoară peste ei şi sunt convertiți şi botezați. Pavel îi predică temnicerului din Filipi şi rezumă esența Evangheliei într-o singură frază. Filip ajunge din urmă carul în care se află un nobil străin şi improvizează pe loc un curs de cateheză. Aceasta este predicarea – învățătura adevărului – în forma ei cea mai elementară. Acuila şi Priscila devin apologeți ai noii Evanghelii, avându-l ca elev pe talentatul Apolo. În Iope, Dorca cea harnică predică şi ea la rândul ei, dar alege să folosească acul ca instrument în lucrarea Domnului. Faptele sale vorbesc mai tare decât cuvintele. Stupul freamătă. Toți cei care au un mesaj de transmis, îl transmit; toți cei care pot să vindece un bolnav sau să tămăduiască un mădular zdrobit săvârşesc un miracol al iubirii; oricine are un felinar, îl lasă să strălucească. Domnul şi Stăpânul lor este glorificat prin faptul că ei „aduc multă roadă”. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
-          "html": "<p>Evanghelia îi porunceşte păcătosului să vină, iar creştinului să se ducă. <i>––D.L. Moody</i></p>"
+          "html": "<p>Evanghelia îi porunceşte păcătosului să vină, iar creştinului să se ducă. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—D.L. Moody"
         },
         {
           "type": "prose",
@@ -1021,7 +1137,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>În Ziua Judecăţii, vei constata că prin forța influenței tale malefice ai mistuit deja valori infinite; sau, din contră, vei vedea că, prin forţa unei influențe pozitive, ai câştigat regate pentru Dumnezeu. <i>––De Witt Talmage</i></p>"
+          "html": "<p>În Ziua Judecăţii, vei constata că prin forța influenței tale malefice ai mistuit deja valori infinite; sau, din contră, vei vedea că, prin forţa unei influențe pozitive, ai câştigat regate pentru Dumnezeu. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—De Witt Talmage"
         },
         {
           "type": "prose",
@@ -1081,7 +1201,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nimeni să nu disprețuiască începuturile slabe. Cele mai nobile vieți creştine îşi au adesea originea într-un cuvânt rostit cu dragoste, în citirea unei broşuri, într-o întâmplare măruntă sau într-o decizie distinctă de a renunța la un păcat apăsător. <i>––Theodore Cuyler</i></p>"
+          "html": "<p>Nimeni să nu disprețuiască începuturile slabe. Cele mai nobile vieți creştine îşi au adesea originea într-un cuvânt rostit cu dragoste, în citirea unei broşuri, într-o întâmplare măruntă sau într-o decizie distinctă de a renunța la un păcat apăsător. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Theodore Cuyler"
         },
         {
           "type": "prose",
@@ -1137,7 +1261,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Aşadar, puterea Duhului Sfânt ne va oferi eroismul rezistenței şi ne va ajuta ca, asemenea Stăpânului nostru, să suferim crucea şi să dispreţuim ruşinea, din pricina bucuriei care este pusă şi în faţa noastră. Duhul Sfânt va pune în noi un spirit de lepădare de sine şi de jertfă de sine, şi ne va face în stare să putem renunţa cu uşurinţă la anumite lucruri, s-o rupem cu anumite deprinderi, să răbdăm totul <i>„pentru cei aleşi” </i>şi să spunem împreună cu marele apostol Pavel <i>„şi chiar dacă va trebui să fiu turnat ca o jertfă de băutură peste jertfa şi slujba credinţei voastre, eu mă bucur şi mă bucur cu voi toţi”. </i>(Vezi Filipeni 2.17, n.red.) <i>––A.B. Simpson</i></p>"
+          "html": "<p>Aşadar, puterea Duhului Sfânt ne va oferi eroismul rezistenței şi ne va ajuta ca, asemenea Stăpânului nostru, să suferim crucea şi să dispreţuim ruşinea, din pricina bucuriei care este pusă şi în faţa noastră. Duhul Sfânt va pune în noi un spirit de lepădare de sine şi de jertfă de sine, şi ne va face în stare să putem renunţa cu uşurinţă la anumite lucruri, s-o rupem cu anumite deprinderi, să răbdăm totul <i>„pentru cei aleşi” </i>şi să spunem împreună cu marele apostol Pavel <i>„şi chiar dacă va trebui să fiu turnat ca o jertfă de băutură peste jertfa şi slujba credinţei voastre, eu mă bucur şi mă bucur cu voi toţi”. </i>(Vezi Filipeni 2.17, n.red.) </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—A.B. Simpson"
         },
         {
           "type": "prose",
@@ -1193,7 +1321,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Cred din toată inima că cea mai bună metodă de a testa inspirația Bibliei – sau a oricărei alte cărți – este nu să-i criticăm textul, ci să-i urmărim influența asupra vieții oamenilor. La urma urmei, acolo vedem dovezile clare şi categorice ale caracterului ei miraculos şi supranatural. <i>––Hudson Taylor</i></p>"
+          "html": "<p>Cred din toată inima că cea mai bună metodă de a testa inspirația Bibliei – sau a oricărei alte cărți – este nu să-i criticăm textul, ci să-i urmărim influența asupra vieții oamenilor. La urma urmei, acolo vedem dovezile clare şi categorice ale caracterului ei miraculos şi supranatural. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Hudson Taylor"
         }
       ]
     },
@@ -1218,7 +1350,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Dacă un bătrân necredincios a putut spune pe patul de moarte că a pierdut tot ce a avut cu excepția a ceea ce a dăruit, cu atât mai mult un creştin luminat ar trebui să considere că toate investițiile înțelepte pe care le-a făcut pentru a promova cauza lui Dumnezeu şi a umanității vor acumula în timp dobândă şi vor produce avantaje de care se va bucura în veşnicie. <i>––Edward R. Ames</i></p>"
+          "html": "<p>Dacă un bătrân necredincios a putut spune pe patul de moarte că a pierdut tot ce a avut cu excepția a ceea ce a dăruit, cu atât mai mult un creştin luminat ar trebui să considere că toate investițiile înțelepte pe care le-a făcut pentru a promova cauza lui Dumnezeu şi a umanității vor acumula în timp dobândă şi vor produce avantaje de care se va bucura în veşnicie. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Edward R. Ames"
         },
         {
           "type": "prose",
@@ -1250,7 +1386,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Nu uita că lumea aceasta este trecătoare, dar lucrurile lui Dumnezeu dăinuiesc pentru veşnicie. Nu am auzit niciodată să se vorbească despre un copil al lui Dumnezeu care să fi trăit în conformitate cu pasajul de mai sus şi în viața căruia Dumnezeu să nu-Şi fi împlinit promisiunea respectivă: <i>„şi toate aceste lucruri vi se vor da pe deasupra”. ––George Müller</i></p>"
+          "html": "<p>Nu uita că lumea aceasta este trecătoare, dar lucrurile lui Dumnezeu dăinuiesc pentru veşnicie. Nu am auzit niciodată să se vorbească despre un copil al lui Dumnezeu care să fi trăit în conformitate cu pasajul de mai sus şi în viața căruia Dumnezeu să nu-Şi fi împlinit promisiunea respectivă: <i>„şi toate aceste lucruri vi se vor da pe deasupra”. </i></p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—George Müller"
         },
         {
           "type": "prose",
@@ -1342,11 +1482,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Lovitura cea mai înspăimântătoare vine adesea doar pentru a sfărâma un lanț care ne ţinea legaţi. <i>––Autor necunoscut</i></p>"
+          "html": "<p>Lovitura cea mai înspăimântătoare vine adesea doar pentru a sfărâma un lanț care ne ţinea legaţi. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Autor necunoscut"
         },
         {
           "type": "prose",
-          "html": "<p>Dumnezeu ne împarte mângâierile şi suferințele cu o mână sigură, care nicidecum nu greşeşte nici numărul, nici greutatea, nici măsura. De aceea nu avem de purtat nici măcar cu o fărâmă în plus sau în minus bucuria sau necazul care ne sunt rânduite. <i>––A. Toplady</i></p>"
+          "html": "<p>Dumnezeu ne împarte mângâierile şi suferințele cu o mână sigură, care nicidecum nu greşeşte nici numărul, nici greutatea, nici măsura. De aceea nu avem de purtat nici măcar cu o fărâmă în plus sau în minus bucuria sau necazul care ne sunt rânduite. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—A. Toplady"
         }
       ]
     },
@@ -1438,7 +1586,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Ne paşte un mare pericol, şi anume riscul de a degenera într-o specie de creştini-moluscă. Eu cred că predicatorii şi scriitorii creştini ar trebui să le reamintească în permanență ascultătorilor şi cititorilor lor de importanța lepădării de sine în viața de creştin. Dacă Biserica îşi diluează mesajul, s-ar putea ca Dumnezeu să găsească de cuviință să îngăduie un nou capitol de disciplinare prin persecuție în viața ei, pentru că aceasta a fost de obicei metoda folosită cu precădere pentru a o învăța că Crucea trebuie purtată altfel decât ca un ornament la pieptul doamnelor. <i>„Dacă voieşte cineva să vină după Mine, să se lepede de sine, să-şi ia crucea, şi să Mă urmeze.” </i>(Vezi Luca 9.23, n.red.) <i>––Dr. W.G. Blaikie</i></p>"
+          "html": "<p>Ne paşte un mare pericol, şi anume riscul de a degenera într-o specie de creştini-moluscă. Eu cred că predicatorii şi scriitorii creştini ar trebui să le reamintească în permanență ascultătorilor şi cititorilor lor de importanța lepădării de sine în viața de creştin. Dacă Biserica îşi diluează mesajul, s-ar putea ca Dumnezeu să găsească de cuviință să îngăduie un nou capitol de disciplinare prin persecuție în viața ei, pentru că aceasta a fost de obicei metoda folosită cu precădere pentru a o învăța că Crucea trebuie purtată altfel decât ca un ornament la pieptul doamnelor. <i>„Dacă voieşte cineva să vină după Mine, să se lepede de sine, să-şi ia crucea, şi să Mă urmeze.” </i>(Vezi Luca 9.23, n.red.) </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Dr. W.G. Blaikie"
         },
         {
           "type": "prose",
@@ -1449,24 +1601,24 @@
           "html": "<p>Cei mai mulți creştini moderni se tem:</p>"
         },
         {
-          "type": "attribution",
-          "text": "- Să înfrunte privirile încruntate ale celor dragi şi să se roage înainte de masă;"
+          "type": "prose",
+          "html": "<p>- Să înfrunte privirile încruntate ale celor dragi şi să se roage înainte de masă;</p>"
         },
         {
-          "type": "attribution",
-          "text": "- Să fie considerați demodați şi să țină un timp de închinare în familie;"
+          "type": "prose",
+          "html": "<p>- Să fie considerați demodați şi să țină un timp de închinare în familie;</p>"
         },
         {
-          "type": "attribution",
-          "text": "- Să-şi abordeze apropiații nemântuiți şi să le vorbească despre sufletul lor;"
+          "type": "prose",
+          "html": "<p>- Să-şi abordeze apropiații nemântuiți şi să le vorbească despre sufletul lor;</p>"
         },
         {
-          "type": "attribution",
-          "text": "- Să fie văzuți stând pe genunchi sau citind Biblia;"
+          "type": "prose",
+          "html": "<p>- Să fie văzuți stând pe genunchi sau citind Biblia;</p>"
         },
         {
-          "type": "attribution",
-          "text": "- Să critice, în spiritul învăţăturii lui Cristos, un rău comis în fața lor"
+          "type": "prose",
+          "html": "<p>- Să critice, în spiritul învăţăturii lui Cristos, un rău comis în fața lor.</p>"
         },
         {
           "type": "prose",
@@ -1554,7 +1706,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Haideți să nu mai ducem o viaţă plină de frustrări. Dumnezeu nu va împinge niciodată linia îndatoririlor noastre dincolo de măsura puterii noastre. Ar trebui să trăim mereu impresionaţi de grația florilor, de ciripitul voios al cântăreţelor, de libertatea vântului şi a valurilor. Nu încape nici o îndoială că acesta este idealul pe care l-a proiectat Dumnezeu pentru viața omului. Nimeni nu se aşteaptă de la noi să facem mai mult decât ceea ce putem cu timpul care ne-a fost dat, cu uneltele, cu materialele şi cu oportunitățile pe care le avem la dispoziție. Nu slujim unui ispravnic egiptean care caută să dubleze numărul de cărămizi pe care trebuie să le facem, ci unui Stăpân generos, care vrea să facă din împlinirea îndatoririlor noastre un prilej de bucurie şi încântare. <i>––W.L. Watkinso</i></p>"
+          "html": "<p>Haideți să nu mai ducem o viaţă plină de frustrări. Dumnezeu nu va împinge niciodată linia îndatoririlor noastre dincolo de măsura puterii noastre. Ar trebui să trăim mereu impresionaţi de grația florilor, de ciripitul voios al cântăreţelor, de libertatea vântului şi a valurilor. Nu încape nici o îndoială că acesta este idealul pe care l-a proiectat Dumnezeu pentru viața omului. Nimeni nu se aşteaptă de la noi să facem mai mult decât ceea ce putem cu timpul care ne-a fost dat, cu uneltele, cu materialele şi cu oportunitățile pe care le avem la dispoziție. Nu slujim unui ispravnic egiptean care caută să dubleze numărul de cărămizi pe care trebuie să le facem, ci unui Stăpân generos, care vrea să facă din împlinirea îndatoririlor noastre un prilej de bucurie şi încântare. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—W.L. Watkinso"
         },
         {
           "type": "prose",
@@ -1601,15 +1757,19 @@
         },
         {
           "type": "prose",
-          "html": "<p>Vorbim despre o dezamăgire de o clipă, despre o satisfacție de o clipă, iar apoi oceanul se va linişti din nou şi va uita de valurile care i-au tulburat suprafața. <i>––Philips Brooks</i></p>"
+          "html": "<p>Vorbim despre o dezamăgire de o clipă, despre o satisfacție de o clipă, iar apoi oceanul se va linişti din nou şi va uita de valurile care i-au tulburat suprafața. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Philips Brooks"
         },
         {
           "type": "prose",
           "html": "<p><i>Polycarp din Smirna</i>, un prieten drag al apostolului Ioan, a fost dus la bătrânețe în fața guvernatorului roman.</p>"
         },
         {
-          "type": "attribution",
-          "text": "– Te voi alunga din ţară, i-a zis guvernatorul.\n\nBătrânul om sfânt al lui Dumnezeu a răspuns:\n\n– Nu poți să mă alungi, căci eu sunt acasă oriunde este Cristos. – Îți voi confisca toată averea ta.\n\n– Nu am nimic care să fie al meu. Iar dacă aş avea şi mi-ai lua"
+          "type": "prose",
+          "html": "<p>– Te voi alunga din ţară, i-a zis guvernatorul.<br>\nBătrânul om sfânt al lui Dumnezeu a răspuns:<br>\n– Nu poți să mă alungi, căci eu sunt acasă oriunde este Cristos. – Îți voi confisca toată averea ta.<br>\n– Nu am nimic care să fie al meu. Iar dacă aş avea şi mi-ai lua</p>"
         },
         {
           "type": "prose",
@@ -1624,24 +1784,32 @@
           "html": "<p>netulburat omul lui Dumnezeu, fiindcă de multă vreme am ajuns la concluzia că este un privilegiu pentru mine să fiu privit ca lepădătura tuturor de dragul lui Cristos.</p>"
         },
         {
-          "type": "attribution",
-          "text": "– Atunci te voi arunca în temniță! a tunat guvernatorul"
-        },
-        {
-          "type": "attribution",
-          "text": "– Poți face asta, dacă aşa doreşti. Dar eu voi fi mereu liber; pentru că acolo unde este Cristos, este libertate desăvârşită"
-        },
-        {
-          "type": "attribution",
-          "text": "– Îți voi lua viața! a răcnit şi mai cumplit guvernatorul roman"
-        },
-        {
-          "type": "attribution",
-          "text": "– În cazul acesta voi ajunge în Cer, unde este adevărata viață, a răspuns neînfricatul Polycarp. ––Un extras din Gospel Gleaners"
+          "type": "prose",
+          "html": "<p>– Atunci te voi arunca în temniță! a tunat guvernatorul.</p>"
         },
         {
           "type": "prose",
-          "html": "<p>Acolo unde se află crucea lui Cristos, este reală şi prezența lui Cristos; şi acolo unde este El, nimeni nu este nefericit şi nu există loc pentru disperare. <i>––Elizabeth B. Browning</i></p>"
+          "html": "<p>– Poți face asta, dacă aşa doreşti. Dar eu voi fi mereu liber; pentru că acolo unde este Cristos, este libertate desăvârşită.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>– Îți voi lua viața! a răcnit şi mai cumplit guvernatorul roman.</p>"
+        },
+        {
+          "type": "prose",
+          "html": "<p>– În cazul acesta voi ajunge în Cer, unde este adevărata viață, a răspuns neînfricatul Polycarp. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Un extras din Gospel Gleaners"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Acolo unde se află crucea lui Cristos, este reală şi prezența lui Cristos; şi acolo unde este El, nimeni nu este nefericit şi nu există loc pentru disperare. </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Elizabeth B. Browning"
         }
       ]
     },
@@ -1669,7 +1837,11 @@
         },
         {
           "type": "prose",
-          "html": "<p>Domnul zdrobeşte brațele celor răi şi îi sprijină pe cei neprihăniți. Şi atunci, iată marea întrebare care se pune: este El cu noi sau împotriva noastră? Bunăvoința lui Dumnezeu este – pentru cei care au parte de ea – un bun mai prețios şi mai trainic decât oricare altul şi care, asemenea untdelemnului din ulciorul văduvei, nu se termină în zilele grele ale foametei şi niciodată nu le va înşela aşteptările.<i>––Episcopul Horne</i></p>"
+          "html": "<p>Domnul zdrobeşte brațele celor răi şi îi sprijină pe cei neprihăniți. Şi atunci, iată marea întrebare care se pune: este El cu noi sau împotriva noastră? Bunăvoința lui Dumnezeu este – pentru cei care au parte de ea – un bun mai prețios şi mai trainic decât oricare altul şi care, asemenea untdelemnului din ulciorul văduvei, nu se termină în zilele grele ale foametei şi niciodată nu le va înşela aşteptările.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Episcopul Horne"
         },
         {
           "type": "prose",

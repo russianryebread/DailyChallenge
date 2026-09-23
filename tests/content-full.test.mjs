@@ -49,7 +49,7 @@ test('full migration preserves source text and reports unresolved encoding', () 
   assert.deepEqual(report.anomalies.unknownBlocks.en, []);
   assert.deepEqual(
     report.anomalies.unknownBlocks.ro.map(({ id }) => id),
-    [263, 305],
+    [243, 263, 305],
   );
   assert.deepEqual(
     report.titleMarkup.map(({ id, locale }) => ({ id, locale })),
@@ -70,6 +70,80 @@ test('catalogs and search indexes cover the content version', () => {
     assert.equal(searchIndexes[locale].contentVersion, artifact.contentVersion);
     assert.equal(catalogs[locale].readings.length, 366);
     assert.equal(searchIndexes[locale].readings.length, 366);
+  }
+});
+
+test('credits are separate blocks and dialogue stays in the reading text', () => {
+  for (const [locale, id, credit] of [
+    ['en', 15, '—Unknown'],
+    ['en', 61, '—J. H. Jowett'],
+    ['en', 230, '—Elizabeth S. Brengle'],
+    ['en', 266, '—Unknown'],
+    ['ro', 1, '—Charles Kingsley'],
+    ['ro', 266, '—Autor necunoscut'],
+    ['ro', 365, '—W.M. Taylor'],
+  ]) {
+    const reading = artifacts[locale].readings.find((item) => item.id === id);
+    const index = reading.blocks.findIndex((block) => block.type === 'attribution' && block.text === credit);
+    assert.ok(index > 0, `${locale} reading ${id}: ${credit}`);
+    assert.equal(reading.blocks[index - 1].type, 'prose');
+    assert.equal(reading.blocks[index - 1].text.includes(credit), false);
+  }
+
+  for (const locale of ['en', 'ro']) {
+    const names = new Set(artifacts[locale].readings.flatMap((reading) =>
+      reading.blocks.filter((block) => block.type === 'attribution')
+        .map((block) => block.text.replace(/^[-—–]+\s*/, '').replace(/\.$/, '').trim())
+        .filter((name) => name.length >= 4),
+    ));
+    for (const reading of artifacts[locale].readings) {
+      for (const block of reading.blocks) {
+        if (!['prose', 'quotation', 'unknown'].includes(block.type)) continue;
+        const text = block.text.trim().replace(/\.$/, '');
+        for (const name of names) {
+          assert.equal(
+            ['—', '–', '-'].some((dash) => text.endsWith(`${dash}${name}`)),
+            false,
+            `${locale} reading ${reading.id}: credit left in ${block.type}`,
+          );
+        }
+      }
+    }
+  }
+
+  const romanianDialogue = artifacts.ro.readings.find((reading) => reading.id === 86);
+  assert.ok(romanianDialogue.blocks.some((block) =>
+    block.type === 'prose' && block.text.startsWith('– Fiule,'),
+  ));
+
+  for (const [locale, id, credit] of [
+    ['en', 2, '—A. B. Simpson'],
+    ['en', 338, '—S. D. Gordon'],
+    ['ro', 67, '—Christina Rossetti'],
+    ['ro', 188, '—C. H. Spurgeon'],
+    ['ro', 284, '—Daniel Steele'],
+    ['ro', 284, '—Gerhardt Tersteegen'],
+  ]) {
+    const reading = artifacts[locale].readings.find((item) => item.id === id);
+    assert.ok(reading.blocks.some((block) => block.type === 'attribution' && block.text === credit));
+  }
+  assert.ok(artifacts.en.readings[24].blocks.some((block) =>
+    block.type === 'poem' && block.lines.some((line) => line.text === '—But God had shut the door'),
+  ));
+});
+
+test('rendered blocks retain every letter from the original reading', () => {
+  const letters = (value) => value.normalize('NFC').replace(/[^\p{L}\p{N}]/gu, '').toLowerCase();
+  for (const locale of ['en', 'ro']) {
+    for (const reading of artifacts[locale].readings) {
+      const rendered = reading.blocks.map((block) => {
+        if (block.type === 'scripture') return block.sourceText;
+        if (block.type === 'poem') return block.lines.map((line) => line.text).join(' ');
+        if (block.type === 'list') return block.items.join(' ');
+        return block.text ?? '';
+      }).join(' ');
+      assert.equal(letters(rendered), letters(reading.plainText), `${locale} reading ${reading.id}`);
+    }
   }
 });
 
