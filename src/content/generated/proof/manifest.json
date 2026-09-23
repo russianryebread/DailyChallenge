@@ -6,9 +6,14 @@
   "translationCount": 22,
   "files": [
     {
-      "name": "readings.json",
-      "bytes": 246612,
-      "sha256": "d9a892e9c5b6373cb54f35db9f0832dd755d5d2cec3045094650ad8ea7c176a2"
+      "name": "readings.en.json",
+      "bytes": 82180,
+      "sha256": "d052c4b8cb50f917f07632c7eeb02937a0da46c7eb2c4191e6a9b87cfc316826"
+    },
+    {
+      "name": "readings.ro.json",
+      "bytes": 101249,
+      "sha256": "d6e100b0788ec31665d98307287d01800fb41f462d9f25c69f443308233a7ac6"
     },
     {
       "name": "catalog.en.json",

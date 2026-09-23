@@ -1,21 +1,31 @@
-// Server-side content repository. Reads the immutable generated library and
-// exposes typed lookups. This module bundles the full readings artifact, so it
+// Server-side content repository. Reads the immutable language libraries and
+// exposes typed lookups. This module bundles the reading artifacts, so it
 // must only be imported from server components / server code — never shipped to
 // the client bundle.
 
 import type { Locale, LocalizedReading, Reading } from '@/src/core/types';
 import { toMonthDay } from '@/src/core/calendar';
-import readingsData from './generated/full/readings.json';
+import englishData from './generated/full/readings.en.json';
+import romanianData from './generated/full/readings.ro.json';
 
 interface ReadingLibrary {
   contentVersion: string;
+  locale: Locale;
   readings: Reading[];
 }
 
-const library = readingsData as unknown as ReadingLibrary;
+const libraries: Record<Locale, ReadingLibrary> = {
+  en: englishData as unknown as ReadingLibrary,
+  ro: romanianData as unknown as ReadingLibrary,
+};
+const library = libraries.en;
 
 const byId = new Map<number, Reading>();
 const byMonthDay = new Map<string, Reading>();
+const localizedByLocale: Record<Locale, Map<number, Reading>> = {
+  en: byId,
+  ro: new Map(libraries.ro.readings.map((reading) => [reading.id, reading])),
+};
 
 for (const reading of library.readings) {
   byId.set(reading.id, reading);
@@ -45,9 +55,10 @@ export function getReadingByMonthDay(monthDay: string): Reading | undefined {
   return byMonthDay.get(monthDay);
 }
 
-/** Reduce a bilingual reading to the single locale being rendered. */
+/** Look up the same reading in the requested language. */
 export function localize(reading: Reading, locale: Locale): LocalizedReading {
-  const translation = reading.translations[locale];
+  const translation = localizedByLocale[locale].get(reading.id);
+  if (!translation) throw new Error(`Missing ${locale} reading ${reading.id}`);
   return {
     id: reading.id,
     monthDay: reading.monthDay,
@@ -83,7 +94,7 @@ export function catalog(
     .map((reading) => ({
       id: reading.id,
       monthDay: reading.monthDay,
-      title: reading.translations[locale].title,
+      title: localizedByLocale[locale].get(reading.id)!.title,
     }));
 }
 
@@ -111,6 +122,6 @@ export function readingsInMonth(month: string, locale: Locale): MonthEntry[] {
       id: reading.id,
       monthDay: reading.monthDay,
       day: Number.parseInt(reading.monthDay.slice(3), 10),
-      title: reading.translations[locale].title,
+      title: localizedByLocale[locale].get(reading.id)!.title,
     }));
 }

@@ -1,5 +1,5 @@
 import { createHash } from 'node:crypto';
-import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { DatabaseSync } from 'node:sqlite';
 import { parseFragment, serialize } from 'parse5';
@@ -209,7 +209,6 @@ function sanitizeHtml(rawHtml) {
   fragment.childNodes = sanitizeNodes(fragment.childNodes, fragment, anomaly);
   return {
     fragment,
-    html: serialize(fragment).normalize('NFC'),
     anomaly,
   };
 }
@@ -512,7 +511,6 @@ function convertRow(sourceRow, database, locale, correctionManifest) {
   const translation = {
     title: normalizedTitle,
     blocks: toBlocks(sanitized.fragment),
-    sanitizedHtml: sanitized.html,
     plainText: plainText(sanitized.fragment),
     searchAliases: row.tags?.split(/\s+/).filter(Boolean) ?? [],
     source: {
@@ -858,7 +856,21 @@ function main() {
     );
   }
 
-  const readingsDocument = formatJson({ contentVersion, readings });
+  const readingsDocuments = Object.fromEntries(
+    Object.keys(sources).map((locale) => [
+      `readings.${locale}.json`,
+      formatJson({
+        contentVersion,
+        locale,
+        readings: readings.map((reading) => ({
+          id: reading.id,
+          monthDay: reading.monthDay,
+          leapOrdinal: reading.leapOrdinal,
+          ...reading.translations[locale],
+        })),
+      }),
+    ]),
+  );
   const catalogs = Object.fromEntries(
     Object.keys(sources).map((locale) => [
       locale,
@@ -890,7 +902,7 @@ function main() {
   );
   const reportDocument = formatJson(report);
   const documents = {
-    'readings.json': readingsDocument,
+    ...readingsDocuments,
     'catalog.en.json': catalogs.en,
     'catalog.ro.json': catalogs.ro,
     'search.en.json': searchIndexes.en,
@@ -909,6 +921,7 @@ function main() {
   });
 
   mkdirSync(options.out, { recursive: true });
+  rmSync(resolve(options.out, 'readings.json'), { force: true });
   for (const [name, contents] of Object.entries(documents)) {
     writeFileSync(resolve(options.out, name), contents);
   }

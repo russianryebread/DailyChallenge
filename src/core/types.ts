@@ -66,18 +66,14 @@ export type ReadingBlock =
   | DividerBlock
   | UnknownBlock;
 
-export interface ReadingTranslation {
-  title: string;
-  blocks: ReadingBlock[];
-  plainText: string;
-  searchAliases?: string[];
-}
-
 export interface Reading {
   id: number;
   monthDay: string;
   leapOrdinal: number;
-  translations: Record<Locale, ReadingTranslation>;
+  title: string;
+  blocks: ReadingBlock[];
+  plainText: string;
+  searchAliases?: string[];
 }
 
 /** A reading paired with the single locale being rendered. */

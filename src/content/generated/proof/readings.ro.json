@@ -1,0 +1,916 @@
+{
+  "contentVersion": "edc4d46c2242e586",
+  "locale": "ro",
+  "readings": [
+    {
+      "id": 1,
+      "monthDay": "01-01",
+      "leapOrdinal": 1,
+      "title": "NU ÎNCETA SĂ TE PROVOCI SINGUR!",
+      "blocks": [
+        {
+          "type": "prose",
+          "html": "<p><i>Şi Dumnezeu poate să vă umple cu orice har, pentru ca, având totdeauna în toate lucrurile din destul, să prisosiţi în orice faptă bună.” </i>(2 Corinteni 9.8)<br>\n<i>„...să înflăcărezi darul lui Dumnezeu, care este în tine.” </i>(2 Timotei 1.6)</p>",
+          "text": "Şi Dumnezeu poate să vă umple cu orice har, pentru ca, având totdeauna în toate lucrurile din destul, să prisosiţi în orice faptă bună.” (2 Corinteni 9.8)\n\n„...să înflăcărezi darul lui Dumnezeu, care este în tine.” (2 Timotei 1.6)"
+        },
+        {
+          "type": "prose",
+          "html": "<p>De vreme ce Dumnezeu poate să ne umple cu orice har în toate lucrurile, atunci de ce mai există atât de mulţi creştini piperniciţi şi neputincioşi? Cu siguranţă, problema nu poate fi la Izvorul harului, aşa că trebuie căutată în incapacitatea creştinilor de a se alimenta din belşugul de har.</p>",
+          "text": "De vreme ce Dumnezeu poate să ne umple cu orice har în toate lucrurile, atunci de ce mai există atât de mulţi creştini piperniciţi şi neputincioşi? Cu siguranţă, problema nu poate fi la Izvorul harului, aşa că trebuie căutată în incapacitatea creştinilor de a se alimenta din belşugul de har."
+        },
+        {
+          "type": "prose",
+          "html": "<p>În anul care ne stă în faţă, vă îndemnăm pe toţi să vă provocaţi singuri în legătură cu aceste posibilităţi minunate cuprinse în promisiunile lui Dumnezeu.</p>",
+          "text": "În anul care ne stă în faţă, vă îndemnăm pe toţi să vă provocaţi singuri în legătură cu aceste posibilităţi minunate cuprinse în promisiunile lui Dumnezeu."
+        },
+        {
+          "type": "prose",
+          "html": "<p><i>Nu înceta să te provoci singur!</i></p>",
+          "text": "Nu înceta să te provoci singur!"
+        },
+        {
+          "type": "prose",
+          "html": "<p>În momentul în care te declari mulţumit de tine însuţi şi de lucrarea ta, începi să aluneci înapoi.</p>",
+          "text": "În momentul în care te declari mulţumit de tine însuţi şi de lucrarea ta, începi să aluneci înapoi."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Tocmai de aceea, stabileşte-ţi provocări pentru gândurile tale, pentru acţiunile tale şi pentru tot ceea ce vrei să realizezi.</p>",
+          "text": "Tocmai de aceea, stabileşte-ţi provocări pentru gândurile tale, pentru acţiunile tale şi pentru tot ceea ce vrei să realizezi."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dezvoltarea vieţii interioare este cea mai importantă sarcină pe care o are de îndeplinit fiecare dintre noi. Nu aceea de a face bani. Nu aceea de a obţine faimă şi un anume statut social, sau aprobarea vremelnică a celor din jur. Trebuie să ne găsim satisfacţia în ceea ce reprezintă lăuntrul nostru. Trebuie să ne satisfacem foamea sufletească. Împotrivindu-ne forţelor potrivnice care se străduiesc să ne abată din drum, ne zidim caracterul!</p>",
+          "text": "Dezvoltarea vieţii interioare este cea mai importantă sarcină pe care o are de îndeplinit fiecare dintre noi. Nu aceea de a face bani. Nu aceea de a obţine faimă şi un anume statut social, sau aprobarea vremelnică a celor din jur. Trebuie să ne găsim satisfacţia în ceea ce reprezintă lăuntrul nostru. Trebuie să ne satisfacem foamea sufletească. Împotrivindu-ne forţelor potrivnice care se străduiesc să ne abată din drum, ne zidim caracterul!"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dorinţa este piatra de căpătâi a oricărei realizări. Dar fără o voinţă puternică şi un scop bine stabilit, dorinţa rămâne literă moartă.</p>",
+          "text": "Dorinţa este piatra de căpătâi a oricărei realizări. Dar fără o voinţă puternică şi un scop bine stabilit, dorinţa rămâne literă moartă."
+        },
+        {
+          "type": "prose",
+          "html": "<p><i>Nu înceta să te provoci singur!</i></p>",
+          "text": "Nu înceta să te provoci singur!"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Poţi pune pe fugă toţi pigmeii firii tale pământeşti dacă decizi să faci acest lucru!</p>",
+          "text": "Poţi pune pe fugă toţi pigmeii firii tale pământeşti dacă decizi să faci acest lucru!"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cu fiecare an ce trece,<br>\nMă schimb din ce în ce mai mult; Nevoile nu pot să sece,<br>\nCăci viaţa este un tumult.</p>",
+          "text": "Cu fiecare an ce trece,\n\nMă schimb din ce în ce mai mult; Nevoile nu pot să sece,\n\nCăci viaţa este un tumult."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Tu, bunul meu Stăpân, întruna Acelaşi sfânt şi mare eţti;<br>\nCu harul, însă, nu-i tot una, Căci zi de zi Ţi-l îndulceşti.</p>",
+          "text": "Tu, bunul meu Stăpân, întruna Acelaşi sfânt şi mare eţti;\n\nCu harul, însă, nu-i tot una, Căci zi de zi Ţi-l îndulceşti."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Condu-mi toţi paşii cu blândeţe, Lărgeşte-mi inima cât vrei,<br>\nIar strălucirea Sfintei Feţe<br>\nSă scalde-n har toţi anii mei.</p>",
+          "text": "Condu-mi toţi paşii cu blândeţe, Lărgeşte-mi inima cât vrei,\n\nIar strălucirea Sfintei Feţe\n\nSă scalde-n har toţi anii mei."
+        },
+        {
+          "type": "attribution",
+          "text": "— F.W. Faber"
+        },
+        {
+          "type": "prose",
+          "html": "<p>A fi nemulţumit de tine însuţi cu o nemulţumire divină şi a te ruşina de tine însuţi cu o ruşine nobilă este deopotrivă sămânţa şi prima roadă a oricărei virtuţi. <i>— Charles Kingsley</i></p>",
+          "text": "A fi nemulţumit de tine însuţi cu o nemulţumire divină şi a te ruşina de tine însuţi cu o ruşine nobilă este deopotrivă sămânţa şi prima roadă a oricărei virtuţi. — Charles Kingsley"
+        }
+      ],
+      "plainText": "Şi Dumnezeu poate să vă umple cu orice har, pentru ca, având totdeauna în toate lucrurile din destul, să prisosiţi în orice faptă bună.” (2 Corinteni 9.8)\n\n„...să înflăcărezi darul lui Dumnezeu, care este în tine.” (2 Timotei 1.6)\n\nDe vreme ce Dumnezeu poate să ne umple cu orice har în toate lucrurile, atunci de ce mai există atât de mulţi creştini piperniciţi şi neputincioşi? Cu siguranţă, problema nu poate fi la Izvorul harului, aşa că trebuie căutată în incapacitatea creştinilor de a se alimenta din belşugul de har.\n\nÎn anul care ne stă în faţă, vă îndemnăm pe toţi să vă provocaţi singuri în legătură cu aceste posibilităţi minunate cuprinse în promisiunile lui Dumnezeu.\n\nNu înceta să te provoci singur!\n\nÎn momentul în care te declari mulţumit de tine însuţi şi de lucrarea ta, începi să aluneci înapoi.\n\nTocmai de aceea, stabileşte-ţi provocări pentru gândurile tale, pentru acţiunile tale şi pentru tot ceea ce vrei să realizezi.\n\nDezvoltarea vieţii interioare este cea mai importantă sarcină pe care o are de îndeplinit fiecare dintre noi. Nu aceea de a face bani. Nu aceea de a obţine faimă şi un anume statut social, sau aprobarea vremelnică a celor din jur. Trebuie să ne găsim satisfacţia în ceea ce reprezintă lăuntrul nostru. Trebuie să ne satisfacem foamea sufletească. Împotrivindu-ne forţelor potrivnice care se străduiesc să ne abată din drum, ne zidim caracterul!\n\nDorinţa este piatra de căpătâi a oricărei realizări. Dar fără o voinţă puternică şi un scop bine stabilit, dorinţa rămâne literă moartă.\n\nNu înceta să te provoci singur!\n\nPoţi pune pe fugă toţi pigmeii firii tale pământeşti dacă decizi să faci acest lucru!\n\nCu fiecare an ce trece,\n\nMă schimb din ce în ce mai mult; Nevoile nu pot să sece,\n\nCăci viaţa este un tumult.\n\nTu, bunul meu Stăpân, întruna Acelaşi sfânt şi mare eţti;\n\nCu harul, însă, nu-i tot una, Căci zi de zi Ţi-l îndulceşti.\n\nCondu-mi toţi paşii cu blândeţe, Lărgeşte-mi inima cât vrei,\n\nIar strălucirea Sfintei Feţe\n\nSă scalde-n har toţi anii mei.\n\n— F.W. Faber\n\nA fi nemulţumit de tine însuţi cu o nemulţumire divină şi a te ruşina de tine însuţi cu o ruşine nobilă este deopotrivă sămânţa şi prima roadă a oricărei virtuţi. — Charles Kingsley",
+      "searchAliases": [
+        "January",
+        "Jan"
+      ],
+      "source": {
+        "database": "cdc-ro.db",
+        "sourceId": 1,
+        "sourceDate": "2012-01-01",
+        "rawChecksum": "bb043dcb00c102e51a2106487d99cb7188120d2321d6146fbf897b01457dead4",
+        "correctionKeys": [],
+        "transformedChecksum": "e99ad5d0dc35c08856a30116d491032ac88eee6c7960b7a4d84f3fa30c235034"
+      },
+      "contentVersion": "edc4d46c2242e586"
+    },
+    {
+      "id": 19,
+      "monthDay": "01-19",
+      "leapOrdinal": 19,
+      "title": "MINELE DE AUR ALE LUI DUMNEZEU",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Şi atunci Cel Atotputernic va fi aurul tău.” (Iov 22.25)\n\n„O, cât de mare este bunătatea Ta pe care o păstrezi pentru cei ce se tem de Tine, şi pe care o arăţi celor ce se încred în Tine, în faţa fiilor oamenilor!”",
+          "reference": "Psalmul 31.19",
+          "sourceText": "„Şi atunci Cel Atotputernic va fi aurul tău.” (Iov 22.25)\n\n„O, cât de mare este bunătatea Ta pe care o păstrezi pentru cei ce se tem de Tine, şi pe care o arăţi celor ce se încred în Tine, în faţa fiilor oamenilor!” (Psalmul 31.19)"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Printre hârtiile unui tânăr care murise pe una dintre cele mai bogate câmpii aurifere din lume s-au găsit şi versurile de mai jos. Tânărul acesta fusese atras de mirajul aurului şi încercase să facă avere săpând după aur. Dar din pricina condițiilor grele de muncă s-a îmbolnăvit şi în cele din urmă a murit.</p>",
+          "text": "Printre hârtiile unui tânăr care murise pe una dintre cele mai bogate câmpii aurifere din lume s-au găsit şi versurile de mai jos. Tânărul acesta fusese atras de mirajul aurului şi încercase să facă avere săpând după aur. Dar din pricina condițiilor grele de muncă s-a îmbolnăvit şi în cele din urmă a murit."
+        },
+        {
+          "type": "prose",
+          "html": "<p>În timpul bolii Cristos i S-a revelat ca adevăratul aur.</p>",
+          "text": "În timpul bolii Cristos i S-a revelat ca adevăratul aur."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Crezând cândva că fericirea<br>\nSe poate cumpăra cu aur,<br>\nŞi vrând să-mi aflu împlinirea, Mi-am pus de gând să-mi fac tezaur.</p>",
+          "text": "Crezând cândva că fericirea\n\nSe poate cumpăra cu aur,\n\nŞi vrând să-mi aflu împlinirea, Mi-am pus de gând să-mi fac tezaur."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Aşa că, într-o zi, curajul<br>\nDe-a merge-n mină mă pătrunse, Căci straşnic m-a atras mirajul Tărâmului cu perle-ascunse.</p>",
+          "text": "Aşa că, într-o zi, curajul\n\nDe-a merge-n mină mă pătrunse, Căci straşnic m-a atras mirajul Tărâmului cu perle-ascunse."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Am coborât în mina rece Scăldat în razele nădejdii<br>\nCă tot ce-i rău şi greu va trece Şi voi putea să-nfrunt primejdii.</p>",
+          "text": "Am coborât în mina rece Scăldat în razele nădejdii\n\nCă tot ce-i rău şi greu va trece Şi voi putea să-nfrunt primejdii."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Privindu-i lacom frumuseţea În rocile strălucitoare,<br>\nNu observam cum tinereţea Se stinge lin şi vlaga moare.</p>",
+          "text": "Privindu-i lacom frumuseţea În rocile strălucitoare,\n\nNu observam cum tinereţea Se stinge lin şi vlaga moare."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cu ochi-nchişi, zâmbeam la gândul Că multă vreme n-o să fie<br>\nŞi-mi va veni şi mie rândul<br>\nSă am o mare bogăţie.</p>",
+          "text": "Cu ochi-nchişi, zâmbeam la gândul Că multă vreme n-o să fie\n\nŞi-mi va veni şi mie rândul\n\nSă am o mare bogăţie."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dar aurul ce-mi fu momeală S-a-ntors cu spatele spre mine, Căci trupul meu învins de boală A spus ,,Adio!” vechii mine.</p>",
+          "text": "Dar aurul ce-mi fu momeală S-a-ntors cu spatele spre mine, Căci trupul meu învins de boală A spus ,,Adio!” vechii mine."
+        },
+        {
+          "type": "prose",
+          "html": "<p>M-am pomenit, în toiul nopţii,<br>\n– O noapte fără dimineaţă –, Sărac şi slab în faţa morţii, Simţeam cum sufletul mi-ngheaţă.</p>",
+          "text": "M-am pomenit, în toiul nopţii,\n\n– O noapte fără dimineaţă –, Sărac şi slab în faţa morţii, Simţeam cum sufletul mi-ngheaţă."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dar, în cumplitu-mi întuneric, Se-aprinse-o rază de lumină, Căci Salvatoru-atotputernic Spre mine S-a grăbit să vină.</p>",
+          "text": "Dar, în cumplitu-mi întuneric, Se-aprinse-o rază de lumină, Căci Salvatoru-atotputernic Spre mine S-a grăbit să vină."
+        },
+        {
+          "type": "prose",
+          "html": "<p>M-a prins cu dragoste de mână, Scoţându-mă din fundul gropii, Apoi, dorind să mai rămână, Mi-a spus de El să mă apropii.</p>",
+          "text": "M-a prins cu dragoste de mână, Scoţându-mă din fundul gropii, Apoi, dorind să mai rămână, Mi-a spus de El să mă apropii."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Şi mi-a şoptit că Se-aplecase,<br>\nNu doar din groapă să mă scoată, Ci că voia în dar să-mi lase<br>\nA Cerului comoară toată.</p>",
+          "text": "Şi mi-a şoptit că Se-aplecase,\n\nNu doar din groapă să mă scoată, Ci că voia în dar să-mi lase\n\nA Cerului comoară toată."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Desigur, Şi-a ţinut cuvântul: Mi-a pus în braţe-o bogăţie Ce-ntrece tot ce dă pământul Şi ţine până-n veşnicie.</p>",
+          "text": "Desigur, Şi-a ţinut cuvântul: Mi-a pus în braţe-o bogăţie Ce-ntrece tot ce dă pământul Şi ţine până-n veşnicie."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Un râu sublim de har şi pace Mi-a inundat fiinţa-ntreagă; De lumea ce-n iluzii zace, Acum nimic nu mă mai leagă.</p>",
+          "text": "Un râu sublim de har şi pace Mi-a inundat fiinţa-ntreagă; De lumea ce-n iluzii zace, Acum nimic nu mă mai leagă."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Căci Domnul meu, Divinul Faur, M-a scos din beznă la lumină; Doar El mi-e preţiosul aur<br>\nAici şi-n viaţa care vine.</p>",
+          "text": "Căci Domnul meu, Divinul Faur, M-a scos din beznă la lumină; Doar El mi-e preţiosul aur\n\nAici şi-n viaţa care vine."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cei mai mulți dintre noi am alergat după strălucirea înşela��toare a acestei lumi, după zorzoanele faimei sau după vreun alt lucru iluzoriu care să ne hrănească vanitatea înainte de a descoperi aurul moştenirii creştine care întrece orice alt lucru.</p>",
+          "text": "Cei mai mulți dintre noi am alergat după strălucirea înşela��toare a acestei lumi, după zorzoanele faimei sau după vreun alt lucru iluzoriu care să ne hrănească vanitatea înainte de a descoperi aurul moştenirii creştine care întrece orice alt lucru."
+        }
+      ],
+      "plainText": "„Şi atunci Cel Atotputernic va fi aurul tău.” (Iov 22.25)\n\n„O, cât de mare este bunătatea Ta pe care o păstrezi pentru cei ce se tem de Tine, şi pe care o arăţi celor ce se încred în Tine, în faţa fiilor oamenilor!” (Psalmul 31.19)\n\nPrintre hârtiile unui tânăr care murise pe una dintre cele mai bogate câmpii aurifere din lume s-au găsit şi versurile de mai jos. Tânărul acesta fusese atras de mirajul aurului şi încercase să facă avere săpând după aur. Dar din pricina condițiilor grele de muncă s-a îmbolnăvit şi în cele din urmă a murit.\n\nÎn timpul bolii Cristos i S-a revelat ca adevăratul aur.\n\nCrezând cândva că fericirea\n\nSe poate cumpăra cu aur,\n\nŞi vrând să-mi aflu împlinirea, Mi-am pus de gând să-mi fac tezaur.\n\nAşa că, într-o zi, curajul\n\nDe-a merge-n mină mă pătrunse, Căci straşnic m-a atras mirajul Tărâmului cu perle-ascunse.\n\nAm coborât în mina rece Scăldat în razele nădejdii\n\nCă tot ce-i rău şi greu va trece Şi voi putea să-nfrunt primejdii.\n\nPrivindu-i lacom frumuseţea În rocile strălucitoare,\n\nNu observam cum tinereţea Se stinge lin şi vlaga moare.\n\nCu ochi-nchişi, zâmbeam la gândul Că multă vreme n-o să fie\n\nŞi-mi va veni şi mie rândul\n\nSă am o mare bogăţie.\n\nDar aurul ce-mi fu momeală S-a-ntors cu spatele spre mine, Căci trupul meu învins de boală A spus ,,Adio!” vechii mine.\n\nM-am pomenit, în toiul nopţii,\n\n– O noapte fără dimineaţă –, Sărac şi slab în faţa morţii, Simţeam cum sufletul mi-ngheaţă.\n\nDar, în cumplitu-mi întuneric, Se-aprinse-o rază de lumină, Căci Salvatoru-atotputernic Spre mine S-a grăbit să vină.\n\nM-a prins cu dragoste de mână, Scoţându-mă din fundul gropii, Apoi, dorind să mai rămână, Mi-a spus de El să mă apropii.\n\nŞi mi-a şoptit că Se-aplecase,\n\nNu doar din groapă să mă scoată, Ci că voia în dar să-mi lase\n\nA Cerului comoară toată.\n\nDesigur, Şi-a ţinut cuvântul: Mi-a pus în braţe-o bogăţie Ce-ntrece tot ce dă pământul Şi ţine până-n veşnicie.\n\nUn râu sublim de har şi pace Mi-a inundat fiinţa-ntreagă; De lumea ce-n iluzii zace, Acum nimic nu mă mai leagă.\n\nCăci Domnul meu, Divinul Faur, M-a scos din beznă la lumină; Doar El mi-e preţiosul aur\n\nAici şi-n viaţa care vine.\n\nCei mai mulți dintre noi am alergat după strălucirea înşela��toare a acestei lumi, după zorzoanele faimei sau după vreun alt lucru iluzoriu care să ne hrănească vanitatea înainte de a descoperi aurul moştenirii creştine care întrece orice alt lucru.",
+      "searchAliases": [
+        "January",
+        "Jan"
+      ],
+      "source": {
+        "database": "cdc-ro.db",
+        "sourceId": 19,
+        "sourceDate": "2012-01-19",
+        "rawChecksum": "4e312394388bb4ef202490cbaeb388ed31a05358daeffa3b524ccfd49ccf3244",
+        "correctionKeys": [],
+        "transformedChecksum": "2934e7251fc5f57d25aaf6fe6dea1d3997a074ceb4a10f433a4ddcb460a9b672"
+      },
+      "contentVersion": "edc4d46c2242e586"
+    },
+    {
+      "id": 58,
+      "monthDay": "02-27",
+      "leapOrdinal": 58,
+      "title": "PREȚUL ADEVĂRULUI",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Dacă vei cere înţelepciune, şi dacă te vei ruga pentru pricepere, dacă o vei căuta ca argintul, şi vei umbla după ea ca după o comoară, atunci vei înţelege frica de Domnul, şi vei găsi cunoştinţa lui Dumnezeu.”",
+          "reference": "Proverbele lui Solomon 2.3-5",
+          "sourceText": "„Dacă vei cere înţelepciune, şi dacă te vei ruga pentru pricepere, dacă o vei căuta ca argintul, şi vei umbla după ea ca după o comoară, atunci vei înţelege frica de Domnul, şi vei găsi cunoştinţa lui Dumnezeu.” (Proverbele lui Solomon 2.3-5)"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Mântuirea nu este ceva asemănător unei vacanțe. Bărbații şi femeile care sunt plini de adevăr – care, de fapt, au devenit o personificare a adevărului – nu au ajuns aici fără a face nici un efort. Ei au umblat după adevăr şi l-au căutat stăruitor; au iubit foarte mult adevărul; au tânjit după adevăr mai mult decât după hrana necesară trupului; în cele din urmă, au fost dispuşi să sacrifice totul pentru adevăr. Când au căzut, s-au ridicat din nou, iar când au fost învinşi nu s-au lăsat pradă descurajării, ci cu mai multă grijă şi atenție, cu şi mai multă ardoare, şi-au reînnoit eforturile.</p>",
+          "text": "Mântuirea nu este ceva asemănător unei vacanțe. Bărbații şi femeile care sunt plini de adevăr – care, de fapt, au devenit o personificare a adevărului – nu au ajuns aici fără a face nici un efort. Ei au umblat după adevăr şi l-au căutat stăruitor; au iubit foarte mult adevărul; au tânjit după adevăr mai mult decât după hrana necesară trupului; în cele din urmă, au fost dispuşi să sacrifice totul pentru adevăr. Când au căzut, s-au ridicat din nou, iar când au fost învinşi nu s-au lăsat pradă descurajării, ci cu mai multă grijă şi atenție, cu şi mai multă ardoare, şi-au reînnoit eforturile."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Şi-au riscat chiar şi viața pentru a cunoaşte adevărul. Bogății, confort, un nume între oameni, reputație, plăceri, tot ce poate oferi lumea – pe toate le-au socotit gunoaie şi zgură în căutarea lor după adevăr; şi l-au găsit abia atunci când, în percepţia lor, adevărul s-a ridicat deasupra tuturor celorlalte lucruri.</p>",
+          "text": "Şi-au riscat chiar şi viața pentru a cunoaşte adevărul. Bogății, confort, un nume între oameni, reputație, plăceri, tot ce poate oferi lumea – pe toate le-au socotit gunoaie şi zgură în căutarea lor după adevăr; şi l-au găsit abia atunci când, în percepţia lor, adevărul s-a ridicat deasupra tuturor celorlalte lucruri."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Da, atunci au aflat ei adevărul care mântuieşte sufletul, care aduce pace şi împlinire inimii, care oferă toate răspunsurile la întrebările vieții şi te introduce în părtăşia cu Dumnezeu, asigurându-ţi o bucurie de negrăit şi o pace desăvârşită.</p>",
+          "text": "Da, atunci au aflat ei adevărul care mântuieşte sufletul, care aduce pace şi împlinire inimii, care oferă toate răspunsurile la întrebările vieții şi te introduce în părtăşia cu Dumnezeu, asigurându-ţi o bucurie de negrăit şi o pace desăvârşită."
+        },
+        {
+          "type": "attribution",
+          "text": "––Samuel Logan Brengle „Cumpără adevărul, şi nu-l vinde.” (Proverbe 23.23)"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Adevărul viu şi veşnic are-un preţ inestimabil; Adevărurile lumii te înşală lamentabil.<br>\nZilnic ţi le scoate-n cale vântul calm al nepăsării, Dar pe cel divin îl afli, doar la Poarta Îndurării.</p>",
+          "text": "Adevărul viu şi veşnic are-un preţ inestimabil; Adevărurile lumii te înşală lamentabil.\n\nZilnic ţi le scoate-n cale vântul calm al nepăsării, Dar pe cel divin îl afli, doar la Poarta Îndurării."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Adeva��rul viu şi veşnic îl câştigi cu mare trudă,<br>\nCând renunţi la tine însuţi, prin a crucii moarte crudă; Cu-ale vieţii vânturi, valuri, aprig sufletul tău luptă Până când făptura-ntreagă de-adevărul sfânt ţi-i suptă.</p>",
+          "text": "Adeva��rul viu şi veşnic îl câştigi cu mare trudă,\n\nCând renunţi la tine însuţi, prin a crucii moarte crudă; Cu-ale vieţii vânturi, valuri, aprig sufletul tău luptă Până când făptura-ntreagă de-adevărul sfânt ţi-i suptă."
+        },
+        {
+          "type": "attribution",
+          "text": "––Horatius Bonar"
+        }
+      ],
+      "plainText": "„Dacă vei cere înţelepciune, şi dacă te vei ruga pentru pricepere, dacă o vei căuta ca argintul, şi vei umbla după ea ca după o comoară, atunci vei înţelege frica de Domnul, şi vei găsi cunoştinţa lui Dumnezeu.” (Proverbele lui Solomon 2.3-5)\n\nMântuirea nu este ceva asemănător unei vacanțe. Bărbații şi femeile care sunt plini de adevăr – care, de fapt, au devenit o personificare a adevărului – nu au ajuns aici fără a face nici un efort. Ei au umblat după adevăr şi l-au căutat stăruitor; au iubit foarte mult adevărul; au tânjit după adevăr mai mult decât după hrana necesară trupului; în cele din urmă, au fost dispuşi să sacrifice totul pentru adevăr. Când au căzut, s-au ridicat din nou, iar când au fost învinşi nu s-au lăsat pradă descurajării, ci cu mai multă grijă şi atenție, cu şi mai multă ardoare, şi-au reînnoit eforturile.\n\nŞi-au riscat chiar şi viața pentru a cunoaşte adevărul. Bogății, confort, un nume între oameni, reputație, plăceri, tot ce poate oferi lumea – pe toate le-au socotit gunoaie şi zgură în căutarea lor după adevăr; şi l-au găsit abia atunci când, în percepţia lor, adevărul s-a ridicat deasupra tuturor celorlalte lucruri.\n\nDa, atunci au aflat ei adevărul care mântuieşte sufletul, care aduce pace şi împlinire inimii, care oferă toate răspunsurile la întrebările vieții şi te introduce în părtăşia cu Dumnezeu, asigurându-ţi o bucurie de negrăit şi o pace desăvârşită.\n\n––Samuel Logan Brengle „Cumpără adevărul, şi nu-l vinde.” (Proverbe 23.23)\n\nAdevărul viu şi veşnic are-un preţ inestimabil; Adevărurile lumii te înşală lamentabil.\n\nZilnic ţi le scoate-n cale vântul calm al nepăsării, Dar pe cel divin îl afli, doar la Poarta Îndurării.\n\nAdeva��rul viu şi veşnic îl câştigi cu mare trudă,\n\nCând renunţi la tine însuţi, prin a crucii moarte crudă; Cu-ale vieţii vânturi, valuri, aprig sufletul tău luptă Până când făptura-ntreagă de-adevărul sfânt ţi-i suptă.\n\n––Horatius Bonar",
+      "searchAliases": [
+        "February",
+        "Feb"
+      ],
+      "source": {
+        "database": "cdc-ro.db",
+        "sourceId": 58,
+        "sourceDate": "2012-02-27",
+        "rawChecksum": "1968d8a8f295f004873563c443b0b5b90b6f0d4da68989d21c81c19a35e7ae2f",
+        "correctionKeys": [],
+        "transformedChecksum": "2f070d5bbff856df65597f09399fd3a6174388c0f24649b7c0d1dc32411b4bc5"
+      },
+      "contentVersion": "edc4d46c2242e586"
+    },
+    {
+      "id": 59,
+      "monthDay": "02-28",
+      "leapOrdinal": 59,
+      "title": "RĂNIT PENTRU A FI MAI RODNIC",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Pe orice mlădiţă care aduce roadă, o curăţeşte, ca să aducă şi mai multă roadă.” (Ioan 15.2)\n\n„Este adevărat că orice pedeapsă, deocamdată pare o pricină de întristare, şi nu de bucurie; dar mai pe urmă aduce celor ce au trecut prin şcoala ei, roada dătătoare de pace a neprihănirii.”",
+          "reference": "Evrei 12.11",
+          "sourceText": "„Pe orice mlădiţă care aduce roadă, o curăţeşte, ca să aducă şi mai multă roadă.” (Ioan 15.2)\n\n„Este adevărat că orice pedeapsă, deocamdată pare o pricină de întristare, şi nu de bucurie; dar mai pe urmă aduce celor ce au trecut prin şcoala ei, roada dătătoare de pace a neprihănirii.” (Evrei 12.11)"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Se spune că într-o zi, pe când domnul Cecil se plimba prin Grădinile Botanice de la Oxford, copleşit de un sentiment de adâncă tristețe, atenția i-a fost atrasă de un rodiu frumos, a cărui tulpină fusese tăiată aproape complet. Când l-a întrebat pe grădinar care a fost cauza acestei tăieturi, a primit un răspuns care l-a ajutat să înțeleagă rănile propriului său spirit suferind.</p>",
+          "text": "Se spune că într-o zi, pe când domnul Cecil se plimba prin Grădinile Botanice de la Oxford, copleşit de un sentiment de adâncă tristețe, atenția i-a fost atrasă de un rodiu frumos, a cărui tulpină fusese tăiată aproape complet. Când l-a întrebat pe grădinar care a fost cauza acestei tăieturi, a primit un răspuns care l-a ajutat să înțeleagă rănile propriului său spirit suferind."
+        },
+        {
+          "type": "prose",
+          "html": "<p>„Domnule”, a spus grădinarul, „rodiul acesta a fost atât de frumos şi puternic, încât nu făcea decât frunze. Aşa că am fost obligat să-l tai în felul acesta, şi când tulpina i-a fost retezată aproape complet, atunci a început să facă o mulțime de fructe.” <i>––Denton</i></p>",
+          "text": "„Domnule”, a spus grădinarul, „rodiul acesta a fost atât de frumos şi puternic, încât nu făcea decât frunze. Aşa că am fost obligat să-l tai în felul acesta, şi când tulpina i-a fost retezată aproape complet, atunci a început să facă o mulțime de fructe.” ––Denton"
+        },
+        {
+          "type": "prose",
+          "html": "<p>O, lasă-mă să sufăr până când<br>\nVoi fi şi eu în stare-a recunoaşte<br>\nCă binele doar din dureri se naşte Precum un lan, din bobi sub nea zăcând.</p>",
+          "text": "O, lasă-mă să sufăr până când\n\nVoi fi şi eu în stare-a recunoaşte\n\nCă binele doar din dureri se naşte Precum un lan, din bobi sub nea zăcând."
+        },
+        {
+          "type": "prose",
+          "html": "<p>O, lasă-mă să sufăr până când<br>\nVăd ce odrasle scoate întristarea,<br>\nCu ce urmări se-alege încercarea: Triumf al inimii şi flori de rai în gând.</p>",
+          "text": "O, lasă-mă să sufăr până când\n\nVăd ce odrasle scoate întristarea,\n\nCu ce urmări se-alege încercarea: Triumf al inimii şi flori de rai în gând."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Al suferinţei ceas îndată trece, Lăsând în urmă rodul agoniei<br>\nŞi răsplătirile credincioşiei,<br>\nIar cele rele pot de-acum să plece.</p>",
+          "text": "Al suferinţei ceas îndată trece, Lăsând în urmă rodul agoniei\n\nŞi răsplătirile credincioşiei,\n\nIar cele rele pot de-acum să plece."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Blândeţea-n chin nu vede nici un rău, Răbdarea-ndură tainic stăpânirea,<br>\nÎn suflet cresc şi pacea, şi sfinţirea, Credinţa ce-a fost prunc e-acum flăcău.</p>",
+          "text": "Blândeţea-n chin nu vede nici un rău, Răbdarea-ndură tainic stăpânirea,\n\nÎn suflet cresc şi pacea, şi sfinţirea, Credinţa ce-a fost prunc e-acum flăcău."
+        },
+        {
+          "type": "attribution",
+          "text": "––Thomas C. Upham"
+        }
+      ],
+      "plainText": "„Pe orice mlădiţă care aduce roadă, o curăţeşte, ca să aducă şi mai multă roadă.” (Ioan 15.2)\n\n„Este adevărat că orice pedeapsă, deocamdată pare o pricină de întristare, şi nu de bucurie; dar mai pe urmă aduce celor ce au trecut prin şcoala ei, roada dătătoare de pace a neprihănirii.” (Evrei 12.11)\n\nSe spune că într-o zi, pe când domnul Cecil se plimba prin Grădinile Botanice de la Oxford, copleşit de un sentiment de adâncă tristețe, atenția i-a fost atrasă de un rodiu frumos, a cărui tulpină fusese tăiată aproape complet. Când l-a întrebat pe grădinar care a fost cauza acestei tăieturi, a primit un răspuns care l-a ajutat să înțeleagă rănile propriului său spirit suferind.\n\n„Domnule”, a spus grădinarul, „rodiul acesta a fost atât de frumos şi puternic, încât nu făcea decât frunze. Aşa că am fost obligat să-l tai în felul acesta, şi când tulpina i-a fost retezată aproape complet, atunci a început să facă o mulțime de fructe.” ––Denton\n\nO, lasă-mă să sufăr până când\n\nVoi fi şi eu în stare-a recunoaşte\n\nCă binele doar din dureri se naşte Precum un lan, din bobi sub nea zăcând.\n\nO, lasă-mă să sufăr până când\n\nVăd ce odrasle scoate întristarea,\n\nCu ce urmări se-alege încercarea: Triumf al inimii şi flori de rai în gând.\n\nAl suferinţei ceas îndată trece, Lăsând în urmă rodul agoniei\n\nŞi răsplătirile credincioşiei,\n\nIar cele rele pot de-acum să plece.\n\nBlândeţea-n chin nu vede nici un rău, Răbdarea-ndură tainic stăpânirea,\n\nÎn suflet cresc şi pacea, şi sfinţirea, Credinţa ce-a fost prunc e-acum flăcău.\n\n––Thomas C. Upham",
+      "searchAliases": [
+        "February",
+        "Feb"
+      ],
+      "source": {
+        "database": "cdc-ro.db",
+        "sourceId": 59,
+        "sourceDate": "2012-02-28",
+        "rawChecksum": "60c9717f5b7e4ea49965a64e5810ab85d7eeb73c04bfd09d8a10a6d721ab6869",
+        "correctionKeys": [],
+        "transformedChecksum": "293189f2282705759d42e32f510fcd6d1b9b0b31b62fbb3c44b32ce08af6936b"
+      },
+      "contentVersion": "edc4d46c2242e586"
+    },
+    {
+      "id": 60,
+      "monthDay": "02-29",
+      "leapOrdinal": 60,
+      "title": "BIRUINȚA ASUPRA LUMII",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Pentru că oricine este născut din Dumnezeu biruie lumea; şi ceea ce câştigă biruinţă asupra lumii este credinţa noastră.” (1 Ioan 5.4)\n\n„Nu te lăsa biruit de rău, ci biruie răul prin bine.”",
+          "reference": "Romani 12.21",
+          "sourceText": "„Pentru că oricine este născut din Dumnezeu biruie lumea; şi ceea ce câştigă biruinţă asupra lumii este credinţa noastră.” (1 Ioan 5.4)\n\n„Nu te lăsa biruit de rău, ci biruie răul prin bine.” (Romani 12.21)"
+        },
+        {
+          "type": "scripture",
+          "text": "„Cel ce va birui, va moşteni aceste lucruri. Eu voi fi Dumnezeul lui, şi el va fi fiul Meu.”",
+          "reference": "Apocalipsa 21.7",
+          "sourceText": "„Cel ce va birui, va moşteni aceste lucruri. Eu voi fi Dumnezeul lui, şi el va fi fiul Meu.” (Apocalipsa 21.7)"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Primul lucru pe care trebuie să-l ştim când vine vorba de biruință asupra lumii este că trebuie să biruim duhul de invidie faţă de lucruri şi obiecte lumeşti. Omul care nu biruie duhul acesta de agitație ci, dimpotrivă, luptă pentru a obţine bunăstarea oferită de lumea aceasta, este foarte limpede că nu a biruit lumea.</p>",
+          "text": "Primul lucru pe care trebuie să-l ştim când vine vorba de biruință asupra lumii este că trebuie să biruim duhul de invidie faţă de lucruri şi obiecte lumeşti. Omul care nu biruie duhul acesta de agitație ci, dimpotrivă, luptă pentru a obţine bunăstarea oferită de lumea aceasta, este foarte limpede că nu a biruit lumea."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Biruința asupra lumii presupune să te ridici deasupra lucrurilor prin care încearcă ea să te absoarbă. Când un om a biruit lumea, gândurile lui nu mai sunt ocupate şi absorbite de lucruri lumeşti. Nu se poate spune că cineva a biruit lumea până nu se ridică deasupra preocupărilor ei.</p>",
+          "text": "Biruința asupra lumii presupune să te ridici deasupra lucrurilor prin care încearcă ea să te absoarbă. Când un om a biruit lumea, gândurile lui nu mai sunt ocupate şi absorbite de lucruri lumeşti. Nu se poate spune că cineva a biruit lumea până nu se ridică deasupra preocupărilor ei."
+        },
+        {
+          "type": "prose",
+          "html": "<p>La ce e bună o religie care nu biruie lumea? La ce-ți foloseşte să fii născut într-o astfel de religie, dacă aceasta lasă lumea să-şi exercite în continuare stăpânirea peste inima ta?</p>",
+          "text": "La ce e bună o religie care nu biruie lumea? La ce-ți foloseşte să fii născut într-o astfel de religie, dacă aceasta lasă lumea să-şi exercite în continuare stăpânirea peste inima ta?"
+        },
+        {
+          "type": "prose",
+          "html": "<p>La ce este bună o naştere din nou care, la urma urmei, nu reuşeşte să ne facă mai asemănători chipului lui Dumnezeu, nu izbuteşte să ne aducă mai aproape de punctul în care să ne însuşim idealurile familiei Lui şi ale Împărăției Lui, şi care ne lasă în continuare robi față de lume şi față de Satan? Ce poate avea o asemenea religie mai mult decât numele? Ce motive ar putea avea un om să creadă că o astfel de religie îi pregăteşte inima pentru Cer, dacă îl lasă mai departe egoist, cu gândul orientat spre pământ, spre simțuri?</p>",
+          "text": "La ce este bună o naştere din nou care, la urma urmei, nu reuşeşte să ne facă mai asemănători chipului lui Dumnezeu, nu izbuteşte să ne aducă mai aproape de punctul în care să ne însuşim idealurile familiei Lui şi ale Împărăției Lui, şi care ne lasă în continuare robi față de lume şi față de Satan? Ce poate avea o asemenea religie mai mult decât numele? Ce motive ar putea avea un om să creadă că o astfel de religie îi pregăteşte inima pentru Cer, dacă îl lasă mai departe egoist, cu gândul orientat spre pământ, spre simțuri?"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Oare marea masă de oameni care se declară creştini chiar au biruit lumea? Este limpede că, în cazul celor mai mulți, lucrurile acestei lumi sunt realități, iar lucrurile lui Dumnezeu sunt simple teorii. Cine nu ştie că aceasta este situaţia multor membri ai unei biserici cu numele?</p>",
+          "text": "Oare marea masă de oameni care se declară creştini chiar au biruit lumea? Este limpede că, în cazul celor mai mulți, lucrurile acestei lumi sunt realități, iar lucrurile lui Dumnezeu sunt simple teorii. Cine nu ştie că aceasta este situaţia multor membri ai unei biserici cu numele?"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ce lucruri sunt acelea care îți înflăcărează sufletul – care îți stârnesc cele mai calde emoții şi îți mişcă profund sistemul nervos? Sunt lucruri pământeşti sau lucruri cereşti? Lucruri temporale sau lucruri eterne? Lucruri care aparţin firii pământeşti sau lucruri care au de-a face cu Dumnezeu?</p>",
+          "text": "Ce lucruri sunt acelea care îți înflăcărează sufletul – care îți stârnesc cele mai calde emoții şi îți mişcă profund sistemul nervos? Sunt lucruri pământeşti sau lucruri cereşti? Lucruri temporale sau lucruri eterne? Lucruri care aparţin firii pământeşti sau lucruri care au de-a face cu Dumnezeu?"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Care este situaţia atunci când intri în cămăruța ta? Te duci acolo să-L cauți pe Dumnezeu şi ale Sale, sau ca să-I ceri doar lucruri pământeşti? Găseşti acolo un Dumnezeu prezent şi ai părtăşie cu El ca între prieteni? Ce spui despre toate aceste lucruri?</p>",
+          "text": "Care este situaţia atunci când intri în cămăruța ta? Te duci acolo să-L cauți pe Dumnezeu şi ale Sale, sau ca să-I ceri doar lucruri pământeşti? Găseşti acolo un Dumnezeu prezent şi ai părtăşie cu El ca între prieteni? Ce spui despre toate aceste lucruri?"
+        },
+        {
+          "type": "attribution",
+          "text": "––Charles G. Finney"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Îndreaptă-ţi ochii numai spre Cristos! Priveşte drept în Faţa-I minunată,<br>\nŞi toate strălucirile de jos<br>\nS-or estompa, sub slava Sa bogată.</p>",
+          "text": "Îndreaptă-ţi ochii numai spre Cristos! Priveşte drept în Faţa-I minunată,\n\nŞi toate strălucirile de jos\n\nS-or estompa, sub slava Sa bogată."
+        },
+        {
+          "type": "attribution",
+          "text": "––Helen H. Lemmel"
+        }
+      ],
+      "plainText": "„Pentru că oricine este născut din Dumnezeu biruie lumea; şi ceea ce câştigă biruinţă asupra lumii este credinţa noastră.” (1 Ioan 5.4)\n\n„Nu te lăsa biruit de rău, ci biruie răul prin bine.” (Romani 12.21)\n\n„Cel ce va birui, va moşteni aceste lucruri. Eu voi fi Dumnezeul lui, şi el va fi fiul Meu.” (Apocalipsa 21.7)\n\nPrimul lucru pe care trebuie să-l ştim când vine vorba de biruință asupra lumii este că trebuie să biruim duhul de invidie faţă de lucruri şi obiecte lumeşti. Omul care nu biruie duhul acesta de agitație ci, dimpotrivă, luptă pentru a obţine bunăstarea oferită de lumea aceasta, este foarte limpede că nu a biruit lumea.\n\nBiruința asupra lumii presupune să te ridici deasupra lucrurilor prin care încearcă ea să te absoarbă. Când un om a biruit lumea, gândurile lui nu mai sunt ocupate şi absorbite de lucruri lumeşti. Nu se poate spune că cineva a biruit lumea până nu se ridică deasupra preocupărilor ei.\n\nLa ce e bună o religie care nu biruie lumea? La ce-ți foloseşte să fii născut într-o astfel de religie, dacă aceasta lasă lumea să-şi exercite în continuare stăpânirea peste inima ta?\n\nLa ce este bună o naştere din nou care, la urma urmei, nu reuşeşte să ne facă mai asemănători chipului lui Dumnezeu, nu izbuteşte să ne aducă mai aproape de punctul în care să ne însuşim idealurile familiei Lui şi ale Împărăției Lui, şi care ne lasă în continuare robi față de lume şi față de Satan? Ce poate avea o asemenea religie mai mult decât numele? Ce motive ar putea avea un om să creadă că o astfel de religie îi pregăteşte inima pentru Cer, dacă îl lasă mai departe egoist, cu gândul orientat spre pământ, spre simțuri?\n\nOare marea masă de oameni care se declară creştini chiar au biruit lumea? Este limpede că, în cazul celor mai mulți, lucrurile acestei lumi sunt realități, iar lucrurile lui Dumnezeu sunt simple teorii. Cine nu ştie că aceasta este situaţia multor membri ai unei biserici cu numele?\n\nCe lucruri sunt acelea care îți înflăcărează sufletul – care îți stârnesc cele mai calde emoții şi îți mişcă profund sistemul nervos? Sunt lucruri pământeşti sau lucruri cereşti? Lucruri temporale sau lucruri eterne? Lucruri care aparţin firii pământeşti sau lucruri care au de-a face cu Dumnezeu?\n\nCare este situaţia atunci când intri în cămăruța ta? Te duci acolo să-L cauți pe Dumnezeu şi ale Sale, sau ca să-I ceri doar lucruri pământeşti? Găseşti acolo un Dumnezeu prezent şi ai părtăşie cu El ca între prieteni? Ce spui despre toate aceste lucruri?\n\n––Charles G. Finney\n\nÎndreaptă-ţi ochii numai spre Cristos! Priveşte drept în Faţa-I minunată,\n\nŞi toate strălucirile de jos\n\nS-or estompa, sub slava Sa bogată.\n\n––Helen H. Lemmel",
+      "searchAliases": [
+        "February",
+        "Feb"
+      ],
+      "source": {
+        "database": "cdc-ro.db",
+        "sourceId": 60,
+        "sourceDate": "2012-02-29",
+        "rawChecksum": "4d82678ab4c72fb3c8c6a0ba69c202d491c73da8b789b78539147773bb83fdf4",
+        "correctionKeys": [],
+        "transformedChecksum": "21965562f6e5b6ce2fd5a0bf055227601c9eda1ef6896330bccbf9277d29ca02"
+      },
+      "contentVersion": "edc4d46c2242e586"
+    },
+    {
+      "id": 97,
+      "monthDay": "04-06",
+      "leapOrdinal": 97,
+      "title": "FOLOSEȘTI SAU PIERZI?",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„A ascuns acolo banii stăpânului său.” (Matei 25.18) „Luaţi-i, deci, talantul...”",
+          "reference": "Matei 25.28",
+          "sourceText": "„A ascuns acolo banii stăpânului său.” (Matei 25.18) „Luaţi-i, deci, talantul...” (Matei 25.28)"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Legea lui Dumnezeu în viața spirituală este „foloseşte sau pierzi”. Orice facultate nefolosită se pierde. Abilitățile pe care le avem de a-L iubi şi sluji pe Dumnezeu ne sunt luate. Ceea ce a fost la un moment dat posibil devine pentru totdeauna imposibil. Viitorul care ne-a fost odată deschis acum este închis. Rămânem pentru totdeauna infirmi, limitați, paralizați, amorțiți.</p>",
+          "text": "Legea lui Dumnezeu în viața spirituală este „foloseşte sau pierzi”. Orice facultate nefolosită se pierde. Abilitățile pe care le avem de a-L iubi şi sluji pe Dumnezeu ne sunt luate. Ceea ce a fost la un moment dat posibil devine pentru totdeauna imposibil. Viitorul care ne-a fost odată deschis acum este închis. Rămânem pentru totdeauna infirmi, limitați, paralizați, amorțiți."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dacă am fi folosit oportunitățile care ne-au fost oferite, dacă am fi folosit talantul care ne-a fost încredințat, am fi avut parte de o creştere şi de o plinătate nesfârşită a bucuriei, dar acum am pierdut ocazia. Am avut o mulțime de oportunități, ani în şir am fost în perioada de probă, dar acum totul s-a terminat.</p>",
+          "text": "Dacă am fi folosit oportunitățile care ne-au fost oferite, dacă am fi folosit talantul care ne-a fost încredințat, am fi avut parte de o creştere şi de o plinătate nesfârşită a bucuriei, dar acum am pierdut ocazia. Am avut o mulțime de oportunități, ani în şir am fost în perioada de probă, dar acum totul s-a terminat."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cât de bucuros ar renunța orice om la tot ceea ce i-a adus păcatul dacă ar mai putea să stea din nou cu talantul în mână şi cu toate oportunitățile în faţă!</p>",
+          "text": "Cât de bucuros ar renunța orice om la tot ceea ce i-a adus păcatul dacă ar mai putea să stea din nou cu talantul în mână şi cu toate oportunitățile în faţă!"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dacă există un adevăr mai vrednic decât oricare altul pe care tinerii să-şi poată clădi viața, este acesta: ori de câte ori refuzi îndeplinirea unei sarcini spre care te îndeamnă conştiinţa ta, devii tot mai puțin capabil de a o duce la îndeplinire; pe de altă parte, fiecare efort făcut cu smerenie şi trudă pentru ceva bun reprezintă o nouă treapta�� în formarea unui caracter sănătos. <i>––Marcus Dods</i></p>",
+          "text": "Dacă există un adevăr mai vrednic decât oricare altul pe care tinerii să-şi poată clădi viața, este acesta: ori de câte ori refuzi îndeplinirea unei sarcini spre care te îndeamnă conştiinţa ta, devii tot mai puțin capabil de a o duce la îndeplinire; pe de altă parte, fiecare efort făcut cu smerenie şi trudă pentru ceva bun reprezintă o nouă treapta�� în formarea unui caracter sănătos. ––Marcus Dods"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Paganini, binecunoscutul violonist, şi-a lăsat ca moştenire vioara lui, cea mai mare comoară a sa, oraşului său natal – Genoa. Din motive numai de el ştiute, a impus o singură condiție, şi anume ca instrumentul să nu mai fie folosit niciodată. Azi înțelegem că a fost o mare greşeală, pentru că, la fel ca toate lucrurile făcute din lemn, aceasta s-a deteriorat mai repede din cauza nefolosirii decât dacă ar fi fost mânuită în permanenţă.</p>",
+          "text": "Paganini, binecunoscutul violonist, şi-a lăsat ca moştenire vioara lui, cea mai mare comoară a sa, oraşului său natal – Genoa. Din motive numai de el ştiute, a impus o singură condiție, şi anume ca instrumentul să nu mai fie folosit niciodată. Azi înțelegem că a fost o mare greşeală, pentru că, la fel ca toate lucrurile făcute din lemn, aceasta s-a deteriorat mai repede din cauza nefolosirii decât dacă ar fi fost mânuită în permanenţă."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Acum zace mâncată de carii în cutia ei splendidă, şi nu mai are altă valoare decât aceea de relicvă. Ce imagine izbitoare a unei legi care ne guvernează viața! Când încetăm să îi slujim pe ceilalți, devenim nefolositori pentru Dumnezeu şi pentru oameni.</p>",
+          "text": "Acum zace mâncată de carii în cutia ei splendidă, şi nu mai are altă valoare decât aceea de relicvă. Ce imagine izbitoare a unei legi care ne guvernează viața! Când încetăm să îi slujim pe ceilalți, devenim nefolositori pentru Dumnezeu şi pentru oameni."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Trebuie să folosim ceea ce avem sau vom pierde totul.</p>",
+          "text": "Trebuie să folosim ceea ce avem sau vom pierde totul."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Un singur talant a primit slujitorul, Un lucru de mică valoare;<br>\nDar tare de tot s-a mâhnit posesorul De-acea nepermisă-ngropare.</p>",
+          "text": "Un singur talant a primit slujitorul, Un lucru de mică valoare;\n\nDar tare de tot s-a mâhnit posesorul De-acea nepermisă-ngropare."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Căci unui talant numai pus în negoţ Valoarea se poate să-i crească;<br>\nDe-l pui în pământ, eşti viclean, rău şi hoţ, Nu meriţi răsplata cerească.</p>",
+          "text": "Căci unui talant numai pus în negoţ Valoarea se poate să-i crească;\n\nDe-l pui în pământ, eşti viclean, rău şi hoţ, Nu meriţi răsplata cerească."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Şi ţie ţi-a dat Dumnezeu un talant,<br>\nSau poate mai multe talente;<br>\nFii harnic, smerit, plin de râvnă, constant Să capeţi răsplăţi excelente.</p>",
+          "text": "Şi ţie ţi-a dat Dumnezeu un talant,\n\nSau poate mai multe talente;\n\nFii harnic, smerit, plin de râvnă, constant Să capeţi răsplăţi excelente."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Iar dacă cerescul Stăpân nu ţi-a dat Decât un talant, unul singur,<br>\nDar tu-l investeşti, poţi să fii declarat ,,Rob bun, credincios”, eu te-asigur.</p>",
+          "text": "Iar dacă cerescul Stăpân nu ţi-a dat Decât un talant, unul singur,\n\nDar tu-l investeşti, poţi să fii declarat ,,Rob bun, credincios”, eu te-asigur."
+        },
+        {
+          "type": "attribution",
+          "text": "––Autor necunoscut"
+        }
+      ],
+      "plainText": "„A ascuns acolo banii stăpânului său.” (Matei 25.18) „Luaţi-i, deci, talantul...” (Matei 25.28)\n\nLegea lui Dumnezeu în viața spirituală este „foloseşte sau pierzi”. Orice facultate nefolosită se pierde. Abilitățile pe care le avem de a-L iubi şi sluji pe Dumnezeu ne sunt luate. Ceea ce a fost la un moment dat posibil devine pentru totdeauna imposibil. Viitorul care ne-a fost odată deschis acum este închis. Rămânem pentru totdeauna infirmi, limitați, paralizați, amorțiți.\n\nDacă am fi folosit oportunitățile care ne-au fost oferite, dacă am fi folosit talantul care ne-a fost încredințat, am fi avut parte de o creştere şi de o plinătate nesfârşită a bucuriei, dar acum am pierdut ocazia. Am avut o mulțime de oportunități, ani în şir am fost în perioada de probă, dar acum totul s-a terminat.\n\nCât de bucuros ar renunța orice om la tot ceea ce i-a adus păcatul dacă ar mai putea să stea din nou cu talantul în mână şi cu toate oportunitățile în faţă!\n\nDacă există un adevăr mai vrednic decât oricare altul pe care tinerii să-şi poată clădi viața, este acesta: ori de câte ori refuzi îndeplinirea unei sarcini spre care te îndeamnă conştiinţa ta, devii tot mai puțin capabil de a o duce la îndeplinire; pe de altă parte, fiecare efort făcut cu smerenie şi trudă pentru ceva bun reprezintă o nouă treapta�� în formarea unui caracter sănătos. ––Marcus Dods\n\nPaganini, binecunoscutul violonist, şi-a lăsat ca moştenire vioara lui, cea mai mare comoară a sa, oraşului său natal – Genoa. Din motive numai de el ştiute, a impus o singură condiție, şi anume ca instrumentul să nu mai fie folosit niciodată. Azi înțelegem că a fost o mare greşeală, pentru că, la fel ca toate lucrurile făcute din lemn, aceasta s-a deteriorat mai repede din cauza nefolosirii decât dacă ar fi fost mânuită în permanenţă.\n\nAcum zace mâncată de carii în cutia ei splendidă, şi nu mai are altă valoare decât aceea de relicvă. Ce imagine izbitoare a unei legi care ne guvernează viața! Când încetăm să îi slujim pe ceilalți, devenim nefolositori pentru Dumnezeu şi pentru oameni.\n\nTrebuie să folosim ceea ce avem sau vom pierde totul.\n\nUn singur talant a primit slujitorul, Un lucru de mică valoare;\n\nDar tare de tot s-a mâhnit posesorul De-acea nepermisă-ngropare.\n\nCăci unui talant numai pus în negoţ Valoarea se poate să-i crească;\n\nDe-l pui în pământ, eşti viclean, rău şi hoţ, Nu meriţi răsplata cerească.\n\nŞi ţie ţi-a dat Dumnezeu un talant,\n\nSau poate mai multe talente;\n\nFii harnic, smerit, plin de râvnă, constant Să capeţi răsplăţi excelente.\n\nIar dacă cerescul Stăpân nu ţi-a dat Decât un talant, unul singur,\n\nDar tu-l investeşti, poţi să fii declarat ,,Rob bun, credincios”, eu te-asigur.\n\n––Autor necunoscut",
+      "searchAliases": [
+        "April",
+        "Apr"
+      ],
+      "source": {
+        "database": "cdc-ro.db",
+        "sourceId": 97,
+        "sourceDate": "2012-04-06",
+        "rawChecksum": "04c9b81ac698a1a20fe89e61c34f26148d3ac119fa482f20cb27ef3b73cdbf1c",
+        "correctionKeys": [],
+        "transformedChecksum": "d755605f1c1249c2c1a1a931b6a37bfd7a7f1e00833c5828043812dd182d59ee"
+      },
+      "contentVersion": "edc4d46c2242e586"
+    },
+    {
+      "id": 100,
+      "monthDay": "04-09",
+      "leapOrdinal": 100,
+      "title": "SLUJITORII DOMNULUI SUNT PLINI DE BUCURIE",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Robii Mei vor cânta, de veselă ce le va fi inima.”",
+          "reference": "Isaia 65.14",
+          "sourceText": "„Robii Mei vor cânta, de veselă ce le va fi inima.” (Isaia 65.14)"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ce s-ar întâmpla dacă ar veni la mine un trimis al unei înalte case regale, îmbrăcat în haine din pânză de sac şi pline de praf, pretinzând că el este reprezentantul unui mare împărat? Evident că ar trebui să prezinte o explicație verosimilă – cum că a căzut în mâinile unor tâlhari şi că a avut de dus cu ei o luptă grea. Apoi ar trebui să-şi prezinte scrisorile de acreditare, şi abia după aceea aş putea crede că el este într-adevăr un ambasador.</p>",
+          "text": "Ce s-ar întâmpla dacă ar veni la mine un trimis al unei înalte case regale, îmbrăcat în haine din pânză de sac şi pline de praf, pretinzând că el este reprezentantul unui mare împărat? Evident că ar trebui să prezinte o explicație verosimilă – cum că a căzut în mâinile unor tâlhari şi că a avut de dus cu ei o luptă grea. Apoi ar trebui să-şi prezinte scrisorile de acreditare, şi abia după aceea aş putea crede că el este într-adevăr un ambasador."
+        },
+        {
+          "type": "prose",
+          "html": "<p>În mod normal, slujitorii unui împărat îşi reprezintă stăpânul prin înfățişarea lor, prin frumusețea îmbrăcămintei lor şi prin bogăția darurilor pe care le aduc.</p>",
+          "text": "În mod normal, slujitorii unui împărat îşi reprezintă stăpânul prin înfățişarea lor, prin frumusețea îmbrăcămintei lor şi prin bogăția darurilor pe care le aduc."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Tu, fratele meu, pe cine reprezinți? Ce cred oamenii despre felul în care poartă Cristos de grijă familiei Sale când te văd pe tine mereu nemulțumit, neliniştit, nedormit şi neputincios? Pe tine – cel de la care nu se mai aude nici măcar o strofă de cântare, creştinul în care nu se mai vede nici măcar o scânteie de entuziasm, omul care seamănă prea bine cu un muc fumegând, gata să se stingă, lipsit de orice firicel de lumină: ce impresie îşi fac oamenii despre creştinism când te văd pe tine? <i>––Henry Ward Beecher</i></p>",
+          "text": "Tu, fratele meu, pe cine reprezinți? Ce cred oamenii despre felul în care poartă Cristos de grijă familiei Sale când te văd pe tine mereu nemulțumit, neliniştit, nedormit şi neputincios? Pe tine – cel de la care nu se mai aude nici măcar o strofă de cântare, creştinul în care nu se mai vede nici măcar o scânteie de entuziasm, omul care seamănă prea bine cu un muc fumegând, gata să se stingă, lipsit de orice firicel de lumină: ce impresie îşi fac oamenii despre creştinism când te văd pe tine? ––Henry Ward Beecher"
+        },
+        {
+          "type": "prose",
+          "html": "<p>C-au fost cu Domnul împreună ştiau prea bine cei din jur,<br>\nCăci chiar în vreme de furtună, ei străluceau fără cusur.</p>",
+          "text": "C-au fost cu Domnul împreună ştiau prea bine cei din jur,\n\nCăci chiar în vreme de furtună, ei străluceau fără cusur."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Da, gloria dumnezeiască<br>\ndin sfânta Cameră de Sus Lor li s-a dat s-o oglindească, ca buni urmaşi ai lui Isus.</p>",
+          "text": "Da, gloria dumnezeiască\n\ndin sfânta Cameră de Sus Lor li s-a dat s-o oglindească, ca buni urmaşi ai lui Isus."
+        },
+        {
+          "type": "prose",
+          "html": "<p>O întrebare-mi pun şi mie: Contemporanii noştri ştiu C-avem şi noi toţi părtăşie întruna cu Cristos cel Viu?<br>\nÎi reflectăm noi strălucirea iubirii Lui cu-adevărat?<br>\nSau, poate, ne-am uitat menirea şi slava ei s-a estompat?</p>",
+          "text": "O întrebare-mi pun şi mie: Contemporanii noştri ştiu C-avem şi noi toţi părtăşie întruna cu Cristos cel Viu?\n\nÎi reflectăm noi strălucirea iubirii Lui cu-adevărat?\n\nSau, poate, ne-am uitat menirea şi slava ei s-a estompat?"
+        },
+        {
+          "type": "attribution",
+          "text": "––Alice E. Sherwood"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Unul dintre primele lucruri asupra cărora se năpusteşte Diavolul este cântarea de bucurie din inima creştinului. Uită-te cu atenţie, şi te vei convinge! De ce atacă Diavolul cântarea? De ce urăşte Satan cântarea de laudă? Pentru că el însuşi a căzut din corul ceresc. Citeşte Ezechiel 28.12-19. Fraza <i>„timpanele şi flautele erau în slujba ta” </i>ne arată poziția înaltă pe care o ocupa Lucifer, şi anume aceea de dirijor al corului ceresc! După ce a pierdut această poziție, acum el urăşte tot ce înseamnă cântare şi laudă.</p>",
+          "text": "Unul dintre primele lucruri asupra cărora se năpusteşte Diavolul este cântarea de bucurie din inima creştinului. Uită-te cu atenţie, şi te vei convinge! De ce atacă Diavolul cântarea? De ce urăşte Satan cântarea de laudă? Pentru că el însuşi a căzut din corul ceresc. Citeşte Ezechiel 28.12-19. Fraza „timpanele şi flautele erau în slujba ta” ne arată poziția înaltă pe care o ocupa Lucifer, şi anume aceea de dirijor al corului ceresc! După ce a pierdut această poziție, acum el urăşte tot ce înseamnă cântare şi laudă."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cântarea de laudă ne eliberează duhul. Nu suntem pregătiți de luptă până când nu experimentăm această libertate lăuntrică. Aşa că, haideţi să prețuim întotdeauna cântarea! <i>––John Harrison</i></p>",
+          "text": "Cântarea de laudă ne eliberează duhul. Nu suntem pregătiți de luptă până când nu experimentăm această libertate lăuntrică. Aşa că, haideţi să prețuim întotdeauna cântarea! ––John Harrison"
+        }
+      ],
+      "plainText": "„Robii Mei vor cânta, de veselă ce le va fi inima.” (Isaia 65.14)\n\nCe s-ar întâmpla dacă ar veni la mine un trimis al unei înalte case regale, îmbrăcat în haine din pânză de sac şi pline de praf, pretinzând că el este reprezentantul unui mare împărat? Evident că ar trebui să prezinte o explicație verosimilă – cum că a căzut în mâinile unor tâlhari şi că a avut de dus cu ei o luptă grea. Apoi ar trebui să-şi prezinte scrisorile de acreditare, şi abia după aceea aş putea crede că el este într-adevăr un ambasador.\n\nÎn mod normal, slujitorii unui împărat îşi reprezintă stăpânul prin înfățişarea lor, prin frumusețea îmbrăcămintei lor şi prin bogăția darurilor pe care le aduc.\n\nTu, fratele meu, pe cine reprezinți? Ce cred oamenii despre felul în care poartă Cristos de grijă familiei Sale când te văd pe tine mereu nemulțumit, neliniştit, nedormit şi neputincios? Pe tine – cel de la care nu se mai aude nici măcar o strofă de cântare, creştinul în care nu se mai vede nici măcar o scânteie de entuziasm, omul care seamănă prea bine cu un muc fumegând, gata să se stingă, lipsit de orice firicel de lumină: ce impresie îşi fac oamenii despre creştinism când te văd pe tine? ––Henry Ward Beecher\n\nC-au fost cu Domnul împreună ştiau prea bine cei din jur,\n\nCăci chiar în vreme de furtună, ei străluceau fără cusur.\n\nDa, gloria dumnezeiască\n\ndin sfânta Cameră de Sus Lor li s-a dat s-o oglindească, ca buni urmaşi ai lui Isus.\n\nO întrebare-mi pun şi mie: Contemporanii noştri ştiu C-avem şi noi toţi părtăşie întruna cu Cristos cel Viu?\n\nÎi reflectăm noi strălucirea iubirii Lui cu-adevărat?\n\nSau, poate, ne-am uitat menirea şi slava ei s-a estompat?\n\n––Alice E. Sherwood\n\nUnul dintre primele lucruri asupra cărora se năpusteşte Diavolul este cântarea de bucurie din inima creştinului. Uită-te cu atenţie, şi te vei convinge! De ce atacă Diavolul cântarea? De ce urăşte Satan cântarea de laudă? Pentru că el însuşi a căzut din corul ceresc. Citeşte Ezechiel 28.12-19. Fraza „timpanele şi flautele erau în slujba ta” ne arată poziția înaltă pe care o ocupa Lucifer, şi anume aceea de dirijor al corului ceresc! După ce a pierdut această poziție, acum el urăşte tot ce înseamnă cântare şi laudă.\n\nCântarea de laudă ne eliberează duhul. Nu suntem pregătiți de luptă până când nu experimentăm această libertate lăuntrică. Aşa că, haideţi să prețuim întotdeauna cântarea! ––John Harrison",
+      "searchAliases": [
+        "April",
+        "Apr"
+      ],
+      "source": {
+        "database": "cdc-ro.db",
+        "sourceId": 100,
+        "sourceDate": "2012-04-09",
+        "rawChecksum": "de7b7d0120cbb2faebffba8f9770bfd9896796941e51acfb55cbf3cd48f1c21b",
+        "correctionKeys": [],
+        "transformedChecksum": "f6ac3f03d2d29f662459a45c0f4452676a882f4fe894b96ca9dc2a4eb750214c"
+      },
+      "contentVersion": "edc4d46c2242e586"
+    },
+    {
+      "id": 180,
+      "monthDay": "06-28",
+      "leapOrdinal": 180,
+      "title": "CREDINCIOȘIE ÎN LUCRURILE MICI",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Cine este credincios în cele mai mici lucruri, este credincios şi în cele mari.” (Luca 16.10)\n\n„Şi dacă n-aţi fost credincioşi în lucrul altuia, cine vă va da ce este al vostru?”",
+          "reference": "Luca 16.12",
+          "sourceText": "„Cine este credincios în cele mai mici lucruri, este credincios şi în cele mari.” (Luca 16.10)\n\n„Şi dacă n-aţi fost credincioşi în lucrul altuia, cine vă va da ce este al vostru?” (Luca 16.12)"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Vedem lămurit din cuvintele Mântuitorului că, iată, credincioşia în lucrurile mici nu constituie o pregătire pentru credincioşia în lucrurile mari, ci este în ea însăşi credincioşie în lucruri mari. Putem observa aici un lucru izbitor, şi anume că Domnul nu spune: „Cine este credincios în cele mai mici lucruri, <i>va fi </i>credincios şi în cele mari”, ci „Cine este credincios în cele mai mici lucruri, <i>este </i>credincios şi în cele mari.” Loialitatea fundamentală a unei inimi este unul şi acelaşi lucru, indiferent dacă este exercitată în legătură cu o punguță cu doi galbeni sau cu o vistierie împărătească; credincioşia autentică în viața unui om este la fel de frumoasă, indiferent cum se manifestă ea – în conducerea unui imperiu sau în scrierea unui exercițiu.</p>",
+          "text": "Vedem lămurit din cuvintele Mântuitorului că, iată, credincioşia în lucrurile mici nu constituie o pregătire pentru credincioşia în lucrurile mari, ci este în ea însăşi credincioşie în lucruri mari. Putem observa aici un lucru izbitor, şi anume că Domnul nu spune: „Cine este credincios în cele mai mici lucruri, va fi credincios şi în cele mari”, ci „Cine este credincios în cele mai mici lucruri, este credincios şi în cele mari.” Loialitatea fundamentală a unei inimi este unul şi acelaşi lucru, indiferent dacă este exercitată în legătură cu o punguță cu doi galbeni sau cu o vistierie împărătească; credincioşia autentică în viața unui om este la fel de frumoasă, indiferent cum se manifestă ea – în conducerea unui imperiu sau în scrierea unui exercițiu."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Circulă printre creştini o povestioară veche care spune că, dacă Dumnezeu ar trimite doi îngeri pe pământ, unul să ocupe un tron, iar celălalt să curețe un drum, amândoi şi-ar considera sarcinile la fel de distinse şi la fel de plăcute.</p>",
+          "text": "Circulă printre creştini o povestioară veche care spune că, dacă Dumnezeu ar trimite doi îngeri pe pământ, unul să ocupe un tron, iar celălalt să curețe un drum, amândoi şi-ar considera sarcinile la fel de distinse şi la fel de plăcute."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cu toții putem fi, aşa cum atât de elevat spunea apostolul Pavel, „împreună lucrători cu Dumnezeu”; şi cine este conlucrător cu Dumnezeu, fie el rob sau înger, nu poate fi nimic mai mult sau mai bun.</p>",
+          "text": "Cu toții putem fi, aşa cum atât de elevat spunea apostolul Pavel, „împreună lucrători cu Dumnezeu”; şi cine este conlucrător cu Dumnezeu, fie el rob sau înger, nu poate fi nimic mai mult sau mai bun."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dacă ai putea vedea cât de mic este pământul nostru în imensitatea spațiului, munții nu ți-ar mai părea uriaşi, şi nici valurile oceanelor maiestuoase. Întoarce numai telescopul credinței, îndreaptă-l spre Cer şi vei vedea cum dintr-o dată splendorile pământului îşi pierd însemnătatea, şi cele mai mărunte interese ale Cerului dobândesc dimensiuni eterne.</p>",
+          "text": "Dacă ai putea vedea cât de mic este pământul nostru în imensitatea spațiului, munții nu ți-ar mai părea uriaşi, şi nici valurile oceanelor maiestuoase. Întoarce numai telescopul credinței, îndreaptă-l spre Cer şi vei vedea cum dintr-o dată splendorile pământului îşi pierd însemnătatea, şi cele mai mărunte interese ale Cerului dobândesc dimensiuni eterne."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Da, a fi un creştin credincios este mai important în ochii lui Dumnezeu decât să fii un om de stat aplaudat sau un împărat biruitor. <i>––Dean Farrar</i></p>",
+          "text": "Da, a fi un creştin credincios este mai important în ochii lui Dumnezeu decât să fii un om de stat aplaudat sau un împărat biruitor. ––Dean Farrar"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Eu cred că nu contează prea mult dacă sarcina noastră este să strângem snopii sau să adunăm spicele căzute în urma secerătorului;</p>",
+          "text": "Eu cred că nu contează prea mult dacă sarcina noastră este să strângem snopii sau să adunăm spicele căzute în urma secerătorului;"
+        },
+        {
+          "type": "prose",
+          "html": "<p><i>starea sufletului </i>este aceea care stabileşte valoarea lucrării, şi nu lucrarea în sine; este suficient să-I aducem slavă lui Dumnezeu – în lucruri mari sau mici – potrivit cu măsura abilităților noastre şi a oportunităților care ni se prezintă. Haideți să încercăm să ne ațintim privirea asupra acestui țel şi să facem din el unicul nostru scop.</p>",
+          "text": "starea sufletului este aceea care stabileşte valoarea lucrării, şi nu lucrarea în sine; este suficient să-I aducem slavă lui Dumnezeu – în lucruri mari sau mici – potrivit cu măsura abilităților noastre şi a oportunităților care ni se prezintă. Haideți să încercăm să ne ațintim privirea asupra acestui țel şi să facem din el unicul nostru scop."
+        },
+        {
+          "type": "attribution",
+          "text": "––Catherine Booth"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Nu a existat niciodată vreun caracter mare şi frumos care să nu fi devenit mare şi frumos prin împlinirea cu succes a unor îndatoriri comune şi mărunte stabilite de Dumnezeu. <i>––Horace Bushnell</i></p>",
+          "text": "Nu a existat niciodată vreun caracter mare şi frumos care să nu fi devenit mare şi frumos prin împlinirea cu succes a unor îndatoriri comune şi mărunte stabilite de Dumnezeu. ––Horace Bushnell"
+        }
+      ],
+      "plainText": "„Cine este credincios în cele mai mici lucruri, este credincios şi în cele mari.” (Luca 16.10)\n\n„Şi dacă n-aţi fost credincioşi în lucrul altuia, cine vă va da ce este al vostru?” (Luca 16.12)\n\nVedem lămurit din cuvintele Mântuitorului că, iată, credincioşia în lucrurile mici nu constituie o pregătire pentru credincioşia în lucrurile mari, ci este în ea însăşi credincioşie în lucruri mari. Putem observa aici un lucru izbitor, şi anume că Domnul nu spune: „Cine este credincios în cele mai mici lucruri, va fi credincios şi în cele mari”, ci „Cine este credincios în cele mai mici lucruri, este credincios şi în cele mari.” Loialitatea fundamentală a unei inimi este unul şi acelaşi lucru, indiferent dacă este exercitată în legătură cu o punguță cu doi galbeni sau cu o vistierie împărătească; credincioşia autentică în viața unui om este la fel de frumoasă, indiferent cum se manifestă ea – în conducerea unui imperiu sau în scrierea unui exercițiu.\n\nCirculă printre creştini o povestioară veche care spune că, dacă Dumnezeu ar trimite doi îngeri pe pământ, unul să ocupe un tron, iar celălalt să curețe un drum, amândoi şi-ar considera sarcinile la fel de distinse şi la fel de plăcute.\n\nCu toții putem fi, aşa cum atât de elevat spunea apostolul Pavel, „împreună lucrători cu Dumnezeu”; şi cine este conlucrător cu Dumnezeu, fie el rob sau înger, nu poate fi nimic mai mult sau mai bun.\n\nDacă ai putea vedea cât de mic este pământul nostru în imensitatea spațiului, munții nu ți-ar mai părea uriaşi, şi nici valurile oceanelor maiestuoase. Întoarce numai telescopul credinței, îndreaptă-l spre Cer şi vei vedea cum dintr-o dată splendorile pământului îşi pierd însemnătatea, şi cele mai mărunte interese ale Cerului dobândesc dimensiuni eterne.\n\nDa, a fi un creştin credincios este mai important în ochii lui Dumnezeu decât să fii un om de stat aplaudat sau un împărat biruitor. ––Dean Farrar\n\nEu cred că nu contează prea mult dacă sarcina noastră este să strângem snopii sau să adunăm spicele căzute în urma secerătorului;\n\nstarea sufletului este aceea care stabileşte valoarea lucrării, şi nu lucrarea în sine; este suficient să-I aducem slavă lui Dumnezeu – în lucruri mari sau mici – potrivit cu măsura abilităților noastre şi a oportunităților care ni se prezintă. Haideți să încercăm să ne ațintim privirea asupra acestui țel şi să facem din el unicul nostru scop.\n\n––Catherine Booth\n\nNu a existat niciodată vreun caracter mare şi frumos care să nu fi devenit mare şi frumos prin împlinirea cu succes a unor îndatoriri comune şi mărunte stabilite de Dumnezeu. ––Horace Bushnell",
+      "searchAliases": [
+        "June",
+        "Jun"
+      ],
+      "source": {
+        "database": "cdc-ro.db",
+        "sourceId": 180,
+        "sourceDate": "2012-06-28",
+        "rawChecksum": "5cfaabf176e3a6f391ad877f6b4a0ced6a0923376fd738d84a19b50b5ba71c33",
+        "correctionKeys": [],
+        "transformedChecksum": "91f3917a74c9901371f5f13b1d3168a389b7ccf41fa97c7a8ca570ba0e17b904"
+      },
+      "contentVersion": "edc4d46c2242e586"
+    },
+    {
+      "id": 237,
+      "monthDay": "08-24",
+      "leapOrdinal": 237,
+      "title": "ÎN AȘTEPTAREA RĂSPUNSULUI LA RUGĂCIUNE",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Căci armele cu care ne luptăm noi, nu sunt supuse firii pă‐ mântești, ci sunt puternice, întărite de Dumnezeu ca să surpe întăriturile.“",
+          "reference": "2 Corinteni 10.4",
+          "sourceText": "„Căci armele cu care ne luptăm noi, nu sunt supuse firii pă‐ mântești, ci sunt puternice, întărite de Dumnezeu ca să surpe întăriturile.“ (2 Corinteni 10.4)"
+        },
+        {
+          "type": "scripture",
+          "text": "„Îndrăzneala pe care o avem la El, este că, dacă cerem ceva după voia Lui, ne ascultă. Şi dacă știm că ne ascultă, orice i‐am cere, știm că suntem stăpâni pe lucrurile pe care I le‐am cerut.“",
+          "reference": "1 Ioan 5.14-15",
+          "sourceText": "„Îndrăzneala pe care o avem la El, este că, dacă cerem ceva după voia Lui, ne ascultă. Şi dacă știm că ne ascultă, orice i‐am cere, știm că suntem stăpâni pe lucrurile pe care I le‐am cerut.“ (1 Ioan 5.14-15)"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Pentru aceşti mijlocitori nimic nu este imposibil, pentru că ei vin înaintea unui Dumnezeu care are toată puterea asupra Uni- versului şi pentru care nimic nu este imposibil. Cerul şi pământul sunt la dispoziția unor asemenea mijlocitori, şi trăirea lor este ca- racterizată de o credință plină de bucurie. Îngerii, oamenii şi pute- rile întregului Univers lucrează împreună – în mod conştient sau inconştient – pentru a duce la îndeplinire cererile lor.</p>",
+          "text": "Pentru aceşti mijlocitori nimic nu este imposibil, pentru că ei vin înaintea unui Dumnezeu care are toată puterea asupra Uni- versului şi pentru care nimic nu este imposibil. Cerul şi pământul sunt la dispoziția unor asemenea mijlocitori, şi trăirea lor este ca- racterizată de o credință plină de bucurie. Îngerii, oamenii şi pute- rile întregului Univers lucrează împreună – în mod conştient sau inconştient – pentru a duce la îndeplinire cererile lor."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cel care mijloceşte adesea trebuie să aştepte un timp în curtea dinafară înainte de a i se permite accesul în Sfânta Sfintelor. Când se întâmplă acest lucru, el trebuie să insiste şi să bată până când uşa se deschide în fața lui şi îi este îngăduit să păşească în Sala Tronului. Din momentul în care a intrat în Sala Tronului, pricina lui este aproape câştigată. Ceea ce la început a fost muncă trudnică în rugăciune, acum devine uşor, pentru că râul divin îi cuprinde şi îi inundă inima, iar orizontul i se lărgeşte. Conştiința propriei slă- biciuni şi nimicnicii este eclipsată de realitatea copleşitoare a slavei lui Dumnezeu şi a harului de a putea să te apropii de El în Numele lui Cristos. În acest Nume, Numele Marelui nostru Preot, Tatăl în- deplineşte orice dorință.</p>",
+          "text": "Cel care mijloceşte adesea trebuie să aştepte un timp în curtea dinafară înainte de a i se permite accesul în Sfânta Sfintelor. Când se întâmplă acest lucru, el trebuie să insiste şi să bată până când uşa se deschide în fața lui şi îi este îngăduit să păşească în Sala Tronului. Din momentul în care a intrat în Sala Tronului, pricina lui este aproape câştigată. Ceea ce la început a fost muncă trudnică în rugăciune, acum devine uşor, pentru că râul divin îi cuprinde şi îi inundă inima, iar orizontul i se lărgeşte. Conştiința propriei slă- biciuni şi nimicnicii este eclipsată de realitatea copleşitoare a slavei lui Dumnezeu şi a harului de a putea să te apropii de El în Numele lui Cristos. În acest Nume, Numele Marelui nostru Preot, Tatăl în- deplineşte orice dorință."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Celui care mijloceşte i s-a acordat o audiență înaintea Regelui cerurilor. Cu o bucurie din ce în ce mai mare, împletită cu o ati- tudine de mulțumire şi închinare, el îşi prezintă cererea. Este sigur că ea va fi primită. A crezut promisiunile şi a primit asigurarea</p>",
+          "text": "Celui care mijloceşte i s-a acordat o audiență înaintea Regelui cerurilor. Cu o bucurie din ce în ce mai mare, împletită cu o ati- tudine de mulțumire şi închinare, el îşi prezintă cererea. Este sigur că ea va fi primită. A crezut promisiunile şi a primit asigurarea"
+        },
+        {
+          "type": "prose",
+          "html": "<p>împlinirii lor, iar când ceasul care i-a fost acordat cu atâta bunăvo- ință se scurge, el este sigur că a obținut ceea ce a cerut, chiar dacă împlinirea tangibilă încă este departe. Ea va veni la momentul ho- tărât de Dumnezeu. <i>—Sora Eva</i></p>",
+          "text": "împlinirii lor, iar când ceasul care i-a fost acordat cu atâta bunăvo- ință se scurge, el este sigur că a obținut ceea ce a cerut, chiar dacă împlinirea tangibilă încă este departe. Ea va veni la momentul ho- tărât de Dumnezeu. —Sora Eva"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Când la Rege tu apari,<br>\nAdu-I cereri cât mai mari;<br>\nCă eşti tânăr sau adult,<br>\nLui nu poți să-I ceri prea mult.</p>",
+          "text": "Când la Rege tu apari,\n\nAdu-I cereri cât mai mari;\n\nCă eşti tânăr sau adult,\n\nLui nu poți să-I ceri prea mult."
+        },
+        {
+          "type": "attribution",
+          "text": "—John Newton"
+        }
+      ],
+      "plainText": "„Căci armele cu care ne luptăm noi, nu sunt supuse firii pă‐ mântești, ci sunt puternice, întărite de Dumnezeu ca să surpe întăriturile.“ (2 Corinteni 10.4)\n\n„Îndrăzneala pe care o avem la El, este că, dacă cerem ceva după voia Lui, ne ascultă. Şi dacă știm că ne ascultă, orice i‐am cere, știm că suntem stăpâni pe lucrurile pe care I le‐am cerut.“ (1 Ioan 5.14-15)\n\nPentru aceşti mijlocitori nimic nu este imposibil, pentru că ei vin înaintea unui Dumnezeu care are toată puterea asupra Uni- versului şi pentru care nimic nu este imposibil. Cerul şi pământul sunt la dispoziția unor asemenea mijlocitori, şi trăirea lor este ca- racterizată de o credință plină de bucurie. Îngerii, oamenii şi pute- rile întregului Univers lucrează împreună – în mod conştient sau inconştient – pentru a duce la îndeplinire cererile lor.\n\nCel care mijloceşte adesea trebuie să aştepte un timp în curtea dinafară înainte de a i se permite accesul în Sfânta Sfintelor. Când se întâmplă acest lucru, el trebuie să insiste şi să bată până când uşa se deschide în fața lui şi îi este îngăduit să păşească în Sala Tronului. Din momentul în care a intrat în Sala Tronului, pricina lui este aproape câştigată. Ceea ce la început a fost muncă trudnică în rugăciune, acum devine uşor, pentru că râul divin îi cuprinde şi îi inundă inima, iar orizontul i se lărgeşte. Conştiința propriei slă- biciuni şi nimicnicii este eclipsată de realitatea copleşitoare a slavei lui Dumnezeu şi a harului de a putea să te apropii de El în Numele lui Cristos. În acest Nume, Numele Marelui nostru Preot, Tatăl în- deplineşte orice dorință.\n\nCelui care mijloceşte i s-a acordat o audiență înaintea Regelui cerurilor. Cu o bucurie din ce în ce mai mare, împletită cu o ati- tudine de mulțumire şi închinare, el îşi prezintă cererea. Este sigur că ea va fi primită. A crezut promisiunile şi a primit asigurarea\n\nîmplinirii lor, iar când ceasul care i-a fost acordat cu atâta bunăvo- ință se scurge, el este sigur că a obținut ceea ce a cerut, chiar dacă împlinirea tangibilă încă este departe. Ea va veni la momentul ho- tărât de Dumnezeu. —Sora Eva\n\nCând la Rege tu apari,\n\nAdu-I cereri cât mai mari;\n\nCă eşti tânăr sau adult,\n\nLui nu poți să-I ceri prea mult.\n\n—John Newton",
+      "searchAliases": [
+        "August",
+        "Aug"
+      ],
+      "source": {
+        "database": "cdc-ro.db",
+        "sourceId": 237,
+        "sourceDate": "2012-08-24",
+        "rawChecksum": "45ac72fc0d95dd2e8b06004da65b34c4b204d314937d8d6dcb715028afcc96a3",
+        "correctionKeys": [],
+        "transformedChecksum": "e48fbad58ca2e0c7a0d24338e312c7c47d8b71545339ef9d430796064110f55c"
+      },
+      "contentVersion": "edc4d46c2242e586"
+    },
+    {
+      "id": 293,
+      "monthDay": "10-19",
+      "leapOrdinal": 293,
+      "title": "CUM SĂ-ȚI FOLOSEȘTI BINE TIMPUL",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Toate își au vremea lor, și fiecare lucru de sub ceruri își are ceasul lui.“",
+          "reference": "Eclesiastul 3.1",
+          "sourceText": "„Toate își au vremea lor, și fiecare lucru de sub ceruri își are ceasul lui.“ (Eclesiastul 3.1)"
+        },
+        {
+          "type": "scripture",
+          "text": "„Nu sunt douăsprezece ceasuri în zi?“",
+          "reference": "Ioan 11.9",
+          "sourceText": "„Nu sunt douăsprezece ceasuri în zi?“ (Ioan 11.9)"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Când Drexelius a fost întrebat de către prietenul său Fausti- nius cum a putut el realiza atât de multe lucruri, acesta i-a răspuns: „Anul are trei sute şaizeci şi cinci de zile, sau opt mii şapte sute şi şaizeci de ore; lucruri mari se pot face în atâtea ore; o broască țes- toasă parcurge un drum lung dacă nu-şi pierde timpul.“</p>",
+          "text": "Când Drexelius a fost întrebat de către prietenul său Fausti- nius cum a putut el realiza atât de multe lucruri, acesta i-a răspuns: „Anul are trei sute şaizeci şi cinci de zile, sau opt mii şapte sute şi şaizeci de ore; lucruri mari se pot face în atâtea ore; o broască țes- toasă parcurge un drum lung dacă nu-şi pierde timpul.“"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cine n-are timp să facă lucrurile care merită făcute, probabil că face nişte lucruri care nu ar merita să fie înfăptuite.</p>",
+          "text": "Cine n-are timp să facă lucrurile care merită făcute, probabil că face nişte lucruri care nu ar merita să fie înfăptuite."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Lungimea unei vieți nu ar trebui evaluată după primăverile peste care s-a întins. Viața unor oameni este scurtă la şaptezeci de ani, fiindcă mărturia lor este ca o foaie goală şi pustie; pe când viața altora este una lungă la douăzeci şi cinci de ani, deoarece în spațiul acelor ani a fost comprimată o întreagă istorie.</p>",
+          "text": "Lungimea unei vieți nu ar trebui evaluată după primăverile peste care s-a întins. Viața unor oameni este scurtă la şaptezeci de ani, fiindcă mărturia lor este ca o foaie goală şi pustie; pe când viața altora este una lungă la douăzeci şi cinci de ani, deoarece în spațiul acelor ani a fost comprimată o întreagă istorie."
+        },
+        {
+          "type": "prose",
+          "html": "<p>În fapte, viața noastră se măsoară,<br>\nȘi nu în ani urcați pe-a vremii scară;<br>\nNu-i dau valoare gândurile ’nalte,<br>\nNici visuri ce fac dorul să tresalte,<br>\nNici multe cifre strânse pe-un cadran,<br>\nCi doar ce facem pentru Domnul an de an.</p>",
+          "text": "În fapte, viața noastră se măsoară,\n\nȘi nu în ani urcați pe-a vremii scară;\n\nNu-i dau valoare gândurile ’nalte,\n\nNici visuri ce fac dorul să tresalte,\n\nNici multe cifre strânse pe-un cadran,\n\nCi doar ce facem pentru Domnul an de an."
+        },
+        {
+          "type": "attribution",
+          "text": "—W. Morley Punshon"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Ai stabilit vreodată nişte lucruri cu privire la timpul tău – ca, de exemplu, dacă o parte din el Îi aparține lui Dumnezeu? Și dacă da, cât Îi aparține lui Dumnezeu? Te-ai aşezat vreodată să faci o îm- părțire sinceră a timpului tău între tine şi Dumnezeu, astfel încât să spui concret: atât am să-I dau lui Dumnezeu în fiecare săptămână?</p>",
+          "text": "Ai stabilit vreodată nişte lucruri cu privire la timpul tău – ca, de exemplu, dacă o parte din el Îi aparține lui Dumnezeu? Și dacă da, cât Îi aparține lui Dumnezeu? Te-ai aşezat vreodată să faci o îm- părțire sinceră a timpului tău între tine şi Dumnezeu, astfel încât să spui concret: atât am să-I dau lui Dumnezeu în fiecare săptămână?"
+        },
+        {
+          "type": "prose",
+          "html": "<p>John Wesley, un om cum nu a mai fost altul pe acest pământ, s-a aşezat la un moment dat şi a împărțit cele douăzeci şi patru de</p>",
+          "text": "John Wesley, un om cum nu a mai fost altul pe acest pământ, s-a aşezat la un moment dat şi a împărțit cele douăzeci şi patru de"
+        },
+        {
+          "type": "prose",
+          "html": "<p>ore ale zilei în trei părți egale, spunând: „Opt ore pe zi sunt pentru somn şi recreere; opt ore pe zi sunt pentru afacerea mea; şi opt ore pe zi I le dau lui Dumnezeu.“ Când mă uit la viața lui Wesley şi văd câte predici a ținut, mă mir că a mai avut timp să călătorească; şi când mă uit la numărul de mile pe care le-a parcurs călare, mă mir că a mai avut timp să predice; iar când mă uit la numărul de cărți pe care le-a lăsat în urmă, mă întreb: „De unde a mai avut Wesley timp să scrie şi să predice?“ Întreaga viață a acestui om mare, cea mai laborioasă dintre toate de-a lungul secolelor, a fost atât de pli- nă de succes şi atât de cuprinzătoare pentru că el a ştiut să-şi îm- partă timpul corect cu Dumnezeu. <i>—S. Jones</i></p>",
+          "text": "ore ale zilei în trei părți egale, spunând: „Opt ore pe zi sunt pentru somn şi recreere; opt ore pe zi sunt pentru afacerea mea; şi opt ore pe zi I le dau lui Dumnezeu.“ Când mă uit la viața lui Wesley şi văd câte predici a ținut, mă mir că a mai avut timp să călătorească; şi când mă uit la numărul de mile pe care le-a parcurs călare, mă mir că a mai avut timp să predice; iar când mă uit la numărul de cărți pe care le-a lăsat în urmă, mă întreb: „De unde a mai avut Wesley timp să scrie şi să predice?“ Întreaga viață a acestui om mare, cea mai laborioasă dintre toate de-a lungul secolelor, a fost atât de pli- nă de succes şi atât de cuprinzătoare pentru că el a ştiut să-şi îm- partă timpul corect cu Dumnezeu. —S. Jones"
+        }
+      ],
+      "plainText": "„Toate își au vremea lor, și fiecare lucru de sub ceruri își are ceasul lui.“ (Eclesiastul 3.1)\n\n„Nu sunt douăsprezece ceasuri în zi?“ (Ioan 11.9)\n\nCând Drexelius a fost întrebat de către prietenul său Fausti- nius cum a putut el realiza atât de multe lucruri, acesta i-a răspuns: „Anul are trei sute şaizeci şi cinci de zile, sau opt mii şapte sute şi şaizeci de ore; lucruri mari se pot face în atâtea ore; o broască țes- toasă parcurge un drum lung dacă nu-şi pierde timpul.“\n\nCine n-are timp să facă lucrurile care merită făcute, probabil că face nişte lucruri care nu ar merita să fie înfăptuite.\n\nLungimea unei vieți nu ar trebui evaluată după primăverile peste care s-a întins. Viața unor oameni este scurtă la şaptezeci de ani, fiindcă mărturia lor este ca o foaie goală şi pustie; pe când viața altora este una lungă la douăzeci şi cinci de ani, deoarece în spațiul acelor ani a fost comprimată o întreagă istorie.\n\nÎn fapte, viața noastră se măsoară,\n\nȘi nu în ani urcați pe-a vremii scară;\n\nNu-i dau valoare gândurile ’nalte,\n\nNici visuri ce fac dorul să tresalte,\n\nNici multe cifre strânse pe-un cadran,\n\nCi doar ce facem pentru Domnul an de an.\n\n—W. Morley Punshon\n\nAi stabilit vreodată nişte lucruri cu privire la timpul tău – ca, de exemplu, dacă o parte din el Îi aparține lui Dumnezeu? Și dacă da, cât Îi aparține lui Dumnezeu? Te-ai aşezat vreodată să faci o îm- părțire sinceră a timpului tău între tine şi Dumnezeu, astfel încât să spui concret: atât am să-I dau lui Dumnezeu în fiecare săptămână?\n\nJohn Wesley, un om cum nu a mai fost altul pe acest pământ, s-a aşezat la un moment dat şi a împărțit cele douăzeci şi patru de\n\nore ale zilei în trei părți egale, spunând: „Opt ore pe zi sunt pentru somn şi recreere; opt ore pe zi sunt pentru afacerea mea; şi opt ore pe zi I le dau lui Dumnezeu.“ Când mă uit la viața lui Wesley şi văd câte predici a ținut, mă mir că a mai avut timp să călătorească; şi când mă uit la numărul de mile pe care le-a parcurs călare, mă mir că a mai avut timp să predice; iar când mă uit la numărul de cărți pe care le-a lăsat în urmă, mă întreb: „De unde a mai avut Wesley timp să scrie şi să predice?“ Întreaga viață a acestui om mare, cea mai laborioasă dintre toate de-a lungul secolelor, a fost atât de pli- nă de succes şi atât de cuprinzătoare pentru că el a ştiut să-şi îm- partă timpul corect cu Dumnezeu. —S. Jones",
+      "searchAliases": [
+        "October",
+        "Oct"
+      ],
+      "source": {
+        "database": "cdc-ro.db",
+        "sourceId": 293,
+        "sourceDate": "2012-10-19",
+        "rawChecksum": "2f6b49735233627e6c33e73d822adba047f882255ef4bfec376e1a9e63559863",
+        "correctionKeys": [],
+        "transformedChecksum": "7e6dc79c010e309c432e7225ccdcf6155ec8b07384582291088f7b33f28044e7"
+      },
+      "contentVersion": "edc4d46c2242e586"
+    },
+    {
+      "id": 366,
+      "monthDay": "12-31",
+      "leapOrdinal": 366,
+      "title": "SĂ FACEM INVENTARUL",
+      "blocks": [
+        {
+          "type": "scripture",
+          "text": "„Pe voi înșivă încercați‐vă dacă sunteți în credință. Pe voi înșivă cercați‐vă.“",
+          "reference": "2 Corinteni 13.5",
+          "sourceText": "„Pe voi înșivă încercați‐vă dacă sunteți în credință. Pe voi înșivă cercați‐vă.“ (2 Corinteni 13.5)"
+        },
+        {
+          "type": "scripture",
+          "text": "„Fiecare să‐și cerceteze fapta lui, și atunci va avea cu ce să se laude numai în ce‐l privește pe el, și nu cu privire la alții.“",
+          "reference": "Galateni 6.4",
+          "sourceText": "„Fiecare să‐și cerceteze fapta lui, și atunci va avea cu ce să se laude numai în ce‐l privește pe el, și nu cu privire la alții.“ (Galateni 6.4)"
+        },
+        {
+          "type": "scripture",
+          "text": "„Cercetează‐mă, Doamne, încearcă‐mă...“",
+          "reference": "Psalmul 26.2",
+          "sourceText": "„Cercetează‐mă, Doamne, încearcă‐mă...“ (Psalmul 26.2)"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Cred că acesta este momentul din an în care oamenii fac in- ventarul în toate domeniile – mai puțin în domeniul spiritual. În industria încălțămintei, se ştie exact cât s-a consumat, cât s-a pro- dus şi unde se află toate produsele finite. În industria cărților, s-au făcut toate calculele. La fel se procedează în toate firmele şi afa- cerile serioase. Oamenii vor să ştie cum stau în ceea ce priveşte posesiunile lor.</p>",
+          "text": "Cred că acesta este momentul din an în care oamenii fac in- ventarul în toate domeniile – mai puțin în domeniul spiritual. În industria încălțămintei, se ştie exact cât s-a consumat, cât s-a pro- dus şi unde se află toate produsele finite. În industria cărților, s-au făcut toate calculele. La fel se procedează în toate firmele şi afa- cerile serioase. Oamenii vor să ştie cum stau în ceea ce priveşte posesiunile lor."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Dar vai! Unde îți este contabilul şi unde îți este casierul care fac inventarul sufletului tău, pentru ca să ştii dacă ai câştigat în cunoaştere sau ți-ai irosit timpul; dacă ai dobândit o conştiință mai stabilă, sau dacă ea seamănă cu o sfârlează, purtată încoace şi în- colo de obiceiuri sau de părerile oamenilor; dacă te-ai apropiat de oameni, şi ai cu ei relații mai pline de dragoste, sau dacă ai început să te dezintegrezi? <i>—Henry Ward Beecher</i></p>",
+          "text": "Dar vai! Unde îți este contabilul şi unde îți este casierul care fac inventarul sufletului tău, pentru ca să ştii dacă ai câştigat în cunoaştere sau ți-ai irosit timpul; dacă ai dobândit o conştiință mai stabilă, sau dacă ea seamănă cu o sfârlează, purtată încoace şi în- colo de obiceiuri sau de părerile oamenilor; dacă te-ai apropiat de oameni, şi ai cu ei relații mai pline de dragoste, sau dacă ai început să te dezintegrezi? —Henry Ward Beecher"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Să ne facem inventarul,<br>\ntot ce-i vechi lăsând în urmă;</p>",
+          "text": "Să ne facem inventarul,\n\ntot ce-i vechi lăsând în urmă;"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Amintind pe cele bune,<br>\nsă iertăm ce-n piept ne scurmă;</p>",
+          "text": "Amintind pe cele bune,\n\nsă iertăm ce-n piept ne scurmă;"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Să uităm ce ne mai leagă, producându-ne regrete,</p>",
+          "text": "Să uităm ce ne mai leagă, producându-ne regrete,"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Renunțând la tot ce poate conştiința să ne-o-mbete.</p>",
+          "text": "Renunțând la tot ce poate conştiința să ne-o-mbete."
+        },
+        {
+          "type": "prose",
+          "html": "<p>S-aruncăm în praf ce n-are pentru noi nici o valoare,</p>",
+          "text": "S-aruncăm în praf ce n-are pentru noi nici o valoare,"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Alipindu-ne mai straşnic de comori nepieritoare;</p>",
+          "text": "Alipindu-ne mai straşnic de comori nepieritoare;"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Stabilindu-ne o țintă<br>\nmai măreață şi-ndrăzneață,</p>",
+          "text": "Stabilindu-ne o țintă\n\nmai măreață şi-ndrăzneață,"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Să slujim cu zel pe Domnul printr-o mai curată viață.</p>",
+          "text": "Să slujim cu zel pe Domnul printr-o mai curată viață."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Azi trecând voioşi hotarul<br>\ndin cel vechi spre Anul Nou,</p>",
+          "text": "Azi trecând voioşi hotarul\n\ndin cel vechi spre Anul Nou,"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Glasul Domnului în inimi să-şi găsească sfânt ecou,</p>",
+          "text": "Glasul Domnului în inimi să-şi găsească sfânt ecou,"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Și să ne-ajutăm toți frații când îi întâlnim pe drum,</p>",
+          "text": "Și să ne-ajutăm toți frații când îi întâlnim pe drum,"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Să le ridicăm povara<br>\ngrea în lumea de acum.</p>",
+          "text": "Să le ridicăm povara\n\ngrea în lumea de acum."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Căci nu jertfe, ci vrea milă bunul nostru Salvator,</p>",
+          "text": "Căci nu jertfe, ci vrea milă bunul nostru Salvator,"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Creştinismul nostru astfel va fi mai convingător.</p>",
+          "text": "Creştinismul nostru astfel va fi mai convingător."
+        },
+        {
+          "type": "prose",
+          "html": "<p>Vom adăuga, desigur, stând cu toții împreună,</p>",
+          "text": "Vom adăuga, desigur, stând cu toții împreună,"
+        },
+        {
+          "type": "prose",
+          "html": "<p>Unui an ce ne surâde<br>\nun crâmpei de voie bună.</p>",
+          "text": "Unui an ce ne surâde\n\nun crâmpei de voie bună."
+        },
+        {
+          "type": "attribution",
+          "text": "— Words and Deeds (Cuvinte şi fapte)"
+        }
+      ],
+      "plainText": "„Pe voi înșivă încercați‐vă dacă sunteți în credință. Pe voi înșivă cercați‐vă.“ (2 Corinteni 13.5)\n\n„Fiecare să‐și cerceteze fapta lui, și atunci va avea cu ce să se laude numai în ce‐l privește pe el, și nu cu privire la alții.“ (Galateni 6.4)\n\n„Cercetează‐mă, Doamne, încearcă‐mă...“ (Psalmul 26.2)\n\nCred că acesta este momentul din an în care oamenii fac in- ventarul în toate domeniile – mai puțin în domeniul spiritual. În industria încălțămintei, se ştie exact cât s-a consumat, cât s-a pro- dus şi unde se află toate produsele finite. În industria cărților, s-au făcut toate calculele. La fel se procedează în toate firmele şi afa- cerile serioase. Oamenii vor să ştie cum stau în ceea ce priveşte posesiunile lor.\n\nDar vai! Unde îți este contabilul şi unde îți este casierul care fac inventarul sufletului tău, pentru ca să ştii dacă ai câştigat în cunoaştere sau ți-ai irosit timpul; dacă ai dobândit o conştiință mai stabilă, sau dacă ea seamănă cu o sfârlează, purtată încoace şi în- colo de obiceiuri sau de părerile oamenilor; dacă te-ai apropiat de oameni, şi ai cu ei relații mai pline de dragoste, sau dacă ai început să te dezintegrezi? —Henry Ward Beecher\n\nSă ne facem inventarul,\n\ntot ce-i vechi lăsând în urmă;\n\nAmintind pe cele bune,\n\nsă iertăm ce-n piept ne scurmă;\n\nSă uităm ce ne mai leagă, producându-ne regrete,\n\nRenunțând la tot ce poate conştiința să ne-o-mbete.\n\nS-aruncăm în praf ce n-are pentru noi nici o valoare,\n\nAlipindu-ne mai straşnic de comori nepieritoare;\n\nStabilindu-ne o țintă\n\nmai măreață şi-ndrăzneață,\n\nSă slujim cu zel pe Domnul printr-o mai curată viață.\n\nAzi trecând voioşi hotarul\n\ndin cel vechi spre Anul Nou,\n\nGlasul Domnului în inimi să-şi găsească sfânt ecou,\n\nȘi să ne-ajutăm toți frații când îi întâlnim pe drum,\n\nSă le ridicăm povara\n\ngrea în lumea de acum.\n\nCăci nu jertfe, ci vrea milă bunul nostru Salvator,\n\nCreştinismul nostru astfel va fi mai convingător.\n\nVom adăuga, desigur, stând cu toții împreună,\n\nUnui an ce ne surâde\n\nun crâmpei de voie bună.\n\n— Words and Deeds (Cuvinte şi fapte)",
+      "searchAliases": [
+        "December",
+        "Dec"
+      ],
+      "source": {
+        "database": "cdc-ro.db",
+        "sourceId": 366,
+        "sourceDate": "2012-12-31",
+        "rawChecksum": "33b89b51011b20935b58ff2dc940b56302db01c3da3834955bcf9992015fb432",
+        "correctionKeys": [],
+        "transformedChecksum": "b581ec924fccb26824497b8db741a6549e52ca491473c1576d2be150acb99a05"
+      },
+      "contentVersion": "edc4d46c2242e586"
+    }
+  ]
+}

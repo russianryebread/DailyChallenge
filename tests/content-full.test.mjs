@@ -8,28 +8,29 @@ const readJson = (name) =>
   JSON.parse(readFileSync(new URL(name, generatedUrl), 'utf8'));
 const sha256 = (value) => createHash('sha256').update(value).digest('hex');
 
-const artifact = readJson('readings.json');
+const artifacts = { en: readJson('readings.en.json'), ro: readJson('readings.ro.json') };
+const artifact = artifacts.en;
 const report = readJson('report.json');
 const manifest = readJson('manifest.json');
 const catalogs = { en: readJson('catalog.en.json'), ro: readJson('catalog.ro.json') };
 const searchIndexes = { en: readJson('search.en.json'), ro: readJson('search.ro.json') };
 
-test('full migration contains every aligned bilingual reading', () => {
-  assert.equal(artifact.readings.length, 366);
+test('full migration contains every aligned reading in separate language files', () => {
   assert.equal(report.translationCount, 732);
-  assert.deepEqual(
-    artifact.readings.map((reading) => reading.id),
-    Array.from({ length: 366 }, (_, index) => index + 1),
-  );
-  assert.equal(new Set(artifact.readings.map((reading) => reading.monthDay)).size, 366);
-  assert.equal(artifact.readings.find((reading) => reading.id === 60).monthDay, '02-29');
-
-  for (const reading of artifact.readings) {
-    for (const locale of ['en', 'ro']) {
-      const translation = reading.translations[locale];
-      assert.ok(translation.title.trim());
-      assert.ok(translation.plainText.trim());
-      assert.equal(translation.contentVersion, artifact.contentVersion);
+  for (const locale of ['en', 'ro']) {
+    const library = artifacts[locale];
+    assert.equal(library.locale, locale);
+    assert.equal(library.readings.length, 366);
+    assert.deepEqual(library.readings.map((reading) => reading.id), Array.from({ length: 366 }, (_, index) => index + 1));
+    assert.deepEqual(library.readings.map((reading) => reading.monthDay), artifact.readings.map((reading) => reading.monthDay));
+    assert.equal(new Set(library.readings.map((reading) => reading.monthDay)).size, 366);
+    assert.equal(library.readings.find((reading) => reading.id === 60).monthDay, '02-29');
+    for (const reading of library.readings) {
+      assert.ok(reading.title.trim());
+      assert.ok(reading.plainText.trim());
+      assert.equal(reading.contentVersion, artifact.contentVersion);
+      assert.equal('sanitizedHtml' in reading, false);
+      assert.equal('translations' in reading, false);
     }
   }
 });
@@ -55,13 +56,10 @@ test('full migration preserves source text and reports unresolved encoding', () 
     [124, 243, 263, 305, 362].map((id) => ({ id, locale: 'ro' })),
   );
   assert.deepEqual(report.unicodeNormalization.lessons, { en: 0, ro: 366 });
-  for (const reading of artifact.readings) {
-    for (const locale of ['en', 'ro']) {
-      assert.equal(reading.translations[locale].title.includes('<'), false);
-      assert.equal(
-        reading.translations[locale].sanitizedHtml,
-        reading.translations[locale].sanitizedHtml.normalize('NFC'),
-      );
+  for (const locale of ['en', 'ro']) {
+    for (const reading of artifacts[locale].readings) {
+      assert.equal(reading.title.includes('<'), false);
+      assert.equal(JSON.stringify(reading), JSON.stringify(reading).normalize('NFC'));
     }
   }
 });

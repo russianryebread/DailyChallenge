@@ -166,18 +166,17 @@ The `app/` layer remains thin. Product logic and screens must stay client-capabl
 Each logical reading is identified by the stable legacy ID and calendar day. Titles are not identifiers because the source contains duplicate titles.
 
 ```text
+ReadingLibrary (one file per language)
+  contentVersion: string
+  locale: en | ro
+  readings: Reading[]
+
 Reading
   id: integer 1–366
   monthDay: zero-padded MM-DD
   leapOrdinal: integer 1–366
-  translations:
-    en: ReadingTranslation
-    ro: ReadingTranslation
-
-ReadingTranslation
   title: string
   blocks: ordered ReadingBlock[]
-  sanitizedHtml: optional lossless fallback
   plainText: normalized search/validation text
   searchAliases: string[]
   source:
