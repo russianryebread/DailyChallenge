@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "en",
   "month": "08",
   "readings": [
@@ -167,8 +167,8 @@
           "html": "<p class=\"justify\">Who has not watched some old couple come down life’s pilgrimage hand in hand with such gentle trust and joy in one another that their very faces wore the selfsame look? These were not two souls; it was a composite soul. Half a century’s companionship had told upon them. They were changed into the same image! What glorious possibilities are here suggested to those whom God hides in the secret of His presence? Who can think mean thoughts, or speak ungenerous words, in the presence of Christ? His mere presence must suggest immediately the right thing in the controlling passion, the subsiding of pride, and the overcoming of selfishness. In His company, who could help but always be at his best, and if this influence is perpetuated, what could not life become?</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press.)</p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press.)"
         }
       ]
     },
@@ -468,8 +468,8 @@
           "html": "<p class=\"justify\">Our Gideons must Isaiahs be, visions first—then victory.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\"> <i>(</i>From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press<i>.)</i></p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press.)"
         }
       ]
     },
@@ -1320,7 +1320,7 @@
         },
         {
           "type": "prose",
-          "html": "<p>And setteth on fire the course of\n    nature;</p>"
+          "html": "<p>And setteth on fire the course of nature;</p>"
         },
         {
           "type": "prose",
@@ -1332,23 +1332,23 @@
         },
         {
           "type": "prose",
-          "html": "<p>It is an unruly evil, full of deadly\n    poison.</p>"
+          "html": "<p>It is an unruly evil, full of deadly poison.</p>"
         },
         {
           "type": "prose",
-          "html": "<p>Therewith bless we God, even the\n    Father;</p>"
+          "html": "<p>Therewith bless we God, even the Father;</p>"
         },
         {
           "type": "prose",
-          "html": "<p>And therewith curse we men, which\n    are made after the similitude of God.</p>"
+          "html": "<p>And therewith curse we men, which are made after the similitude of God.</p>"
         },
         {
           "type": "prose",
-          "html": "<p>Out of the same mouth proceedeth\n    blessing and cursing.</p>"
+          "html": "<p>Out of the same mouth proceedeth blessing and cursing.</p>"
         },
         {
           "type": "prose",
-          "html": "<p>My brethren, these things ought not\n    so to be (James 1:26, 3:5, 6, 8-10).</p>"
+          "html": "<p>My brethren, these things ought not so to be (James 1:26, 3:5, 6, 8-10).</p>"
         }
       ]
     },

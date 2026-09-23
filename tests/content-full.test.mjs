@@ -74,6 +74,35 @@ test('catalogs and search indexes cover the content version', () => {
 });
 
 test('credits are separate blocks and dialogue stays in the reading text', () => {
+  const holinessIds = {
+    en: [8, 10, 44, 54, 79, 95, 149, 182, 184, 216, 219, 257, 284, 313, 343],
+    ro: [10, 44, 54, 79, 95, 149, 182, 184, 216, 219, 257, 284, 313, 343],
+  };
+  for (const locale of ['en', 'ro']) {
+    const actual = artifacts[locale].readings.filter((reading) =>
+      reading.blocks.some((block) => block.text?.includes('New Testament Holiness')),
+    );
+    assert.deepEqual(actual.map((reading) => reading.id), holinessIds[locale]);
+    for (const reading of actual) {
+      const matches = reading.blocks.filter((block) => block.text?.includes('New Testament Holiness'));
+      assert.equal(matches.length, 1, `${locale} reading ${reading.id}: duplicate source credit`);
+      assert.equal(matches[0].type, 'attribution', `${locale} reading ${reading.id}`);
+    }
+  }
+  const romanianPoemCredit = artifacts.ro.readings.find((reading) => reading.id === 305)
+    .blocks.find((block) => block.text?.startsWith('Poem publicat de Evangelical Christian'));
+  assert.equal(romanianPoemCredit?.type, 'attribution');
+  for (const [id, credit] of [
+    [197, '—Martha Snell Nicholson (Evangelical Christian)'],
+    [252, '—Bishop Houghton (Evangelical Christian)'],
+    [260, '—Grace Noll Crowell (Evangelical Christian)'],
+    [323, '—Grace Noll Crowell (Evangelical Christian)'],
+  ]) {
+    assert.ok(artifacts.en.readings.find((reading) => reading.id === id).blocks.some((block) =>
+      block.type === 'attribution' && block.text === credit,
+    ));
+  }
+
   for (const [locale, id, credit] of [
     ['en', 15, '—Unknown'],
     ['en', 61, '—J. H. Jowett'],

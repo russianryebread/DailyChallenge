@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "en",
   "month": "04",
   "readings": [
@@ -314,8 +314,8 @@
           "html": "<p class=\"justify\">Walking with God means step by step in the will of God. A man who carries a lantern at night does not see the whole path home. The lantern lights only a single step in advance, but when that step is taken another is lighted, and so on until the end of the journey. In like manner God lights our way. He makes one step plain, and when we take that, another, and then another. We have nothing to do with life in the aggregate. Each moment brings its duties, responsibilities, burdens, and needs. Our business is to live a moment at a time, and that moment for God. Dr. Kitto’s advice is, “Think not on a holy life, but on a holy moment as it flies. The first overwhelms by its immensity, the other sweetens and refreshes by its lightness and present stimulus; and yet a succession of holy moments constitutes a holy life.”</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
         },
         {
           "type": "poem",

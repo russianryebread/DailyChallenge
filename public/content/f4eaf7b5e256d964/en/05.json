@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "en",
   "month": "05",
   "readings": [
@@ -2283,8 +2283,8 @@
           ]
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
         },
         {
           "type": "prose",

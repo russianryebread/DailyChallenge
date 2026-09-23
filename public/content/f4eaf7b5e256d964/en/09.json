@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "en",
   "month": "09",
   "readings": [
@@ -683,11 +683,7 @@
         },
         {
           "type": "attribution",
-          "text": "—Bishop Houghton"
-        },
-        {
-          "type": "attribution",
-          "text": "(Evangelical Christian)"
+          "text": "—Bishop Houghton (Evangelical Christian)"
         }
       ]
     },
@@ -1139,8 +1135,8 @@
           "html": "<p class=\"justify\">It is the deep tranquility of a soul resting wholly upon God, in contrast with the unrest and anxiety engendered by a self-centered and worldly spirit. Jesus calls it, “My peace,” in contrast with the hollowness of what the world calls peace. The world’s peace is determined by outward things, and is as changeable as external conditions. But the peace of God changes not. It is not fitful and transient, but an abiding and ever-increasing reality. Ecstatic joy fluctuates like the waves of the sea, but peace flows on without interruption, like a river ever flowing and full.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
         },
         {
           "type": "poem",
@@ -1341,11 +1337,7 @@
         },
         {
           "type": "attribution",
-          "text": "—Grace Noll Crowell"
-        },
-        {
-          "type": "attribution",
-          "text": "(Evangelical Christian)"
+          "text": "—Grace Noll Crowell (Evangelical Christian)"
         }
       ]
     },

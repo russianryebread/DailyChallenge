@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "ro",
   "month": "02",
   "readings": [
@@ -630,8 +630,8 @@
           "html": "<p>Inima şi viaţa unui om nu sunt tulburate de circumstanțe, ci de el însuşi. Cauza neliniştii noastre trebuie căutată în faptul că voința noastră nu este în armonie cu voia lui Dumnezeu.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p><i>Din </i>New Testament Holiness <i>de Thomas Cook. Folosit cu permisiunea Epworth Press</i></p>"
+          "type": "attribution",
+          "text": "Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press"
         },
         {
           "type": "prose",
@@ -1193,8 +1193,8 @@
           "html": "<p>Este posibil să avem atât de multe de făcut, încât să nu reuşim să facem nimic. Un muncitor nu ar rezista prea mult dacă nu s-ar opri din când în când să mănânce. Cosaşul trebuie să se oprească din când în când să-şi ascută coasa. La fel de necesar este ca predicatorii ocupați să aibă parte de câte o perioadă de linişte, în care să-şi reînnoiască puterea şi să se pregătească pentru a fi utili în continuare în slujirea lor.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p><i>Din </i>New Testament Holiness <i>de Thomas Cook. Folosit cu permisiunea Epworth Press</i></p>"
+          "type": "attribution",
+          "text": "Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press"
         },
         {
           "type": "scripture",

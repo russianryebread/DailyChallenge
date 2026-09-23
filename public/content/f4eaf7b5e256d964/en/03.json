@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "en",
   "month": "03",
   "readings": [
@@ -1481,8 +1481,8 @@
           "html": "<p class=\"justify\">Service without sacrifice secures no results, no achievement, no victory that is worth the name. If we would keep our life we shall lose it, but if we empty it out in loving service we shall make it a lasting blessing to the world. No high thing can be done easily or without cost. To be consumed in God’s work as “a living sacrifice” means burning up and burning out; the candle will grow shorter and the battery weaker. That is a true symbol of the consecrated life, which is inscribed on the tomb of Dr. Adam Clarke—a burning candle, with the superscription, “I give light by being myself consumed.” We give light by giving up our lives to Him Who loved us. We are consumed by the zeal of His house while we carry light and salvation to those for whom He died.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
         },
         {
           "type": "prose",

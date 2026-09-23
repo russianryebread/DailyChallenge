@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "ro",
   "month": "12",
   "readings": [
@@ -494,8 +494,8 @@
           "html": "<p>„Cu toată inima ta“, aşa sună porunca. Chiar dacă puterea noastră de a iubi ar fi foarte limitată, atâta vreme cât o folosim în întregime pentru a-L iubi pe Dumnezeu, împlinim cerința divină la fel ca cei care sunt mai capabili din acest punct de vedere. Un pahar poate să fie la fel de plin ca o găleată. A-L iubi pe Dumnezeu mai mult decât cu toată inima – dincolo de puterea sau capacitatea noastră – ar fi imposibil, iar a-L iubi mai puțin decât cu măsura deplină a puterii noastre de a iubi ar însemna să nu împlinim po- runca. „Cel care face cum poate mai bine face bine: nici îngerii nu pot face mai bine şi nici Dumnezeu nu cere mai mult.“</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)</p>"
+          "type": "attribution",
+          "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         },
         {
           "type": "prose",

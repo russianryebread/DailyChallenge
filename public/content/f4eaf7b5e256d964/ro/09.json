@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "ro",
   "month": "09",
   "readings": [
@@ -812,8 +812,8 @@
           "html": "<p>Este acea stare de calm profund al sufletului care se bazează numai pe Dumnezeu, în contrast cu neliniştea şi anxietatea care sunt produse de un spirit egocentric şi firesc. Domnul Isus spu- ne „vă dau pacea Mea“, pentru a face distincție între ceea ce oferă El şi realitatea găunoasă a ceea ce lumea numeşte pace. Pacea lu- mii este determinată de aspecte dinafara omului şi este la fel de schimbătoare ca circumstanțele exterioare, dar pacea lui Dumne- zeu nu se schimbă. Nu este instabilă şi trecătoare, ci este o realita- te statornică şi în continuă creştere. Bucuria extatică a creştinului este fluctuantă, asemenea valurilor mării, pe când pacea Domnu- lui curge fără întrerupere, ca apele unui râu alimentat de izvoare puternice şi bogate.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">(Din New Testament Holiness, de Thomas Cook. Folosit cu permisiunea Epworth Press.)</p>"
+          "type": "attribution",
+          "text": "(Din New Testament Holiness, de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         },
         {
           "type": "prose",

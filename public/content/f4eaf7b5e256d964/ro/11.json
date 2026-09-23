@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "ro",
   "month": "11",
   "readings": [
@@ -423,8 +423,8 @@
           "html": "<p>Credincioşii plini de Duhul Sfânt lasă în urma lor, pe oriun- de au trecut, viață, satisfacție şi bucurie. Prezența lor este una dă- tătoare de viață, roditoare, înviorătoare, asemenea unui râu care aduce binecuvântare pe unde curge. „Orice făptură vie, care se mişcă, va trăi pretutindeni pe unde va curge râul.“ Cel mai slab şi mai plăpând mădular al Trupului lui Cristos poate fi atât de plin de viață, în mod instinctual, încât să curgă din el viață din abun- dență, asemenea unui râu sfânt, spre binecuvântarea sufletelor ce- lor din jurul său.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)</p>"
+          "type": "attribution",
+          "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         }
       ]
     },

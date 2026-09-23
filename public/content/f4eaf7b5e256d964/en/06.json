@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "en",
   "month": "06",
   "readings": [
@@ -2237,8 +2237,8 @@
           "html": "<p class=\"justify\">But when our love is in kind like His, we cannot help doing it. Our “must” then is like the “must” of God. God must give His love, whether souls accept it or not. Let the love of Christ, the most sublime of all motives, and the glory of Christ, the most sublime of all ends, become the ruling principle of action, and who can help living magnanimously for man and for God?</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
         },
         {
           "type": "poem",

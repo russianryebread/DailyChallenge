@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "ro",
   "month": "07",
   "readings": [
@@ -79,8 +79,8 @@
           "html": "<p>Ioan Gură de Aur interpretează în felul următor aceste cuvin- te: „pregătit pentru orice situație de urgență care ar spori slava lui Dumnezeu, pregătit chiar de moarte, dacă e nevoie, sau de orice altă mărturie, oricât de dureroasă.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p>(Din New Testament Holiness, de Thomas Cook. Folosit cu permisiunea Epworth Press.)</p>"
+          "type": "attribution",
+          "text": "(Din New Testament Holiness, de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         },
         {
           "type": "prose",

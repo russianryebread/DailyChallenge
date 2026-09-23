@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "ro",
   "month": "08",
   "readings": [
@@ -146,8 +146,8 @@
           "html": "<p>Ce posibilități glorioase le sugerează textul din 2 Corinteni 3.18 acelor persoane pe care Dumnezeu le ascunde în taina pre- zenței Sale! Cine poate nutri gânduri meschine şi cine poate rosti vorbe grele în prezența lui Cristos? Simpla Lui prezență sugerează imediat care este reacția corectă – fie că este vorba despre contro- larea pasiunilor, despre domolirea mândriei sau despre depăşirea egoismului. În compania Lui cine ar putea să nu se ridice la poten- țialul său maxim, iar dacă această influență s-ar perpetua, ar mai fi oare ceva imposibil în viață?</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press)</p>"
+          "type": "attribution",
+          "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press)"
         }
       ]
     },
@@ -354,8 +354,8 @@
           "html": "<p>Înainte ca Ghedeon să devină un izbăvitor, el trebuie să fie un vizionar ca Isaia: mai întâi viziunea, şi abia după aceea victoria.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)</p>"
+          "type": "attribution",
+          "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         }
       ]
     },

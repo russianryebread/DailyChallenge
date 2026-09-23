@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "en",
   "month": "02",
   "readings": [
@@ -1024,7 +1024,11 @@
         },
         {
           "type": "prose",
-          "html": "<p class=\"justify\">The peace of God will approve of nothing into which Christ cannot be introduced and assigned the seat of honor. It should be to us what the barometer is to the sailor, and if it sinks, let us take the warning. Whenever we find it in peril, we must retrace our steps. In all matters of doubt, when contending impulses and reasons distract, and seem to pull in the opposite directions, our safety is to “let the peace of God” decide which is to prevail. Under His watchful rule the soul settles down into resolute and calm obedience to the law of Christ. The hearts and lives of men are made troubled, not by circumstances, but by themselves. We are restless because our wills are not in harmony with the will of God. (From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press.)</p>"
+          "html": "<p class=\"justify\">The peace of God will approve of nothing into which Christ cannot be introduced and assigned the seat of honor. It should be to us what the barometer is to the sailor, and if it sinks, let us take the warning. Whenever we find it in peril, we must retrace our steps. In all matters of doubt, when contending impulses and reasons distract, and seem to pull in the opposite directions, our safety is to “let the peace of God” decide which is to prevail. Under His watchful rule the soul settles down into resolute and calm obedience to the law of Christ. The hearts and lives of men are made troubled, not by circumstances, but by themselves. We are restless because our wills are not in harmony with the will of God.</p>"
+        },
+        {
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press.)"
         },
         {
           "type": "poem",
@@ -1852,8 +1856,8 @@
           "html": "<p class=\"justify\">Most of us would do more for God if we would do less and spend more time in getting ready. When Luther had a specially busy and exciting day, he always allowed himself longer time than usual for his private devotions. A wise man once said he was too busy to be in a hurry; he meant that if he allowed himself to become hurried he could not do what he had to do. It is possible to have so much to do that we get nothing done. A workman would soon faint if he did not stop for meals. The mower must stop occasionally to sharpen his scythe, and it is just as necessary that busy workers should have quiet periods to renew their wasted strength and seek preparation for further usefulness and service.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
         },
         {
           "type": "scripture",

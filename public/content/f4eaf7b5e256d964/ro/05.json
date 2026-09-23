@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "ro",
   "month": "05",
   "readings": [
@@ -1680,8 +1680,8 @@
           "html": "<p>Pierzând-o, ce-am primit în loc? Mi-i liberă fiinţa!”</p>"
         },
         {
-          "type": "prose",
-          "html": "<p><i>(Din </i>New Testament Holiness <i>de Thomas Cook. Folosit cu permisiunea Epworth Press.)</i></p>"
+          "type": "attribution",
+          "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         },
         {
           "type": "prose",

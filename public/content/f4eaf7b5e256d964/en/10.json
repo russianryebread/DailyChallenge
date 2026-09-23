@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "en",
   "month": "10",
   "readings": [
@@ -827,8 +827,8 @@
           "html": "<p class=\"justify\"> The Spirit-filled Christian has an artesian well of joy in his heart, a miraculous spring opened in his breast, which fills, floods and overwhelms his soul with joy unspeakable all the year round. Common surface wells are soon dry, but artesian wells, even in dry weather, have plenty of water.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
         },
         {
           "type": "prose",

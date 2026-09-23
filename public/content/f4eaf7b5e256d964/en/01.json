@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "en",
   "month": "01",
   "readings": [
@@ -661,8 +661,8 @@
           "html": "<p class=\"justify\">When Ignatius was on his trial at Rome, he was asked by the Emperor, “What is the meaning of your name, Theophorus?” (God-bearer). He promptly replied, “He who has Christ in his breast.” And all Christians are God-bearers, whether they realize it or not. The unspeakably glorious mystery of an indwelling Holy Ghost is the possession of even the weakest and most failing child of God.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press.) </p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press.)"
         }
       ]
     },
@@ -735,8 +735,8 @@
           "html": "<p class=\"justify\">The joy of the Lord is our strength. The average type of Christian life will have to be raised before there can be any great advance of the Kingdom of Christ. Many of God’s people have just as much gloom and depression and as many cares and anxieties as the people of the world. “How is it,” said a godly minister to the writer recently, “that we so very seldom meet with a really joyful Christian?” It is certain we do not find in our churches so much of the exultant, exuberant joy which our fathers had.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press.)</p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press.)"
         },
         {
           "type": "poem",

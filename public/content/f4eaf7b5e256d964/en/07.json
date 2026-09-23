@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "en",
   "month": "07",
   "readings": [
@@ -56,8 +56,8 @@
           "html": "<p class=\"justify\">Let us note the word “every,” because we shall be many-sided when our hearts are cleansed from all sin. We are in danger of limiting our conceptions of duty to some particular sphere, repeating one note instead of a full chord, but the world is wide, the human need is great, and the best servants are the servants of all work. They are always on the alert for opportunities to do good, and ready even if the call comes suddenly, as it often does. It is not with them as with many who are not living with their loins girt, and who often let their opportunity pass before they have pulled themselves together. It is a grand thing to be “prepared unto every good work”—always ready. Chrysostom interprets the words to mean “ready for every emergency which would add to the glory of God, ready even for death, if needs be, or any other painful witness.”</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i>, by Thomas Cook. Used by permission of the Epworth Press).</p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness, by Thomas Cook. Used by permission of the Epworth Press)."
         },
         {
           "type": "prose",
@@ -867,11 +867,7 @@
         },
         {
           "type": "attribution",
-          "text": "—Martha Snell Nicholson"
-        },
-        {
-          "type": "attribution",
-          "text": "(Evangelical Christian)"
+          "text": "—Martha Snell Nicholson (Evangelical Christian)"
         }
       ]
     },

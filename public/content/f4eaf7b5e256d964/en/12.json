@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "en",
   "month": "12",
   "readings": [
@@ -662,8 +662,8 @@
           "html": "<p class=\"justify\"> “With all thy heart,” is the command. Our love-power may be very limited, but so long as it is fully employed in loving God, we fulfill the divine requirement just the same as those who have the larger capacities. A thimble may be as full as a bucket. To love God with more than all our heart—beyond our power or capacity—would be impossible, and to love Him less than to the full measure of our power to love, would be short of His requirement. “He that does as well as he can, does well: angels can do no better, and God requires no more.”</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
         },
         {
           "type": "poem",

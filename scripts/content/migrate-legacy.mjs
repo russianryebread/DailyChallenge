@@ -58,6 +58,14 @@ const BLOCK_TAGS = new Set([
   'li',
   'hr',
 ]);
+const WRAPPED_VERSE_LINES_230 = [
+  'And setteth on fire the course of',
+  'It is an unruly evil, full of deadly',
+  'Therewith bless we God, even the',
+  'And therewith curse we men, which',
+  'Out of the same mouth proceedeth',
+  'My brethren, these things ought not',
+];
 
 function parseArgs(argv) {
   const result = {
@@ -417,7 +425,42 @@ function extractLeadingAttribution(node) {
   return `—${stripTrailingPeriod(name)}`;
 }
 
-function toBlocks(fragment) {
+function isSourceCredit(text) {
+  return /^\(From New Testament Holiness\b.*\bThomas Cook\..*\bEpworth Press\.?\)\.?$/u.test(text) ||
+    /^\(?Din New Testament Holiness\b.*\bThomas Cook\..*\bEpwor(?:t)?h Press\.?\)?\.?$/u.test(text) ||
+    /^Poem publicat de Evangelical Christian\b/u.test(text);
+}
+
+// One English source note is appended to the last prose paragraph instead of
+// occupying its own paragraph. Move only that terminal note into a credit.
+function extractTrailingSourceCredit(node) {
+  const nodes = [];
+  let raw = '';
+  const visit = (current) => {
+    if (current.nodeName === '#text') {
+      nodes.push({ node: current, start: raw.length, end: raw.length + current.value.length });
+      raw += current.value;
+    } else for (const child of current.childNodes ?? []) visit(child);
+  };
+  visit(node);
+  const start = raw.lastIndexOf(' (From New Testament Holiness');
+  if (start < 0 || !isSourceCredit(raw.slice(start + 1).trim())) return null;
+  for (const item of nodes) {
+    if (item.start >= start) item.node.value = '';
+    else if (item.end > start) item.node.value = item.node.value.slice(0, start - item.start);
+  }
+  const prune = (current) => {
+    current.childNodes = (current.childNodes ?? []).filter((child) => {
+      if (child.nodeName === '#text') return child.value.length > 0;
+      prune(child);
+      return child.childNodes.length > 0;
+    });
+  };
+  prune(node);
+  return raw.slice(start + 1).trim();
+}
+
+function toBlocks(fragment, locale, readingId) {
   const blocks = [];
   let poemLines = [];
 
@@ -472,6 +515,8 @@ function toBlocks(fragment) {
 
     if (isScriptureParagraph(node, text)) {
       blocks.push({ type: 'scripture', ...scriptureParts(text), sourceText: text });
+    } else if (tagName === 'p' && isSourceCredit(text)) {
+      blocks.push({ type: 'attribution', text });
     } else if (
       (!hadLeadingCredit && tagName === 'p' &&
         classNames.some((name) => ['author', 'c4', 'c8', 'c10'].includes(name))) ||
@@ -481,10 +526,19 @@ function toBlocks(fragment) {
       blocks.push({ type: 'attribution', text: stripTrailingPeriod(text) });
     } else if (tagName === 'p') {
       const attribution = extractTrailingAttribution(node);
-      blocks.push({ type: 'prose', html: serializeNode(node), text: plainText(node) });
+      const sourceCredit = extractTrailingSourceCredit(node);
+      let html = serializeNode(node);
+      let proseText = plainText(node);
+      if (locale === 'en' && readingId === 230 &&
+        WRAPPED_VERSE_LINES_230.some((line) => proseText.startsWith(line))) {
+        html = html.replace(/\n\s+/gu, ' ');
+        proseText = proseText.replace(/\n(?=\p{L})/gu, ' ');
+      }
+      blocks.push({ type: 'prose', html, text: proseText });
       if (attribution) {
         blocks.push({ type: 'attribution', text: attribution });
       }
+      if (sourceCredit) blocks.push({ type: 'attribution', text: sourceCredit });
     } else if (tagName === 'blockquote') {
       blocks.push({ type: 'quotation', html: serializeNode(node), text });
     } else if (tagName === 'ul' || tagName === 'ol') {
@@ -532,6 +586,12 @@ function toBlocks(fragment) {
   for (let index = 0; index < blocks.length; index += 1) {
     const block = blocks[index];
     const next = blocks[index + 1];
+    if (block.type === 'attribution' && next?.type === 'attribution' &&
+      /^\(Evangelical Christian\)$/u.test(next.text)) {
+      joined.push({ type: 'attribution', text: `${block.text} ${next.text}` });
+      index += 1;
+      continue;
+    }
     if (
       block.type === 'scripture' && !block.reference &&
       next?.type === 'prose' &&
@@ -638,7 +698,7 @@ function convertRow(sourceRow, database, locale, correctionManifest) {
 
   const translation = {
     title: normalizedTitle,
-    blocks: toBlocks(sanitized.fragment),
+    blocks: toBlocks(sanitized.fragment, locale, row.id),
     plainText: readingPlainText,
     searchAliases: row.tags?.split(/\s+/).filter(Boolean) ?? [],
     source: {

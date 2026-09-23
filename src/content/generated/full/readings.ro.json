@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "ro",
   "readings": [
     {
@@ -100,7 +100,7 @@
         "correctionKeys": [],
         "transformedChecksum": "19bfc21f5378abec7bb33b38278c3d4368976ae81d39279a4f6fa96386d9e1fa"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 2,
@@ -206,7 +206,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3c35890cc07c4dc3d1b8f2f52a2ca00b0966454085d1bd41c3503d75925fc6de"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 3,
@@ -286,7 +286,7 @@
         "correctionKeys": [],
         "transformedChecksum": "22601cfa778d930e0123c2de4aa0d4d80dd7c280287be8e1558dc1bae5b569b3"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 4,
@@ -388,7 +388,7 @@
         "correctionKeys": [],
         "transformedChecksum": "39bd79c410e6ed5b70a458a68f5157d0df7c5261291b00ca4458d1493c898dbe"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 5,
@@ -474,7 +474,7 @@
         "correctionKeys": [],
         "transformedChecksum": "fc7a3f838f40b8d3d7e7e2f7638913ac99988f63f9c32158cfa5364160dd777e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 6,
@@ -526,7 +526,7 @@
         "correctionKeys": [],
         "transformedChecksum": "7d6633b45cb33991f8c8c5b288a93f594cc4f841b5ae693711e7ba0a61de519c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 7,
@@ -617,7 +617,7 @@
         "correctionKeys": [],
         "transformedChecksum": "df6bce29c65517db02c74a2744682c10bd8423a1e15882baa815df20988d9092"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 8,
@@ -678,7 +678,7 @@
         "correctionKeys": [],
         "transformedChecksum": "5ceec364bdc229049ef4c1e6881a5301f1367585df4daecbc4309166a36be006"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 9,
@@ -744,7 +744,7 @@
         "correctionKeys": [],
         "transformedChecksum": "1e5f4439d1d32d0ae8a6287966a6bf1526b6af31c1dbcf29434a3ee69ba0d6b2"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 10,
@@ -779,8 +779,7 @@
           "text": "„Cum se poate”, m-a întrebat cu puţin timp în urmă un pastor evlavios, „să întâlnim atât de rar creştini cu adevărat bucuroşi?” Un lucru este cert: nu mai găsim în bisericile noastre bucuria exuberantă şi triumfătoare a înaintaşilor noştri."
         },
         {
-          "type": "prose",
-          "html": "<p><i>(Din </i>New Testament Holiness <i>de Thomas Cook. Folosit cu permisiunea obţinută de la Epworth Press)</i></p>",
+          "type": "attribution",
           "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea obţinută de la Epworth Press)"
         },
         {
@@ -823,9 +822,9 @@
         "sourceDate": "2012-01-10",
         "rawChecksum": "99a624b520ee3367812a711258283fe1d06956759977d3c67d08796d12f476e4",
         "correctionKeys": [],
-        "transformedChecksum": "a9ace2ffcf7732ccedde903f6dbdaaeb77c85cbaf0bc1d61564644a7ce8897a1"
+        "transformedChecksum": "829371eaf9153f3438fbe6523fdadb746b2db837314cc2cef9f817d32bd19e58"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 11,
@@ -921,7 +920,7 @@
         "correctionKeys": [],
         "transformedChecksum": "afbb2e0fb2aee21fa236bbb3ceeac665579e4ff4ed2c92c4ec18fed229d0141e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 12,
@@ -1013,7 +1012,7 @@
         "correctionKeys": [],
         "transformedChecksum": "b2e1186de40e6a9f025203a073b19dd562e931f8013deb4931b1c489ef973488"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 13,
@@ -1107,7 +1106,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9877f8296769aeea8333fd0130ed9cd2477bfd6ea0b0b99e620db8bf19fddff3"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 14,
@@ -1183,7 +1182,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9a73a106f405e388dba53d50af9082517dff64f106bcb291cc1b65998833c79e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 15,
@@ -1277,7 +1276,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0b7c384642a7ef7a4ba2d6dd75aca998956843bab850c5b1ca449c5a6922440f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 16,
@@ -1364,7 +1363,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0644c89ee7608403df7655a8b218a3e274d83f3543c717f9cdac8c6f9ef4503f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 17,
@@ -1441,7 +1440,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d321cd245e01c8fb1b05f970e7cd4beebf9bfa140ac05f5c99fb51cb5223436b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 18,
@@ -1518,7 +1517,7 @@
         "correctionKeys": [],
         "transformedChecksum": "f5f18cdca8423f72874b2a24ccca644baaf94033e1d6fb12d210515d605139f2"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 19,
@@ -1626,7 +1625,7 @@
         "correctionKeys": [],
         "transformedChecksum": "63e76ad1127afd33ddb10a6b3a01f317fabd017de46f757dc09ce60db6a17c3a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 20,
@@ -1711,7 +1710,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9a56663190935051a87ce8bef830b47a3bdbcb4341ded0b60e9e684d1598eaa6"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 21,
@@ -1802,7 +1801,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9da7186d418e7633098496caf8b17c4160739166df99b8dbbae43b5259c91ba2"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 22,
@@ -1901,7 +1900,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3b15338fbb1d16d418df05fd1f262be9c6c17866b38db5e3633f368a66b85c60"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 23,
@@ -1990,7 +1989,7 @@
         "correctionKeys": [],
         "transformedChecksum": "f1f066e296fca8befb07e990e3ba8f43dfb8314c9f3cc11d1c9172699371486f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 24,
@@ -2065,7 +2064,7 @@
         "correctionKeys": [],
         "transformedChecksum": "130d7047684e8132ced41dcd8580441bc3422452f0c0c2e9203754e6e1a925cc"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 25,
@@ -2148,7 +2147,7 @@
         "correctionKeys": [],
         "transformedChecksum": "b60b573bebcb96275b5701674009013f2b6a548975ccd0503d61a9fdfa7aa67f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 26,
@@ -2244,7 +2243,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3102a2107bb0b53256bef11bfa19030bc1425b117347bbcf812903f9664f9b76"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 27,
@@ -2321,7 +2320,7 @@
         "correctionKeys": [],
         "transformedChecksum": "6ce3cb122ab98a0d949c7aa76ad010925b361488bc2f400fd5aa8154c171387a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 28,
@@ -2438,7 +2437,7 @@
         "correctionKeys": [],
         "transformedChecksum": "5e20e11d4c3980a36b501a47908c98830d5af2ae2163d78d103f8217f3b54991"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 29,
@@ -2527,7 +2526,7 @@
         "correctionKeys": [],
         "transformedChecksum": "a7598810bcd819373fad5385988983b532cfb8681852eb48431a98d1ba2274e9"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 30,
@@ -2608,7 +2607,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0d6a21a1066c8c0ece631b090f95d35f411bed9249a18bb44185896e08a65c1d"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 31,
@@ -2699,7 +2698,7 @@
         "correctionKeys": [],
         "transformedChecksum": "7b1719c14a69737c4a548ab32764ab85b113f244c6e106a696f710acfe229a3b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 32,
@@ -2775,7 +2774,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3b127d144e2b206cdd04938925521ece3cf27803fc69f634c1b63c0c78ac1663"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 33,
@@ -2849,7 +2848,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9a3f55c12f4ab0f0377ea171d290fc702514dcdbf187f863f1dd1f4beecf54c0"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 34,
@@ -2925,7 +2924,7 @@
         "correctionKeys": [],
         "transformedChecksum": "697147904fc0c8db01c72397104b36ec708c8db548244c5e55f57a50ba3258dd"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 35,
@@ -3011,7 +3010,7 @@
         "correctionKeys": [],
         "transformedChecksum": "93ac3fdf4352a9bc08d4117bbbd86d4187134b41dc557fbf46c2c61c97a8634e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 36,
@@ -3091,7 +3090,7 @@
         "correctionKeys": [],
         "transformedChecksum": "1866c15d57207660f5310734a96346927a13ae3edb735c4c0c9f8f990cde450c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 37,
@@ -3163,7 +3162,7 @@
         "correctionKeys": [],
         "transformedChecksum": "7e1f1db1371783f4bc5c497af7610594dee051b30e09cb3983c6bf6a09989c51"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 38,
@@ -3220,7 +3219,7 @@
         "correctionKeys": [],
         "transformedChecksum": "aaefa5a81d316798aa8a4f0a6e9b45743d1d08c97c94c39af20c6367749ecf76"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 39,
@@ -3286,7 +3285,7 @@
         "correctionKeys": [],
         "transformedChecksum": "bb86334d6476d13ca48824c827b113c0b795d4a843115b71432d66a045d638bd"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 40,
@@ -3362,7 +3361,7 @@
         "correctionKeys": [],
         "transformedChecksum": "2fe41934d9a65c56093ff09fdbad764dd6b0531ed5fd61d1a5b24c61473941e4"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 41,
@@ -3428,7 +3427,7 @@
         "correctionKeys": [],
         "transformedChecksum": "de7fe2a376170d242ebac7c6c856088905f249a7e94b71f3d60fa95be9c4f532"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 42,
@@ -3512,7 +3511,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8035d5cce8cc93601d4e8db151c214e65c19a427f14c8eefe9c8c5135a75c0e4"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 43,
@@ -3584,7 +3583,7 @@
         "correctionKeys": [],
         "transformedChecksum": "c9171cc37048c1f39765cb12f60075c099aa6ce3b3c6304e8e3b7eaa482e5abe"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 44,
@@ -3619,8 +3618,7 @@
           "text": "Inima şi viaţa unui om nu sunt tulburate de circumstanțe, ci de el însuşi. Cauza neliniştii noastre trebuie căutată în faptul că voința noastră nu este în armonie cu voia lui Dumnezeu."
         },
         {
-          "type": "prose",
-          "html": "<p><i>Din </i>New Testament Holiness <i>de Thomas Cook. Folosit cu permisiunea Epworth Press</i></p>",
+          "type": "attribution",
           "text": "Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press"
         },
         {
@@ -3654,9 +3652,9 @@
         "sourceDate": "2012-02-13",
         "rawChecksum": "c10ec1148106f35163f239978a4bd3e482581924f9f25911ba9d768d4adb82fc",
         "correctionKeys": [],
-        "transformedChecksum": "0bab96bcb115f1b4c675c1f3862d64b85de3192602522fb72151e93a750192e1"
+        "transformedChecksum": "384639cf0f70fc6ea379d9be46b5dc113f3d867666bda50dd1938358c07bce89"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 45,
@@ -3732,7 +3730,7 @@
         "correctionKeys": [],
         "transformedChecksum": "32befc0097d2ccbcbeebe40cad224c7fde9038fa44200853e668c18884f589a7"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 46,
@@ -3812,7 +3810,7 @@
         "correctionKeys": [],
         "transformedChecksum": "7cf2a8adf6259807028bee3423a5b015b04ff818bd76496ef89099186e3383bb"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 47,
@@ -3906,7 +3904,7 @@
         "correctionKeys": [],
         "transformedChecksum": "55e654876e035f36c26b2266dda3b3196cf486a70670625668e724cfe6c6f0d4"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 48,
@@ -3987,7 +3985,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8eb6920161192345cd3c59bdd9d69ec270adb7e3e7b0a8229cc55feb1d205c84"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 49,
@@ -4054,7 +4052,7 @@
         "correctionKeys": [],
         "transformedChecksum": "70622de285699a81fa979f9694d8784939536fb0e16d326f7b7dfe5a642b3032"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 50,
@@ -4148,7 +4146,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9042aa5546a43c765a26e05d636872b03c88c5d661f79b7028ac93d925c9c018"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 51,
@@ -4219,7 +4217,7 @@
         "correctionKeys": [],
         "transformedChecksum": "c8cbc67b38c174ad18f830d2750b4b9275adee08a6c82dcf5e3143f40589cf1d"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 52,
@@ -4295,7 +4293,7 @@
         "correctionKeys": [],
         "transformedChecksum": "7a670523781e870d1c583aee6d9bcc2081d4f9a35bd00d79f9f56cfa87693189"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 53,
@@ -4366,7 +4364,7 @@
         "correctionKeys": [],
         "transformedChecksum": "76b21f05d4ce8df8fc7106455f0bf6a6c106dc063d887c493b16147ca447798c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 54,
@@ -4429,8 +4427,7 @@
           "text": "Este posibil să avem atât de multe de făcut, încât să nu reuşim să facem nimic. Un muncitor nu ar rezista prea mult dacă nu s-ar opri din când în când să mănânce. Cosaşul trebuie să se oprească din când în când să-şi ascută coasa. La fel de necesar este ca predicatorii ocupați să aibă parte de câte o perioadă de linişte, în care să-şi reînnoiască puterea şi să se pregătească pentru a fi utili în continuare în slujirea lor."
         },
         {
-          "type": "prose",
-          "html": "<p><i>Din </i>New Testament Holiness <i>de Thomas Cook. Folosit cu permisiunea Epworth Press</i></p>",
+          "type": "attribution",
           "text": "Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press"
         },
         {
@@ -4451,9 +4448,9 @@
         "sourceDate": "2012-02-23",
         "rawChecksum": "13dd20869191414909847cd1303d94a6f4c926f78bfa2f07164f23620dea24e4",
         "correctionKeys": [],
-        "transformedChecksum": "4916c1788ae125b3060285b2f3df0ab1c1cdd1ff668f6f72f7b50c0a3ea751dd"
+        "transformedChecksum": "b6eacd6b8de1885ff84e2ae101f52daa3b98a25055345dfee13c13b1bf785bac"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 55,
@@ -4519,7 +4516,7 @@
         "correctionKeys": [],
         "transformedChecksum": "469f4abd70e92b2cc4335b442fd1d2484531ad36bc68d035c1791adaf6f0274b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 56,
@@ -4590,7 +4587,7 @@
         "correctionKeys": [],
         "transformedChecksum": "dcf397fd4685e1c4d6a4ad97a5560f0e4496800b36bda3bb28184d1e4a030f76"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 57,
@@ -4662,7 +4659,7 @@
         "correctionKeys": [],
         "transformedChecksum": "1330f5bc8b4434f36e86920d6415a284ed6636ad06a4026f8d6f6b0cd92b6d33"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 58,
@@ -4729,7 +4726,7 @@
         "correctionKeys": [],
         "transformedChecksum": "929870de20ce4fbab9a2b5c079a78dcce8d5f5c83ac140c2c24e621a0df27065"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 59,
@@ -4795,7 +4792,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8d49a05e491ecb4a2fa4c84c50dfb079345fea38516194bc24c4ec5118ab9d6e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 60,
@@ -4877,7 +4874,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0796a6c1f72d8c8487e6b11e6ae330e41758482d4f2af0f9f7df40c7577314d0"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 61,
@@ -4993,7 +4990,7 @@
         "correctionKeys": [],
         "transformedChecksum": "1e172e59a01e6a643c73a59f7239f7786b8eaed4399535cfcfd7333f1ecd6c3c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 62,
@@ -5094,7 +5091,7 @@
         "correctionKeys": [],
         "transformedChecksum": "c6ab58a2a2b7609c4f01a5d1c121119143d062f9bdfd9a5f4eaf84f4ad019f51"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 63,
@@ -5195,7 +5192,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3dbdc0affca98f742589485b526539d65dce83e3cfefaa664ea700381b14e335"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 64,
@@ -5266,7 +5263,7 @@
         "correctionKeys": [],
         "transformedChecksum": "107f48854f3d04d0fee754f075d9b394c5924b554b6b20d71c7c7d750bd90fd1"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 65,
@@ -5359,7 +5356,7 @@
         "correctionKeys": [],
         "transformedChecksum": "b59da5b4d97ba72d0d23b07b5a8943963cc132cae9b1da8fcdd2ed359db83121"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 66,
@@ -5430,7 +5427,7 @@
         "correctionKeys": [],
         "transformedChecksum": "dca1a5f1667917bbfb2638a3b9a08d8eacd7a285913595a27dbac64dbbe0fe8e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 67,
@@ -5504,7 +5501,7 @@
         "correctionKeys": [],
         "transformedChecksum": "4a4ca2b2c1b88e5e5df79fc48a3ded29ffe7e414c4801822c42498c3f2e24510"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 68,
@@ -5591,7 +5588,7 @@
         "correctionKeys": [],
         "transformedChecksum": "13d5b4104b4b45ae5c42344de1caea233f34e07003974922a3e993dd08ae63d9"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 69,
@@ -5667,7 +5664,7 @@
         "correctionKeys": [],
         "transformedChecksum": "bd205e5b1fa42b4dd67fa4be81f4b0c33b90b81cafa51dfffc0df19f8ba5a6b1"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 70,
@@ -5757,7 +5754,7 @@
         "correctionKeys": [],
         "transformedChecksum": "549819d595644b78fc11ccf7a72ad615bd5696676a595d9ae44c0e7716ee73d0"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 71,
@@ -5833,7 +5830,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9b939041df3741bb1f639cccb2cc4d1412882836af4084652fbe568d4ca2b268"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 72,
@@ -5909,7 +5906,7 @@
         "correctionKeys": [],
         "transformedChecksum": "66fbcdc940ea2419deb6abf85ce3bc73e16f3fb3e3fd137343c8c27e5d6be659"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 73,
@@ -5989,7 +5986,7 @@
         "correctionKeys": [],
         "transformedChecksum": "c654eaedcbfd6ef4dbd07422ef906dd73e161835504c59e970b96702cdaa4fbd"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 74,
@@ -6109,7 +6106,7 @@
         "correctionKeys": [],
         "transformedChecksum": "bb7506f0a656dd923cc60a40d4aefd47f5d94f63c5e642c07da905432324c2af"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 75,
@@ -6166,7 +6163,7 @@
         "correctionKeys": [],
         "transformedChecksum": "30081dddd68d92e4b88c3702f28012aade0c8bc15b00c0011eb0867992e9d48f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 76,
@@ -6251,7 +6248,7 @@
         "correctionKeys": [],
         "transformedChecksum": "db8e838dca84f4373234e60a36576b6925e39ddb689c6579a219bcf7ad460050"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 77,
@@ -6336,7 +6333,7 @@
         "correctionKeys": [],
         "transformedChecksum": "20956c6329cbf0c6b683e92932b8283bdd7d937dffdd1beaa46552cabe789809"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 78,
@@ -6398,7 +6395,7 @@
         "correctionKeys": [],
         "transformedChecksum": "467487a467403f87795160f0e603cffb4e6502e493665f5a35100096d1a41c7a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 79,
@@ -6428,8 +6425,7 @@
           "text": "Şi noi dăm lumină punându-ne viața la dispoziția Celui care ne-a iubit. Suntem consumați de râvna pentru Casa Lui doar atunci când ducem lumină şi mântuire celor pentru care El a murit."
         },
         {
-          "type": "prose",
-          "html": "<p><i>(Din </i>New Testament Holiness <i>de Thomas Cook. Folosit cu permisiunea Epworth Press).</i></p>",
+          "type": "attribution",
           "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press)."
         },
         {
@@ -6474,9 +6470,9 @@
         "sourceDate": "2012-03-19",
         "rawChecksum": "1c4496d7040488e7eedd63fffa5f7fbd469cd4ae2c6956e60f910b792b189654",
         "correctionKeys": [],
-        "transformedChecksum": "e9e0db8ea6f95802e2fcb245c76ce3f38bd13c90fbbfbc19460d354b8cd898d6"
+        "transformedChecksum": "e9c21d45c41ac95946508ae36761ed47e0a09700bc7ba2f3ae73593fc4948151"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 80,
@@ -6552,7 +6548,7 @@
         "correctionKeys": [],
         "transformedChecksum": "7995516e5e0f5eccc1d5a683b3112f547cd1d9f51b739fccd60a449cca0997fa"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 81,
@@ -6608,7 +6604,7 @@
         "correctionKeys": [],
         "transformedChecksum": "fd4e5f38317d8edd64d87b02af09774433dac7f90070388b539c9542d22adef5"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 82,
@@ -6687,7 +6683,7 @@
         "correctionKeys": [],
         "transformedChecksum": "f5836aacff100fbbd307b1adac575ef02bd98a5c8e4db037ce9e0e7252b1a056"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 83,
@@ -6790,7 +6786,7 @@
         "correctionKeys": [],
         "transformedChecksum": "1678befc2581ca3eb9e5b4aec2f766900315e36414b101a39abbe90ccf46da85"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 84,
@@ -6877,7 +6873,7 @@
         "correctionKeys": [],
         "transformedChecksum": "975910e77975ee2caa0b197e3b2e3e7bd830e81d36a084668ae7d0980ad69a79"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 85,
@@ -6952,7 +6948,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8ecd79891852ea8c4b25d1faad990edd92b0044a4fecb67f46661ae5c7bcb7f6"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 86,
@@ -7054,7 +7050,7 @@
         "correctionKeys": [],
         "transformedChecksum": "4a9988b6b39b284900707108361ee5c4aa2d51bd497a159b7fbf97df1251950a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 87,
@@ -7131,7 +7127,7 @@
         "correctionKeys": [],
         "transformedChecksum": "f342be1bdd599394ea53e0b11b0c59896eac146ae40d5d34190258c3714e7805"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 88,
@@ -7222,7 +7218,7 @@
         "correctionKeys": [],
         "transformedChecksum": "27386616ef1da3976b67642668da4a8fc7fa63f65cc69e4d754da141859f89ca"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 89,
@@ -7303,7 +7299,7 @@
         "correctionKeys": [],
         "transformedChecksum": "938887e60cebf0d85be683e2339f8fefaeaffa2f43eb41351e59ebbabeb61031"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 90,
@@ -7395,7 +7391,7 @@
         "correctionKeys": [],
         "transformedChecksum": "44c6894c8d0776043127d8c5129f7aa9d013b98fd9bde90ecd71aa03f0a9c83e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 91,
@@ -7466,7 +7462,7 @@
         "correctionKeys": [],
         "transformedChecksum": "fa1be3c84354c775a3ce2723247276de42ab515947efc75ca5bae7493e133b79"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 92,
@@ -7552,7 +7548,7 @@
         "correctionKeys": [],
         "transformedChecksum": "5a09f82b903f1d8a15714764cc863b0dcfdabda28770c534ce9abb01d0ceea45"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 93,
@@ -7636,7 +7632,7 @@
         "correctionKeys": [],
         "transformedChecksum": "cae994414f1bfaac8d71d862c03502b49656bcf121c82189509edead371e634e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 94,
@@ -7721,7 +7717,7 @@
         "correctionKeys": [],
         "transformedChecksum": "4a1235ee3fa913cfe401cc42e96266ed938614ee2f112a01fe6ea20f581f0eb6"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 95,
@@ -7766,8 +7762,7 @@
           "text": "Sfatul Dr. Kitto este: „Nu te gândi la o viață de sfințenie, ci la o clipă de sfințenie care zboară. Cea dintâi ne copleşeşte prin imensitate, cea din urmă ne împrospătează forţele şi ne înviorează sufletul prin delicatețea sa şi prin impulsul actual; dar o succesiune de clipe de sfințenie formează o viață de sfințenie.”"
         },
         {
-          "type": "prose",
-          "html": "<p><i>(Din </i>New Testament Holiness <i>de Thomas Cook. Folosit cu permisiunea Epworth Press.)</i></p>",
+          "type": "attribution",
           "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         },
         {
@@ -7796,9 +7791,9 @@
         "sourceDate": "2012-04-04",
         "rawChecksum": "3a1c751f934c9424670c88b853381595428081cf710e91fadf6bccaca93fad16",
         "correctionKeys": [],
-        "transformedChecksum": "0c7b8690e928e80eff5415e0698a78dc8756595f9c32c01c97b6759718a7bd24"
+        "transformedChecksum": "daab26cf7f4128dc0b8b0b996393f10f3054f94e1851b1e31d907458e73534d2"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 96,
@@ -7899,7 +7894,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9aa060ab6254ada3100ccbcc966dc84f1f39bc377002c5f53d8c043eceec12a3"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 97,
@@ -7990,7 +7985,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9a91c1ffe4f1d37ff329a08f9951d36265b118fa68bbac2c4f9fc498673d795b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 98,
@@ -8100,7 +8095,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9615abccb5bdb7ee880575a326ab0ec374698e5c9146c122bc8d75935cfa059e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 99,
@@ -8166,7 +8161,7 @@
         "correctionKeys": [],
         "transformedChecksum": "e46c7e4a14d05198dfb6f34afde5d0829774c039885e0c69aa396e73345abc77"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 100,
@@ -8246,7 +8241,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ee8c86ed2960ad772156c3afabff2d4e651a8c1a8e9ce18e930f648ca20a1827"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 101,
@@ -8327,7 +8322,7 @@
         "correctionKeys": [],
         "transformedChecksum": "2a1418c11d0fe4ea22694ac23f19b392320a82c9a3724967b4f5e9b5a9db1fff"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 102,
@@ -8407,7 +8402,7 @@
         "correctionKeys": [],
         "transformedChecksum": "e784855d018945923aad2dab201b07cfd1cf4b38b92d64c1bd5bcf9355818f57"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 103,
@@ -8483,7 +8478,7 @@
         "correctionKeys": [],
         "transformedChecksum": "e82816b53ae2914734c54360e397ab976f958c97233dd3b81c3f19754bba4799"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 104,
@@ -8590,7 +8585,7 @@
         "correctionKeys": [],
         "transformedChecksum": "bb6e0ef825c5c0258f72189b3d927bfbfc606cb3328d84d4fdc3616fc87507c5"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 105,
@@ -8656,7 +8651,7 @@
         "correctionKeys": [],
         "transformedChecksum": "4fd95b7a7d2a05284187b537d9ee264b8939b8dbb87f21fd5d2ab4a261c26d4e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 106,
@@ -8726,7 +8721,7 @@
         "correctionKeys": [],
         "transformedChecksum": "32d176b46a77a1451b92ecab10072315a26c03ac4e10c57e6e371f17df6672c4"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 107,
@@ -8858,7 +8853,7 @@
         "correctionKeys": [],
         "transformedChecksum": "68df974fc0d61716ec1a9a0da4250af1dae880f6d5ec53d8efb29c7f399cda43"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 108,
@@ -8933,7 +8928,7 @@
         "correctionKeys": [],
         "transformedChecksum": "19488abf0a92462144c75398ea0cf3cd7edc523065e108077a4bf4f35e9f4ce6"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 109,
@@ -9046,7 +9041,7 @@
         "correctionKeys": [],
         "transformedChecksum": "90025a830e22f6085c2a7b54ab0248a18e84c94895dd1a59c1f2162fb6109bac"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 110,
@@ -9141,7 +9136,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ff3d43e462c2e2dd4cbedfaafbaa4dff93cd182617b59de713d3d8af9d55abdd"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 111,
@@ -9211,7 +9206,7 @@
         "correctionKeys": [],
         "transformedChecksum": "66139ad6400706713e2f7424aa00c94964deef51fb62bbc840e604addfabee23"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 112,
@@ -9269,7 +9264,7 @@
         "correctionKeys": [],
         "transformedChecksum": "438f698b3ad1b1a2088df7630d10b1a194567ddf9ff90f3a2d66d9abcc176eb0"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 113,
@@ -9375,7 +9370,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8d17def4545ab42a878974bd199ea0fc3f3c5cb0c8acaf8c55563a4c45617cc7"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 114,
@@ -9445,7 +9440,7 @@
         "correctionKeys": [],
         "transformedChecksum": "472ccaf60cdb643f0bde030748ca66ffb19e7ff6c86a490aee671a6d11aaf0f8"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 115,
@@ -9507,7 +9502,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9586b5d026a2c7fd1c09e7cbfec0ed16827c6f8fe43e00d6bafb4855259e2afb"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 116,
@@ -9592,7 +9587,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ea377989562557d17b4544f286538fccaf28ee64b9eed3c4c39a1d83ca34f9ff"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 117,
@@ -9649,7 +9644,7 @@
         "correctionKeys": [],
         "transformedChecksum": "22efe75b3d0185bfe1f06d7941d1a3d913452054c0fb6417c9bae7380f8245c6"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 118,
@@ -9725,7 +9720,7 @@
         "correctionKeys": [],
         "transformedChecksum": "595841d447c537241fe15750852791110f68ecca1bbcd04d127ac3e58c4da064"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 119,
@@ -9812,7 +9807,7 @@
         "correctionKeys": [],
         "transformedChecksum": "fc9641258ed6d985acba54bfb23f7c2b4befb0b46c6860a42bf8a94cca06dae0"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 120,
@@ -9878,7 +9873,7 @@
         "correctionKeys": [],
         "transformedChecksum": "52582a9de8fa2acb2bd0da5e4402d672d23d1e58edf7560e6c3bc4f2f2470800"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 121,
@@ -9969,7 +9964,7 @@
         "correctionKeys": [],
         "transformedChecksum": "60f07009409808875b00cdf627af744d15295b65f325f7a47521bf86ec3f408c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 122,
@@ -10048,7 +10043,7 @@
         "correctionKeys": [],
         "transformedChecksum": "746ee4fa364b0b14ad59b3062c93f8e889cad009854f48b49b5c1c687357322e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 123,
@@ -10110,7 +10105,7 @@
         "correctionKeys": [],
         "transformedChecksum": "68770a0b329bb120bee005427c671a4fad9b58ce75b20cf3410a2ca5acc6abb9"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 124,
@@ -10181,7 +10176,7 @@
         "correctionKeys": [],
         "transformedChecksum": "784283fd7d1752118d268aaad36ce36bb83ef8c4e7c6b814f6e7c058c52aab3d"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 125,
@@ -10251,7 +10246,7 @@
         "correctionKeys": [],
         "transformedChecksum": "e72461521fbd852bec078b41102b0b51577068880d357521bcb1b8095ae12674"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 126,
@@ -10333,7 +10328,7 @@
         "correctionKeys": [],
         "transformedChecksum": "6a66545af8a997fe043c918b7c9c389f3e82131b538116a74d8b1056cfbdfa3c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 127,
@@ -10424,7 +10419,7 @@
         "correctionKeys": [],
         "transformedChecksum": "06897991b377a509a813b9ec75a2856f8ddee5015c1f9ddedb029a84fbc2049e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 128,
@@ -10533,7 +10528,7 @@
         "correctionKeys": [],
         "transformedChecksum": "7bb1d525055ba20dcc28e5d2aab5e36dc93c546c4249b79341e414a3d71ff291"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 129,
@@ -10634,7 +10629,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d2272695a1218995be1c2dfa238d9ce69e5e9028006e101e3881ab2596ee2f25"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 130,
@@ -10713,7 +10708,7 @@
         "correctionKeys": [],
         "transformedChecksum": "98ce1c4c366d8aa44b629f10ca58d4850257598464c0747b830f5427388ce405"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 131,
@@ -10804,7 +10799,7 @@
         "correctionKeys": [],
         "transformedChecksum": "31081c45fa2217e24d06891c7acb66cecf2781df0c34b53ad5d15a1f7ee46645"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 132,
@@ -10905,7 +10900,7 @@
         "correctionKeys": [],
         "transformedChecksum": "4586fbece5a2a5e54201cb9d3ae2af23fc33e3fe300fec2963f9403de6a3139f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 133,
@@ -11045,7 +11040,7 @@
         "correctionKeys": [],
         "transformedChecksum": "2725166db4b9f4914f3b0d1c9fa6e9035d80e934b9d6aeb8f5a7f4ba9e8d3a19"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 134,
@@ -11177,7 +11172,7 @@
         "correctionKeys": [],
         "transformedChecksum": "2224778d0035ef7f2b8e7c6135c8a3fa190b37aa2a20eb5789cc5df82d6b0fcf"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 135,
@@ -11262,7 +11257,7 @@
         "correctionKeys": [],
         "transformedChecksum": "546eeab5322854c32f537e963450909ad8255e7cf067068801120fc76f7fffa9"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 136,
@@ -11324,7 +11319,7 @@
         "correctionKeys": [],
         "transformedChecksum": "897c9923ab2fcbb1f8883f15d99c954e3d7673d8a00b42e5f92e8cc6a22e16a0"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 137,
@@ -11390,7 +11385,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0db8ca5d29448bbb0f70bd543a5e504e46b2d6af80daae09170fe3fa7bf74b87"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 138,
@@ -11469,7 +11464,7 @@
         "correctionKeys": [],
         "transformedChecksum": "86edf58b1bbb8e28042182b7e36bcbdcb891ee24b0e8ec04c629be65a17affea"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 139,
@@ -11564,7 +11559,7 @@
         "correctionKeys": [],
         "transformedChecksum": "05783a051a73d31f2998ca229c73314949a6981fca1c46a13e20e48d1a0c610a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 140,
@@ -11658,7 +11653,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3dbb903d1da7b6ff1c525b16599a194a879798211745c4f9fd68e94d9f6c258d"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 141,
@@ -11734,7 +11729,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0247ba26541160dacdd821ec6f346fbc53e8cf43ed9f77d3881e4b445cbd0c9b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 142,
@@ -11800,7 +11795,7 @@
         "correctionKeys": [],
         "transformedChecksum": "344247afd26319c656b7059242a195c066a64980bb9bfad143c1b1b70fb2f8af"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 143,
@@ -11867,7 +11862,7 @@
         "correctionKeys": [],
         "transformedChecksum": "a86fec1f7caf3df0e954de12f7df9613b44322a47e8d21a073de368693c7ca99"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 144,
@@ -11929,7 +11924,7 @@
         "correctionKeys": [],
         "transformedChecksum": "09f92ddea86fd6379b90d2c33291e55a16017cfd631e5be908bb33f3f6bab237"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 145,
@@ -12015,7 +12010,7 @@
         "correctionKeys": [],
         "transformedChecksum": "47145b48a3d97549a480d6eedfb26362e237635c4158202c344db46bc41e9fb7"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 146,
@@ -12110,7 +12105,7 @@
         "correctionKeys": [],
         "transformedChecksum": "158a9d118b5ced1d95e46d9527d687eb87e326fb645ea2a219aa2e739b91f83d"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 147,
@@ -12211,7 +12206,7 @@
         "correctionKeys": [],
         "transformedChecksum": "1a666c05baf9e710fd2972e47fb3861ae2cff810d76529710c3c767f6035e61b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 148,
@@ -12298,7 +12293,7 @@
         "correctionKeys": [],
         "transformedChecksum": "010450324dc9c9b8e60d3dfcb29bfab6a9a2524cfdc3f08d244f8047cf264526"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 149,
@@ -12348,8 +12343,7 @@
           "text": "Pierzând-o, ce-am primit în loc? Mi-i liberă fiinţa!”"
         },
         {
-          "type": "prose",
-          "html": "<p><i>(Din </i>New Testament Holiness <i>de Thomas Cook. Folosit cu permisiunea Epworth Press.)</i></p>",
+          "type": "attribution",
           "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         },
         {
@@ -12378,9 +12372,9 @@
         "sourceDate": "2012-05-28",
         "rawChecksum": "9985fd4fe09c261a5e55c9bb633feef927a07bf7dd8c6b14e5053659dcbb2591",
         "correctionKeys": [],
-        "transformedChecksum": "d9284719131c5d059fe2f186b1d43bbdf9af46307b792cd4a21bf12e6d06a3fe"
+        "transformedChecksum": "b6443763689a2e09a7b87ed6986d91b98651d53b39c3f4e4922221b642f186ef"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 150,
@@ -12446,7 +12440,7 @@
         "correctionKeys": [],
         "transformedChecksum": "4b9388f65361e8460426a443b77fbaebc0a3a22b55f77aaeecabde8a91dc1ef5"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 151,
@@ -12560,7 +12554,7 @@
         "correctionKeys": [],
         "transformedChecksum": "62736e1f30e7c51b298c12e6e316ea552049df7aa0e11d877ad1c4733423dce4"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 152,
@@ -12640,7 +12634,7 @@
         "correctionKeys": [],
         "transformedChecksum": "f9c9269eba7c7f1e908e375940dd33a75ae85e1b4ee1b446b4b0e3bfbf8c992b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 153,
@@ -12720,7 +12714,7 @@
         "correctionKeys": [],
         "transformedChecksum": "5e881353b41cb589f7dff76ddb0482e4c1bafb3dcd4c92892f953412ad85b893"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 154,
@@ -12797,7 +12791,7 @@
         "correctionKeys": [],
         "transformedChecksum": "5d3338725547f2e17fae26ea2ee61559364f7afb3311496845f0eefb4f0b23da"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 155,
@@ -12889,7 +12883,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0855ffaf0a09320497eab23a30be05703e03c6228adf96d0ae4b0ee82c0e8374"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 156,
@@ -12959,7 +12953,7 @@
         "correctionKeys": [],
         "transformedChecksum": "6c4c9b5f4cc13028d06bd43268d3679abbbe72be12e58cfa70113f055854b0a8"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 157,
@@ -13035,7 +13029,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0e50cbc1938f9048efc64af774aa6c5a9c830c2d19997b5c2f1dc0046e36a134"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 158,
@@ -13096,7 +13090,7 @@
         "correctionKeys": [],
         "transformedChecksum": "c6c2e273b7cf270f7d93a789ef8c7ffceddb539e9e58f0187c81754a89061d2a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 159,
@@ -13154,7 +13148,7 @@
         "correctionKeys": [],
         "transformedChecksum": "1ef85d3164cb2db0dab0df74a7c14b1192b1f661c1916e3999965a18c2a9c117"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 160,
@@ -13225,7 +13219,7 @@
         "correctionKeys": [],
         "transformedChecksum": "426b8092a6c65655fe503c21af06ed744650ba80d030dc50b69a9264924de909"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 161,
@@ -13292,7 +13286,7 @@
         "correctionKeys": [],
         "transformedChecksum": "379a958c2d3afd9488111074ff74f05b95624369af4013e4f1002f4ef2273d40"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 162,
@@ -13373,7 +13367,7 @@
         "correctionKeys": [],
         "transformedChecksum": "68c5f9bf524677169d9b216f52554eb432c9c37676155dcec4ce7bd6ee5b9e1b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 163,
@@ -13454,7 +13448,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0940ec7ba6fe39b4be2a886c8dd76b09eda385a7f72c5384ac6bcd49a9247d8a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 164,
@@ -13535,7 +13529,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d06ba84baebc83fdbb25b4f09c1d5245417a143f934a509bbe976293cc6f8128"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 165,
@@ -13596,7 +13590,7 @@
         "correctionKeys": [],
         "transformedChecksum": "a1db435212a699a9b76d1c2cdd3072ebde729dde4a0720a05c7348b8688f04e5"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 166,
@@ -13682,7 +13676,7 @@
         "correctionKeys": [],
         "transformedChecksum": "92ab4b9978fe07d4f178e64aae5b88930b6ffa817df25767839d370f9a2bfb93"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 167,
@@ -13790,7 +13784,7 @@
         "correctionKeys": [],
         "transformedChecksum": "36a38230a161c4e108a431974d7d83c1663b251d195bb5b2e933a185e66dd6e8"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 168,
@@ -13880,7 +13874,7 @@
         "correctionKeys": [],
         "transformedChecksum": "e37f97b959a26d123d1dff670ab5190b4f2dba980f8514cd699a16ee031f483c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 169,
@@ -13947,7 +13941,7 @@
         "correctionKeys": [],
         "transformedChecksum": "aec8798d97ad10250ee2d5fa260e0b1e41965b579723ab9c43a6faefa9f675ee"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 170,
@@ -14018,7 +14012,7 @@
         "correctionKeys": [],
         "transformedChecksum": "483ea82d1f6656ff7a7e01c6baf55026a3d16e9dee68f1bb32545de68ca17c73"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 171,
@@ -14099,7 +14093,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3de2fe357cbcff005cf0d3cd3bd6287c703ffe7fc0d5118e173356bfb9060542"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 172,
@@ -14174,7 +14168,7 @@
         "correctionKeys": [],
         "transformedChecksum": "99315176466cb6b281a9c54812efe214a08d43fd4c043746f6c8b44619d0a217"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 173,
@@ -14245,7 +14239,7 @@
         "correctionKeys": [],
         "transformedChecksum": "429c75392405c8afc8f7aea90ac37717dbae676138aadc98fa172f7d49df0134"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 174,
@@ -14335,7 +14329,7 @@
         "correctionKeys": [],
         "transformedChecksum": "c0024246f88c1070d01329a12e4cf74d9243ec598735c87e477d78b4a49f4cef"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 175,
@@ -14392,7 +14386,7 @@
         "correctionKeys": [],
         "transformedChecksum": "424e6a0226c7469d736e3266cd9e4cc95dbe5eee454aaceaf2791b4edc7e4c19"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 176,
@@ -14468,7 +14462,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d2596263ebfa3cb898d7cf7575538a99caf9845e616221b125e63fc9580d123c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 177,
@@ -14521,7 +14515,7 @@
         "correctionKeys": [],
         "transformedChecksum": "849304815c155d27e82a055ea9d9cd5c70fee36f623ce279a2cac1736467706a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 178,
@@ -14593,7 +14587,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d62d2b2973729b0d1075972f5ce905637a1c3a807d1b92b51a7d923ff24b7f8f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 179,
@@ -14644,7 +14638,7 @@
         "correctionKeys": [],
         "transformedChecksum": "c82080ea1afe62512de1ea4f4c79e04422c016c5429a557bbf0a8d8f10aeac8a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 180,
@@ -14724,7 +14718,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9ab8f6dd729c2d727ae328d6687fb3ec1e4cb0ad58efb23778a5e94c1372674d"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 181,
@@ -14800,7 +14794,7 @@
         "correctionKeys": [],
         "transformedChecksum": "27f1da3e165587476406a74a43d25b20ec9b378b3f060b19bbe9489595082750"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 182,
@@ -14840,8 +14834,7 @@
           "text": "Dacă dragostea lui Cristos, cea mai sublimă dintre toate motivațiile, şi slava lui Cristos, cel mai sublim dintre toate scopurile, ar deveni principiul dominant în acțiunile noastre, care dintre noi ar putea să nu trăiască cu generozitate pentru oameni şi pentru Dumnezeu?"
         },
         {
-          "type": "prose",
-          "html": "<p><i>(Din </i>New Testament Holiness <i>de Thomas Cook. Folosit cu permisiunea Epworth Press.)</i></p>",
+          "type": "attribution",
           "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         },
         {
@@ -14880,9 +14873,9 @@
         "sourceDate": "2012-06-30",
         "rawChecksum": "f4fa6af540552471aa6bcea897f9628452523712768dcfb9a7ddf7731849f913",
         "correctionKeys": [],
-        "transformedChecksum": "1fde5c90d124e9ab1eb4834b6069170d7dccc6e2fe0732ddf51dbca080fbe3a5"
+        "transformedChecksum": "748e6ff0ef0ac7e0e16769b74508c573f35fcda2764d5689c709c3043c654eab"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 183,
@@ -14949,7 +14942,7 @@
         "correctionKeys": [],
         "transformedChecksum": "a2990da2c2268a516faa8ca75381ce17b78dc156388f269abd087bcf33987ea5"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 184,
@@ -14990,8 +14983,7 @@
           "text": "Ioan Gură de Aur interpretează în felul următor aceste cuvin- te: „pregătit pentru orice situație de urgență care ar spori slava lui Dumnezeu, pregătit chiar de moarte, dacă e nevoie, sau de orice altă mărturie, oricât de dureroasă."
         },
         {
-          "type": "prose",
-          "html": "<p>(Din New Testament Holiness, de Thomas Cook. Folosit cu permisiunea Epworth Press.)</p>",
+          "type": "attribution",
           "text": "(Din New Testament Holiness, de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         },
         {
@@ -15011,9 +15003,9 @@
         "sourceDate": "2012-07-02",
         "rawChecksum": "0a0d83aca8b1bcf2dbcd754d88ec291eaf4ea93fb514243491a2767b14fd474a",
         "correctionKeys": [],
-        "transformedChecksum": "9e0fb3004668318009be3f5533d2f2cd2d8d05c503fc0541ed43df53e02fb09e"
+        "transformedChecksum": "87754f2a53224b21fd917c2f28b131eae4f7d97e59518de568201c80fc9dedba"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 185,
@@ -15070,7 +15062,7 @@
         "correctionKeys": [],
         "transformedChecksum": "5cec37b2cd722cc89b31c967e877a1c1b4322a26f632063af49e214126ef6020"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 186,
@@ -15140,7 +15132,7 @@
         "correctionKeys": [],
         "transformedChecksum": "5b39c2652241af9118a94a3d4b994e9c8a419ade54c00991f9d21d0d15b0ae33"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 187,
@@ -15261,7 +15253,7 @@
         "correctionKeys": [],
         "transformedChecksum": "59a7e3bd1023907c40e80ba33c751770d6e8c25e7ed48d36d5d83353aab48e79"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 188,
@@ -15339,7 +15331,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ab11b2bdc2d55081846acd5f3aa3663ad16ff77ecdb5eb659c0b033d10c27f66"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 189,
@@ -15432,7 +15424,7 @@
         "correctionKeys": [],
         "transformedChecksum": "482adb1e6a8cc1e49754a44966ba38d968e1983ba3f8cfe7a5106d12f6a4d6e2"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 190,
@@ -15519,7 +15511,7 @@
         "correctionKeys": [],
         "transformedChecksum": "fcce6b4d160f1182d8c12d98e96b28e5dbed94d486347193126849a00b33ade2"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 191,
@@ -15589,7 +15581,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ad03166a5fe17364b53f775e8e43d71c07dd7f4511a230422bc8deba78c71257"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 192,
@@ -15658,7 +15650,7 @@
         "correctionKeys": [],
         "transformedChecksum": "2bc14c6c2870e4db9ab4c83b290207ec98ab4106758411ebcc3be06efbed201f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 193,
@@ -15717,7 +15709,7 @@
         "correctionKeys": [],
         "transformedChecksum": "092dee6437145eb6d581c016be5964a32de8d4dfdc91c202bcdcf55fdfb17e32"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 194,
@@ -15809,7 +15801,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3d43bd5dbc498a8fda4e570d7989d24e2b930815aeadf763a3a8a85c9825ca19"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 195,
@@ -15886,7 +15878,7 @@
         "correctionKeys": [],
         "transformedChecksum": "a907c0ccb5bbc49e561ac55bab43ae39993d9025f9649ddd4127365f1505d7f1"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 196,
@@ -15959,7 +15951,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ee6d7f28c908eac05180c685aea8da9dac9359538f385a4796b05ee59cc67dbd"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 197,
@@ -16031,7 +16023,7 @@
         "correctionKeys": [],
         "transformedChecksum": "885d2538f1af75b729823883fb11a829c0e42b7f86ee27f034d931d088e7e99b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 198,
@@ -16115,7 +16107,7 @@
         "correctionKeys": [],
         "transformedChecksum": "25a2e7d5caae37c3785890be4af2deac0a3c592a060a00caf564daaff814a1b7"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 199,
@@ -16216,7 +16208,7 @@
         "correctionKeys": [],
         "transformedChecksum": "32a982c0af41a53b60076ce08aebd45c035e13d1c6566c7f9fdf1851d513f110"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 200,
@@ -16312,7 +16304,7 @@
         "correctionKeys": [],
         "transformedChecksum": "342335796137d83153e70fe1c1f98accec65172145d8dc77dba0be8befa77e35"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 201,
@@ -16403,7 +16395,7 @@
         "correctionKeys": [],
         "transformedChecksum": "99f0ec3623fa48ccc6047288867966226aaef104fc31186f1c21701b5fe861e9"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 202,
@@ -16535,7 +16527,7 @@
         "correctionKeys": [],
         "transformedChecksum": "4ab3574902093c111d64545a1ad329f64956f60419a60f2996c0018af67661e5"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 203,
@@ -16621,7 +16613,7 @@
         "correctionKeys": [],
         "transformedChecksum": "6a82a0f7b01122d0e20c94a4bae3a38bbf8714e964edba31b414e93405fd8dd4"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 204,
@@ -16720,7 +16712,7 @@
         "correctionKeys": [],
         "transformedChecksum": "cc3f16068496d38fd37d8c6a2fd791e309ec9e225fcfad6f61ad152bcc342c8b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 205,
@@ -16786,7 +16778,7 @@
         "correctionKeys": [],
         "transformedChecksum": "c479ea66b5f3672f1a4196679b95e12b884ecb62931d5ca6a84a5fcb4ffe2b76"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 206,
@@ -16867,7 +16859,7 @@
         "correctionKeys": [],
         "transformedChecksum": "b137eeca7bcfbc2c279c1977b1a8f88e946ae0112c35d9d44a966cafdd593f0d"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 207,
@@ -17023,7 +17015,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0c85054a40d1c21596ac26cc3255d2b5a7fac9d3e6f727a7e915abf70bb75f07"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 208,
@@ -17084,7 +17076,7 @@
         "correctionKeys": [],
         "transformedChecksum": "f228c3c18f12bc3246dcb1bb2acf20e3909e144720e14e1867d9d329e1d4720f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 209,
@@ -17161,7 +17153,7 @@
         "correctionKeys": [],
         "transformedChecksum": "20538d53eb683cd9892977c507ce91dfb12db260e6b9e3342606e549194ebf35"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 210,
@@ -17252,7 +17244,7 @@
         "correctionKeys": [],
         "transformedChecksum": "972399fb1d57e16be4f276e4989cdcc2c16361903d5caaf63b552209ee1615d9"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 211,
@@ -17359,7 +17351,7 @@
         "correctionKeys": [],
         "transformedChecksum": "cb0fd9e8bb96e2e0ca905e1f727b0b50c9a219f75ff3dbd0ae0f4cfcff1caafc"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 212,
@@ -17431,7 +17423,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ed4ef76233f458e080e8027b9f1fd2ec0cec2d35d2bc663948911973e4a3e91b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 213,
@@ -17526,7 +17518,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d2b03921dde7632cb83ec7854d2194fbe45e33bec0516bfc2b1045b803224940"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 214,
@@ -17598,7 +17590,7 @@
         "correctionKeys": [],
         "transformedChecksum": "026143e7b393951e478a85016f6659ddc2412d66ed07c99cf316f9f83da22b88"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 215,
@@ -17671,7 +17663,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8e93b9a9463416968d796f55a48313122ae27f8ad967dcda1ff44ba44f23d2a8"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 216,
@@ -17726,8 +17718,7 @@
           "text": "Ce posibilități glorioase le sugerează textul din 2 Corinteni 3.18 acelor persoane pe care Dumnezeu le ascunde în taina pre- zenței Sale! Cine poate nutri gânduri meschine şi cine poate rosti vorbe grele în prezența lui Cristos? Simpla Lui prezență sugerează imediat care este reacția corectă – fie că este vorba despre contro- larea pasiunilor, despre domolirea mândriei sau despre depăşirea egoismului. În compania Lui cine ar putea să nu se ridice la poten- țialul său maxim, iar dacă această influență s-ar perpetua, ar mai fi oare ceva imposibil în viață?"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press)</p>",
+          "type": "attribution",
           "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press)"
         }
       ],
@@ -17742,9 +17733,9 @@
         "sourceDate": "2012-08-03",
         "rawChecksum": "29d059f296df9408738c8781146e65ee3575961e3af5174ca612b0f8d4571670",
         "correctionKeys": [],
-        "transformedChecksum": "54c0e24daaf98d7a471e2d029087a3771c67b3e5175ac40d43670872b79be594"
+        "transformedChecksum": "17e9826b95b5b2ad1c6aeb62dd658c6c89f6c6ee6f79ee89c1e01a983c5a9c8a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 217,
@@ -17870,7 +17861,7 @@
         "correctionKeys": [],
         "transformedChecksum": "f672bc049ffc602b85d36a6f5f08222a73ae7878f9ea6f1de255300d5f2bb0ed"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 218,
@@ -17945,7 +17936,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8189b1b7e950c397d51abf6a401bab2e191609babf8cf97642a6237a54131af9"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 219,
@@ -18018,8 +18009,7 @@
           "text": "Înainte ca Ghedeon să devină un izbăvitor, el trebuie să fie un vizionar ca Isaia: mai întâi viziunea, şi abia după aceea victoria."
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)</p>",
+          "type": "attribution",
           "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         }
       ],
@@ -18034,9 +18024,9 @@
         "sourceDate": "2012-08-06",
         "rawChecksum": "ecfacfe74ac80d32e77bafff079c3db2abfe93bca938dfe321b958e1c603bba6",
         "correctionKeys": [],
-        "transformedChecksum": "174896b185ca0b73b2ae83f02c5d8f5508ad45974f6dc8812118fb072650a7df"
+        "transformedChecksum": "489160d2df46f1d7c3005fa776a57634c66d29a8618e7fd8866ce0de7c2bd16a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 220,
@@ -18156,7 +18146,7 @@
         "correctionKeys": [],
         "transformedChecksum": "a5eb818676e17da5964aa3dd6d928d24edc9b9092344b6c74ac7e4500ef14c2d"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 221,
@@ -18235,7 +18225,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0728c40db1f7d65b64be09afe2e17e0d7734d9d7b1f1186a849145320ea1ee9c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 222,
@@ -18366,7 +18356,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d61252b692909f6b6daa2b7307b08e130e1b18c89da08a55757f3ae24b0beda2"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 223,
@@ -18419,7 +18409,7 @@
         "correctionKeys": [],
         "transformedChecksum": "68bfaba96f423c52823d07c7d94ac8b34b177d585008940ca05d603a58931aa9"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 224,
@@ -18489,7 +18479,7 @@
         "correctionKeys": [],
         "transformedChecksum": "173d0e9a5981697d58c7baf7ba85778a8e72729dd92ab761be11e2a9f0e19ee4"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 225,
@@ -18571,7 +18561,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0863d8005f7c8707f04935d50dc5d33ccd594d9f2530bc23c21ae29817481516"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 226,
@@ -18655,7 +18645,7 @@
         "correctionKeys": [],
         "transformedChecksum": "2c49f71a31af448222867d791b6fb3f5c2d1f6c4cb635fde11042e632dea5d9f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 227,
@@ -18746,7 +18736,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3f959c99d8d5106ccd8f0c75eb4ec857588c766d1c7045dcea66244ad1cbc0c1"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 228,
@@ -18827,7 +18817,7 @@
         "correctionKeys": [],
         "transformedChecksum": "b0384b9e65f3c2515c21bbac662b05b5b73fb329bed540922d37948002699208"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 229,
@@ -18915,7 +18905,7 @@
         "correctionKeys": [],
         "transformedChecksum": "16c32f530abb66b6e24cbed06323c31ae942efb168b104d64c4a7bcc73ca7ae7"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 230,
@@ -19028,7 +19018,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ff6b0b02f046eae8e93c84b7f5f3e728a14ebc8d3d26bed046f01a7633dade87"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 231,
@@ -19106,7 +19096,7 @@
         "correctionKeys": [],
         "transformedChecksum": "96aca923aa2c1534b52e2b12f04e7194c011fa48e6e5a072c6ce7801ce4872c5"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 232,
@@ -19189,7 +19179,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3c5d1c184aad6f15b0861bc79c205a073553df249ff56057aef5fa72600a4cff"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 233,
@@ -19265,7 +19255,7 @@
         "correctionKeys": [],
         "transformedChecksum": "25c41969fcc1208b62c5a228b8a7bd63c4c7b77bae781dd9075f5242d5086261"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 234,
@@ -19360,7 +19350,7 @@
         "correctionKeys": [],
         "transformedChecksum": "694c9e5351a6633f4b497a70f661d70f416a7afb368801de51c6d5060a8e9fd6"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 235,
@@ -19437,7 +19427,7 @@
         "correctionKeys": [],
         "transformedChecksum": "b5145b7daff1b8a7fafd437027b429c861f1ee26ede97d3f9da1848f847a9ea5"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 236,
@@ -19532,7 +19522,7 @@
         "correctionKeys": [],
         "transformedChecksum": "20a6454c42ae27ff34af82858a27244629ca2114ac612e9c42dd734a42848c96"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 237,
@@ -19599,7 +19589,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8aae9fe77d6064fd59b68528b52bac9dcb7d52f4b0552fe60cdf2a302f6c4e56"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 238,
@@ -19681,7 +19671,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d8a901cb07068bba180eba2d072c2adac914376d1515297ef81bb327a26fd8e8"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 239,
@@ -19771,7 +19761,7 @@
         "correctionKeys": [],
         "transformedChecksum": "976ec64d35b1c50613e40eba7a588668566d262548cee10e8ae6e940792c1ebc"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 240,
@@ -19834,7 +19824,7 @@
         "correctionKeys": [],
         "transformedChecksum": "968c762d576770b414097a778b8fc3e341cc7d43c112814fdc5d5ba577422aed"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 241,
@@ -19938,7 +19928,7 @@
         "correctionKeys": [],
         "transformedChecksum": "da6e8e64289158ecf8f38abc2d24396d39c383db73cc29e5e510e2ae902dd9b0"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 242,
@@ -20012,7 +20002,7 @@
         "correctionKeys": [],
         "transformedChecksum": "aa5eff669cdea97cf79e745dbf6edc70d75dd7f5d7daa834a1e3fa516f14269c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 243,
@@ -20086,7 +20076,7 @@
         "correctionKeys": [],
         "transformedChecksum": "90aad84da06a7b310be8a8f3da785c005cc1d1623db283ee5d410c4aaca9cd60"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 244,
@@ -20181,7 +20171,7 @@
         "correctionKeys": [],
         "transformedChecksum": "c9a9a9e616cf0b230dd2b086b1467f99b149b19061d69417e1891bb963b1ec34"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 245,
@@ -20238,7 +20228,7 @@
         "correctionKeys": [],
         "transformedChecksum": "db821633d03fc04fdf70618c9a49c7b9b4c3145cb20be3ad5708b3b86ad780a4"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 246,
@@ -20315,7 +20305,7 @@
         "correctionKeys": [],
         "transformedChecksum": "592afbcd147ddb1bd8fff6002bd23035605f8ed91e67df0d783a1776150a4e0c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 247,
@@ -20439,7 +20429,7 @@
         "correctionKeys": [],
         "transformedChecksum": "215f5812e5e2a41543935c79f1ced949c680841719ae0600bbf0fad76f660753"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 248,
@@ -20519,7 +20509,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0a946a40aa2bfd22acc5f9bf254c6fc3731ad8a4659aa65f2e7888d6c6ed67ac"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 249,
@@ -20621,7 +20611,7 @@
         "correctionKeys": [],
         "transformedChecksum": "27868bee5031f32065b65bc4bedd148a1c4979fa4678974c576eba8832ec7573"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 250,
@@ -20705,7 +20695,7 @@
         "correctionKeys": [],
         "transformedChecksum": "2c211f3eafbd13a88efb53df78d22f0edc6d51a08a3a14db265b4f44ed7596de"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 251,
@@ -20771,7 +20761,7 @@
         "correctionKeys": [],
         "transformedChecksum": "763d27e8aed509a8270158f2ecdd401dfcf4425ea80abab258c160c222250454"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 252,
@@ -20878,7 +20868,7 @@
         "correctionKeys": [],
         "transformedChecksum": "7a53942d3da702f75bcc017e82e23ade7db22fc2fb101b37b0270c581497567d"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 253,
@@ -20981,7 +20971,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0f207196943317391c29ed81d9a013ab193ce81d43f281d203dc61a1b0348fb2"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 254,
@@ -21071,7 +21061,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9a3aa92c251e17682e4da9114fd50041a23f78b8030a56161b946497253456da"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 255,
@@ -21166,7 +21156,7 @@
         "correctionKeys": [],
         "transformedChecksum": "985257eb65a721575ca3048f563a5245f4f719d2fc0047fa7ab73fbe87127bd4"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 256,
@@ -21257,7 +21247,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8e9dbdf18302aafc014bb9923a71d3450c1acd54fa31e5359bddd468c2f8b0b9"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 257,
@@ -21317,8 +21307,7 @@
           "text": "Este acea stare de calm profund al sufletului care se bazează numai pe Dumnezeu, în contrast cu neliniştea şi anxietatea care sunt produse de un spirit egocentric şi firesc. Domnul Isus spu- ne „vă dau pacea Mea“, pentru a face distincție între ceea ce oferă El şi realitatea găunoasă a ceea ce lumea numeşte pace. Pacea lu- mii este determinată de aspecte dinafara omului şi este la fel de schimbătoare ca circumstanțele exterioare, dar pacea lui Dumne- zeu nu se schimbă. Nu este instabilă şi trecătoare, ci este o realita- te statornică şi în continuă creştere. Bucuria extatică a creştinului este fluctuantă, asemenea valurilor mării, pe când pacea Domnu- lui curge fără întrerupere, ca apele unui râu alimentat de izvoare puternice şi bogate."
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">(Din New Testament Holiness, de Thomas Cook. Folosit cu permisiunea Epworth Press.)</p>",
+          "type": "attribution",
           "text": "(Din New Testament Holiness, de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         },
         {
@@ -21347,9 +21336,9 @@
         "sourceDate": "2012-09-13",
         "rawChecksum": "1b1b2209c70ebabdadc27763922023e8ca9431688e94c89757f66802e80bad3a",
         "correctionKeys": [],
-        "transformedChecksum": "4e21623bb7b6d7a96c11f7e716c8966088a5555146302b42af508cff195605db"
+        "transformedChecksum": "c7896529baec27b51462bc94f8bd7428087c83a977ad5bdadb95806d674664b6"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 258,
@@ -21432,7 +21421,7 @@
         "correctionKeys": [],
         "transformedChecksum": "17579c251b2cf2a189f36132398e46011bdda74038c68503e909181c7b8c793e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 259,
@@ -21499,7 +21488,7 @@
         "correctionKeys": [],
         "transformedChecksum": "79c54fdf30582d6890ddd751e5c530d4658c0fe56fcb134610348294f541f362"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 260,
@@ -21566,7 +21555,7 @@
         "correctionKeys": [],
         "transformedChecksum": "c995ade4de960f350795dce8fd02229a929505ed36d74bb4cdf4fe06719d51e8"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 261,
@@ -21633,7 +21622,7 @@
         "correctionKeys": [],
         "transformedChecksum": "2577eb7fa53d27bf55a305a1122ac91e99664f0f4e353c99684fa1d0c8779bea"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 262,
@@ -21715,7 +21704,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ac48821a51f7d4d25d174051a5a99ad07505f556f7da98fc600b0c875e6b04e1"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 263,
@@ -21813,7 +21802,7 @@
         "correctionKeys": [],
         "transformedChecksum": "6e7e155fcada1786476a9241b3dbd1bccf0c33b9d590d9b43b4389a9ff985c2a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 264,
@@ -21898,7 +21887,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8b7b3aa4db7f82360642ee70f3730417aed78169fb3af4902f2a33ab7f02ec33"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 265,
@@ -21983,7 +21972,7 @@
         "correctionKeys": [],
         "transformedChecksum": "934763715c9ad26da3267028f455c3ebc1a914086bab5a2da6850ed4c6215e3e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 266,
@@ -22073,7 +22062,7 @@
         "correctionKeys": [],
         "transformedChecksum": "76e31c44daa82ee77f98245d2ca8bb0426d83ca448a0b93edb42b16448fe1588"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 267,
@@ -22149,7 +22138,7 @@
         "correctionKeys": [],
         "transformedChecksum": "cebe2fab0e212d5ca7bd4f0a33a7f53876e7f3684a3cf5aa1a1106af750c3233"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 268,
@@ -22235,7 +22224,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ef3d37ae3846a5c14aa6b2d35fb4e4eb29a154860c52720edc28b930f64553e6"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 269,
@@ -22327,7 +22316,7 @@
         "correctionKeys": [],
         "transformedChecksum": "4e941f0c4b82b21dd7e8ba5d9d7f7138d360849b78380a9394147fa9a2d74109"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 270,
@@ -22389,7 +22378,7 @@
         "correctionKeys": [],
         "transformedChecksum": "37ec5128281aa70028cc1ca1a9430a2525357c559484b2d968b5a17790f0a750"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 271,
@@ -22467,7 +22456,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d7b7c81b35452014f9438165774c21fa891939091763976bdbd5921c6d9f04d9"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 272,
@@ -22524,7 +22513,7 @@
         "correctionKeys": [],
         "transformedChecksum": "217204f66807dd06faa570f058fdced71f6edbe5d4bd1ee1bd9fa343d90fa9f6"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 273,
@@ -22609,7 +22598,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d5fcdd189f36695d76eb955a54bfb962bca028d3c7671e60ca8a3c1b9ccb8c7e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 274,
@@ -22687,7 +22676,7 @@
         "correctionKeys": [],
         "transformedChecksum": "6b2e9574a1df83d9a73ede0893d03ac01976dca04b8eb194c3c8453e75e3ad4c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 275,
@@ -22759,7 +22748,7 @@
         "correctionKeys": [],
         "transformedChecksum": "6ff8cdafaddd71566dd935c2f2969cd15329934b619ae920c7c0128fbab7e41e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 276,
@@ -22860,7 +22849,7 @@
         "correctionKeys": [],
         "transformedChecksum": "b85ab4c0dd9d9ba247038e7f54dbf74c2fd1e8ba0a0a2006f6debdf57362626f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 277,
@@ -22937,7 +22926,7 @@
         "correctionKeys": [],
         "transformedChecksum": "28646ff9d447a90fd286fb2d46bde71d4ad8dd036be205eb7ab202d34f57d715"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 278,
@@ -22998,7 +22987,7 @@
         "correctionKeys": [],
         "transformedChecksum": "81d5c9fe00cdb64542358686a60e2dc2df3960a847a0a48fcbf8e1bdad73f2b6"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 279,
@@ -23112,7 +23101,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0c1942f3f475911c2cb34c305f409f56d89552e74ae474d6a02ad6de5184b6d0"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 280,
@@ -23222,7 +23211,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d3a231923118fc2628cfbf2215c3805b436ba5e30ef0d59b3ee3dd5da214a9a5"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 281,
@@ -23289,7 +23278,7 @@
         "correctionKeys": [],
         "transformedChecksum": "6c10c0572684712dde8709a61681cedad4ad71bc67c550cb3b2fc3d60e37cb94"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 282,
@@ -23379,7 +23368,7 @@
         "correctionKeys": [],
         "transformedChecksum": "bd79d0deb067f7872fb6b4bd1962794b378022fe54b11eb12e70bdf0043110a5"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 283,
@@ -23524,7 +23513,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8a7373dda3422b93fd74936416c6dbf43e1f2e9bd2646a6b6d4608132a50b3b3"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 284,
@@ -23560,8 +23549,7 @@
           "text": "Un creştin plin de Duhul Sfânt poartă în inimă o fântână ar- teziană de bucurie; poartă în piept un izvor miraculos care îi um- ple, îi inundă şi îi copleşeşte sufletul cu o bucurie negrăită pe tot parcursul anului. Fântânile obişnuite, superficiale, seacă repede, pe când izvoarele arteziene au apă din belşug chiar şi în vre- muri de secetă."
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworh Press.)</p>",
+          "type": "attribution",
           "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworh Press.)"
         },
         {
@@ -23607,9 +23595,9 @@
         "sourceDate": "2012-10-10",
         "rawChecksum": "01b7a59dbfbe6ef79d1d18581da76836f1d126a429e3cc3e470fb982ce550a69",
         "correctionKeys": [],
-        "transformedChecksum": "9fd335a64b24ccfa91521a8ee717b03e749b1c4409d0b90b9af42bef60709946"
+        "transformedChecksum": "ac6ccaa3a8c960fce9d9127e49b8607242487839617ef09ea1a36d61713ad31a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 285,
@@ -23685,7 +23673,7 @@
         "correctionKeys": [],
         "transformedChecksum": "cb153971af3a8b7232dc8fd41bb2bc9a2c4377ce297bd5f194afa1e177220f9f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 286,
@@ -23784,7 +23772,7 @@
         "correctionKeys": [],
         "transformedChecksum": "449abd13eef815887f9efe64b3291ae15b6718d79e100f03c597b4eb1d4a9ece"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 287,
@@ -23863,7 +23851,7 @@
         "correctionKeys": [],
         "transformedChecksum": "c991dfd2e7a3319b7f65c05177b417367fb5643832184f4b2d14c05049fcd411"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 288,
@@ -23950,7 +23938,7 @@
         "correctionKeys": [],
         "transformedChecksum": "6ae50e3bab4f2c4664a22aaf2c3eec00c43977e8ef73c2c59583daec55cd632e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 289,
@@ -24025,7 +24013,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0f254cf6cce7632d24752782fd494419e18c4260960a81738a9e67399a18012b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 290,
@@ -24095,7 +24083,7 @@
         "correctionKeys": [],
         "transformedChecksum": "fc6ad121eeb0bd53328582df67b0dc17a14d4c4bd967a164f8e077528af06aee"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 291,
@@ -24159,7 +24147,7 @@
         "correctionKeys": [],
         "transformedChecksum": "f93ab3727b370f75fa6aad0f2451ab8bf0cb841ba7a99ef65b73cc04d4cc9d30"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 292,
@@ -24226,7 +24214,7 @@
         "correctionKeys": [],
         "transformedChecksum": "e28f7577a97f57818477442b43798ef1b74f50360d0529fe2eacda651a2cb73c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 293,
@@ -24303,7 +24291,7 @@
         "correctionKeys": [],
         "transformedChecksum": "1cec7dbdef3352bbf6982dece5d8c01d41322c7fb435c10034e40b36525c4633"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 294,
@@ -24385,7 +24373,7 @@
         "correctionKeys": [],
         "transformedChecksum": "19ff2926839729fa3cf90a07ac9ec5a9b75b9a0ede99ebfb4c185cdb5a22cc91"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 295,
@@ -24447,7 +24435,7 @@
         "correctionKeys": [],
         "transformedChecksum": "b913fe123a500f80e96b10ab1c5484886eba7046cc3af9c947b1a73cfa70f7d1"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 296,
@@ -24581,7 +24569,7 @@
         "correctionKeys": [],
         "transformedChecksum": "fcd5baede62497856dfd8b66ff6b153e2a1a81e4d5ccf631c807e7d4bf7bf8f6"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 297,
@@ -24644,7 +24632,7 @@
         "correctionKeys": [],
         "transformedChecksum": "219428308561ae623e85894cfdeb6c81abac5808a6b92bc8abd22832c61724ee"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 298,
@@ -24720,7 +24708,7 @@
         "correctionKeys": [],
         "transformedChecksum": "5a9bdf32cff7e0bf47c34044d52d2858f8448f63b4a7d58e889d4987eb520480"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 299,
@@ -24802,7 +24790,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d80fde7db45fea11b92e7b418ce7a6985e03690226846a666a69aa6e89c0252a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 300,
@@ -24871,7 +24859,7 @@
         "correctionKeys": [],
         "transformedChecksum": "80466b2bd7c291ef98125de39a149358541b0aaf45cefcaeb4e7d327fdf793af"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 301,
@@ -24958,7 +24946,7 @@
         "correctionKeys": [],
         "transformedChecksum": "4d90e32704c3c547aa59ba553a0207ec41af275564c370bbdf60041141fc458f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 302,
@@ -25058,7 +25046,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d25d4f2e92246a5bcad84bcea8f83268fa09d48fc53c288b9b440be6d2e21616"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 303,
@@ -25167,7 +25155,7 @@
         "correctionKeys": [],
         "transformedChecksum": "c515be5c4e03b623d825b4639bd5b757c828e2692c6156faa71fc75cb95bc236"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 304,
@@ -25251,7 +25239,7 @@
         "correctionKeys": [],
         "transformedChecksum": "40e176dd5f999b1145c4afd8382fd9fedfc3b58e4ff3dbcfe5bb57e98da099da"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 305,
@@ -25324,8 +25312,7 @@
           "text": "Purtarea Lui cu mine nu Și-o schimbă, Pe-o cale nouă zilnic mă va duce;\n\nDe foc şi apă, de vicleana limbă,\n\nMă va păzi, făcându-mi viața dulce. Dar eu mă las de brațul Său condus, S-ajung în Cerul unde El S-a dus..."
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">Poem publicat de Evangelical Christian (Creştinul evanghelic)</p>",
+          "type": "attribution",
           "text": "Poem publicat de Evangelical Christian (Creştinul evanghelic)"
         }
       ],
@@ -25340,9 +25327,9 @@
         "sourceDate": "2012-10-31",
         "rawChecksum": "51148b272a23b843f6c4299a088ba6a9f9fb2a7c6f2c1178309a5a964247f16d",
         "correctionKeys": [],
-        "transformedChecksum": "379d5a930edc96d3a3159174f1d901fb2c84aa60692c31162fb4e2b11735cc48"
+        "transformedChecksum": "61008dcb335263113a9527ed14731eac2a1a72fd8a6d3616c3b2da027c265153"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 306,
@@ -25408,7 +25395,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9870156fb4073c7e368254bb97d0ecf7a566c5c975b5139a56345c0990e9d058"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 307,
@@ -25498,7 +25485,7 @@
         "correctionKeys": [],
         "transformedChecksum": "c491f6f8bbd2c54bb3f6567645dc43f2cb0d6ba74694743d940f1547c421a73a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 308,
@@ -25586,7 +25573,7 @@
         "correctionKeys": [],
         "transformedChecksum": "f49b9e8989a7f5e6d20fe86cee399f5d96b6c157bf3f853e2b7c9cf68b9a8daa"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 309,
@@ -25666,7 +25653,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d85e1e17b33c17ba780d0ce2d8f4d02c4944e6b4a40a8721ebe3c3f35d5b7001"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 310,
@@ -25757,7 +25744,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ec2b1502d5601cd64c0eadcc4125ed2acfbb19d5f3a51922e1f002f8a67676ba"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 311,
@@ -25822,7 +25809,7 @@
         "correctionKeys": [],
         "transformedChecksum": "a02fb0902cb039a91452ae6ce7cbd46d410f422809ed2d1ee4cc57cda6f0b91d"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 312,
@@ -25890,7 +25877,7 @@
         "correctionKeys": [],
         "transformedChecksum": "78cf34ff0ac52bf05aad07c11cff779d7ab4aa64074a27457825a6616dc462f1"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 313,
@@ -25940,8 +25927,7 @@
           "text": "Credincioşii plini de Duhul Sfânt lasă în urma lor, pe oriun- de au trecut, viață, satisfacție şi bucurie. Prezența lor este una dă- tătoare de viață, roditoare, înviorătoare, asemenea unui râu care aduce binecuvântare pe unde curge. „Orice făptură vie, care se mişcă, va trăi pretutindeni pe unde va curge râul.“ Cel mai slab şi mai plăpând mădular al Trupului lui Cristos poate fi atât de plin de viață, în mod instinctual, încât să curgă din el viață din abun- dență, asemenea unui râu sfânt, spre binecuvântarea sufletelor ce- lor din jurul său."
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)</p>",
+          "type": "attribution",
           "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         }
       ],
@@ -25956,9 +25942,9 @@
         "sourceDate": "2012-11-08",
         "rawChecksum": "a73e0c2be177e9306406ef945616877beb105279f526caf8a6b785ef7aa32756",
         "correctionKeys": [],
-        "transformedChecksum": "aef0a2064b2245c91f6b8cc9091cf84ad62758075b343536bb3b65f2208b5b20"
+        "transformedChecksum": "64c4ffc6bbbc25fc11f0240596476560d2498177fa842addd56022ce1b5aac23"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 314,
@@ -26033,7 +26019,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0fa732a9e4d794658d42a1044d7c4a75c4b6f82ed30fba1701b1853f8519f129"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 315,
@@ -26147,7 +26133,7 @@
         "correctionKeys": [],
         "transformedChecksum": "352e1d28889247439a50975bb37a810498f80d67b38071ba6801fe3bccc6c50e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 316,
@@ -26233,7 +26219,7 @@
         "correctionKeys": [],
         "transformedChecksum": "78c69c42c7acfe174368dd3faf4bc8a078c96a3e9f577b43d71d6c97dbad04bc"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 317,
@@ -26310,7 +26296,7 @@
         "correctionKeys": [],
         "transformedChecksum": "eb822318dba18489fd2cff56c43436467820c72b270347fbe5cbbd60758e6bd6"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 318,
@@ -26376,7 +26362,7 @@
         "correctionKeys": [],
         "transformedChecksum": "282c99141b6056477ad0a072cb3c89838e4b0f776b0494293416c944cb53e979"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 319,
@@ -26456,7 +26442,7 @@
         "correctionKeys": [],
         "transformedChecksum": "e9f883882eeb4584d63dd7412776f029f97f845f268e38d5f24a400edf6113b1"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 320,
@@ -26517,7 +26503,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ae00af7f777096cb5eed9ca923f7397970318179ac0415610bf43a8e66592022"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 321,
@@ -26570,7 +26556,7 @@
         "correctionKeys": [],
         "transformedChecksum": "5365ac8b46f0662b0cc33bd836bd8e53a9f4b696ae4200736f47e1c177cb931c"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 322,
@@ -26651,7 +26637,7 @@
         "correctionKeys": [],
         "transformedChecksum": "080f1a370fa26b25612a0b3b63a6373bfad25b42364226b9c72f96cedf956908"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 323,
@@ -26708,7 +26694,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ea56a4f96a917f688bc5ac90c0f012c9563047d62049004cfc922d8147b040ac"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 324,
@@ -26782,7 +26768,7 @@
         "correctionKeys": [],
         "transformedChecksum": "706077686eeba0c966b2c208b2d2e38f07fd51194dd100493f760c10f738edcd"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 325,
@@ -26872,7 +26858,7 @@
         "correctionKeys": [],
         "transformedChecksum": "a0a3d0c5980acb5c49c0f657c0d792b768903e98014706f9320fe3d347c968bd"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 326,
@@ -26935,7 +26921,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9bc268c0d586929f421773068d7c99435cf2b7a99f17647256a1cdfd3e6c1ee5"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 327,
@@ -27008,7 +26994,7 @@
         "correctionKeys": [],
         "transformedChecksum": "fec383603cb993161d68395997b9d7779565e1bec06b9702317f2ab1ec504eb5"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 328,
@@ -27095,7 +27081,7 @@
         "correctionKeys": [],
         "transformedChecksum": "5b889b2c89e845dc941922fe26a7c852dc5d17682a3cc78b0d28b471d242b612"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 329,
@@ -27205,7 +27191,7 @@
         "correctionKeys": [],
         "transformedChecksum": "a7f3171f802d7816e96354c6b984256a2f36c7308dc498b1d2f0730592f0c969"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 330,
@@ -27298,7 +27284,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9fa47aed587439d3d13984118c6eb8d9dbff1a96ce2dab318eb12ad49b7d4ff2"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 331,
@@ -27350,7 +27336,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d2f804636ac49370876ab917bde1a2c96bae1bdf23697b612dc2b981336eb27a"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 332,
@@ -27445,7 +27431,7 @@
         "correctionKeys": [],
         "transformedChecksum": "4447067d0f43911b60302f265a9748c606bd2649fccffd247ce2cc7d67ffe429"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 333,
@@ -27530,7 +27516,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3c28d2fd5ac440fda47fc47acc2b27b7234fe2a9ca00542900a2606b9f7f4a05"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 334,
@@ -27601,7 +27587,7 @@
         "correctionKeys": [],
         "transformedChecksum": "e8f3b6e88cc28afcaa4cbe6cb02af4d0fa25e0492761a3858fe9299efb0252ea"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 335,
@@ -27690,7 +27676,7 @@
         "correctionKeys": [],
         "transformedChecksum": "19dc1d6a2596c53ac142bb4e87358229d5beb25eb2db13a03abbc5b662334f43"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 336,
@@ -27814,7 +27800,7 @@
         "correctionKeys": [],
         "transformedChecksum": "7d108782c483a9a61d6c3f4eb9c938ac12cf3d7bfc98e71554ef11f5cfa5d435"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 337,
@@ -27951,7 +27937,7 @@
         "correctionKeys": [],
         "transformedChecksum": "267e8ef1596aa39f7fb07d790573b9d305c961d218f0a83e9158cc132e8e5888"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 338,
@@ -28036,7 +28022,7 @@
         "correctionKeys": [],
         "transformedChecksum": "e0f9d79b354a0300782c8a95b6847e8078c3b93624fbda86c68116c30b1774dc"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 339,
@@ -28114,7 +28100,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9f009be2002f9c1b18426fcb1f30bd6ade78693945e077b5931c8b2fd5f0ef02"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 340,
@@ -28195,7 +28181,7 @@
         "correctionKeys": [],
         "transformedChecksum": "dff5f41e82e1b4b2ba6f4b82cd49ab1eb16b69c47ce33bc60de91eb9add883f9"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 341,
@@ -28267,7 +28253,7 @@
         "correctionKeys": [],
         "transformedChecksum": "cb74c15a23f0c761aaf2e1f5491bb7be784736477d8fcd7d79148dc196acde2b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 342,
@@ -28349,7 +28335,7 @@
         "correctionKeys": [],
         "transformedChecksum": "2f9be30bb38ea821d1b211b74fc8d2fe84a82ae37766c5705b8c7609a86a157d"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 343,
@@ -28379,8 +28365,7 @@
           "text": "„Cu toată inima ta“, aşa sună porunca. Chiar dacă puterea noastră de a iubi ar fi foarte limitată, atâta vreme cât o folosim în întregime pentru a-L iubi pe Dumnezeu, împlinim cerința divină la fel ca cei care sunt mai capabili din acest punct de vedere. Un pahar poate să fie la fel de plin ca o găleată. A-L iubi pe Dumnezeu mai mult decât cu toată inima – dincolo de puterea sau capacitatea noastră – ar fi imposibil, iar a-L iubi mai puțin decât cu măsura deplină a puterii noastre de a iubi ar însemna să nu împlinim po- runca. „Cel care face cum poate mai bine face bine: nici îngerii nu pot face mai bine şi nici Dumnezeu nu cere mai mult.“"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)</p>",
+          "type": "attribution",
           "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworth Press.)"
         },
         {
@@ -28467,9 +28452,9 @@
         "sourceDate": "2012-12-08",
         "rawChecksum": "d2e839211a1da7876041cc4a0c05700d7133a518b8953408400141b9f3f25eb8",
         "correctionKeys": [],
-        "transformedChecksum": "07a3127faee427f3bf4eefe82f21da2b41e39d346f50d7f343b88225a8180717"
+        "transformedChecksum": "5864048de8137afb3b059c49cb7054f5d73b0b692fcdfe7036d9a6c4f1a32222"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 344,
@@ -28550,7 +28535,7 @@
         "correctionKeys": [],
         "transformedChecksum": "5b6b9a297627ac7ede4774a68f0305e6271c97fb171e5458ba723b1a11833cc4"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 345,
@@ -28613,7 +28598,7 @@
         "correctionKeys": [],
         "transformedChecksum": "46c319bdfd94cd862d297af7866281d4629c2ecf10ab5eb0fb4b28297f4e2132"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 346,
@@ -28693,7 +28678,7 @@
         "correctionKeys": [],
         "transformedChecksum": "1e83244c145b1f0a175d531b6a876ec381f50058d781b7330ab71b92596c9607"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 347,
@@ -28814,7 +28799,7 @@
         "correctionKeys": [],
         "transformedChecksum": "d8c6d31454984a1c69410f89ec4e2dda4eef97bf71e568ff4420746a202ca87f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 348,
@@ -28892,7 +28877,7 @@
         "correctionKeys": [],
         "transformedChecksum": "240d593d320fb258d0d8f782c0eab70cb69eb7252e08308d82051cd55e05f184"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 349,
@@ -28980,7 +28965,7 @@
         "correctionKeys": [],
         "transformedChecksum": "cf63047cac53bff2528fbff68ad7263f717045712ac753bb9e7f79fe2d59573f"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 350,
@@ -29056,7 +29041,7 @@
         "correctionKeys": [],
         "transformedChecksum": "813216ebf55d6f5a8771f33c86518089daae10fd605bb8f0c7318fffa91c6f4e"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 351,
@@ -29132,7 +29117,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3269cc9d753e866be7a3dc135b9839fd631345d2d6ef6c39e893408a66cb1562"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 352,
@@ -29214,7 +29199,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3eb3c0fcb50525a5135f281a94f16200355d5b6fab108b9d93f553c2e819d4bc"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 353,
@@ -29295,7 +29280,7 @@
         "correctionKeys": [],
         "transformedChecksum": "37d56f54826e1a3aed68852401defd7f0268af80b2d647721fc87b9332caf003"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 354,
@@ -29379,7 +29364,7 @@
         "correctionKeys": [],
         "transformedChecksum": "72ddf072ab7ed3a1b0bd0e96518785432693e1673bf21ddd6dc767d582e11673"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 355,
@@ -29455,7 +29440,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ba1e2c6b30de80663a2082526fae3ad0c0cc1510626f4517dbd51280284fb118"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 356,
@@ -29527,7 +29512,7 @@
         "correctionKeys": [],
         "transformedChecksum": "37dd4bd6d89a46cbc8feaeedb9756f626a15286df08209538a2217389c422c56"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 357,
@@ -29637,7 +29622,7 @@
         "correctionKeys": [],
         "transformedChecksum": "44927bc3efb6933011988af6afe16db8a503074863ec6fe85451a95114a297fb"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 358,
@@ -29712,7 +29697,7 @@
         "correctionKeys": [],
         "transformedChecksum": "a18ce7592a00e3d541b15daf275852ed656d697185986a8698ea7285da9ca8bb"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 359,
@@ -29778,7 +29763,7 @@
         "correctionKeys": [],
         "transformedChecksum": "46a94ca6b46991fa4632cfa37d060d8c550e2f581e65334d809c095549397a35"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 360,
@@ -29856,7 +29841,7 @@
         "correctionKeys": [],
         "transformedChecksum": "6ae559ad386097ace173ed19beab765f0f42b783cf55dd093ab586e837bf3d99"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 361,
@@ -29969,7 +29954,7 @@
         "correctionKeys": [],
         "transformedChecksum": "12f3601d49c2fc3862e79165d4147e0ead7d3cd652d9985fbbfb49c789adc089"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 362,
@@ -30098,7 +30083,7 @@
         "correctionKeys": [],
         "transformedChecksum": "363e246cc2b494a04516769a6a414012f81ad36d5b57f2db8eb69b5d358bf172"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 363,
@@ -30176,7 +30161,7 @@
         "correctionKeys": [],
         "transformedChecksum": "4d083ea44a0291ac805079c2541383a796c0bc4fae8927b0e781662e387d91e1"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 364,
@@ -30243,7 +30228,7 @@
         "correctionKeys": [],
         "transformedChecksum": "e1236085c3728d062b02b58291bc528e97db1595d5abba6b7d20e90c79bdb240"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 365,
@@ -30328,7 +30313,7 @@
         "correctionKeys": [],
         "transformedChecksum": "2ff710bd2db5c9e9a598c9853e2cda9ca9db03d2f415d40e47d3ab60fa434675"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     },
     {
       "id": 366,
@@ -30466,7 +30451,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8d4131bef68e6a1beef9645d10c0c1326cc6eac8f228388ca8e29ef81468573b"
       },
-      "contentVersion": "695339f1c9c141dc"
+      "contentVersion": "f4eaf7b5e256d964"
     }
   ]
 }

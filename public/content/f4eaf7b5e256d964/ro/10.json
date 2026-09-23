@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "ro",
   "month": "10",
   "readings": [
@@ -627,8 +627,8 @@
           "html": "<p>Un creştin plin de Duhul Sfânt poartă în inimă o fântână ar- teziană de bucurie; poartă în piept un izvor miraculos care îi um- ple, îi inundă şi îi copleşeşte sufletul cu o bucurie negrăită pe tot parcursul anului. Fântânile obişnuite, superficiale, seacă repede, pe când izvoarele arteziene au apă din belşug chiar şi în vre- muri de secetă.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworh Press.)</p>"
+          "type": "attribution",
+          "text": "(Din New Testament Holiness de Thomas Cook. Folosit cu permisiunea Epworh Press.)"
         },
         {
           "type": "prose",
@@ -1862,8 +1862,8 @@
           "html": "<p>Purtarea Lui cu mine nu Și-o schimbă, Pe-o cale nouă zilnic mă va duce;<br>\nDe foc şi apă, de vicleana limbă,<br>\nMă va păzi, făcându-mi viața dulce. Dar eu mă las de brațul Său condus, S-ajung în Cerul unde El S-a dus...</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"p6\">Poem publicat de Evangelical Christian (Creştinul evanghelic)</p>"
+          "type": "attribution",
+          "text": "Poem publicat de Evangelical Christian (Creştinul evanghelic)"
         }
       ]
     }

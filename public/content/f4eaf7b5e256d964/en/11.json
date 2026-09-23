@@ -1,5 +1,5 @@
 {
-  "contentVersion": "695339f1c9c141dc",
+  "contentVersion": "f4eaf7b5e256d964",
   "locale": "en",
   "month": "11",
   "readings": [
@@ -636,8 +636,8 @@
           "html": "<p class=\"justify\"> Spirit-filled believers carry life, and satisfaction and gladness wherever they go. Their presence is life-giving, fructifying, refreshing, even as a river which blesses as it flows. “Every thing shall live whither the river cometh.” The weakest, feeblest member of the body of Christ may be so instinct with the most vigorous life that there shall come forth from him a holy river-like abundance to the blessing of the souls of others.</p>"
         },
         {
-          "type": "prose",
-          "html": "<p class=\"justify\">(From <i>New Testament Holiness</i> by Thomas Cook. Used by permission of the Epworth Press).</p>"
+          "type": "attribution",
+          "text": "(From New Testament Holiness by Thomas Cook. Used by permission of the Epworth Press)."
         }
       ]
     },
@@ -1476,11 +1476,7 @@
         },
         {
           "type": "attribution",
-          "text": "—Grace Noll Crowell"
-        },
-        {
-          "type": "attribution",
-          "text": "(Evangelical Christian)"
+          "text": "—Grace Noll Crowell (Evangelical Christian)"
         }
       ]
     },
