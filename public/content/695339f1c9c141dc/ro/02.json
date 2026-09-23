@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7db574e9894913db",
+  "contentVersion": "695339f1c9c141dc",
   "locale": "ro",
   "month": "02",
   "readings": [
@@ -61,8 +61,8 @@
       "title": "SINGURA NOASTRĂ PREOCUPARE: SĂ FIM PE PLACUL LUI DUMNEZEU",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Căci au iubit mai mult slava oamenilor decât slava lui Dumnezeu.” (Ioan 12.43)\n\n„Caut să plac oamenilor? Dacă aş mai căuta să plac oamenilor,"
+          "type": "prose",
+          "html": "<p><i>„Căci au iubit mai mult slava oamenilor decât slava lui Dumnezeu.” </i>(Ioan 12.43)<br>\n„Caut să plac oamenilor? Dacă aş mai căuta să plac oamenilor,</p>"
         },
         {
           "type": "prose",
@@ -1274,8 +1274,8 @@
           "text": "—James Caughey"
         },
         {
-          "type": "scripture",
-          "text": "„Cu tine”; nu doar mă uit de sus, din Cer, la tine cum te lupți în lucrul tău, ci sunt alături de tine, mai aproape decât cel mai apropiat coleg; te țin de mână, îți şoptesc cuvinte care au o putere specială pe care să le foloseşti pentru alţii; şi, de asemenea, îţi mai şoptesc cuvinte care au o putere şi mai specială numai pentru inima ta, ca s-o liniştească, s-o întărească şi s-o umple de bucurie; astfel încât să fii unul dintre acei „oameni care vor sluji ca semne” (cf. Zaharia 3.8, n.red.) pentru alții, dar şi pentru tine însuți. Vei fi „ajutat în chip minunat” (cf. 2 Cronici 26.15, n.red.), mai minunat decât ți-ai fi imaginat vreodată."
+          "type": "prose",
+          "html": "<p><i>„Cu tine”</i>; nu doar mă uit de sus, din Cer, la tine cum te lupți în lucrul tău, ci sunt alături de tine, mai aproape decât cel mai apropiat coleg; te țin de mână, îți şoptesc cuvinte care au o putere specială pe care să le foloseşti pentru alţii; şi, de asemenea, îţi mai şoptesc cuvinte care au o putere şi mai specială numai pentru inima ta, ca s-o liniştească, s-o întărească şi s-o umple de bucurie; astfel încât să fii unul dintre acei <i>„oameni care vor sluji ca semne” </i>(cf. Zaharia 3.8, n.red.) pentru alții, dar şi pentru tine însuți. Vei fi <i>„ajutat în chip minunat” </i>(cf. 2 Cronici 26.15, n.red.), mai minunat decât ți-ai fi imaginat vreodată.</p>"
         },
         {
           "type": "prose",
@@ -1367,7 +1367,12 @@
         },
         {
           "type": "attribution",
-          "text": "––Samuel Logan Brengle „Cumpără adevărul, şi nu-l vinde.” (Proverbe 23.23)"
+          "text": "—Samuel Logan Brengle"
+        },
+        {
+          "type": "scripture",
+          "text": "„Cumpără adevărul, şi nu-l vinde.”",
+          "reference": "Proverbe 23.23"
         },
         {
           "type": "prose",

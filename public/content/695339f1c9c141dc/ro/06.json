@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7db574e9894913db",
+  "contentVersion": "695339f1c9c141dc",
   "locale": "ro",
   "month": "06",
   "readings": [
@@ -194,8 +194,8 @@
           "html": "<p>Vrei ca rugăciunile tale să primească răspuns? Trăieşte în aşa fel încât propria ta inimă să nu te osândească. Copilul ascultător, a cărui relație cu părintele său este una de afecțiune şi mulțumire, nu se teme să vină la tata ca să-i ceară ce doreşte. El ştie că va primi lucrul cerut. Propria lui inimă nu îl osândeşte.</p>"
         },
         {
-          "type": "scripture",
-          "text": "„Dacă nu ne osândeşte inima noastră, avem îndrăzneală la Dumnezeu.” Provoc pe oricine ar vrea să încerce să separe îndrăzneala de ascultare. Dacă nu eşti dispus să fii ascultător, nu poți să ai îndrăzneală."
+          "type": "prose",
+          "html": "<p><i>„Dacă nu ne osândeşte inima noastră, avem îndrăzneală la Dumnezeu.” </i>Provoc pe oricine ar vrea să încerce să separe îndrăzneala de ascultare. Dacă nu eşti dispus să fii ascultător, nu poți să ai îndrăzneală.</p>"
         },
         {
           "type": "prose",
@@ -1496,8 +1496,8 @@
           "reference": "2 Tesaloniceni 3.5"
         },
         {
-          "type": "scripture",
-          "text": "„Vedeți ce dragoste ne-a arătat Tatăl” – nu ce dragoste a manifestat sau a demonstrat, ci ce dragoste ne-a arătat, ne-a dat-o în dar: vedeţi de ce dragoste ne-a făcut parte Tatăl."
+          "type": "prose",
+          "html": "<p><i>„Vedeți ce dragoste ne-a arătat Tatăl” </i>– nu ce dragoste a manifestat sau a demonstrat, ci ce dragoste ne-a arătat, ne-a dat-o în dar: vedeţi de ce dragoste ne-a făcut parte Tatăl.</p>"
         },
         {
           "type": "prose",

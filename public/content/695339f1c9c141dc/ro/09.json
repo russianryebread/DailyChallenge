@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7db574e9894913db",
+  "contentVersion": "695339f1c9c141dc",
   "locale": "ro",
   "month": "09",
   "readings": [
@@ -99,8 +99,8 @@
       "title": "MUZICĂ SUB PRESIUNE",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Mâna Ta apasă asupra mea.“ (Psalmul 38.2)\n\n„Smeriți‐vă, deci, sub mâna tare a lui Dumnezeu, pentru ca, la"
+          "type": "prose",
+          "html": "<p><i>„Mâna Ta apasă asupra mea.“ </i>(Psalmul 38.2)<br>\n<i>„Smeriți‐vă, deci, sub mâna tare a lui Dumnezeu, pentru ca, la</i></p>"
         },
         {
           "type": "prose",
@@ -190,8 +190,8 @@
       "title": "LASĂ DRAGOSTEA SĂ ALUNGE FIREA PĂMÂNTEASCĂ",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Roada Duhului [...] este dragostea.“ (Galateni 5.22) „...dar cea mai mare dintre ele este dragostea.“"
+          "type": "prose",
+          "html": "<p><i>„Roada Duhului [...] este dragostea.“ </i>(Galateni 5.22) <i>„...dar cea mai mare dintre ele este dragostea.“</i></p>"
         },
         {
           "type": "prose",
@@ -318,8 +318,8 @@
       "title": "FAPTELE RĂMÂN PENTRU TOTDEAUNA",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Fiecare își va lua răsplata după osteneala lui.“ (1 Corinteni 3.8) „Căci el nu se clatină niciodată; pomenirea celui neprihănit ține"
+          "type": "prose",
+          "html": "<p><i>„Fiecare își va lua răsplata după osteneala lui.“ </i>(1 Corinteni 3.8) <i>„Căci el nu se clatină niciodată; pomenirea celui neprihănit ține</i></p>"
         },
         {
           "type": "prose",
@@ -377,8 +377,8 @@
       "title": "FIECARE OM ESTE PĂZITORUL FRATELUI SĂU",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Sunt eu păzitorul fratelui meu?“ (Geneza 4.9)\n\n„Dar un samaritean, care era în călătorie, a venit în locul unde"
+          "type": "prose",
+          "html": "<p><i>„Sunt eu păzitorul fratelui meu?“ </i>(Geneza 4.9)<br>\n<i>„Dar un samaritean, care era în călătorie, a venit în locul unde</i></p>"
         },
         {
           "type": "prose",
@@ -497,8 +497,8 @@
       "title": "SACRIFICIUL VOINȚEI NOASTRE",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Nu caut să fac voia Mea.“ (Ioan 5.30)\n\n„N‐am mai stăruit, și am zis: «Facă‐se voia Domnului!»“"
+          "type": "prose",
+          "html": "<p><i>„Nu caut să fac voia Mea.“ </i>(Ioan 5.30)<br>\n<i>„N‐am mai stăruit, și am zis: «Facă‐se voia Domnului!»“</i></p>"
         },
         {
           "type": "prose",
@@ -1012,7 +1012,11 @@
         },
         {
           "type": "attribution",
-          "text": "—John Keble —A.B. Simpson"
+          "text": "—John Keble"
+        },
+        {
+          "type": "attribution",
+          "text": "—A.B. Simpson"
         }
       ]
     },
@@ -1702,8 +1706,8 @@
       "title": "ÎNDRĂZNEȘTE SĂ ACȚIONEZI SINGUR",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Pe Mine Mă veți lăsa singur; dar nu sunt singur.“ (Ioan 16.32) „La întâiul meu răspuns de apărare, nimeni n‐a fost cu mine, ci"
+          "type": "prose",
+          "html": "<p><i>„Pe Mine Mă veți lăsa singur; dar nu sunt singur.“ </i>(Ioan 16.32) <i>„La întâiul meu răspuns de apărare, nimeni n‐a fost cu mine, ci</i></p>"
         },
         {
           "type": "prose",

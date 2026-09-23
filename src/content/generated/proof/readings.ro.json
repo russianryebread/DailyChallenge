@@ -1,5 +1,5 @@
 {
-  "contentVersion": "a242907ac6fdd26d",
+  "contentVersion": "40511d2476bb4fe5",
   "locale": "ro",
   "readings": [
     {
@@ -100,7 +100,7 @@
         "correctionKeys": [],
         "transformedChecksum": "19bfc21f5378abec7bb33b38278c3d4368976ae81d39279a4f6fa96386d9e1fa"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 19,
@@ -208,7 +208,7 @@
         "correctionKeys": [],
         "transformedChecksum": "63e76ad1127afd33ddb10a6b3a01f317fabd017de46f757dc09ce60db6a17c3a"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 58,
@@ -239,7 +239,13 @@
         },
         {
           "type": "attribution",
-          "text": "––Samuel Logan Brengle „Cumpără adevărul, şi nu-l vinde.” (Proverbe 23.23)"
+          "text": "—Samuel Logan Brengle"
+        },
+        {
+          "type": "scripture",
+          "text": "„Cumpără adevărul, şi nu-l vinde.”",
+          "reference": "Proverbe 23.23",
+          "sourceText": "„Cumpără adevărul, şi nu-l vinde.” (Proverbe 23.23)"
         },
         {
           "type": "prose",
@@ -267,9 +273,9 @@
         "sourceDate": "2012-02-27",
         "rawChecksum": "1968d8a8f295f004873563c443b0b5b90b6f0d4da68989d21c81c19a35e7ae2f",
         "correctionKeys": [],
-        "transformedChecksum": "6937a375dde50682bbbdf948a311ed14db6147b4ee4273f7946560690c9cc252"
+        "transformedChecksum": "929870de20ce4fbab9a2b5c079a78dcce8d5f5c83ac140c2c24e621a0df27065"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 59,
@@ -335,7 +341,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8d49a05e491ecb4a2fa4c84c50dfb079345fea38516194bc24c4ec5118ab9d6e"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 60,
@@ -417,7 +423,7 @@
         "correctionKeys": [],
         "transformedChecksum": "0796a6c1f72d8c8487e6b11e6ae330e41758482d4f2af0f9f7df40c7577314d0"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 97,
@@ -508,7 +514,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9a91c1ffe4f1d37ff329a08f9951d36265b118fa68bbac2c4f9fc498673d795b"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 100,
@@ -588,7 +594,7 @@
         "correctionKeys": [],
         "transformedChecksum": "ee8c86ed2960ad772156c3afabff2d4e651a8c1a8e9ce18e930f648ca20a1827"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 180,
@@ -668,7 +674,7 @@
         "correctionKeys": [],
         "transformedChecksum": "9ab8f6dd729c2d727ae328d6687fb3ec1e4cb0ad58efb23778a5e94c1372674d"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 237,
@@ -735,7 +741,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8aae9fe77d6064fd59b68528b52bac9dcb7d52f4b0552fe60cdf2a302f6c4e56"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 293,
@@ -812,7 +818,7 @@
         "correctionKeys": [],
         "transformedChecksum": "1cec7dbdef3352bbf6982dece5d8c01d41322c7fb435c10034e40b36525c4633"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 366,
@@ -950,7 +956,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8d4131bef68e6a1beef9645d10c0c1326cc6eac8f228388ca8e29ef81468573b"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     }
   ]
 }

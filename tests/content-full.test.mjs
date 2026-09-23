@@ -130,6 +130,24 @@ test('credits are separate blocks and dialogue stays in the reading text', () =>
   assert.ok(artifacts.en.readings[24].blocks.some((block) =>
     block.type === 'poem' && block.lines.some((line) => line.text === '—But God had shut the door'),
   ));
+
+  const september17 = artifacts.ro.readings.find((reading) => reading.monthDay === '09-17');
+  assert.deepEqual(september17.blocks.slice(-2).map((block) => [block.type, block.text]), [
+    ['attribution', '—John Keble'],
+    ['attribution', '—A.B. Simpson'],
+  ]);
+  for (const [id, credit, followingType] of [
+    [58, '—Samuel Logan Brengle', 'scripture'],
+    [112, '—Alexander Maclaren', 'scripture'],
+    [135, '—Barclay Buxton', 'prose'],
+    [145, '—Frances Ridley Havergal', 'scripture'],
+    [236, '—Autor necunoscut', 'prose'],
+  ]) {
+    const reading = artifacts.ro.readings.find((item) => item.id === id);
+    const index = reading.blocks.findIndex((block) => block.type === 'attribution' && block.text === credit);
+    assert.ok(index >= 0, `Romanian reading ${id}: ${credit}`);
+    assert.equal(reading.blocks[index + 1]?.type, followingType);
+  }
 });
 
 test('rendered blocks retain every letter from the original reading', () => {

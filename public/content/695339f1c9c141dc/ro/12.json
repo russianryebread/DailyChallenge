@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7db574e9894913db",
+  "contentVersion": "695339f1c9c141dc",
   "locale": "ro",
   "month": "12",
   "readings": [
@@ -9,8 +9,8 @@
       "title": "PUTEREA LUI DUMNEZEU ESTE A NOASTRĂ PRIN RUGĂCIUNE",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Despărțiți de Mine, nu puteți face nimic.“ (Ioan 15.5)\n\n„Dacă rămâneți în Mine, și dacă rămân în voi cuvintele Mele,"
+          "type": "prose",
+          "html": "<p><i>„Despărțiți de Mine, nu puteți face nimic.“ </i>(Ioan 15.5)<br>\n<i>„Dacă rămâneți în Mine, și dacă rămân în voi cuvintele Mele,</i></p>"
         },
         {
           "type": "prose",
@@ -1143,8 +1143,8 @@
       "title": "PUTERE ÎN BUCURIE",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Bucuria Domnului va fi tăria voastră.“ (Neemia 8.10)\n\n„V‐am spus aceste lucruri, pentru ca bucuria Mea să rămână în"
+          "type": "prose",
+          "html": "<p><i>„Bucuria Domnului va fi tăria voastră.“ </i>(Neemia 8.10)<br>\n<i>„V‐am spus aceste lucruri, pentru ca bucuria Mea să rămână în</i></p>"
         },
         {
           "type": "prose",
@@ -1436,8 +1436,8 @@
       "title": "HANUL VIEȚII ESTE PLIN ȘI ACUM",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„În casa de poposire nu era loc pentru ei.“ (Luca 2.7)\n\n„Vulpile au vizuini, și păsările cerului au cuiburi; dar Fiul omu‐"
+          "type": "prose",
+          "html": "<p><i>„În casa de poposire nu era loc pentru ei.“ </i>(Luca 2.7)<br>\n<i>„Vulpile au vizuini, și păsările cerului au cuiburi; dar Fiul omu‐</i></p>"
         },
         {
           "type": "prose",

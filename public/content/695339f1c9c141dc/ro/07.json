@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7db574e9894913db",
+  "contentVersion": "695339f1c9c141dc",
   "locale": "ro",
   "month": "07",
   "readings": [
@@ -1602,8 +1602,8 @@
       "title": "ÎL VĂD EI PE ISUS?",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Cristos în voi, nădejdea slavei.“ (Coloseni 1.27)\n\n„Privesc cu bucurie [...] la tăria credinței voastre în Cristos.“"
+          "type": "prose",
+          "html": "<p><i>„Cristos în voi, nădejdea slavei.“ </i>(Coloseni 1.27)<br>\n<i>„Privesc cu bucurie [...] la tăria credinței voastre în Cristos.“</i></p>"
         },
         {
           "type": "prose",

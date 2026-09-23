@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7db574e9894913db",
+  "contentVersion": "695339f1c9c141dc",
   "locale": "ro",
   "month": "08",
   "readings": [
@@ -741,8 +741,8 @@
       "title": "CU CEI PUȚINI, PE DRUMUL CEL BUN",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Atunci toți ucenicii [...] au fugit.“ (Matei 26.56)\n\n„[...] mulți din ucenicii Lui s‐au întors înapoi, și nu mai um‐"
+          "type": "prose",
+          "html": "<p><i>„Atunci toți ucenicii [...] au fugit.“ </i>(Matei 26.56)<br>\n<i>„[...] mulți din ucenicii Lui s‐au întors înapoi, și nu mai um‐</i></p>"
         },
         {
           "type": "prose",
@@ -1389,7 +1389,15 @@
         },
         {
           "type": "attribution",
-          "text": "—Autor necunoscut „Profitați la maximum de timpul pe care îl aveți.“ —Moffat"
+          "text": "—Autor necunoscut"
+        },
+        {
+          "type": "prose",
+          "html": "<p>„Profitați la maximum de timpul pe care îl aveți.“ </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Moffat"
         },
         {
           "type": "prose",
@@ -1513,8 +1521,8 @@
       "title": "MAGNETUL CERESC",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Domnule, [...] nu ai cu ce să tragi.“ (Ioan 4.11, KJV)\n\n„Şi după ce voi fi înălțat de pe pământ, voi atrage la Mine pe toți"
+          "type": "prose",
+          "html": "<p><i>„Domnule, [...] nu ai cu ce să tragi.“ </i>(Ioan 4.11, KJV)<br>\n<i>„Şi după ce voi fi înălțat de pe pământ, voi atrage la Mine pe toți</i></p>"
         },
         {
           "type": "prose",
@@ -1693,8 +1701,8 @@
       "title": "TRĂIEȘTE AZI",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Trebuie să umblu astăzi.“ (Luca 13.33)\n\n„Pâinea noastră cea de toate zilele dă‐ne‐o nouă"
+          "type": "prose",
+          "html": "<p><i>„Trebuie să umblu astăzi.“ </i>(Luca 13.33)<br>\n<i>„Pâinea noastră cea de toate zilele dă‐ne‐o nouă</i></p>"
         },
         {
           "type": "prose",

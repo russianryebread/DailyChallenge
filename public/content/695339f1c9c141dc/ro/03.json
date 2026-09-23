@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7db574e9894913db",
+  "contentVersion": "695339f1c9c141dc",
   "locale": "ro",
   "month": "03",
   "readings": [
@@ -1551,7 +1551,12 @@
         },
         {
           "type": "attribution",
-          "text": "––Phoebe Palmer „Şi cel neprihănit va trăi prin credinţă.” (Evrei 10.38)"
+          "text": "—Phoebe Palmer"
+        },
+        {
+          "type": "scripture",
+          "text": "„Şi cel neprihănit va trăi prin credinţă.”",
+          "reference": "Evrei 10.38"
         },
         {
           "type": "prose",

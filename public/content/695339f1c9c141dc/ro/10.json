@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7db574e9894913db",
+  "contentVersion": "695339f1c9c141dc",
   "locale": "ro",
   "month": "10",
   "readings": [
@@ -718,8 +718,8 @@
       "title": "ATINGEREA MAESTRULUI",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Căci trebuie ca El să împărățească...“ (1 Corinteni 15.25) „Şi Domnul va împărăți în veac și în veci de veci.“"
+          "type": "prose",
+          "html": "<p><i>„Căci trebuie ca El să împărățească...“ </i>(1 Corinteni 15.25) <i>„Şi Domnul va împărăți în veac și în veci de veci.“</i></p>"
         },
         {
           "type": "prose",
@@ -789,8 +789,8 @@
       "title": "VORBEȘTE CU ÎNDRĂZNEALĂ",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Nu te teme; ci vorbește și nu tăcea.“ (Faptele Apostolilor 18.9) „Cine spune adevărul face o mărturisire dreaptă, dar martorul"
+          "type": "prose",
+          "html": "<p><i>„Nu te teme; ci vorbește și nu tăcea.“ </i>(Faptele Apostolilor 18.9) <i>„Cine spune adevărul face o mărturisire dreaptă, dar martorul</i></p>"
         },
         {
           "type": "prose",
@@ -957,8 +957,8 @@
       "title": "BOGĂȚII DIN SĂRĂCIE",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Cu ce măsură măsurați, vi se va măsura.“ (Matei 7.2)\n\n„Să știți: cine seamănă puțin, puțin va secera; iar cine seamănă"
+          "type": "prose",
+          "html": "<p><i>„Cu ce măsură măsurați, vi se va măsura.“ </i>(Matei 7.2)<br>\n<i>„Să știți: cine seamănă puțin, puțin va secera; iar cine seamănă</i></p>"
         },
         {
           "type": "prose",
@@ -1670,8 +1670,8 @@
       "title": "FERMECAT DE CRISTOS",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Ochii tăi vor vedea pe Împărat în strălucirea Lui.“ (Isaia 33.17) „Şi noi am privit slava Lui, o slavă întocmai ca slava singurului"
+          "type": "prose",
+          "html": "<p><i>„Ochii tăi vor vedea pe Împărat în strălucirea Lui.“ </i>(Isaia 33.17) <i>„Şi noi am privit slava Lui, o slavă întocmai ca slava singurului</i></p>"
         },
         {
           "type": "prose",
@@ -1749,8 +1749,8 @@
       "title": "PUTEREA BLÂNDEȚII",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Ferice de cei blânzi, căci ei vor moșteni pământul!“ (Matei 5.5) „Mândria unui om îl scoboară, dar cine este smerit cu duhul"
+          "type": "prose",
+          "html": "<p><i>„Ferice de cei blânzi, căci ei vor moșteni pământul!“ </i>(Matei 5.5) <i>„Mândria unui om îl scoboară, dar cine este smerit cu duhul</i></p>"
         },
         {
           "type": "prose",

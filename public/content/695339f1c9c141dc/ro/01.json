@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7db574e9894913db",
+  "contentVersion": "695339f1c9c141dc",
   "locale": "ro",
   "month": "01",
   "readings": [
@@ -1780,11 +1780,8 @@
       "blocks": [
         {
           "type": "scripture",
-          "text": "„Dar lucrurile care pentru mine erau câştiguri le-am socotit ca o pierdere, din pricina lui Cristos. Ba încă şi acum privesc toate aceste lucruri ca o pierdere, faţă de preţul nespus de mare al cunoaşterii lui Cristos Isus, Domnul meu."
-        },
-        {
-          "type": "prose",
-          "html": "<p><i>Pentru El am pierdut toate şi le socotesc ca un gunoi, ca să câştig pe Cristos.” </i>(Filipeni 3.7-8)</p>"
+          "text": "„Dar lucrurile care pentru mine erau câştiguri le-am socotit ca o pierdere, din pricina lui Cristos. Ba încă şi acum privesc toate aceste lucruri ca o pierdere, faţă de preţul nespus de mare al cunoaşterii lui Cristos Isus, Domnul meu. Pentru El am pierdut toate şi le socotesc ca un gunoi, ca să câştig pe Cristos.”",
+          "reference": "Filipeni 3.7-8"
         },
         {
           "type": "prose",

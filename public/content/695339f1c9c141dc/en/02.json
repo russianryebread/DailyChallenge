@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7db574e9894913db",
+  "contentVersion": "695339f1c9c141dc",
   "locale": "en",
   "month": "02",
   "readings": [
@@ -1980,8 +1980,8 @@
           "text": "—James Caughey"
         },
         {
-          "type": "scripture",
-          "text": "“With you”; not merely looking down out of the sky at you struggling in your work, but by your very side, closer than the nearest colleague, holding you by the hand, whispering words of strange power for you to use, and words of still stranger power for your own heart only, calming, and strengthening, and gladdening it; so that if you are “men wondered at” by others, you are a great deal more wondered at by yourself. You are so “marvelously helped,” that you “never would have thought it!” No, of course not; but, you see, His thoughts towards you in your work were much better than yours, and you can say:"
+          "type": "prose",
+          "html": "<p class=\"justify\"> <i>“With you”</i>; not merely looking down out of the sky at you struggling in your work, but by your very side, closer than the nearest colleague, holding you by the hand, whispering words of strange power for you to use, and words of still stranger power for your own heart only, calming, and strengthening, and gladdening it; so that if you are “men wondered at” by others, you are a great deal more wondered at by yourself. You are so “marvelously helped,” that you “never would have thought it!” No, of course not; but, you see, His thoughts towards you in your work were much better than yours, and you can say:</p>"
         },
         {
           "type": "poem",

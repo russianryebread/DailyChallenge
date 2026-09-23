@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7db574e9894913db",
+  "contentVersion": "695339f1c9c141dc",
   "locale": "ro",
   "month": "11",
   "readings": [
@@ -434,8 +434,8 @@
       "title": "DRAGOSTEA NEMĂSURATĂ A LUI DUMNEZEU FAȚĂ DE NOI",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„...pentru dragostea cea mare cu care ne‐a iubit...“ (Efeseni 2.4) „Fiindcă atât de mult a iubit Dumnezeu lumea, că a"
+          "type": "prose",
+          "html": "<p><i>„...pentru dragostea cea mare cu care ne‐a iubit...“ </i>(Efeseni 2.4) <i>„Fiindcă atât de mult a iubit Dumnezeu lumea, că a</i></p>"
         },
         {
           "type": "prose",
@@ -485,8 +485,8 @@
       "title": "EȘTI INFLUENȚAT ȘI EXERCIȚI O INFLUENȚĂ",
       "blocks": [
         {
-          "type": "scripture",
-          "text": "„Să nu te iei după mulțime ca să faci rău.“ (Exod 23.2)\n\n„Să vă purtați într‐un chip vrednic de chemarea pe care ați"
+          "type": "prose",
+          "html": "<p><i>„Să nu te iei după mulțime ca să faci rău.“ </i>(Exod 23.2)<br>\n<i>„Să vă purtați într‐un chip vrednic de chemarea pe care ați</i></p>"
         },
         {
           "type": "prose",
@@ -730,8 +730,8 @@
           "reference": "Marcu 6.31"
         },
         {
-          "type": "scripture",
-          "text": "«Isus a zis: «Spuneți oamenilor să șadă jos.»“ (Ioan 6.10)\n\n„El i‐a luat cu Sine, și S‐a dus la o parte, lângă o cetate.“"
+          "type": "prose",
+          "html": "<p><i>«Isus a zis: «Spuneți oamenilor să șadă jos.»“ </i>(Ioan 6.10)<br>\n<i>„El i‐a luat cu Sine, și S‐a dus la o parte, lângă o cetate.“</i></p>"
         },
         {
           "type": "prose",

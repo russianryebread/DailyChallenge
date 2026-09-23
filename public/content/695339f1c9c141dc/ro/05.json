@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7db574e9894913db",
+  "contentVersion": "695339f1c9c141dc",
   "locale": "ro",
   "month": "05",
   "readings": [
@@ -90,8 +90,12 @@
           "html": "<p>Apostolul Iacov – un om mereu practic – spune: <i>„Supuneţi-vă, deci, lui Dumnezeu.” „Împotriviţi-vă Diavolului, şi el va fugi de la voi.”</i></p>"
         },
         {
-          "type": "scripture",
-          "text": "„Apropiaţi-vă de Dumnezeu, şi El Se va apropia de voi.” Eforturile noastre trebuie să se focalizeze asupra acestui punct: să ne apropiem de Dumnezeu şi să rămânem acolo. Apoi vom fi mai mult decât biruitori prin Acela care ne-a iubit. Voi zice despre Domnul: „El este locul meu de scăpare”, unde alerg şi mă ascund de vrăjmaşii mei. Voi zice despre Domnul: „El este cetăţuia mea”, de unde mă întorc şi lupt împotriva lor. „Da, El te scapă...” ––Mark Guy Pearse"
+          "type": "prose",
+          "html": "<p><i>„Apropiaţi-vă de Dumnezeu, şi El Se va apropia de voi.” </i>Eforturile noastre trebuie să se focalizeze asupra acestui punct: să ne apropiem de Dumnezeu şi să rămânem acolo. <i>Apoi </i>vom fi mai mult decât biruitori prin Acela care ne-a iubit. Voi zice despre Domnul: <i>„El este locul meu de scăpare”, </i>unde alerg şi mă ascund de vrăjmaşii mei. Voi zice despre Domnul: <i>„El este cetăţuia mea”</i>, de unde mă întorc şi lupt împotriva lor. <i>„Da, El te scapă...” </i></p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—Mark Guy Pearse"
         }
       ]
     },
@@ -254,11 +258,8 @@
       "blocks": [
         {
           "type": "scripture",
-          "text": "„Căci ce legătură este între neprihănire şi fărădelege? Sau cum poate sta împreună lumina cu întunericul?\n\nCe înţelegere poate fi între Cristos şi Belial? Sau ce legătură are cel credincios cu cel necredincios?"
-        },
-        {
-          "type": "prose",
-          "html": "<p><i>Cum se împacă Templul lui Dumnezeu cu idolii? Căci noi suntem Templul Dumnezeului celui viu, cum a zis Dumnezeu: «Eu voi locui şi voi umbla în mijlocul lor.»” </i>(2 Corinteni 6.14-16)</p>"
+          "text": "„Căci ce legătură este între neprihănire şi fărădelege? Sau cum poate sta împreună lumina cu întunericul?\n\nCe înţelegere poate fi între Cristos şi Belial? Sau ce legătură are cel credincios cu cel necredincios? Cum se împacă Templul lui Dumnezeu cu idolii? Căci noi suntem Templul Dumnezeului celui viu, cum a zis Dumnezeu: «Eu voi locui şi voi umbla în mijlocul lor.»”",
+          "reference": "2 Corinteni 6.14-16"
         },
         {
           "type": "prose",
@@ -306,7 +307,12 @@
         },
         {
           "type": "attribution",
-          "text": "––T. E. Brown „În casa de poposire nu era loc pentru ei.” (Luca 2.7)"
+          "text": "—T. E. Brown"
+        },
+        {
+          "type": "scripture",
+          "text": "„În casa de poposire nu era loc pentru ei.”",
+          "reference": "Luca 2.7"
         }
       ]
     },
@@ -889,7 +895,11 @@
         },
         {
           "type": "attribution",
-          "text": "––Barclay Buxton „Fiți plini de Duh!” În limba greacă, porunca aceasta sună în felul următor: „Fiți în mod continuu umpluți de Duhul.” Ei bine, şi dacă sunt deja plin, cum aş mai putea să fiu umplut în mod"
+          "text": "—Barclay Buxton"
+        },
+        {
+          "type": "prose",
+          "html": "<p><i>„Fiți plini de Duh!” </i>În limba greacă, porunca aceasta sună în felul următor: „Fiți în mod continuu umpluți de Duhul.” Ei bine, şi dacă sunt deja plin, cum aş mai putea să fiu umplut în mod</p>"
         },
         {
           "type": "prose",
@@ -1402,11 +1412,12 @@
         },
         {
           "type": "attribution",
-          "text": "––Frances Ridley Havergal „Dumnezeiasca Lui putere ne-a dăruit tot ce priveşte viaţa şi"
+          "text": "—Frances Ridley Havergal"
         },
         {
-          "type": "prose",
-          "html": "<p><i>evlavia.” </i>(2 Petru 1.3)</p>"
+          "type": "scripture",
+          "text": "„Dumnezeiasca Lui putere ne-a dăruit tot ce priveşte viaţa şi evlavia.”",
+          "reference": "2 Petru 1.3"
         },
         {
           "type": "prose",

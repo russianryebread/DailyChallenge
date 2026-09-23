@@ -1,5 +1,5 @@
 {
-  "contentVersion": "a242907ac6fdd26d",
+  "contentVersion": "40511d2476bb4fe5",
   "locale": "en",
   "readings": [
     {
@@ -104,7 +104,7 @@
         "correctionKeys": [],
         "transformedChecksum": "287246e8cc2ab5ddc96b977308c0d40c44a4cec3228fc8ae3e41678849476c78"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 19,
@@ -237,7 +237,7 @@
         "correctionKeys": [],
         "transformedChecksum": "7687f027fa4a1c4084ea08be631bce776d33803340265e636b9568fc51f08a25"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 58,
@@ -321,7 +321,7 @@
         "correctionKeys": [],
         "transformedChecksum": "3e77dd0e04cb7999de36b3762ad2f82a7d3884674c8fd6d0c5007fe3044f9d85"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 59,
@@ -437,7 +437,7 @@
         "correctionKeys": [],
         "transformedChecksum": "cebf0590b5c1a5c1adf4d82f348b979e04c0cd99250565249bd94b9ad4ca514c"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 60,
@@ -530,7 +530,7 @@
         "correctionKeys": [],
         "transformedChecksum": "1f7ab70ce9b0e75ea81cdfdd33cafb2bef6ee9e1d6e51d9ee67766959e02ac56"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 97,
@@ -634,7 +634,7 @@
         "correctionKeys": [],
         "transformedChecksum": "7224d195968d341633a38c799434954a06d4ac62a379f2d8b728ab103e1025b8"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 100,
@@ -732,7 +732,7 @@
         "correctionKeys": [],
         "transformedChecksum": "e4e118de0a9977a045f5bcaf798d0fabdf69e44ee86e7c5366ded778d6285515"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 180,
@@ -798,7 +798,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8076a88a6eaaf7a8384c884958227dc0ab5ddb9ecf2ff3af35a3178321396c70"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 237,
@@ -871,7 +871,7 @@
         "correctionKeys": [],
         "transformedChecksum": "8ae2999043d2aa7660077dd51b3c3661c5dc220789d8e6ebcc3402bb56ca7b68"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 293,
@@ -946,7 +946,7 @@
         "correctionKeys": [],
         "transformedChecksum": "7d9f7629f927fa67ff3f53ca19c84f02e235c67d9fa97235527849ea73ef143a"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     },
     {
       "id": 366,
@@ -1052,7 +1052,7 @@
         "correctionKeys": [],
         "transformedChecksum": "369ae373fd441654a13b470aaa3f258472cdac0792da6dd32561f6eed120c5e8"
       },
-      "contentVersion": "a242907ac6fdd26d"
+      "contentVersion": "40511d2476bb4fe5"
     }
   ]
 }

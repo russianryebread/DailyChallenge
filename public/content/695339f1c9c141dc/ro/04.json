@@ -1,5 +1,5 @@
 {
-  "contentVersion": "7db574e9894913db",
+  "contentVersion": "695339f1c9c141dc",
   "locale": "ro",
   "month": "04",
   "readings": [
@@ -779,8 +779,12 @@
           "html": "<p>În ceea ce priveşte grija față de cei bolnavi şi săraci, creştinismul este aproape unic. Nu prea vezi aşa ceva în altă parte decât în rândul adevăraților creştini. Această atitudine este o cerință esențială a caracterului lor.</p>"
         },
         {
-          "type": "scripture",
-          "text": "„Religiunea curată şi neîntinată, înaintea lui Dumnezeu, Tatăl nostru, este să cercetăm pe orfani şi pe văduve în necazurile lor, şi să ne păzim neîntinaţi de lume.” (Cf. Iacov 1.27, n. red.) ––John Hunt"
+          "type": "prose",
+          "html": "<p><i>„Religiunea curată şi neîntinată, înaintea lui Dumnezeu, Tatăl nostru, este să cercetăm pe orfani şi pe văduve în necazurile lor, şi să ne păzim neîntinaţi de lume.” </i>(Cf. Iacov 1.27, n. red.) </p>"
+        },
+        {
+          "type": "attribution",
+          "text": "—John Hunt"
         },
         {
           "type": "prose",
@@ -1264,11 +1268,12 @@
         },
         {
           "type": "attribution",
-          "text": "––Alexander Maclaren „Căci n-am avut de gând să ştiu între voi altceva decât pe Isus"
+          "text": "—Alexander Maclaren"
         },
         {
-          "type": "prose",
-          "html": "<p><i>Cristos şi pe El răstignit.” </i>(1 Corinteni 2.2)</p>"
+          "type": "scripture",
+          "text": "„Căci n-am avut de gând să ştiu între voi altceva decât pe Isus Cristos şi pe El răstignit.”",
+          "reference": "1 Corinteni 2.2"
         }
       ]
     },

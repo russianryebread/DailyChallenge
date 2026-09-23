@@ -272,7 +272,7 @@ function isItalicLead(node) {
   const firstElement = (node.childNodes ?? []).find(
     (child) => child.nodeName !== '#text' || child.value.trim().length > 0,
   );
-  return ['i', 'em'].includes(getTagName(firstElement));
+  return ['i', 'em'].includes(getTagName(firstElement)) ? firstElement : null;
 }
 
 // Poem lines encode their book indentation as leading whitespace inside the
@@ -300,8 +300,10 @@ function isScriptureParagraph(node, text) {
   if (!/^\s*[“"„«]/.test(text)) {
     return false;
   }
-  if (isItalicLead(node)) {
-    return true;
+  const italicLead = isItalicLead(node);
+  if (italicLead) {
+    const remainder = text.slice(plainText(italicLead).length).trim();
+    if (!remainder || /^\([^()]+\)\.?$/u.test(remainder)) return true;
   }
   const { reference } = scriptureParts(text);
   return Boolean(reference && /\d/.test(reference));
@@ -387,6 +389,34 @@ function italicDashCredit(node) {
   return standaloneDashCredit(plainText(node));
 }
 
+// Some source paragraphs begin with a credit and immediately continue with
+// another credit or the next quotation. Peel off one credit at a time while
+// leaving the remaining markup intact for normal block classification.
+function extractLeadingAttribution(node) {
+  const raw = collectVisibleText(node).join('');
+  const match = /^((?:—|––)\s*)([\p{Lu}][\p{L}\p{M}.’'&\s]{1,70}?)(?=\s+[—–]{1,2}\s*\p{Lu}|[„“"])/u.exec(raw);
+  if (!match) return null;
+  const name = match[2].trim().replace(/\s+/g, ' ');
+  if (!name || name.split(/\s+/).length > 6) return null;
+  let remaining = match[0].length;
+  const trimPrefix = (current) => {
+    if (current.nodeName === '#text') {
+      const removed = Math.min(remaining, current.value.length);
+      current.value = current.value.slice(removed);
+      remaining -= removed;
+      return;
+    }
+    for (const child of current.childNodes ?? []) trimPrefix(child);
+    current.childNodes = (current.childNodes ?? []).filter((child) =>
+      child.nodeName === '#text'
+        ? child.value.length > 0
+        : !['i', 'em'].includes(getTagName(child)) || child.childNodes.length > 0,
+    );
+  };
+  trimPrefix(node);
+  return `—${stripTrailingPeriod(name)}`;
+}
+
 function toBlocks(fragment) {
   const blocks = [];
   let poemLines = [];
@@ -409,7 +439,7 @@ function toBlocks(fragment) {
   };
 
   for (const node of fragment.childNodes ?? []) {
-    const text = plainText(node);
+    let text = plainText(node);
     const tagName = getTagName(node);
     if (tagName === 'hr') {
       flushPoem();
@@ -429,10 +459,21 @@ function toBlocks(fragment) {
 
     flushPoem();
 
+    let hadLeadingCredit = false;
+    if (tagName === 'p') {
+      let credit;
+      while ((credit = extractLeadingAttribution(node))) {
+        blocks.push({ type: 'attribution', text: credit });
+        hadLeadingCredit = true;
+      }
+      if (hadLeadingCredit) text = plainText(node);
+      if (!text) continue;
+    }
+
     if (isScriptureParagraph(node, text)) {
       blocks.push({ type: 'scripture', ...scriptureParts(text), sourceText: text });
     } else if (
-      (tagName === 'p' &&
+      (!hadLeadingCredit && tagName === 'p' &&
         classNames.some((name) => ['author', 'c4', 'c8', 'c10'].includes(name))) ||
       /^(?:—|––|-(?!\s))/u.test(text) ||
       (tagName === 'p' && isStandaloneItalicCredit(node, text))
@@ -487,7 +528,28 @@ function toBlocks(fragment) {
   }
 
   flushPoem();
-  return blocks;
+  const joined = [];
+  for (let index = 0; index < blocks.length; index += 1) {
+    const block = blocks[index];
+    const next = blocks[index + 1];
+    if (
+      block.type === 'scripture' && !block.reference &&
+      next?.type === 'prose' &&
+      !/[”“]/u.test(block.sourceText) &&
+      /^\s*\p{L}/u.test(next.text) &&
+      /[”“]\s*\([^()]+\)\.?$/u.test(next.text)
+    ) {
+      const sourceText = `${block.sourceText} ${next.text}`;
+      const parts = scriptureParts(sourceText);
+      if (parts.reference) {
+        joined.push({ type: 'scripture', ...parts, sourceText });
+        index += 1;
+        continue;
+      }
+    }
+    joined.push(block);
+  }
+  return joined;
 }
 
 function readRows(databasePath, ids) {

@@ -65,11 +65,16 @@
 }
 
 html {
-  /* iOS can expose the root canvas above the page's safe area. Keep the
-     header color behind the status bar instead of showing a white strip. */
-  background:
-    linear-gradient(165deg, var(--gradient-1), var(--gradient-2) 55%, var(--gradient-3)) top / 100% 320px no-repeat,
-    var(--paper-1);
+  background: var(--paper-1);
+}
+
+@media (max-width: 759px) {
+  html {
+    /* iOS can expose the root canvas above the page's safe area. */
+    background:
+      linear-gradient(165deg, var(--gradient-1), var(--gradient-2) 55%, var(--gradient-3)) top / 100% 320px no-repeat,
+      var(--paper-1);
+  }
 }
 
 body {
