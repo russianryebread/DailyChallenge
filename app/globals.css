@@ -65,12 +65,16 @@
 }
 
 html {
-  background: var(--paper-1);
+  /* iOS can expose the root canvas above the page's safe area. Keep the
+     header color behind the status bar instead of showing a white strip. */
+  background:
+    linear-gradient(165deg, var(--gradient-1), var(--gradient-2) 55%, var(--gradient-3)) top / 100% 320px no-repeat,
+    var(--paper-1);
 }
 
 body {
   margin: 0;
-  background: var(--paper-1);
+  background: transparent;
   color: var(--ink-700);
   font-family: var(--font-ui);
   -webkit-font-smoothing: antialiased;
@@ -109,6 +113,13 @@ a:focus-visible {
   background:
     linear-gradient(to top, rgba(42, 35, 32, 0.28), rgba(42, 35, 32, 0.08) 58%, rgba(42, 35, 32, 0)),
     linear-gradient(165deg, var(--gradient-1) 0%, var(--gradient-2) 55%, var(--gradient-3) 100%);
+}
+
+@media (max-width: 759px) {
+  .reading-hero {
+    margin-top: calc(-1 * var(--safe-top));
+    padding-top: calc(var(--safe-top) + 8px);
+  }
 }
 
 .app-bar {
@@ -730,7 +741,7 @@ a:focus-visible {
   position: fixed;
   z-index: 5;
   right: 0;
-  bottom: 0;
+  bottom: -4px;
   left: 0;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
